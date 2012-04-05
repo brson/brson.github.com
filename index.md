@@ -11,7 +11,7 @@ title: Front
 <section>
     {% for post in site.posts limit:5 %}
 	    <article> 
-		    <h3>{{ post.title }} <small>{{ post.date | date_to_string }}</small></h3>
+		    <h1>{{ post.title }} <small>{{ post.date | date_to_string }}</small></h1>
             {{ post.content }}
         </article>
     {% endfor %}
