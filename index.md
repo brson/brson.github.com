@@ -10,9 +10,12 @@ title: Front
 
 <section>
     {% for post in site.posts limit:5 %}
-	    <article> 
-		    <h1>{{ post.title }} <small>{{ post.date | date_to_string }}</small></h1>
-            {{ post.content }}
-        </article>
+    <article>
+        <h1>
+            <a href="{{post.url}}">{{ post.title }}</a>
+            <small>{{ post.date | date_to_string }}</small>
+        </h1>
+        {{ post.content }}
+    </article>
     {% endfor %}
 </section>
