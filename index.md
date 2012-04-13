@@ -1,6 +1,6 @@
 ---
 layout: front
-title: Front
+title: Rust News
 ---
 {% include JB/setup %}
 
