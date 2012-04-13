@@ -18,11 +18,15 @@
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
     <style>
-      /* Don't use bootstrap's rounded nav border */
+      /* Don't use jekyll bootstrap's rounded nav border */
       .navbar-inner {
           -webkit-border-radius: 0;
           -moz-border-radius: 0;
           border-radius: 0;
+      }
+      /* Don't understand why this is necessary */
+      .navbar .container {
+          width: 940px
       }
     </style>
 
