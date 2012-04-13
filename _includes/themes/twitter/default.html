@@ -28,6 +28,9 @@
       .navbar .container {
           width: 940px
       }
+      .navbar ul#nav {
+          float: right
+      }
     </style>
 
     <!-- Le fav and touch icons -->
@@ -45,7 +48,7 @@
       <div class="navbar-inner">
         <div class="container">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-          <ul class="nav">
+          <ul class="nav" id="nav">
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
