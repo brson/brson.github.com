@@ -31,8 +31,8 @@ Rustdocs can be as simple as `Returns a slice` or they can be more involved:
 
     # Arguments
 
-    * byte_start - The byte offset where the slice of `str` starts.
-    * byte_len   - The number of bytes from `str` to use.
+    * `byte_start` - The byte offset where the slice of `str` starts.
+    * `byte_len`   - The number of bytes from `str` to use.
 
     # Safety note
 
