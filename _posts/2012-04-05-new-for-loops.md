@@ -44,9 +44,10 @@ To be used in a for loop the lambda block must have a `bool` return type
 which is used to indicate whether the loop should continue (true) or break
 (false).
 
-The following is a for loop that breaks early by returning `false`:
+The following is a typical higher-order `each` that breaks early by
+returning `false`:
 
-    for each(v) {|elt| if elt == 0 { true } else { false } }
+    each(v) {|elt| if elt == 0 { true } else { false } }
 
 The for loop syntax adds even more sugar to that though and will let you
 write `cont` and `break` which behave as though the lambda block returned
