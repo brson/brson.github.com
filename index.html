@@ -1,34 +1,11 @@
 ---
-layout: page-no-header
-title : Rust News
+layout: post
 ---
-{% include JB/setup %}
 
-<style>
-  .post-item > span:first-child {
-    float: left;
-    width: 7em;
-  }
-</style>
+{% for post in paginator.posts %}
 
-{% assign first_post = site.posts.first %}
+<h1>{{ post.title }}</h1>
 
-<div class="page-header">
-  <h1>{{ first_post.title }}</h1>
-</div>
+{{ post.content }}
 
-<div class="row">
-  <div class="span10">
-    <div>
-      {{ first_post.content }}
-    </div>
-    <span class="pull-right">
-      <a href="{{ BASE_PATH }}{{ first_post.url }}#disqus_thread">comments</a>
-    </span>
-  </div>
-  <div class="span2">
-    <h4>Published</h4>
-    <div class="date"><span>{{ first_post.date | date_to_long_string }}</span></div>
-  </div>
-</div>
-
+{% endfor %}

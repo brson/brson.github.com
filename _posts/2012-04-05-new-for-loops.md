@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "New for loops in Rust"
-category: rust
 tags: [rust]
 ---
-{% include JB/setup %}
 
 How to handle iteration in Rust has been a hotly debated topic for
 many months. We have several loop constructs but generally prefer to

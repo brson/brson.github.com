@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "How to rustdoc"
-category: rust
 tags: [rust]
 ---
-{% include JB/setup %}
 
 For 0.2 Rust gained a new API documentation tool, `rustdoc` for creating
 Rust API documentation (also called 'rustdocs'). It is in its infancy
