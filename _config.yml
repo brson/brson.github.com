@@ -6,7 +6,7 @@ exclude: [".rvmrc", ".rbenv-version"]
 auto: true
 pygments: true
 
-paginate: 1
+paginate: 1000
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.

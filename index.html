@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: index
 ---
 
+<ul>
 {% for post in paginator.posts %}
 
-<h1>{{ post.title }}</h1>
-
-{{ post.content }}
+<li><date>{{ post.date| date: "%Y-%m-%d" }}</date><a href="{{ post.url }}">{{ post.title }}</a></li>
 
 {% endfor %}
+</ul>
+
+<a id="rss" href="/atom.xml">RSS</a>

@@ -30,7 +30,7 @@ only worked for specific builtin types (vec and str), the new `for` will
 work on any higher-order function with the appropriate signature (in this
 case `vec::each` has the right signature).
 
-### How does it work?
+## How does it work?
 
 The `for` keyword is now followed by a call to a function where the last
 paramater is a lambda block, using the lambda block call sugar. As a

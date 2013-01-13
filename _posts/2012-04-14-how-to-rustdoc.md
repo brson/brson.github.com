@@ -11,7 +11,7 @@ on [rust-lang.org][1].
 
 [1]: http://rust-lang.org
 
-### What a rustdoc is
+## What a rustdoc is
 
 A rustdoc is just a snippet of markdown that is associated in some way
 with a unit of Rust code. There is very little structure imposed on the
@@ -41,7 +41,7 @@ Rustdocs can be as simple as `Returns a slice` or they can be more involved:
 
         let slice = of_substr(s, 0u, 1u);
 
-### Where the rustdocs live
+## Where the rustdocs live
 
 Rustdocs must be put inside `doc` attributes, which are name-value
 attributes called "doc" with a string value.
@@ -91,7 +91,7 @@ inside comments or [here docs][1].
 
 [1]: https://en.wikipedia.org/wiki/Here_document
 
-### The rules of rustdoc
+## The rules of rustdoc
 
 Though rustdoc imposes very few rules on what goes into a rustdoc, it does
 have two rules for processing documentation that are important to know.
@@ -132,7 +132,7 @@ the future.
     Probably should avoid this too
     ==============================
 
-### Recommended conventions for rustdocs
+## Recommended conventions for rustdocs
 
 Even though rustdocs are just markdown, we still need to agree on some
 conventions. Here is the official style used by the core and standard libraries.
@@ -155,7 +155,7 @@ The argument section should be written as a bulleted list with the following for
     * `s` - The input string
     * `n` - The starting index
 
-### Operating the rustdoc tool
+## Operating the rustdoc tool
 
 The simplest way to use rustdoc is by just passing it the crate file
 to document, `rustdoc core.rc`. This will output html documentation
@@ -180,7 +180,7 @@ documentation on a single page (by default each mod gets its own page).
         --pandoc-cmd <val>     the command for running pandoc
         -h                     print help
 
-### Other tidbits and limitations
+## Other tidbits and limitations
 
 Sometimes you don't want to advertise your public API. In that case you can
 use the `#[doc(hidden)]` attribute and rustdoc will pretend the thing
@@ -211,7 +211,7 @@ fences, like on github, do not work.
 
 [1]:http://johnmacfarlane.net/pandoc/
 
-### Future work
+## Future work
 
 There are still a lot of limitations and [bugs][1]. Some of the upcoming features:
 

@@ -1,0 +1,96 @@
+/* Fonts */
+
+@import url(http://fonts.googleapis.com/css?family=Merriweather);
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans+Mono);
+
+@font-face {
+    font-family: 'Anonymous Pro';
+    src: url('/fonts/Anonymous Pro.ttf');
+}
+
+body, h1, h2, h3 {
+    font-family: 'Merriweather', serif;
+}
+
+code {
+    font-family: 'Droid Sans Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'Monaco', monospace, sans-serif;
+}
+
+
+/* Colors */
+
+body, h1, h2, h3 {
+    background-color: white;
+    color: #505050;
+}
+
+code {
+    color: #FF4918;
+}
+
+a, a:visited, a:hover, a:focus {
+    color: #404AE1;
+    text-decoration: underline;
+}
+
+
+/* Layout */
+
+body {
+    padding-left: 3.4em;
+    padding-right: 3.4em;
+    padding-top: 5.8em;
+    padding-bottom: 5.8em;
+    max-width: 70em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 200%;
+}
+
+h2 {
+    margin-top: 2.2em;
+    font-size: 140%;
+}
+
+p {
+    margin-top: 1.7em;
+    margin-bottom: 1.7em;
+    line-height: 1.8em;
+}
+
+code {
+    margin-left: 0.4em;
+    margin-right: 0.4em;
+}
+
+pre {
+    margin: 1.7em;
+}
+
+pre code {
+    white-space: pre;
+    margin-left: 0em;
+    margin-right: 0em;
+}
+
+date {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+li date {
+    margin-left: 0em;
+}
+
+li {
+    list-style-type: circle;
+    margin-left: 2em;
+}
+
+#rss {
+    margin-left: 1em;
+}
