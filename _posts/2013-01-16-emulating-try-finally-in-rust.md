@@ -4,13 +4,15 @@ title: "Emulating try/finally in Rust"
 tags: [rust]
 ---
 
-Sometimes you need to run a little bit of code come hell or high water.
-In Rust's case `fail` is 'high water'.
-Or maybe `fail` is 'hell'.
-Sometimes you need to run a little bit of code come `fail`.
+Over the last week I started writing some new runtime code in Rust,
+with the ultimate goal of rewriting the scheduler in Rust (it is currently C++),
+and in the process I had to deal with a number of failure scenarios.
+The difficulty of doing so was giving me the blues.
 
-If you were a Gopher you might write `defer always_run_this_function()`,
-and if you were Javan then:
+TODO
+
+In Go you might write `defer always_run_this_function()`,
+or in Java `try` then `finally`:
 
      try {
          do_some_fallible_work();
@@ -18,7 +20,7 @@ and if you were Javan then:
          but_alway_run_this_function();
      }
 
-As a Rustafari you're going to write something like this:
+In Rust you're going to write something like this:
 
     struct Finally(());
 
@@ -41,11 +43,9 @@ This has been [bugging me for a while](https://github.com/mozilla/rust/issues/15
 I have occasionally tried to implement something like `defer` or `finally` in library code,
 but have been unable find a solution that both worked within the confines of Rust's type system looked reasonably appealing.
 
-Over the last week I started writing a bunch of new runtime code in Rust,
-with the ultimate goal of rewriting the entire scheduler in Rust (it is currently C++),
-and in the process I had to deal with a number of failure scenarios.
-The difficulty of doing so was giving me the blue,
-so I tried yet again to implement `try`/`finally`
+TODO
+
+I tried yet again to implement `try`/`finally`
 and found that Rust can at last express it in a way that I like:
 
     do || {
@@ -74,8 +74,8 @@ but it's clear what's going on if you break it down a little:
         but_always_run_this_function();
     }
 
-We're using `do` notation to call `finally`, a method on the closure type `&fn`.
-`Finally` calls the function `&self` (here `try_fn`), afterwards calling `always_run_this_function`.
+We're using `do` to call `finally`, a method on the closure type `&fn`.
+`finally` calls the function `&self` (here `try_fn`), afterwards calling `always_run_this_function`.
 
 I would also expect to be able to write `some_fallible_work.finally(but_always_run_this_function)`,
 but it does not type check when `some_fallible_work` is a function item (vs. a closure).
@@ -143,7 +143,7 @@ Since it's just being created to run the finalizer it never gets used directly.
 If we just gave it a name  `d` Rust would emit an unused variable warning,
 but prefixing the name with `_` turns that warning off.
 
-One might be further tempted to shorten it even further,
+One might be tempted to shorten it even further,
 replacing the variable with `_`:
 
     let _ = FinalizerStruct {
