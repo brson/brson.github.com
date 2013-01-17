@@ -6,10 +6,8 @@ tags: [rust]
 
 Over the last week I started writing some new runtime code in Rust,
 with the ultimate goal of rewriting the scheduler in Rust (it is currently C++),
-and in the process I had to deal with a number of failure scenarios.
-The difficulty of doing so was giving me the blues.
-
-TODO
+and in the process I had to deal a common failure scenario
+that can be awkward to deal with in Rust.
 
 In Go you might write `defer always_run_this_function()`,
 or in Java `try` then `finally`:
@@ -74,13 +72,14 @@ but it's clear what's going on if you break it down a little:
         but_always_run_this_function();
     }
 
-We're using `do` to call `finally`, a method on the closure type `&fn`.
-`finally` calls the function `&self` (here `try_fn`), afterwards calling `always_run_this_function`.
+We're using `do` expression to call `finally`, a method on the closure type `&fn`.
 
-I would also expect to be able to write `some_fallible_work.finally(but_always_run_this_function)`,
-but it does not type check when `some_fallible_work` is a function item (vs. a closure).
-Rust considers `some_fallible_work` an `extern fn` - which is misleading if not wrong -
-and won't coerce it to `&fn`.
+    let try_fn: &fn = || {
+        some_fallible_work();
+    };
+    do try_fn.finally {
+        but_always_run_this_function();
+    }
 
 The implementation is simple (note this only works on the incoming branch).
 
@@ -122,7 +121,7 @@ The implementation is simple (note this only works on the incoming branch).
     impl FinalizerStruct: Drop {
         fn finalize(&self) {
 	    // Method calls and field access are distinguished
-	    // the presence or absence of `()`. So here
+	    // by the presence or absence of `()`. So here
 	    // `self.dtor` is parenthesized to show the parser
 	    // that we are calling a closure in a field,
 	    // not calling a method.
@@ -132,7 +131,7 @@ The implementation is simple (note this only works on the incoming branch).
 
 Both of the closures involved are stack closures and the struct is
 created on the stack. With inlining hints this little abstraction
-could concievably optimized to little more than a function call.
+could conceivably optimized to little more than a function call.
 
 I put several comments about nuances in there,
 but one thing I want to point out specifically is the name of variable `_d`.
