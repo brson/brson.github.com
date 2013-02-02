@@ -44,11 +44,20 @@ body {
 h1 {
     display: inline-block;
     font-size: 200%;
+    font-weight: bold;
 }
 
 h2 {
     margin-top: 2.2em;
     font-size: 140%;
+    font-weight: bold;
+}
+
+
+h3 {
+    margin-top: 2.2em;
+    font-size: 100%;
+    font-weight: bold;
 }
 
 p {
