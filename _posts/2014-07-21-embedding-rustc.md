@@ -6,12 +6,12 @@ tags: [rust]
 
 I recently created a [project][chamber] that uses the Rust compiler as a library.
 Although rustc has long been built as a library,
-little effort has been put into making the API nice.
+little effort has historically been put into making the API nice.
 Although I've done this a few times,
-I was pleasantly surprised that it's really not
+I was pleasantly surprised that now it's really not
 hard to embed rustc if you know which functions to wire together.
 
-For simple use cases most of the API you need comes from
+For simple cases most of the API you need comes from
 the [rustc::driver] module, though any code that touches the compiler
 will inevitably also need to refer to the AST, in [syntax::ast].
 
@@ -85,8 +85,8 @@ Here is Chamber's `build_session_options`:
         use rustc::driver::config::basic_options;
         use std::cell::RefCell;
 
-        // Convert from Vec<T> to HashSet<T> like magic.
         let search_paths = config.search_paths.clone();
+        // Convert from Vec<T> to HashSet<T> like magic.
         let search_paths = search_paths.move_iter().collect();
 
         Options {
