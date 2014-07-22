@@ -75,7 +75,7 @@ The most important step there is creating the `Options` value
 that configures the compiler. `Options` is quite a robust
 data type, but rustc provides a prototype via the `basic_options`
 function, which can be used as defaults via FRU
-(functional record update):
+(functional record update).
 
 Here is Chamber's `build_session_options`:
 
