@@ -9,7 +9,8 @@ Although rustc has long been built as a library,
 little effort has historically been put into making the API nice.
 Although I've done this a few times,
 I was pleasantly surprised that now it's really not
-hard to embed rustc if you know which functions to wire together.
+hard to embed rustc if you know which functions to wire together
+(thanks to those that have cleaned it up).
 
 For simple cases most of the API you need comes from
 the [rustc::driver] module, though any code that touches the compiler
