@@ -5,7 +5,7 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version"]
 auto: true
 pygments: true
-
+markdown: kramdown
 paginate: 1000
 
 # Themes are encouraged to use these universal variables 
