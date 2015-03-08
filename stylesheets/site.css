@@ -28,10 +28,6 @@ p {
     line-height: 2em;
 }
 
-code {
-    color: #F85931;
-}
-
 div .highlight {
     border: 1px solid #BBBBBB;
     background-color: white;
@@ -39,47 +35,37 @@ div .highlight {
 
 /* Keywords */
 code .k, code .kd {
-    color: #CE1836;
+    color: #CC333F;
+}
+
+code {
+    color: #EB6841;
 }
 
 /* Names */
 code .n {
-    color: #F85931;
+    color: #EB6841;
 }
 
-/* String */
-code .s {
-    color: #505050;
-}
-
-/* Punctuation and operations */
-code .p, code .o {
-    color: #505050;
-}
-
-div .highlight code {
-    color: #505050;
-}
-
-/* Comments */
-code .c1 {
+/* Punctuation, ops, strings, comments */
+div .highlight code, code .p, code .o, code .s, code .c1 {
     color: #505050;
 }
 
 a, a:visited, a:hover, a:focus {
-    color: #0087B8;
+    color: #00A0B0;
     text-decoration: none;
 }
 
 /* [**Foo**](link) */
 a strong, a:visited strong, a:hover strong, a:focus strong {
-    color: #0087B8;
+    color: #00A0B0;
     text-decoration: none;
 }
 
 /* [`Foo`](link) */
 a code, a:visited code, a:hover code, a:focus code {
-    color: #0087B8;
+    color: #00A0B0;
     text-decoration: none;
 }
 
