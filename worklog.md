@@ -2,6 +2,11 @@
 layout: basic
 ---
 
+# 2015-03-08
+
+* Mork work on brson.github.io
+* Reviewing Packt book ch 5
+
 # 2015-03-07
 
 * **Writing about locks**
