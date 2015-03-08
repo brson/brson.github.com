@@ -19,6 +19,10 @@ body, h1, h2, h3 {
     color: #505050;
 }
 
+h1 span {
+    color: #BBBBBB;
+}
+
 p {
     font-size: 120%;
     line-height: 2em;
@@ -41,6 +45,11 @@ code .k, code .kd {
 /* Names */
 code .n {
     color: #F85931;
+}
+
+/* String */
+code .s {
+    color: #505050;
 }
 
 /* Punctuation and operations */
@@ -68,6 +77,12 @@ a strong, a:visited strong, a:hover strong, a:focus strong {
     text-decoration: none;
 }
 
+/* [`Foo`](link) */
+a code, a:visited code, a:hover code, a:focus code {
+    color: #0087B8;
+    text-decoration: none;
+}
+
 /* Layout */
 
 body {
@@ -81,9 +96,13 @@ body {
 }
 
 h1 {
-    display: inline-block;
     font-size: 200%;
     font-weight: bold;
+}
+
+h1 span {
+    font-weight: normal;
+    margin-left: 1em;
 }
 
 h2 {
