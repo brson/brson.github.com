@@ -120,20 +120,7 @@ pre code {
     margin-right: 0em;
 }
 
-date {
-    margin-left: 1em;
-    margin-right: 1em;
-}
-
-li date {
-    margin-left: 0em;
-}
-
 li {
     list-style-type: circle;
     margin-left: 2em;
-}
-
-#rss {
-    margin-left: 1em;
 }
