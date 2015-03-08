@@ -1,10 +1,10 @@
 /* Fonts */
 
-@import url(http://fonts.googleapis.com/css?family=Merriweather);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
 @import url(http://fonts.googleapis.com/css?family=Droid+Sans+Mono);
 
 body, h1, h2, h3 {
-    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 code {
@@ -19,15 +19,54 @@ body, h1, h2, h3 {
     color: #505050;
 }
 
+p {
+    font-size: 120%;
+    line-height: 2em;
+}
+
 code {
-    color: #FF4918;
+    color: #F85931;
+}
+
+div .highlight {
+    border: 1px solid #BBBBBB;
+    background-color: white;
+}
+
+/* Keywords */
+code .k, code .kd {
+    color: #CE1836;
+}
+
+/* Names */
+code .n {
+    color: #F85931;
+}
+
+/* Punctuation and operations */
+code .p, code .o {
+    color: #505050;
+}
+
+div .highlight code {
+    color: #505050;
+}
+
+/* Comments */
+code .c1 {
+    color: #505050;
 }
 
 a, a:visited, a:hover, a:focus {
     color: #0087B8;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
+/* [**Foo**](link) */
+a strong, a:visited strong, a:hover strong, a:focus strong {
+    color: #0087B8;
+    text-decoration: none;
+}
 
 /* Layout */
 
