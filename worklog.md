@@ -2,6 +2,8 @@
 layout: basic
 ---
 
+# 2015-03-13
+
 # 2015-03-12
 
 * Rescheduled core team meeting
@@ -18,6 +20,11 @@ layout: basic
 * [Reviewed FreeBSD build fix](https://github.com/rust-lang/rust/pull/23324)
 * [Reviewed jemalloc annotations](https://github.com/rust-lang/rust/pull/23322)
 * [Reviewed rustup instructions patch](https://github.com/rust-lang/rust/pull/23315)
+* [Reviewed rust-installer fix for /bin/echo not existing](https://github.com/rust-lang/rust-installer/pull/26)
+* [Triage](https://github.com/rust-lang/rust/issues/23286)
+* [Reviewed rustdoc ICE fix](https://github.com/rust-lang/rust/pull/23328)
+* [Re-reviewed allocator attribute](https://github.com/rust-lang/rust/pull/23322)
+* [Reviewed doc cleanup](https://github.com/rust-lang/rust/pull/23329)
 
 # 2015-03-11
 
