@@ -558,3 +558,144 @@ layout: basic
 * [Filed issue re multirust show-toolchain](https://github.com/brson/multirust/issues/28)
 * [Opend PR for stable_features lint](https://github.com/rust-lang/rust/pull/21958)
 * [Building miniservo-gtk](https://github.com/glennw/miniservo-gtk)
+
+# 2015-02-03
+
+* Posted thread about community build slaves http://internals.rust-lang.org/t/community-supported-build-slaves-for-2nd-tier-platforms/1528
+* Worked with Manish to identify bugs in stability attributes
+* Triaged https://github.com/rust-lang/rust/issues/21905
+* Reviewed https://github.com/rust-lang/rust-buildbot/pull/6
+* Wrote readme for rust-buildbot
+* Added a bitrig builder to buildbot
+* Fixed windows lock problem by setting max builds to 1 on dist builders
+* Followed up on cargo DMCA takedown https://bugzilla.mozilla.org/show_bug.cgi?id=1118571
+* Sent huseby connection info for the bitrig1 slave
+* Reviewed https://github.com/rust-lang/rust-by-example/pull/443
+* Closed https://github.com/brson/multirust/issues/16
+
+# 2015-02-02
+
+* TWiR
+* Gave Lonnen Alex and my email to add to heroku
+
+# 2015-02-01
+
+* Wrote patch for https://github.com/brson/multirust/issues/10
+* Filed UI suggestion for crates.io
+* Filed out-of-tree stability bug https://github.com/rust-lang/rust/issues/21858
+
+# 2015-01-31
+
+* Writing emails and drama cleanup
+
+# 2015-01-30
+
+* Deleted broken aws vpc config at direction of Dave Curado
+* Replied to huon about meetup expenses
+* Posted more multiline highlighting options https://github.com/rust-lang/rust/pull/21639
+* Reviewed https://github.com/rust-lang/rust/pull/21509
+* Posted patch to make unused_features warn by default https://github.com/rust-lang/rust/pull/21800
+
+# 2015-01-29
+
+* Made snaps https://github.com/rust-lang/rust/pull/21760
+* Added a link to users.rust-lang.org to website
+* Added links to users.rust-lang.org https://github.com/rust-lang/rust/pull/21762
+* Reviewed https://github.com/rust-lang/rust-by-example/pull/438
+* Posted req for help about discourse email topics https://meta.discourse.org/t/creating-topics-by-email-to-users-rust-lang-org-or-internals-rust-lang-org-fails-with-email-issue-unknown-to-address/24595
+* Sent another email to jhford about global ci
+* Reviewed https://github.com/rust-lang/cargo/pull/1243
+* Reviewed https://github.com/rust-lang/cargo/pull/1250
+* Redirected discuss.rust-lang.org to internals.rust-lang.org
+
+# 2015-01-28
+
+* Posted feature staging info http://discuss.rust-lang.org/t/psa-important-info-about-rustcs-new-feature-staging/82
+* Reviewed https://github.com/cmr/this-week-in-rust/pull/31
+* Hooked applicative event coordinator up with Niko, jdm, steve, jack
+* Responded to http://discuss.rust-lang.org/t/psa-important-info-about-rustcs-new-feature-staging/82
+* Reviewed https://github.com/rust-lang/rust/pull/21739
+
+# 2015-01-27
+
+* Rebased https://github.com/rust-lang/rust/pull/21248
+* Updated clang toolchain on mac3 and put it back into rotation
+* Posted meeting minutes
+* Responded to strcat rants https://github.com/rust-lang/rfcs/pull/741
+* Finished yesterday's twir
+* Finished moving discuss.rust-lang.org to internals.rust-lang.org
+* Filed PR to fix docs for internals.rust-lang.org https://github.com/rust-lang/rust/pull/21708
+
+# 2015-01-26
+
+* Reviewed https://github.com/rust-lang/rust/pull/21666
+* Reviewed https://github.com/rust-lang/rust/pull/21643
+* Filed bug to update rustdoc for feature staging https://github.com/rust-lang/rust/issues/21674
+* Triaged https://github.com/rust-lang/rust/issues/19278
+
+# 2015-01-25
+
+* More rebasing feature staging
+* Posted error squiggly patch https://github.com/rust-lang/rust/pull/21639
+
+# 2015-01-24
+
+* Closed https://github.com/rust-lang/rust/issues/9875
+* Responded to HN thread https://news.ycombinator.com/item?id=8940590
+* Reviewed https://github.com/rust-lang/rust/pull/21598
+
+# 2015-01-23
+
+* Reviewing and fixing multirust patch
+* More slogging through feature staging
+* Responded to service now question about the auto-responder message for rust-dev
+* Set up DNS for internals.rust-lang.org
+* Fixed a bug in beta naming https://github.com/rust-lang/rust/pull/21579
+
+# 2015-01-22
+
+* Updated calender with some events
+* Filed emacs comment wrapping bug https://github.com/rust-lang/rust/issues/21524
+* Merged https://github.com/rust-lang/rfcs/pull/587
+* Send ml shutdown announcement
+* Sent Jeff Atwood email asking for new discourse instance
+* Reviewed https://github.com/rust-lang/rust/pull/21458
+* Reviewed https://github.com/rust-lang/rfcs/pull/575
+* Reviewed https://github.com/brson/multirust/pull/21
+* Reviewed https://github.com/rust-lang/rust/pull/21540
+* Reviewed https://github.com/rust-lang/rust/pull/21556
+
+# 2015-01-21
+
+* Found a bug in crates registry https://github.com/rust-lang/crates.io-index/issues/1
+* Asked IT to send automated message to people sending messages to rust-dev
+* Filed issue to remove #[prelude_import] https://github.com/rust-lang/rust/issues/21490
+* Reviewed https://github.com/rust-lang/cargo/pull/1205
+* Reviewed https://github.com/rust-lang/rust/pull/21481
+* Reviewed https://github.com/rust-lang/rust/pull/21489
+* Continuing feature gating work
+* Continuing exploration of cargo crates
+* Reviewed https://github.com/rust-lang/rust/pull/21485
+
+# 2015-01-20
+
+* Responded to cargo versioning issue https://github.com/rust-lang/cargo/issues/1178#issuecomment-70622290
+* Requested mailing list be shutdown
+* Responded to kill the ml again http://discuss.rust-lang.org/t/is-it-time-to-kill-the-mailing-list/611/44
+* Filed bug about windows locking
+* Triaged intern resumes
+* Added Rust NY to calendar
+* Reviewed https://github.com/rust-lang/rust/pull/20919
+* Reviewed https://github.com/rust-lang/rust/pull/21065
+* Reviewed https://github.com/rust-lang/rust/pull/21138
+* Reviewed https://github.com/rust-lang/rust/pull/21274
+* Reviewed https://github.com/rust-lang/rust/pull/21413
+* Reviewed https://github.com/rust-lang/rust/pull/21429
+* Responded to custom LLVM thread http://discuss.rust-lang.org/t/targeted-llvm-for-1-0/1371
+* Reviewed https://github.com/rust-lang/rust/pull/21444
+* Reviewed https://github.com/brson/multirust/pull/11
+
+# 2015-01-19
+
+* Working on extended errors
+* twir
