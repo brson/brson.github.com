@@ -2,9 +2,86 @@
 layout: basic
 ---
 
+# 2015-03-12
+
+* Rescheduled core team meeting
+* **Fixing rustdoc so doc tests can contain crate attributes**
+* **Writing report generation code for taskcluster-crater**
+* [Closed PR to remove --help -v](https://github.com/rust-lang/rust/pull/22495)
+* [Filed issue about extern crate in fns](https://github.com/rust-lang/rust/issues/23314)
+* [Replied to q about runtime deps](https://www.reddit.com/r/rust/comments/2ytxr1/rust_and_runtime_dependencies/cpcwmjo)
+* [Reviewed .msi gui updates](https://github.com/rust-lang/rust-packaging/pull/21)
+* [Replied to a question about Arc<Mutex>](http://users.rust-lang.org/t/concurrency-and-mutex-lock-with-thread-spawns/618/3)
+* [Reviewed to multirust to fix gdb](https://github.com/brson/multirust/pull/37)
+* [Replied to thread about bad syntax highlighting on forums](http://users.rust-lang.org/t/syntax-highlighting/620/2)
+* [Fixed beta naming again](https://github.com/rust-lang/rust/pull/23325)
+* [Reviewed FreeBSD build fix](https://github.com/rust-lang/rust/pull/23324)
+* [Reviewed jemalloc annotations](https://github.com/rust-lang/rust/pull/23322)
+* [Reviewed rustup instructions patch](https://github.com/rust-lang/rust/pull/23315)
+
+# 2015-03-11
+
+* Sent bstrie the picture of him with the Rust logo in SF.
+* [Merged TWiR fix](https://github.com/cmr/this-week-in-rust/pull/45)
+* [Merged TWiR fix](https://github.com/cmr/this-week-in-rust/pull/43)
+* [Submitted PR to fix -C rpath regression](https://github.com/rust-lang/rust/pull/23283)
+* [Submitted issue about Path::relative_from](https://github.com/rust-lang/rust/issues/23284)
+* Had lunch with security candidate (Julia) and Daniel Veditz
+* Investigating 16 hours of buildbot not running.
+* [Submittid a logging improvement to homu](https://github.com/barosl/homu/pull/67)
+* Shipped stickers to denmark
+* [Updated servo PR](https://github.com/servo/servo/pull/5026)
+* [Reviewed closure syntax RFC](https://github.com/rust-lang/rfcs/pull/968)
+* [Reviewed discriminant_value intrinsic RFC](https://github.com/rust-lang/rfcs/pull/639)
+* [Reviewed generic conversian RFC](https://github.com/rust-lang/rfcs/pull/529)
+* [Reviewed iter::once RFC](https://github.com/rust-lang/rfcs/pull/771)
+* [Reviewed empty structs RFC](https://github.com/rust-lang/rfcs/pull/218)
+* [Reviewed must_use RFC](https://github.com/rust-lang/rfcs/pull/886)
+* [Reviewed octal lexing RFC](https://github.com/rust-lang/rfcs/pull/879)
+* [Reviewed stdio RFC](https://github.com/rust-lang/rfcs/pull/899)
+* **Continuing work on making undeclared features errors**
+* **Continuing work on scheduling and reporting for taskcluster-crater**
+* [Reviewed 64-bit msi support](https://github.com/rust-lang/rust-packaging/pull/17)
+* [Reviewed --no-combined patch for rust-packaging](https://github.com/rust-lang/rust-packaging/pull/18)
+* [Commented on fence RFC](https://github.com/rust-lang/rfcs/pull/888)
+* [Commented on RFC about multiple 'if let'](https://github.com/rust-lang/rfcs/pull/937#issuecomment-78404051)
+* [Commentod on RFC about numerics in types](https://github.com/rust-lang/rfcs/pull/884#issuecomment-78404331)
+* [Reviewed doc fix](https://github.com/rust-lang/rust/pull/23295)
+
+# 2015-03-10
+
+* Took PTO today.
+* Replied to an event organizer about stickers and setting up the calendar
+* [Responded to cargo make install issue](https://github.com/rust-lang/cargo/issues/1399#issuecomment-78112007)
+* Respnoded to nrc about ECOOP participation
+* [Gave dhuseby password to buildbot](https://github.com/rust-lang/rust-buildbot/pull/10#issuecomment-78115602)
+* [Encouraged adding --depth=1 to submodule checkout](https://github.com/rust-lang/rust/issues/23258#issuecomment-78117493)
+* [**Working on rpath regression**](https://github.com/rust-lang/rust/issues/23140)
+* [Reviewed minor stability patch](https://github.com/rust-lang/rust/pull/23263)
+* **Working on TWiR**
+* [Crossposted piston-on-emscripten story](https://www.reddit.com/r/rust/comments/2ylzkx/a_game_written_with_piston_running_on_the_web_via/)
+* [Reviewed rustdoc optimization](https://github.com/rust-lang/rust/pull/22769)
+* [Posted TWiR](https://www.reddit.com/r/rust/comments/2ymb4t/this_week_in_rust_73/)
+* [Reviewed loop-statement RFC](https://github.com/rust-lang/rfcs/pull/955#issuecomment-78177092)
+* [Reviewed at_exit restoration](https://github.com/rust-lang/rust/pull/23267)
+
 # 2015-03-09
 
 * **Working on patch for undeclared features**
+* Wrote status update
+* [**Investigating rpath regression**](https://github.com/rust-lang/rust/issues/23140)
+* **Adding scheduling logic to taskcluster-crater**
+* [Reviewed cargo profiling tweaks](https://github.com/rust-lang/cargo/pull/1395)
+* [Commented about removing unnecessary bounds from types](https://github.com/rust-lang/rust/pull/23176#issuecomment-77963160)
+* [Reviewed log refactoring PR](https://github.com/rust-lang/log/pull/27)
+* [Reviewed mpsc Error impl](https://github.com/rust-lang/rust/pull/23125)
+* [Reviewed wrapping patch for isaac](https://github.com/rust-lang/rust/pull/23105)
+* [PR triage](https://github.com/rust-lang/rust/pull/23028#issuecomment-77965359)
+* [Reviewed rust-installer PR](https://github.com/rust-lang/rust-installer/pull/25#issuecomment-77967127)
+* [Reviewed bloat optimizations](https://github.com/rust-lang/rust/pull/22948#issuecomment-77968425)
+* [Reviewed man page cleanup](https://github.com/rust-lang/rust/pull/22832)
+* [Promised to review a --libdir PR](https://github.com/rust-lang/rust/pull/22831#issuecomment-77968736)
+* [Reviewed OpenBSD fixes for rust-installer](https://github.com/rust-lang/rust-installer/pull/23)
 
 # 2015-03-08
 
