@@ -4,6 +4,17 @@ layout: basic
 
 # 2015-03-13
 
+* [Praised 'a swift guide to rust'](https://www.reddit.com/r/rust/comments/2yvqa1/a_swift_guide_to_rust/cpdv7h7)
+* [Responded to q about linux runtime deps](https://www.reddit.com/r/rust/comments/2ytxr1/rust_and_runtime_dependencies/cpdve3p)
+* **Working on feature staging**
+* Added korean meetup to calendar
+* [Replied to core-team style guide thread](http://internals.rust-lang.org/t/style-guide/1721)
+* Solicited news for twir
+* [Replied to renaming SocketAddress](https://github.com/rust-lang/rfcs/pull/923#issuecomment-79244464)
+* [Rerequested a copy of the rust-dev archive](https://bugzilla.mozilla.org/show_bug.cgi?id=1124794)
+* [Merged twir fix](https://github.com/cmr/this-week-in-rust/pull/46)
+* [Merged twir fix](https://github.com/cmr/this-week-in-rust/pull/47)
+
 # 2015-03-12
 
 * Rescheduled core team meeting
