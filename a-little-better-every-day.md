@@ -2,6 +2,10 @@
 layout: basic
 ---
 
+# 2015-03-14
+
+* $53 expenses
+
 # 2015-03-13
 
 Best workout today. Record OHP and DL. Gruelling. Ate protein food

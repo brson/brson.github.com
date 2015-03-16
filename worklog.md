@@ -2,6 +2,27 @@
 layout: basic
 ---
 
+# 2015-03-16
+
+* [Replied to users.rlo categeries thread](http://users.rust-lang.org/t/category-suggestions/659/7?u=brson)
+* [Nominated borrowck regression](https://github.com/rust-lang/rust/issues/23338)
+* Helped osa1 find debugger test command interepreter in compiletest
+* **Working on today's twir**
+* **Continuing to work on feature staging patch**
+
+# 2015-03-15
+
+* More work on crater reports
+* More work on feature staging
+
+# 2015-03-14
+
+* Rebasing feature gating patch
+* [Worked on brson.github.io a bit](http://brson.github.io)
+* [Filed issue about multirust/rusti incompatibility](https://github.com/brson/multirust/issues/38)
+* **Working on crater reporting**
+* [Complimented a rust game](https://www.reddit.com/r/rust_gamedev/comments/2z01t0/phage_a_completed_7day_roguelike_in_rust/)
+
 # 2015-03-13
 
 * [Praised 'a swift guide to rust'](https://www.reddit.com/r/rust/comments/2yvqa1/a_swift_guide_to_rust/cpdv7h7)
