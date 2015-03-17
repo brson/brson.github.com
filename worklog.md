@@ -2,6 +2,11 @@
 layout: basic
 ---
 
+# 2015-03-17
+
+* **Yet more work on staging - getting doctests to pass**
+* **Yet more work on crater reporting**
+
 # 2015-03-16
 
 * [Replied to users.rlo categeries thread](http://users.rust-lang.org/t/category-suggestions/659/7?u=brson)
@@ -9,6 +14,14 @@ layout: basic
 * Helped osa1 find debugger test command interepreter in compiletest
 * **Working on today's twir**
 * **Continuing to work on feature staging patch**
+* Submitted status report
+* [Filed tracking issue for closure return type tweak](https://github.com/rust-lang/rust/issues/23420)
+* [Merged closure return type RFC](https://github.com/rust-lang/rfcs/pull/968)
+* [Posted TWiR](https://www.reddit.com/r/rust/comments/2z9u9v/this_week_in_rust_74/)
+* [Posted rust-dev archives](http://users.rust-lang.org/t/rust-dev-archives/662)
+* Responded to ecoop thread
+* Started thread about Rust 1.0 release party
+* Followed up with mw about employment stuff
 
 # 2015-03-15
 
