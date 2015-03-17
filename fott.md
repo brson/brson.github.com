@@ -1,3 +1,7 @@
+---
+layout: basic
+---
+
 At the [weekly meeting](https://github.com/rust-lang/meeting-minutes)
 The Rust Team likes to occassionally recognize people who have made
 outstanding contributions to The Rust Project, its ecosystem, and its
