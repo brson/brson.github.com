@@ -8,6 +8,25 @@ outstanding contributions to The Rust Project, its ecosystem, and its
 community. These people are 'friends of the tree', archived here
 for eternal glory.
 
+## 2015-03-24 Andrew Gallant (BurntSushi)
+
+[BurntSushi] is an individual who practically needs no
+introduction. He's written many of the world's most popular crates,
+including [docopt.rs], [regex], [quickcheck], [cbor], and [byteorder].
+Don't forget his CSV swiss-army-knife, [xsv], built on [rust-csv].
+Feedback from his early work on libraries helped informed the
+evolution of Rust during a critical time in its development, and
+BurntSushi continues to churn out the kind of Rust gems that can only
+come from someone who is a skilled friendofthetree.
+
+[BurntSushi]: https://github.com/burntsushi
+[docopt.rs]: https://github.com/docopt/docopt.rs
+[regex]: https://github.com/rust-lang/regex
+[quickcheck]: https://github.com/BurntSushi/quickcheck
+[cbor]: https://github.com/BurntSushi/rust-cbor
+[xsv]: https://github.com/BurntSushi/xsv
+[rust-csv]: https://github.com/BurntSushi/rust-csv
+
 ## 2015-03-03 Manish Goregaokar (Manishearth)
 
 Manish started working on Servo as part of the GSoC program in 2014, where he implemented XMLHttpRequest. Since then he's become in integral part of the Servo team while finishing his university studies and organizing Rust community events. In 2015 he took an interest in bors' queue and started making rollup PRs to accelerate the integration process. Nursing the PR queue is the kind of time-consuming labor that creates friends of the tree like Manish, the rollup friend of the tree.

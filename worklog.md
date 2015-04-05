@@ -2,10 +2,159 @@
 layout: basic
 ---
 
+# 2015-04-04
+
+* [Responded to GC q](https://www.reddit.com/r/rust/comments/31fnsy/rust_and_gc/)
+* [Commented about multithreaded println](https://github.com/rust-lang/rust/pull/24029#issuecomment-89624649)
+* [Reviewed a diagnostics patch](https://github.com/rust-lang/rust/pull/24072)
+
+# 2015-04-03
+
+* Still sick
+* Ran more crate tests against beta
+* Responded to emails
+* [Responded to multirust feature request for per-branch overrides](https://github.com/brson/multirust/issues/41)
+* [Responded to multirust bug report](https://github.com/brson/multirust/issues/40)
+* [Responded to issue about detecting stable compilers](https://www.reddit.com/r/rust/comments/31ca6u/what_to_do_with_a_crate_that_still_uses_unstable/cq0aosg)
+* [Responded to issue about smaller installs](https://www.reddit.com/r/rust/comments/31cmn8/rustupsh_minimal/)
+* Working on rust cakes
+* [Responded to issue about distro bootstrapping](https://www.reddit.com/r/programming/comments/31btd8/rust_100_beta_is_here/cq0i6dg)
+* [Triaged a minor doc bug](https://github.com/rust-lang/rust/pull/24048)
+* Talked to manish about CI improvements
+
+# 2015-04-02
+
+* Still sick
+* Responded to Gerv about Rust security properties
+* Submitted requests for 5/15 release party reservations
+* [Upgraded rust-installer for rust](https://github.com/rust-lang/rust/pull/23978)
+* [Upgraded rust-installer for rust-packaging](https://github.com/rust-lang/rust-packaging/pull/26)
+* Upgraded rust-installer for multirust
+* [Upgraded rust-installer for cargo](https://github.com/rust-lang/cargo/pull/1476)
+* Sent some thoughts about the release party
+* [Put together list of crates that work on stable](https://www.reddit.com/r/rust/comments/319y87/some_crates_that_work_with_100beta/)
+
+# 2015-03-29
+
+* Sick again today
+* [Merged rust-packaging fixes](https://github.com/rust-lang/rust-packaging/pull/25)
+* Reviewed ch 7 of packt book
+* [Reviewed rust-installer fix for OS X](https://github.com/rust-lang/rust-installer/pull/28)
+* [Reviewed rust-installer option parsing fix](https://github.com/rust-lang/rust-installer/pull/29)
+* Pushed another test build to beta
+* [Reviewed minor Cargo fix](https://github.com/rust-lang/cargo/pull/1455#event-269006350)
+* [Reviewed guidelines fix](https://github.com/rust-lang/rust-guidelines/pull/47#issuecomment-87860263)
+
+# 2015-03-28
+
+* [Supported Manish's effort to focus on polish](http://internals.rust-lang.org/t/proposal-spend-most-of-the-beta-period-not-writing-new-features/1770)
+* **Finished support for custom builds in crater**
+* Sent niko a regression report for his coherence fix
+
+# 2015-03-27
+
+* **Rust builds on taskcluster almost working**
+* Reviewing automation needs for interviews
+* [Posted PR to feature gate slice patterns](https://github.com/rust-lang/rust/pull/23794)
+* Sent email to mw upon contract end
+* [Reviewed minor build system fix](https://github.com/rust-lang/rust/pull/23678)
+* [Posted build results for crates against beta](http://users.rust-lang.org/t/heres-the-top-200-crates-built-against-the-beta-channel/757)
+* [Triaged doc PR](https://github.com/rust-lang/rust/pull/23795)
+* [Responded to niko's coherence thread](http://internals.rust-lang.org/t/rebalancing-coherence-potential-late-breaking-change/1763/4)
+* [Reviewed removal of extern crate string syntax](https://github.com/rust-lang/rust/pull/23786)
+* **Continuing work on rustup**
+* [Posted a comparison report between beta and nightly](https://gist.github.com/brson/19996f5d0c35ba059042)
+* [Solicited TWiR quotes](http://users.rust-lang.org/t/twir-quote-of-the-week/328/32)
+* [Reviewed curl fix](https://github.com/rust-lang/rust/pull/23332)
+* [Reviewed read_into_string/read_into_vec](https://github.com/rust-lang/rust/pull/23335)
+* [Reviewed doc fix](https://github.com/rust-lang/rust/pull/23746)
+* [Praised mw's work](https://www.reddit.com/r/rust/comments/30icbp/use_rustgdb_and_rustlldb_for_improved_debugging/)
+
+# 2015-03-26
+
+* **Debugging taskcluster because it keeps failing to build rust**
+* **Started upgrading rustup.sh**
+* [Reviewed doc update](https://github.com/rust-lang/rust/pull/23746)
+* [Filed issue about beta/stable integration](https://github.com/rust-lang/rust/issues/23757)
+* [Reviewed should_fail patch](https://github.com/rust-lang/rust/pull/23752)
+* [Triaged doc PR](https://github.com/rust-lang/rust/pull/23758)
+* [Fixed --help in rust-installer](https://github.com/rust-lang/rust-installer/pull/27)
+* [Upgraded rust-installer for rust](https://github.com/rust-lang/rust/pull/23763)
+* [Upgraded rust-installer for cargo](https://github.com/rust-lang/cargo/pull/1461)
+* [Upgraded rust-installer for rust-packaging](https://github.com/rust-lang/rust-packaging/pull/24)
+* [Reviewed removal of deprecated -l form](https://github.com/rust-lang/rust/pull/23765)
+* **Working on feature gating slice patterns**
+
+# 2015-03-25
+
+* Still trying to get custom builds to work in taskcluster-crater
+* [Posted PSA about feature staging](http://users.rust-lang.org/t/psa-feature-staging-will-be-fully-activated-in-the-next-nightly/731)
+* Starting another beta build
+* [Cross-posted servo steam rendering to /r/rust](https://www.reddit.com/r/rust/comments/30blul/the_steam_store_rendered_in_servo/)
+
+# 2015-03-24
+
+* [Reviewed adjustments to crate hyphenation](https://github.com/rust-lang/rust/pull/23546)
+* [Reviewed cargo adjustments to crate hyphenation](https://github.com/rust-lang/cargo/pull/1443)
+* [Replied to thread about forum HTTPS](http://users.rust-lang.org/t/secure-access-via-https/296/11)
+* [Posted twir](https://www.reddit.com/r/rust/comments/305l66/this_week_in_rust_75/)
+* [Merged twir fix](https://github.com/cmr/this-week-in-rust/pull/48)
+* [Merged twir fix](https://github.com/cmr/this-week-in-rust/pull/49)
+* Pushed a branch to try for nagisa.
+* [Posted meeting minutes](http://internals.rust-lang.org/t/weekly-meetings-2015-03-24-fott-unsafe-destructor-drop-order-libtest/1752)
+* Pushed test build to beta.
+* [Updated rust-packaging for beta](https://github.com/rust-lang/rust-packaging/commit/046c2809a1b64b36123144c613f4f2b378164ef1)
+* Set up OpSec account on AWS for Gene Wood.
+
+# 2015-03-23
+
+* [Rebasing gate PR](https://github.com/rust-lang/rust/pull/23598)
+* [Rebased rpath fix](https://github.com/rust-lang/rust/pull/23283)
+* [Merged windows packaging improvements](https://github.com/rust-lang/rust-packaging/pull/23)
+* [Fixed 32-bit userspace detection](https://github.com/rust-lang/rust/pull/23650)
+* [Commented on mahkoh's stupid not-a-systems-language RFC](https://github.com/rust-lang/rfcs/pull/1007/#issuecomment-85209677)
+* [r-'d adding a stable 'try' function](https://github.com/rust-lang/rust/pull/23651)
+* [Filed bug to create Rust video](https://bugzilla.mozilla.org/show_bug.cgi?id=1146672)
+* [Reviewed cargo refactor](https://github.com/rust-lang/cargo/pull/1441)
+* [Reviewed doc fix](https://github.com/rust-lang/rust/pull/23645)
+
+# 2015-03-22
+
+* Spent more time tweaking crater and rebasing gating patch
+
+# 2015-03-21
+
+* **Rebasing feature gating patch**
+* **Setting up new computer**
+* [Finally submitted PR for new gating patch](https://github.com/rust-lang/rust/pull/23598)
+
+# 2015-03-20
+
+(Didn't record anything)
+
+# 2015-03-19
+
+* **Expanding taskcluster-crater to report on arbitrary Rust revisions**
+* **More rebasing of feature gating patch...**
+* Started email thread about 1.0 promotional video
+
+# 2015-03-18
+
+* Asked for money to move mac builders to macstadium.com
+* [Replied to burntsushi's q's about our builders' specs](https://www.reddit.com/r/rust/comments/2zf8ur/rust_infrastructure_can_be_your_infrastructure/cpj1o0n)
+* **Again working on crater**
+* **Again rebasing feature gating patch**
+* Responded to Lars about hiring issues
+
 # 2015-03-17
 
 * **Yet more work on staging - getting doctests to pass**
 * **Yet more work on crater reporting**
+* [Moved fott archives to my blog](https://brson.github.io/fott.html)
+* [Responded to q about whether a LICENSE file is necessary](https://github.com/contain-rs/compare/pull/11#issuecomment-82617344)
+* [Posted meeting minutes](http://internals.rust-lang.org/t/weekly-meetings-2015-03-17-checked-overflow-and-casts-hyphens-in-crate-names/1728/1)
+* [Reviewed socket fix](https://github.com/rust-lang/rust/pull/23450)
+* Reviewed Niko's blog post on future feature categorization
 
 # 2015-03-16
 
