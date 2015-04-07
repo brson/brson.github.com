@@ -2,6 +2,79 @@
 layout: basic
 ---
 
+# 2015-04-06
+
+* 195 lbs
+* 165 lb squat
+* 85 lb row
+* 135 lb bench press
+* 5.2 min/set
+
+# 2015-03-27
+
+* 208 lbs
+* 210 lb squat
+* 100 lb overhead press
+* 7.3 min/set
+
+# 2015-03-25
+
+* 202 lbs
+* 205 lbs squat
+* 85 lb row
+* 160 lb bench press
+* 5.3 min/set
+
+# 2015-03-24
+
+Accessory lifts.
+
+## Stats
+
+* 208 lbs.
+* 7.1 min/set
+
+# 2015-03-23
+
+* 211 lbs
+* 200 lb squat
+* 95 lb overhead press
+* 250 lb deadlift
+* 7 min/set
+
+# 2015-03-20
+
+* 211 lbs
+* 175 lb squat
+* 110 lb row
+* 155 lb bench press
+* 5.6 min/set
+
+# 2015-03-18
+
+* 204 lbs
+* 195 lb squat
+* 95 lb overhead press
+* 245 lb deadlift
+* 6.6 min/set
+
+# 2015-03-17
+
+Accessory lifts.
+
+## Stats
+
+* 205 lbs
+* 6.4 min/set
+
+# 2015-03-16
+
+* 215 lbs
+* 175 lb squat
+* 105 lb row
+* 155 lb bench press
+* 5.7 min/set
+
 # 2015-03-14
 
 * $53 expenses

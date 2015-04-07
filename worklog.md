@@ -2,6 +2,31 @@
 layout: basic
 ---
 
+# 2015-04-06
+
+* Talking with people about Rust party decorations
+* [Reviewed README patch to multirust](https://github.com/brson/multirust/pull/44)
+* [Triaged multirust issue](https://github.com/brson/multirust/issues/35)
+* [Filed issue about not downloading docs](https://github.com/rust-lang/rust/issues/24117)
+* [Commented on issues about multirust man pages](https://github.com/brson/multirust/issues/24)
+* [Merged compiler fence RFC](https://github.com/rust-lang/rfcs/pull/888)
+* [Closed multiple 'if let' RFC](https://github.com/rust-lang/rfcs/pull/937#issuecomment-90170630)
+* [Postponed type level numerics RFC](https://github.com/rust-lang/rfcs/pull/884)
+* [Closed generic over & types RFC](https://github.com/rust-lang/rfcs/pull/976#issuecomment-90175633)
+* [Reviewed acrichto's new fs RFC](https://github.com/alexcrichton/rfcs/blob/f3153e669c807e844f82bf361fdb6dd106eb8d49/text/0000-io-fs-2.1.md)
+* [Submitted C++ comparison to r/rust](https://www.reddit.com/r/rust/comments/31nl8y/more_rust_compared_to_c/)
+* [Filed issue about bug in license headers](https://github.com/rust-lang/rust/issues/24122)
+* Running more crater tests against beta
+* **TWiR**
+* [Posted toolchain report for beta](https://gist.github.com/brson/5ac7c009252f5b1916ec)
+* Sent summary of party info thus far
+
+# 2015-04-05
+
+* Wrote a quarterly self-evaluation
+* [Praised ecr's work](https://www.reddit.com/r/rust/comments/31kq70/patina_a_formalization_of_the_rust_programming/cq2jjeg)
+* Finished reviewing book
+
 # 2015-04-04
 
 * [Responded to GC q](https://www.reddit.com/r/rust/comments/31fnsy/rust_and_gc/)
