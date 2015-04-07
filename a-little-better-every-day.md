@@ -20,7 +20,7 @@ layout: basic
 # 2015-03-25
 
 * 202 lbs
-* 205 lbs squat
+* 205 lb squat
 * 85 lb row
 * 160 lb bench press
 * 5.3 min/set
@@ -31,7 +31,7 @@ Accessory lifts.
 
 ## Stats
 
-* 208 lbs.
+* 208 lbs
 * 7.1 min/set
 
 # 2015-03-23
