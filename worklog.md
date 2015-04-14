@@ -2,6 +2,119 @@
 layout: basic
 ---
 
+# 2015-04-13
+
+* Pushed updates to TWiR
+* [Commented on effort to improve error messages](https://www.reddit.com/r/rust/comments/32jdq9/help_write_rust_error_explanations/cqc6q42)
+* [Closed multirust issue about show-override](https://github.com/brson/multirust/issues/28)
+* [Closed shasum multirust issue](https://github.com/brson/multirust/issues/39)
+* [Responded to felix about the rust rev used to build cargo](https://github.com/brson/multirust/issues/43)
+* [Updated stability PR for long lines](https://github.com/rust-lang/rust/pull/24399)
+* Asked #it for help resetting yichoi's irc password
+* [Commented on adding a new linking mode](https://github.com/rust-lang/rust/pull/24369#issuecomment-93016637)
+
+# 2015-04-13
+
+* [Released rustup 0.0.3](http://users.rust-lang.org/t/multirust-0-0-3/954)
+* [Responded to thread about using the rust logo](https://www.reddit.com/r/rust/comments/32e8i5/rust_logo_ok_to_customise_and_use/cqb0p55)
+* Sent check for the cake
+* [Closed rustup issue](https://github.com/rust-lang/rust/issues/21149)
+* [Closed issue about --test not working on beta](https://github.com/rust-lang/rust/issues/20832)
+* [Found ricky26's msvc branch to work off of](https://github.com/ricky26/rust/tree/msvc)
+* [Reviewed adding rbe to doc index](https://github.com/rust-lang/rust/pull/24393)
+* Responded to bangalore meetup group about reimbursement
+* [Reviewed doc PR](https://github.com/rust-lang/rust/pull/24395)
+* [Replied to old bug about missing videos](https://bugzilla.mozilla.org/show_bug.cgi?id=1003414)
+* Uploaded rustup.sh
+* [Reviewed minor visitor change](https://github.com/rust-lang/rust/pull/24391)
+* [**Posted TWiR**](https://www.reddit.com/r/rust/comments/32ii3z/this_week_in_rust_77/).
+* [Posted patch to make stability attributes a warning](https://github.com/rust-lang/rust/pull/24399).
+* [Merged minor rust-installer fix](https://github.com/rust-lang/rust-installer/pull/28).
+* [Triaged issue of rustup failing on travis](https://github.com/rust-lang/rustup/issues/3).
+
+# 2015-04-12
+
+* Made multirust's blastoff script interactive
+* Making a beta build to test problems with --test
+* **TWiR**
+* [Filed issue about multirust's use of CARGO_HOME](https://github.com/brson/multirust/issues/49)
+* Worked on the multirust 0.0.3 release
+
+# 2015-04-11
+
+* [Filed PR for improvements to rustup](https://github.com/rust-lang/rustup/pull/1)
+* [Reviewed issue about playpen breakage](https://github.com/rust-lang/rust-www/issues/107)
+* [Merged playpen version fix](https://github.com/rust-lang/rust-www/pull/110)
+* [Investigated multirust cargo build dylib issues](https://github.com/brson/multirust/issues/43#issuecomment-91953336)
+* [Investidaget multirust symlink issue](https://github.com/brson/multirust/issues/40)
+* **Fixing multirust bugs**
+
+# 2015-04-10
+
+* [Created rustup repo](https://github.com/rust-lang/rustup)
+* [Removed rustup.sh from repo](https://github.com/rust-lang/rust/pull/24285)
+* [Bumped prerelease version](https://github.com/rust-lang/rust/pull/24287)
+* [Posted message about rustup.sh rewrite](http://users.rust-lang.org/t/rustup-sh-rewritten/913)
+* [Reviewed deriving fix](https://github.com/rust-lang/rust/pull/24270)
+* [Published regression report](http://internals.rust-lang.org/t/regression-report-beta-2015-04-03-vs-nightly-2015-04-10/1860)
+* Asked erickt for list of people hosting launch events
+* **Finishing up features and polish for rustup.sh**
+* **Rebuild multirust off of rustup.sh**
+* [Reviewed rust-www playpen error handling improvements](https://github.com/rust-lang/rust-www/pull/108)
+* [Replied to regression report discrepencies](http://internals.rust-lang.org/t/regression-report-beta-2015-04-03-vs-nightly-2015-04-10/1860/3)
+
+# 2015-04-09
+
+* **Continuing rustup.sh upgrades**
+* [Made nightly turn on LLVM asserts](https://github.com/rust-lang/rust/pull/24205)
+* Testing a patch for pitdicker
+* [Reviewed error message improvement](https://github.com/rust-lang/rust/pull/24242)
+* [Closed old squiggle PR](https://github.com/rust-lang/rust/pull/21639)
+* [Closed --test RFC](https://github.com/rust-lang/rfcs/pull/345)
+* [Closed RFC about concat_bytes!](https://github.com/rust-lang/rfcs/pull/566)
+* Communicating with the baker
+* Signed up for whistler
+* [Filed multirust issue](https://github.com/brson/multirust/issues/47)
+* [Commented on multirust update all](https://github.com/brson/multirust/issues/46)
+
+# 2015-04-08
+
+* Starting crate tests for https://github.com/rust-lang/rust/pull/23905
+* **Working on turning off debug asserts https://github.com/rust-lang/rust/issues/17081**
+* Posted note to meetup group about cameras recording Thursday http://www.meetup.com/Rust-Bay-Area/events/220627544/
+* [Posted config optimization patch](https://github.com/rust-lang/rust/pull/24205)
+* [Reviewed cargo docopt patch](https://github.com/rust-lang/cargo/pull/1499)
+* [Reviewed extension of plugins to llvm passes](https://github.com/rust-lang/rust/pull/24207)
+* [Reviewed changes to windows sockets](https://github.com/rust-lang/rust/pull/24211#issuecomment-91064248)
+* Reimaged rust-android1 so nrc can benchmark on it
+* [Encouraged balisong](https://www.reddit.com/r/rust_gamedev/comments/31v165/progress_report_on_balisong_voxel_renderer/)
+* **Working on merging rustup.sh with multirust**
+* [Expressed opinion about need for knowing `rustc`](http://internals.rust-lang.org/t/newcomer-to-rust-my-experience/1816/48)
+* [Praised hoverbear's Raft](https://www.reddit.com/r/rust/comments/31ynnz/raft_small_status_update/cq68ydu)
+
+# 2015-04-07
+
+* [Praised Racer updates](https://www.reddit.com/r/rust/comments/31pwpa/racer_progress_update_5_cargo_support/cq45acx)
+* **TWiR**
+* Testing crates against nightly to run a regression report
+* [Reopened issue about parsing match exprs](https://github.com/rust-lang/rust/issues/22546#issuecomment-90607706)
+* [Reopened issue about rustup.sh upgrade](https://github.com/rust-lang/rust/issues/21149)
+* [Assigned disabling debug asserts to me](https://github.com/rust-lang/rust/issues/22390)
+* [Pinged aturon on conversion RFC update](https://github.com/rust-lang/rfcs/pull/1016#issuecomment-90651591)
+* [Commented on builder guidelines RFC](https://github.com/rust-lang/rfcs/pull/1036#issuecomment-90653620)
+* [Commented on dtor double-panics](http://users.rust-lang.org/t/should-destructors-panic-should-they-double-panic/847/7)
+* [Responded to q from felix about rust-www example length](http://users.rust-lang.org/t/is-the-homepage-example-wrong-on-purpose/763/11)
+* [Merged defaulting rust-www to offer msi installer](https://github.com/rust-lang/rust-www/pull/105).
+* [Posted meeting minutes](http://internals.rust-lang.org/t/weekly-meetings-2015-04-07-beta-prs-abs-rustdoc-and-std-facade-wiki-docs-out-of-tree/1838).
+* [Reviewed RUSTUP_PREFIX](https://github.com/rust-lang/rust/pull/24171).
+* [Published TWiR](http://this-week-in-rust.org/blog/2015/04/06/this-week-in-rust-76/).
+* Resume triage.
+* Asked Richard to move airmo broadcast from 8 to 7 PM Thursday.
+* Ordered pizza for meetup.
+* Submitted expense report for meetup.
+* Sent enquiries about cakes.
+* [Posted call for Rust-related media](http://users.rust-lang.org/t/call-for-rust-related-photos-and-media/878).
+
 # 2015-04-06
 
 * Talking with people about Rust party decorations
