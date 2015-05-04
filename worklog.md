@@ -2,7 +2,247 @@
 layout: basic
 ---
 
-# 2015-04-13
+# 2015-05-04
+
+* Sent email to Jason in mailroom coordinating t-shirt shipment tomorrow
+* [Reviewed windows path fix](https://github.com/rust-lang/rust/pull/25103)
+* [Filed PR to fix rustup.sh docs](https://github.com/rust-lang/rust/pull/25104)
+* [Filed PR to fix rustup.sh docs on www](https://github.com/rust-lang/rust-www/pull/118)
+* [Posted psa about rustup.sh changes](https://users.rust-lang.org/t/rustup-sh-no-longer-should-be-run-under-sudo/1233)
+
+# 2015-05-03
+
+* **Refactoring crater javascript**
+* **Running regression tests**
+* [Posted regression report](https://internals.rust-lang.org/t/regression-report-beta-2015-05-01-vs-nightly-2015-05-03/1990)
+
+# 2015-05-02
+
+* [Reviewed rust-buildbot musl patch](https://github.com/rust-lang/rust-buildbot/pull/11)
+* [Reviewed multirust typo](https://github.com/brson/multirust/pull/59)
+
+# 2015-05-01
+
+* [Merged rustup.sh interactive upgrade](https://github.com/rust-lang/rustup/pull/12)
+* [Suggested building electron on servo](http://www.reddit.com/r/rust/comments/34jb2x/integration_of_a_rust_based_editor_into_servo/)
+* [Upgraded multirust with rustup.sh](https://github.com/brson/multirust/commit/42159402a73d9aca32b517928457e8be79d1f239)
+* [Further commenting on multirust dylib problems](https://github.com/brson/multirust/issues/43#issuecomment-98207119)
+* [Filed PR with travis for updating rustup.sh](https://github.com/travis-ci/travis-build/pull/443)
+* **Sorted t-shirts for shipping**
+* [Triaged typecheck pr](https://github.com/rust-lang/rust/pull/25038)
+* Discussed shipping logistics with Jason
+* Invalidated nightlies in cdn
+
+# 2015-04-30
+
+* [**Modifying rustup.sh to not need sudo**](https://internals.rust-lang.org/t/what-changes-are-necessary-to-make-rustup-sh-handle-sudo-itself/1948/6?u=brson)
+* [Closed beta target libs bug](https://github.com/rust-lang/rust/issues/24959)
+* [Retriaged beta/stable CI bug](https://github.com/rust-lang/rust/issues/23757)
+* [Retriaged cloudfront issue](https://github.com/rust-lang/rust/issues/21239)
+* [Reviewed beta PR](https://github.com/rust-lang/rust/pull/25004)
+* [Updated cargo pairing for 1.0](https://github.com/rust-lang/rust-packaging/pull/30)
+* Started a new beta build
+* [Filed issue to hash CFG_FILENAME_EXTRA](https://github.com/rust-lang/rust/issues/25007)
+* [Gave mw link to some dbg issue](https://internals.rust-lang.org/t/weekly-meetings-2015-04-28-servo-podcasting-snapshots-transmute-static-assert/1974)
+* [Filed PR for rustup upgrade](https://github.com/rust-lang/rustup/pull/12)
+* [Made patch to update rust-www for rustup](https://github.com/brson/rust-www/tree/rustup)
+* [Made patch to update rust for rustup](https://github.com/brson/rust/tree/rustup)
+* [Reviewed rustdoc patch](https://github.com/rust-lang/rust/pull/24989)
+* [Responded to u.rlo category thread](https://users.rust-lang.org/t/category-suggestions/659)
+* [Reopened multirust rpath bug](https://github.com/brson/multirust/issues/43#event-293925562)
+* [Merged multirust submodule patch](https://github.com/brson/multirust/pull/58)
+* [Commented on problem with exe installers](https://github.com/rust-lang/rust/issues/24397)
+* [Responded to issue about identical regions in errors](https://github.com/rust-lang/rust/issues/15391#issuecomment-97165966)
+* [Posted minor doc fix](https://github.com/rust-lang/rust/pull/25020)
+* [Filed request for Error for ()](https://github.com/rust-lang/rust/issues/25023)
+* **Writing more HTTP server for crater**
+
+# 2015-04-29
+
+* [Reviewed cargo patch to add filtering to benchmarks](https://github.com/rust-lang/cargo/pull/1557)
+* [Reviewed cargo file naming patch](https://github.com/rust-lang/cargo/pull/1558)
+* [Reviewed cargo build script cfg patch](https://github.com/rust-lang/cargo/pull/1505)
+* [Tagged multirust 0.0.5](https://github.com/brson/multirust/issues/57)
+* Scheduled meeting to discuss meetup budget
+* Reassigned P-backcompat-lang to P-high
+* [Reviewed cargo timeout patch](https://github.com/rust-lang/cargo/pull/1564)
+* [Reviewed another cargo patch](https://github.com/rust-lang/cargo/pull/1559)
+* [Replied to doc url thread](http://www.reddit.com/r/rust/comments/34be9u/is_it_planned_to_support_docrustlangorgbeta_or/)
+* Did t-shirt inventory
+* **Allocating t-shirts to meetups**
+* [Fixed discourse github login problem](https://users.rust-lang.org/t/problem-with-github-logins/1182)
+* [Responded to felix's thread about --enable-debug](https://internals.rust-lang.org/t/why-is-enable-debug-implying-disable-optimize-for-rustc/1978)
+* [Added some categories to users.rlo](https://users.rust-lang.org/t/category-suggestions/659/12)
+* [Fixed betas containing all target libs](https://github.com/rust-lang/rust-buildbot/commit/165befeaa478efc30ba7f1433845f5bd4688e959)
+* [Reviewed another cargo pr](https://github.com/rust-lang/cargo/pull/1566)
+
+# 2015-04-28
+
+* Conducted interview
+* [Reviewed multirust doc PR](https://github.com/brson/multirust/pull/56)
+* [Posted meeting minutes](https://internals.rust-lang.org/t/weekly-meetings-2015-04-28-servo-podcasting-snapshots-transmute-static-assert/1974)
+* [Responded to AtomicPtr issue](https://users.rust-lang.org/t/how-to-share-atomicptr-t-between-threads/1166)
+* [Posted list of launch meetups](https://users.rust-lang.org/t/a-list-of-rust-1-0-launch-meetups/1171)
+* Writing crater-web
+
+# 2015-04-27
+
+* [Updated beta date on www](https://github.com/rust-lang/rust-www/commit/fcd298d84341b7299a8a69709cb38ff3dedecc00)
+* [Thanked somebody for tips on Iron](http://users.rust-lang.org/t/example-of-building-a-web-service-and-client-with-iron-and-hyper/1095/6?u=brson)
+* [Commented on missing libc decls](http://internals.rust-lang.org/t/lack-of-c99-integer-types-in-libc/1969/2?u=brson)
+* [Posted TWiR](http://www.reddit.com/r/rust/comments/342ckb/this_week_in_rust_79/)
+* Updated DNS for discourse https
+* **Refactoring crater**
+* Started building snaps for tamird
+* **Creating crater docker image**
+* [Merged twir PR](https://github.com/cmr/this-week-in-rust/pull/53)
+* [Merged twir PR](https://github.com/cmr/this-week-in-rust/pull/54)
+* Redeployed twir
+* [Published updated regression report](https://gist.github.com/brson/7a9954d09898e1606958)
+* Finished setting up https for users and internals
+
+# 2015-04-26
+
+* [Updated website for beta.3](https://github.com/rust-lang/rust-www/pull/116)
+* **Writing twir**
+
+# 2015-04-25
+
+* [Published regression report](http://internals.rust-lang.org/t/regression-report-beta-2015-04-03-vs-nightly-2015-04-24/1967)
+* **Writing crater-db in Rust**
+
+# 2015-04-24
+
+* Interviewed devops candidate
+* [Reviewed acrichto's musl patch](https://github.com/rust-lang/rust/pull/24777)
+* [Reviewed minor test cleanup](https://github.com/rust-lang/rust/pull/24751)
+* Entered Q2 goals in workday
+* [Fixed beta fallout](https://github.com/rust-lang/rust/pull/24785)
+* Retriaged old P-backcompat issues
+* [Closed old issue about numeric impls](https://github.com/rust-lang/rust/issues/4955)
+
+# 2015-04-23
+
+* [Posted something encouraging about carboxyl](http://www.reddit.com/r/rust/comments/33ll59/interactive_2d_applications_with_carboxyl_and/)
+* [Reviewed acrichto's blog post](https://github.com/rust-lang/blog.rust-lang.org/pull/51/files)
+* [Reviewed acrichto's cherry-pick](https://github.com/rust-lang/rust/pull/24708)
+* [Re-triaged scoped bug](https://github.com/rust-lang/rust/issues/24292)
+* [Re-triaged rustc cli future-proofing](https://github.com/rust-lang/rust/issues/19051)
+* [Complimented arielb1's sweet wins](https://github.com/rust-lang/rust/pull/24615#issuecomment-95743109)
+* Told London organizers they have no budget
+* [Asked Amsterdam organizer for shipping info](http://www.reddit.com/r/rust/comments/33lf0y/10_release_party_in_amsterdam/cqml0sm)
+* [Posted update on launch events](http://users.rust-lang.org/t/rust-1-0-launch-event-details-action-required-for-event-organizers/1025/15?u=brson)
+* [Responded to RustDT release](http://users.rust-lang.org/t/rustdt-0-2-0-released-auto-complete-with-racer/1109)
+
+# 2015-04-22
+
+* [Tried to get Gankro and nrc to work together on benchmarking](http://users.rust-lang.org/t/we-need-non-trivial-idiomatic-workloads-for-meaningful-performance-evaluation/493/4)
+* [Posted PR remove version numbers from betas](https://github.com/rust-lang/rust/pull/24693)
+* [Posted fix for rust-installer CDPATH problem](https://github.com/rust-lang/rust-installer/pull/32)
+* [Posted fix for rustup CDPATH problem](https://github.com/rust-lang/rustup/pull/11)
+* Fixed same problem in multirust
+* Uploaded new rustup.sh
+* [Upgraded rust-installer for rust](https://github.com/rust-lang/rust/pull/24704)
+* [Upgraded rust-installer for cargo](https://github.com/rust-lang/cargo/pull/1543)
+* [Upgraded rust-installer for rust-packaging](https://github.com/rust-lang/rust-packaging/pull/29)
+* [Replied about discourse HTTPS](http://users.rust-lang.org/t/secure-access-via-https/296/11)
+* [Replied about crater native deps](http://internals.rust-lang.org/t/regression-report-beta-2015-04-03-vs-beta-2015-04-17/1931/3)
+* [Fixed typo in valgrind patch](https://github.com/rust-lang/rust/pull/24477)
+* [Posted investigation into Iron and Hyper](http://users.rust-lang.org/t/example-of-building-a-web-service-and-client-with-iron-and-hyper/1095)
+* [Posted internals thread about sudo and rustup.sh](http://internals.rust-lang.org/t/what-changes-are-necessary-to-make-rustup-sh-handle-sudo-itself/1948)
+
+# 2015-04-21
+
+* [Commented on Yurume's Grisu patch](https://github.com/rust-lang/rust/pull/24612#issuecomment-94878903)
+* [Merged some changes to the Rust wiki backup](https://github.com/rust-lang/rust-wiki-backup/pull/1)
+* [Bumped version to 1.1](https://github.com/rust-lang/rust/pull/24670)
+* [Reviewed TRPL index update](https://github.com/rust-lang/rust/pull/24669)
+* Pulled together some CloudFront download metrics for Jack
+* [Filed an issue to store overrides in override directories](https://github.com/brson/multirust/issues/54)
+* [Filed issue for multirust docs](https://github.com/brson/multirust/issues/55)
+* [Posted PR to Lars ICFP paper](https://github.com/larsbergstrom/papers/pull/33)
+* [Posted doc about branching](http://internals.rust-lang.org/t/release-channels-git-branching-and-the-release-process/1940)
+* [Posted minutes](http://internals.rust-lang.org/t/weekly-meetings-2015-04-21-servo-licensing-iter-overflow-float-formatting-branching-for-betas/1941)
+* [Merged twir PR and deployed](https://github.com/cmr/this-week-in-rust/pull/52)
+* [Responded to question about branching](http://www.reddit.com/r/rust/comments/33edbz/release_channels_git_branching_and_the_release/cqk562u)
+* [Closed shallow submodule PR](https://github.com/rust-lang/rust/pull/24521)
+
+# 2015-04-20
+
+* [Responded to multirust bug report about remove-toolchain](https://github.com/brson/multirust/issues/53)
+* Asked Neil Lalande to set up https for discourse.
+* [Thanked SimonSapin for updating Travis to use rustup.sh](http://users.rust-lang.org/t/psa-1-0-0-beta-2-is-out/1019/8)
+* [Reviewed deprecation removal](https://github.com/rust-lang/rust/pull/24636)
+* [Sent steveklabnik counter-edit for branching strategy](https://gist.github.com/brson/789281140c4672af4a44)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/24640)
+* [Reviewed fixes to rustup](https://github.com/rust-lang/rustup/pull/4)
+* [Reviewed gpg fix to rustup](https://github.com/rust-lang/rustup/pull/6)
+* [Commented on ldconfig problem](https://github.com/rust-lang/rust/issues/24358)
+* [Fixed ldconfig issue in rustup](https://github.com/rust-lang/rustup/pull/9)
+* [Closed ldconfig issue](https://github.com/rust-lang/rust/issues/24358)
+* [Closed ldconfig issue](https://github.com/rust-lang/rustup/issues/3)
+* [Closed ldconfig issue](https://github.com/rust-lang/rust/pull/24529)
+* [Posted patch making stability attributes an error](https://github.com/rust-lang/rust/pull/24646)
+* [Fixed multirust problem deleting toolchains](https://github.com/brson/multirust/issues/53)
+* [Commented about making mem::forget safe](https://github.com/rust-lang/rfcs/pull/1066#issuecomment-94599639)
+* Triaged t-shirts
+* [**Published new TWiR**](http://this-week-in-rust.org/blog/2015/04/20/this-week-in-rust-78/)
+* [Posted TWiR to /r/rust](http://www.reddit.com/r/rust/comments/33b4gp/this_week_in_rust_78/)
+* [Updated TWiR based on feedback](http://www.reddit.com/r/rust/comments/33b4gp/this_week_in_rust_78/cqj86xl)
+
+# 2015-04-18
+
+* **Got crater running on aws**
+* [Merged removal of 30-minute intro from www](https://github.com/rust-lang/rust-www/pull/114)
+* [Reviewed removal of 30-minute intrto](https://github.com/rust-lang/rust/pull/24572)
+* **Investigating writing parts of crater in Rust**
+* [Posted regression report](http://internals.rust-lang.org/t/regression-report-beta-2015-04-03-vs-beta-2015-04-17/1931)
+
+# 2015-04-17
+
+* **Working on launch event details**
+* Booked whistler tickets
+* [Bumped prerelease to .3](https://github.com/rust-lang/rust/pull/24532)
+* [Posted website update for beta.2](https://github.com/rust-lang/rust-www/pull/113)
+* [Updated 1.0 cargo rev again](https://github.com/rust-lang/rust-packaging/pull/28)
+* [Commented on 'nix' renaming issue](https://github.com/carllerche/nix-rust/issues/76)
+* [Commented on ldconfig problem](https://github.com/rust-lang/rust/pull/24529)
+* [Commented on rust-www style issue](https://github.com/rust-lang/rust-www/pull/102)
+* [Merged icon updates](https://github.com/rust-lang/rust-www/pull/106)
+* [Added header anchors to blog.rlo](https://github.com/rust-lang/blog.rust-lang.org/commit/527256b93f43526bdbe6ac518398d198e1278d06)
+* [Thanked WindowsBunny for starting windows discussion](https://github.com/rust-lang/rfcs/issues/1061)
+* [Commented on rust-installer issue with cd and CDPATH](https://github.com/rust-lang/rust-installer/issues/31)
+* [Posted notet about beta.2](http://users.rust-lang.org/t/psa-1-0-0-beta-2-is-out/1019)
+* [Fixed typos to beta psa](http://users.rust-lang.org/t/psa-1-0-0-beta-2-is-out/1019)
+* [Reviewed parallel make fixes](https://github.com/rust-lang/rust/pull/24537)
+* Fixed beta doc links on website
+* [Bumped TWiR thread](http://users.rust-lang.org/t/twir-quote-of-the-week/328/36)
+* Sent internal email about party status updates
+* Sent email asking for t-shirt earmarks
+* [Made thread about launch events](http://users.rust-lang.org/t/rust-1-0-launch-event-details-action-required-for-event-organizers/1025)
+* [Commented on beta changelog](http://www.reddit.com/r/rust/comments/32yahe/psa_100beta2_is_out/cqg7lv9)
+
+# 2015-04-16
+
+* In SF for interviews
+* [Updated cargo rev for beta](https://github.com/rust-lang/rust-packaging/pull/27)
+* [Responded to question about crater sandboxing](http://www.reddit.com/r/rust/comments/32rvwv/regression_report_leveraging_cratesio_to/)
+* Started a build of 1.0.0-beta.2
+* [Reviewed cargo version bump](https://github.com/rust-lang/cargo/pull/1531#issuecomment-93858895)
+* Responded to various threads about release parties
+* Interviewed devops candidate
+
+# 2015-04-15
+
+* Returned old laptop
+* [Submitted fix for configure not detecting missing valgrind](https://github.com/rust-lang/rust/pull/24477)
+* Reviewed aturon's governance RFC draft
+* **Continuing patch to disable is/us**
+* [Posted patch for is/us removal](https://github.com/rust-lang/rust/pull/24485)
+* [Filed bug reports about annoying breakage of browser.ctrlTab.previews](https://bugs.launchpad.net/ubuntu/+source/firefox/+bug/1444788)
+* [Filed bug reports about annoying breakage of browser.ctrlTab.previews](https://bugzilla.mozilla.org/show_bug.cgi?id=1154922)
+
+# 2015-04-14
 
 * Pushed updates to TWiR
 * [Commented on effort to improve error messages](https://www.reddit.com/r/rust/comments/32jdq9/help_write_rust_error_explanations/cqc6q42)
@@ -12,6 +252,10 @@ layout: basic
 * [Updated stability PR for long lines](https://github.com/rust-lang/rust/pull/24399)
 * Asked #it for help resetting yichoi's irc password
 * [Commented on adding a new linking mode](https://github.com/rust-lang/rust/pull/24369#issuecomment-93016637)
+* [Posted meeting minitues](http://internals.rust-lang.org/t/weekly-meetings-2015-04-14-beta-symlinks-missing-stdio-handles-compound-assignment-rustdoc-cleanup-coc-enforcement/1884)
+* Scheduled meeting w/ bhearsum to talk about migrating to taskcluster
+* Sent Rainer a 3D Rust logo
+* [Responded to homebrew issue](https://github.com/brson/multirust/issues/8#issuecomment-92025028)
 
 # 2015-04-13
 
