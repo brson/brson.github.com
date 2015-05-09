@@ -2,6 +2,58 @@
 layout: basic
 ---
 
+# 2015-05-08
+
+* Alerted bvssvni about https://github.com/rust-lang/rust/pull/25157
+* [Removed beta-nominated tags from merged backports](https://github.com/rust-lang/rust/pull/25192)
+* [Reviewed mem::forget](https://github.com/rust-lang/rust/pull/25187)
+* **[Posted www updates](https://github.com/rust-lang/rust-www/pull/120)**
+* [Reviewed distcheck fix](https://github.com/rust-lang/rust/pull/25217)
+* [Responded to thread about fedora install](https://www.reddit.com/r/rust/comments/35axcd/unable_to_install_rust_on_fedora_21/cr2siq4)
+* [Filed rust-installer NixOS issue](https://github.com/rust-lang/rust-installer/issues/33)
+* [Sent PR to rust-learning to credit japaric](https://github.com/ctjhoa/rust-learning/pull/2)
+* [Reviewed valgrind changes](https://github.com/rust-lang/rust/pull/24859)
+* [Reviewed minor doc patch](https://github.com/rust-lang/rust/pull/25214)
+* [Posted doc cleanup](https://github.com/rust-lang/rust/pull/25220)
+* **[Posted std doc PR](https://github.com/rust-lang/rust/pull/25224)**
+* [Thanked somebody for an experience report](https://users.rust-lang.org/t/first-experience-using-rust/1291)
+
+# 2015-05-07
+
+* Running multiple crater builds for acrichto and nmatsakis
+* [Posted regression report for removal of vec addition](https://github.com/rust-lang/rust/pull/25157#issuecomment-99967389)
+* Sent stickers to organizer in Boulder
+* [Reviewed cargo patch](https://github.com/rust-lang/cargo/pull/1590)
+* [Retried this patch for arielb1](https://github.com/rust-lang/rust/pull/25123)
+* [Submitted Awesome Rust to reddit](http://www.reddit.com/r/rust/comments/357td7/awesome_rust_a_curated_list_of_awesome_rust_code/)
+* [Sent niko a regression report](https://gist.github.com/brson/b81e3032b1838119e5ff)
+* **Working on release notes**
+* [Updated RELEASES.md and AUTHORS.txt](https://github.com/rust-lang/rust/pull/25196)
+* [Posted message asking for audits of AUTHORS.txt](https://users.rust-lang.org/t/last-chance-for-immortality-audit-the-rust-1-0-authors-file/1278)
+* [Reviewed pr backport](https://github.com/rust-lang/rust/pull/25192)
+* [Re-reviewed valgrind configure change](https://github.com/rust-lang/rust/pull/24859)
+
+# 2015-05-06
+
+* Responded to Diane Tate about Rust communication ideas
+* [Added Boulder to launch events](https://users.rust-lang.org/t/a-list-of-rust-1-0-launch-meetups/1171/12)
+* Interviewed candidate
+
+# 2015-05-05
+
+* [Reviewed some cargo pr](https://github.com/rust-lang/cargo/pull/1577#event-296920209)
+* [Merged beta cherry-pick](https://github.com/rust-lang/rust/pull/25121)
+* [Commented on multirust update bug](https://github.com/brson/multirust/issues/60#issuecomment-99163538)
+* [Commented about nickel.rs](https://users.rust-lang.org/t/my-steps-with-rust-nickel-rs/1240/2?u=brson)
+* Submitted ticket to ship t-shirts
+* [Posted beta.4 update to www](https://github.com/rust-lang/rust-www/pull/119)
+* [Posted minutes](https://internals.rust-lang.org/t/weekly-meetings-2015-05-05-servo-test-and-stability-irc-floods-semver/1994/1)
+* [Posted comment about Option::unwrap_unchecked](https://github.com/rust-lang/rfcs/pull/1095#issuecomment-99237453)
+* [Reviewed more windows path fixes](https://github.com/rust-lang/rust/pull/25134)
+* [Published twir](http://www.reddit.com/r/rust/comments/34zx2h/this_week_in_rust_80/)
+* [Reviewed another cargo patch](https://github.com/rust-lang/cargo/pull/1584#event-297733466)
+* [Posted suggestions to read burntsushi's crates](http://www.reddit.com/r/rust/comments/3505gf/what_rust_repositories_would_you_recommend/cqzvpiq)
+
 # 2015-05-04
 
 * Sent email to Jason in mailroom coordinating t-shirt shipment tomorrow
@@ -9,6 +61,8 @@ layout: basic
 * [Filed PR to fix rustup.sh docs](https://github.com/rust-lang/rust/pull/25104)
 * [Filed PR to fix rustup.sh docs on www](https://github.com/rust-lang/rust-www/pull/118)
 * [Posted psa about rustup.sh changes](https://users.rust-lang.org/t/rustup-sh-no-longer-should-be-run-under-sudo/1233)
+* Posted status update
+* **Wrote more http database api in Rust**
 
 # 2015-05-03
 
