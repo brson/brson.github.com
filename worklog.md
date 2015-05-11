@@ -2,6 +2,11 @@
 layout: basic
 ---
 
+# 2015-05-10
+
+* [Updated AUTHORS PR](https://github.com/rust-lang/rust/pull/25196)
+* [Posted beta relnote pr](https://github.com/rust-lang/rust/pull/25294)
+
 # 2015-05-08
 
 * Alerted bvssvni about https://github.com/rust-lang/rust/pull/25157
@@ -17,6 +22,8 @@ layout: basic
 * [Posted doc cleanup](https://github.com/rust-lang/rust/pull/25220)
 * **[Posted std doc PR](https://github.com/rust-lang/rust/pull/25224)**
 * [Thanked somebody for an experience report](https://users.rust-lang.org/t/first-experience-using-rust/1291)
+* [Published Servo dep graph](http://www.reddit.com/r/rust/comments/35dh3e/servos_dependency_graph/)
+* [Wrote cargo-lock-to-dot](https://github.com/brson/cargo-lock-to-dot)
 
 # 2015-05-07
 
