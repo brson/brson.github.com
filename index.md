@@ -3,7 +3,7 @@ layout: basic
 ---
 
 My name is Brian Anderson. For now I mostly work on [The Rust
-[Programming Language][r].
+Programming Language][r].
 
 * [GitHub](http://github.com/brson)
 * [Worklog](/worklog.html)
