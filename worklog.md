@@ -2,6 +2,96 @@
 layout: basic
 ---
 
+# 2015-06-07
+
+* [Ignored a test blocking nightlies](https://github.com/rust-lang/rust/pull/26070)
+* [Responded to q about tool subteam category](https://internals.rust-lang.org/t/internal-discussion-for-the-tools-infrastructure-team/2212/6)
+* [Commented about bindgen](https://internals.rust-lang.org/t/tools-infrastructure-priorities/2213/4?u=brson)
+* [Posted patch to stop compressing metadata](https://github.com/rust-lang/rust/pull/26081)
+
+# 2015-06-06
+
+* **Cleaning up monomorphization linkage patch**
+* [Posted regression report for object lifetime bounds](https://internals.rust-lang.org/t/pre-rfc-adjust-default-object-bounds/2199/24?u=brson)
+* **Testing patch to remove redundant metadata compression**
+
+# 2015-06-05
+
+* [Closed 1.0 video bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1146672)
+* [Reviewed LLVM upgrade](https://github.com/rust-lang/rust/pull/26025)
+* [Responded to RFC to break default object bounds](https://internals.rust-lang.org/t/pre-rfc-adjust-default-object-bounds/2199/20)
+* Started crater run to test better-object-bounds
+* [Triaged issue](https://github.com/rust-lang/rust/issues/24622)
+* Sent 100 stickers to Manish
+* Bumped beta version to beta.2
+* **Still trying to optimize metadata on odr patch**
+* **Testing removing inline(always) on servo**
+* [Tried to help with an android failure](https://github.com/rust-lang/rust/pull/25784#issuecomment-109447363)
+* [Posted tests of converting inline(always) in servo](https://gist.github.com/brson/b48dd03b06c406be68e6)
+* [Posted patch removing inline(always) from servo](https://github.com/servo/servo/pull/6297)
+* [Posted initial comment about crate subtree patch](https://github.com/rust-lang/rust/pull/26042#issuecomment-109460818)
+* Started a beta build
+
+# 2015-06-04
+
+* [Replied to multirust issue on spaces in paths](https://github.com/brson/multirust/issues/71#issuecomment-108982981)
+* [Reviewed cargo custom path patch](https://github.com/rust-lang/cargo/pull/1657#issuecomment-108749205)
+* [Filed multirust issue about --link-local](https://github.com/brson/multirust/issues/72)
+* [Filed multirust issue about 'run'](https://github.com/brson/multirust/issues/73)
+* [Responded to q about meetup fees](https://users.rust-lang.org/t/welcome-to-the-rust-programming-language-forum/1688/2)
+* [Reviewed msvc fix](https://github.com/rust-lang/rust/pull/26004)
+* [Commented about unicode conversion iterators](https://internals.rust-lang.org/t/pre-rfc-stabilize-utf-16-encoding-in-std/2152/5?u=brson)
+* [Asked raphlinus to add MIT license to his markdown parser](https://users.rust-lang.org/t/new-commonmark-parser/1690/13?u=brson)
+* [Commented about the markdown license again](http://www.reddit.com/r/rust/comments/38hft5/new_commonmark_parser/crvklhd)
+* [Responded to submodule thread](https://internals.rust-lang.org/t/submodules-in-rust-lang-rust-for-external-repositories/2200/3)
+* [Reviewed adjustment to box help message](https://github.com/rust-lang/rust/pull/26014#issuecomment-109047358)
+* **Still optimizing linkage of monomorphic functions**
+* Doing a crater run for niko
+
+# 2015-06-03
+
+* [Added periodic table and iter cheat sheet to rust-learning](https://github.com/ctjhoa/rust-learning/pull/14)
+* [Praised the iter cheat sheet](http://www.reddit.com/r/rust/comments/38dl0o/rust_iterator_cheat_sheet/cru7vsj)
+* [Merged fix to my web site](https://github.com/brson/brson.github.com/pull/2)
+* [Nominated --version change for beta](https://github.com/rust-lang/rust/pull/25821)
+* [Closed sh -> bash PR](https://github.com/rust-lang/rust/pull/25889)
+* [Published new rust-sdl](https://github.com/brson/rust-sdl/issues/166)
+* Finished a crater run for niko
+* [Merged a playpen PR to add intel syntax](https://github.com/rust-lang/rust-playpen/pull/127)
+* [Merged a playpen fix](https://github.com/rust-lang/rust-playpen/pull/128)
+* Added edunham to rust-push
+* [Responded to q about download stats](https://github.com/rust-lang/rust/issues/25978#issuecomment-108663511)
+* **Profiling my monomorphization patch. Still a perf regression**
+
+# 2015-06-02
+
+* [Responded to questions about multirust's use of gpg](https://github.com/Homebrew/homebrew/pull/39224#issuecomment-108042013)
+* [Reviewed patch to haskell platform installer](https://github.com/haskell/haskell-platform/pull/137)
+* [Commented on haskell platform bug](https://github.com/rust-lang/rust-installer/issues/36#issuecomment-108044353)
+* [Filed another bug against haskell platform installer](https://github.com/haskell/haskell-platform/issues/178)
+* [Reviewed mk fix](https://www.github.com/rust-lang/rust/pull/25970)
+* **Working on odr linkage opts**
+* [Submitted rust-root servo patch](https://github.com/servo/servo/pull/6267)
+
+# 2015-06-01
+
+* Posted status report
+* Tried to resolve Indian shipping issues
+* [Merged multirust typo](https://github.com/brson/multirust/pull/69)
+* [Commented on multirust dylink bug](https://github.com/brson/multirust/issues/43#issuecomment-106758695)
+* [Merged multirust doc fix](https://github.com/brson/multirust/pull/68)
+* [Reviewed gdb pretty-printer cleanup](https://github.com/rust-lang/rust/pull/25905)
+* [Commented on converting configure to bash](https://github.com/rust-lang/rust/pull/25889)
+* [Reviewed windows path fix](https://github.com/rust-lang/rust/pull/25868)
+* [Reviewed disable-tls option](https://github.com/rust-lang/rust/pull/25858)
+* [Reviewed removal of build date from --version](https://github.com/rust-lang/rust/pull/25821)
+* [Commented about align_of change](https://github.com/rust-lang/rust/pull/25646#issuecomment-107669675)
+* [Reviewed community translations](https://github.com/rust-lang/rust/pull/25751)
+* [Reviewed doc fix](https://github.com/rust-lang/rust/pull/25947)
+* [Filed weird interaction with rust-installer and haskell platform](https://github.com/rust-lang/rust-installer/issues/36)
+* [Reviewed msvc bootstrap patch](https://github.com/rust-lang/rust/pull/25848)
+* **Working on optimizations**
+
 # 2015-05-31
 
 * [Responded to thread about testing code that isn't on crates.io](https://internals.rust-lang.org/t/regression-report-stable-2015-05-15-vs-nightly-2015-05-28/2157/8)
