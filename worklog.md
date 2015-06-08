@@ -8,6 +8,7 @@ layout: basic
 * [Responded to q about tool subteam category](https://internals.rust-lang.org/t/internal-discussion-for-the-tools-infrastructure-team/2212/6)
 * [Commented about bindgen](https://internals.rust-lang.org/t/tools-infrastructure-priorities/2213/4?u=brson)
 * [Posted patch to stop compressing metadata](https://github.com/rust-lang/rust/pull/26081)
+* Restarted porting crater to Rust
 
 # 2015-06-06
 
