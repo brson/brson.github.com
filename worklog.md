@@ -2,12 +2,47 @@
 layout: basic
 ---
 
+# 2015-06-18
+
+* [Posted a quote for twir](https://users.rust-lang.org/t/twir-quote-of-the-week/328/85?u=brson)
+* [Commented about wasm + Rust](http://www.reddit.com/r/rust/comments/3abgbo/webassembly_rust_compile_to_web/csb2z6h)
+* [Made minor updates to relnotes](https://github.com/rust-lang/rust/pull/26200)
+* **Preparing backports to do last 1.1 beta**
+* [Posted comment to not backport a dst fix](https://github.com/rust-lang/rust/pull/26038)
+* [Posted 1.1 backports](https://github.com/rust-lang/rust/pull/26409)
+* Started build of 1.1.0-beta.4
+
+# 2015-06-17
+
+* [Added Hanover meetup to calendar](http://www.reddit.com/r/rust/comments/3a63tt/rust_meetup_in_hanover_germany/)
+* [Praised the error generating macro](http://www.reddit.com/r/rust/comments/3a655c/darkfox_shares_with_us_a_macro_to_automagically/cs9ta5i)
+* [Reviewed beta backport](https://github.com/rust-lang/rust/pull/26371)
+* [Fixing UI of unstable_feature lint](https://github.com/rust-lang/rust/pull/26371)
+* Responded to remo council about rust meetup funding. Doesn't look good.
+* Responded to joseph cotton about rust visualizations
+* Finished beta regression report
+* Rebased 1.1 release notes patch
+
+# 2015-06-16
+
+* Responded to morning pings
+* [Responded to suggestion in twir thread](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806/5?u=brson)
+* Sent emails to production users inviting them to talk
+* Resolved a security@ email
+* **TWiR**
+* [Reviewed twir redesign](https://github.com/cmr/this-week-in-rust/pull/66)
+* [Reviewed stable cargo pr](https://github.com/rust-lang/cargo/pull/1712)
+* [Posted encouraging comment about wayland-client](http://www.reddit.com/r/rust/comments/3a2e0u/the_crate_waylandclient_now_020_and_in_a_fairly/)
+* [Posted TWiR](http://www.reddit.com/r/rust/comments/3a3ftu/this_week_in_rust_83/)
+
 # 2015-06-15
 
 * [Reviewed cargo retry patch](https://github.com/rust-lang/cargo/pull/1711#issuecomment-112153975)
 * [Started the twir editor's thread](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806)
 * Responded to morning pings
 * Updated easydns account secrets
+* Gave acrichto access to brson/cargo
+* Talking to reps council about meetups
 
 # 2015-07-14
 
@@ -111,6 +146,7 @@ layout: basic
 * [Responded to multirust environment feature request](https://github.com/brson/multirust/issues/75#issuecomment-110526284)
 * [Finished crater run for niko](https://gist.github.com/brson/7d8dc603b9f676743374)
 * [Posted crater run for some PR](https://github.com/rust-lang/rust/pull/26122#issuecomment-110528173)
+* [Filed issue to re-sandbox playpen](https://github.com/rust-lang/rust-playpen/issues/134)
 
 # 2015-06-08
 

@@ -6,27 +6,23 @@ $(function() {
 
     var statsHeaders = $.map(dateHeaders, function(header, index) {
 	var date = $(header).text();
-	var statsHeader = $(header).nextUntil("h1", "h2").filter(function(index, header) {
-	    return $(header).text() == "Stats";
-	});
-	if (statsHeader.length == 0) {
-	    // As a fallback, if the day only contains bullets, those are the stats
-	    if ($(header).next("ul").length > 0) {
-		statsHeader = header;
-	    }
-	}
 	return {
 	    date: date,
-	    statsHeader: statsHeader
+	    statsHeader: header
 	}
     });
 
     var stats = $.map(statsHeaders, function(header, index) {
 	var date = header.date;
 	var statsHeader = header.statsHeader;
-	var statsList = $(statsHeader).next("ul");
+	var statsList = $(statsHeader).nextAll("ul")[0];
 	var listItems = $(statsList).children("li");
-	var dailyStats = $.map(listItems, function(item, index) {
+	var validItems = $(listItems).filter(function(index) {
+	    var raw = $(listItems[index]).text();
+	    var value = raw.split(" ")[0];
+	    return $.isNumeric(value);
+	});
+	var dailyStats = $.map(validItems, function(item, index) {
 	    var raw = $(item).text();
 	    var value = raw.split(" ")[0];
 	    var unit = raw.slice(value.length, raw.length).trim();
