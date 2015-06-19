@@ -2,7 +2,7 @@
 layout: basic
 ---
 
-Change is hard. Recording your progress helps keep you motivated.
+Changing is hard. Recording your progress helps keep you motivated.
 
 # 2015-06-18
 
