@@ -11,6 +11,25 @@ layout: basic
 * [Posted comment to not backport a dst fix](https://github.com/rust-lang/rust/pull/26038)
 * [Posted 1.1 backports](https://github.com/rust-lang/rust/pull/26409)
 * Started build of 1.1.0-beta.4
+* [Reviewed edunham's www https plan](https://github.com/rust-lang/rust-www/issues/148)
+* [Reviewed a configure fix](https://github.com/rust-lang/rust/pull/26381)
+* [Reviewed rustc PATH fixes](https://github.com/rust-lang/rust/pull/26382)
+* [Made suggestions about the pnacl patch](https://github.com/rust-lang/rust/pull/26148)
+* [Reviewed extended error patch](https://github.com/rust-lang/rust/pull/26393)
+* [Reviewed extended error patch](https://github.com/rust-lang/rust/pull/26399)
+* [Reviewed patch to disable landing pads on msvc](https://github.com/rust-lang/rust/pull/26414)
+* Responded to all pings
+* [Posted patch to fix stable feature gate error](https://github.com/rust-lang/rust/pull/26417)
+* Updated workday q2 goals
+* [Started a twir draft](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806/13?u=brson)
+* [Posted encouragement to maidsafe thread](https://forum.safenetwork.io/t/maidsafe-dev-update-8th-june-2015/4069/31?u=brson)
+* [Responded to pre-rfc about publishing expanded syntax extensions](https://internals.rust-lang.org/t/pre-rfc-stablized-syntax-extensions-sort-of/2259/4?u=brson)
+* [Replied to thread about 'notable' tags](https://internals.rust-lang.org/t/adding-a-notable-tag-to-rust-lang-rust-for-prs/2234/7)
+* [Replied to thread about compiler rfc policy](https://internals.rust-lang.org/t/request-for-feedback-rfc-policy/2255/2)
+* [Replied to thread about to_upper breakage](https://internals.rust-lang.org/t/stable-breaking-changes-to-to-upper-to-lower/2247/3?u=brson)
+* [Started list of 1.2 breaking changes](https://gist.github.com/brson/988abf1d1db005b50d71)
+* [Responded to question of to_upper breakage](https://github.com/rust-lang/rust/pull/26039#issuecomment-113336098)
+* [Closed old homu PR](https://github.com/barosl/homu/pull/67)
 
 # 2015-06-17
 
@@ -19,7 +38,7 @@ layout: basic
 * [Reviewed beta backport](https://github.com/rust-lang/rust/pull/26371)
 * [Fixing UI of unstable_feature lint](https://github.com/rust-lang/rust/pull/26371)
 * Responded to remo council about rust meetup funding. Doesn't look good.
-* Responded to joseph cotton about rust visualizations
+* Responded to somebody about rust visualizations
 * Finished beta regression report
 * Rebased 1.1 release notes patch
 

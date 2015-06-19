@@ -2,7 +2,7 @@
 layout: basic
 ---
 
-Change is super hard. Keeping a record of my progress helps keep me motivated.
+Change is hard. Recording your progress helps keep you motivated.
 
 # 2015-06-18
 
@@ -30,18 +30,6 @@ You met Bret who works the Gold's desk and help you weight the ez-curl bar. It w
 * 85 lbs ohp
 
 Sam stopped to talk to me. Couldn't focus on him. Wanted to be lifting. He said I was "overthinking it". Yeah, that's me.
-
-# 2015-06-13
-
-People I've met recently:
-
-* Kona - new staff at Buffalo
-* Linn - cute girl at Buffalo
-* Jen - big girl at Buffalo
-* Jackie - cute white pock-marked girl at Buffalo
-* Raven - Mike's gym gf
-
-Beer Brian moved to Alaska and was surprisingly distraught at our parting.
 
 # 2015-06-12
 
@@ -411,9 +399,9 @@ last night.
 
 # Older stuff
 
-I have my weight recorded back to 2008. Need to port it.
+You have your weight recorded back to 2008. Need to port it.
 
 <script type="text/javascript" src="lib/jquery-2.1.3.min.js"></script>
 <script type="text/javascript" src="lib/flot/jquery.flot.js"></script>
 <script type="text/javascript" src="lib/flot/jquery.flot.time.js"></script>
-<script type="text/javascript" src="a-little-better-every-day.js"></script>
+<script type="text/javascript" src="progress.js"></script>
