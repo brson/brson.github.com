@@ -182,7 +182,7 @@ Feel darkness every time somebody enters my space or has convo near me.
 
 # 2015-04-21
 
-* 205 lbs
+* 205 lbs weight
 * 22.5 lbs face pull
 * 27.5 lbs cable crunch
 * 30 lbs bb rev curl
