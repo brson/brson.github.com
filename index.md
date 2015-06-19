@@ -2,8 +2,8 @@
 layout: basic
 ---
 
-My name is Brian Anderson. I work on [The Rust
-Programming Language][r].
+My name is Brian Anderson (brson). I work on [The Rust Programming
+Language][r].
 
 My stuff is on [GitHub]; I keep a
 [worklog].
