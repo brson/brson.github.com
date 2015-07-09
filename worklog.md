@@ -68,6 +68,144 @@ layout: basic
 
 * [Merged stdx feature configuration patch](https://github.com/brson/stdx/pull/2)
 
+# 2015-07-04
+
+* Working on stdx
+* [Filed bug on pub extern crate](https://github.com/rust-lang/rust/issues/26775)
+* [Publish stdx and asked for help](https://users.rust-lang.org/t/stdx-the-missing-batteries-of-rust/2015)
+* [Created the Temple of Rust](http://brson.github.io/temple-of-rust/)
+
+# 2015-07-03
+
+* Setting up AWS security and proxy settings for crater
+* Sent crater instructions out
+
+# 2015-07-02
+
+* More production user coordination
+
+# 2015-07-01
+
+* Updated deployed crater and started crater-web
+* Assigned an elastic IP to crater
+* Pinged more production users
+* Sent out production meeting polls
+
+# 2015-06-30
+
+* Responded to emails
+* [Thanked @nasa42 for getting twir out](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806/18)
+* Wrote production users meeting scheduling email
+* [Nominated relnotes for beta](https://github.com/rust-lang/rust/pull/26579)
+* [Nominated relnotes for beta](https://github.com/rust-lang/rust/pull/26613)
+
+# 2015-06-29
+
+* Writing docs for crater
+
+# 2015-06-28
+
+* Writing docs for crater-cli
+* [Commented on multirust ctl default-toolchain patch](https://github.com/brson/multirust/pull/78)
+* Sent viz folks an update about what Niko and I are thinking
+* [Mentioned in twir thread that I may not be available Monday](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806/15)
+
+# 2015-06-27
+
+* Trying to get crater-cli working
+* [Reviewed rust-packaging for msvc](https://github.com/rust-lang/rust-packaging/pull/35)
+
+# 2015-06-26
+
+* [Told twir editors I can't work this week](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806/14)
+* [Reviewed PR to add stage to rustc version](https://github.com/rust-lang/rust/pull/26599#issuecomment-115945781)
+* [Commented on centos ldconfig issue](https://users.rust-lang.org/t/installation-error-in-centos7/1938/5?u=brson)
+* [Reviewed XP patch](https://github.com/rust-lang/rust/pull/26601)
+* [Reviewed cargo bump](https://github.com/rust-lang/cargo/pull/1753)
+* [Reviewed 1.2 relnote patch](https://github.com/rust-lang/rust/pull/26579)
+* [Submitted my own 1.2 relnote patch](https://github.com/rust-lang/rust/pull/26613)
+* [Reviewed other 32-bit msvc patch](https://github.com/rust-lang/rust/pull/26569)
+* [Reviewed kde gitignore patch](https://github.com/rust-lang/rust/pull/26565)
+* More work sorting out discourse payments
+
+# 2015-06-25
+
+* **Released 1.1**
+* Responded to q about rust release notes
+* [Posted crater results for resolve change](https://github.com/rust-lang/rust/pull/26242#issuecomment-115369349)
+* [Posted relnotes fix](https://github.com/rust-lang/rust/pull/26574)
+* Updated CC for internals.rlo
+
+# 2015-06-24
+
+* Discussed cross-compiling considerations
+* [Reviewed error code comment](https://github.com/rust-lang/rust/pull/26545)
+* Responded to somebody that wants access to calendar
+* [Responded to twir thread about qotw and fott](http://www.reddit.com/r/rust/comments/3aw08g/this_week_in_rust_84/cshc4h3)
+* [Posted crater report tuple struct restriction](https://github.com/rust-lang/rust/pull/26421#issuecomment-114985629)
+* [Posted crater report on fat pointer restrictions](https://github.com/rust-lang/rust/pull/26394#issuecomment-114985751)
+* Started crate build for #26242
+* [Updated rust-packaging for 1.2](https://github.com/rust-lang/rust-packaging/pull/34)
+* Started new 1.2 beta
+* [Re-reviewed freebsd clang patch](https://github.com/rust-lang/rust/pull/26185)
+* Shared calendar with somebody
+* [Posted response to q about unused argument lint](https://github.com/rust-lang/rust/pull/26502#issuecomment-115009374)
+* [Posted capitalization of std docs](https://github.com/rust-lang/rust/pull/26553)
+* [Posted issue to rename rustc_unicode](https://github.com/rust-lang/rust/issues/26554)
+* [Posted issue to remove to_titlecase](https://github.com/rust-lang/rust/issues/26555)
+* [Nominated align_of for backport to 1.2](https://github.com/rust-lang/rust/pull/25646)
+* **1.2 relnotes**
+
+# 2015-06-23
+
+* [Posted a negative response to documentation policy thread](https://internals.rust-lang.org/t/lets-have-a-documentation-policy/2279/2?u=brson)
+* [Responded to multirust source install issue](https://github.com/brson/multirust/issues/77#issuecomment-114592731)
+* [Reviewed PATH frobbing PR](https://github.com/rust-lang/rust/pull/26490)
+* [Reviewed fix for host triples as subset of build triples](https://github.com/rust-lang/rust/pull/26491)
+* [r- removing unused arguments from default methods](https://github.com/rust-lang/rust/pull/26502#issuecomment-114594595)
+* [Commented on OS X installer size reporting](https://github.com/rust-lang/rust/issues/26501#issuecomment-114595005)
+* [Commented on new PNaCL PR](https://github.com/rust-lang/rust/pull/26505)
+* Responded to all ping
+* Building crates for two outstanding crater runs
+* [Reviewed PR to add twitter account to twir](https://github.com/cmr/this-week-in-rust/pull/70)
+* [Starting crater run for resolve changes](https://github.com/rust-lang/rust/pull/26242)
+* [Uploaded 1.1 to staging](https://static.rust-lang.org/dist/staging/index.html)
+* [Posted 1.1 testing request](https://internals.rust-lang.org/t/1-1-rc-testing/2284)
+* [Reviewed deprecation inheritance](https://github.com/rust-lang/rust/pull/26061)
+* [Bumped master to 1.3](https://github.com/rust-lang/rust/pull/26527)
+* Started 1.2 beta build
+* [Posted update to research papers](https://github.com/rust-lang/rust/pull/26528)
+* [Published twir](http://this-week-in-rust.org/blog/2015/06/22/this-week-in-rust-84/)
+* [Reviewed cargo msvc patch](https://github.com/rust-lang/cargo/pull/1724)
+* [Replied again to multirust source request](https://github.com/brson/multirust/issues/77#issuecomment-114691114)
+
+# 2015-06-21
+
+* **Working on crater-cli communicating with crater-web**
+
+# 2015-06-20
+
+* [Merged twir updates](https://github.com/cmr/this-week-in-rust/pull/68)
+* [Merged twir typo](https://github.com/cmr/this-week-in-rust/pull/65)
+* [Merged twir updates](https://github.com/cmr/this-week-in-rust/pull/67)
+* [Merged twir updates](https://github.com/cmr/this-week-in-rust/pull/69)
+* [Posted PR to put std link higher in the doc index](https://github.com/rust-lang/rust/pull/26462)
+* [Updated archaea](https://users.rust-lang.org/t/watching-rust-evolve-changelog/1877/4?u=brson)
+* **Working on command line parsing for crater-cli**
+
+# 2015-06-19
+
+* Reviewed Niko's new stability RFC
+* [Posted 1.1 backports](https://github.com/rust-lang/rust/pull/26436)
+* [Posted merge into stable](https://github.com/rust-lang/rust/pull/26437)
+* [Reviewed rust-www s3 deployment fixes](https://github.com/rust-lang/rust-www/pull/150)
+* Moved macs to new location for the ww because of electrical work
+* [Started crater run for tuple struct resolution fix](https://github.com/rust-lang/rust/pull/26421)
+* [Started crater run for fat pointer casts](https://tools.taskcluster.net/task-inspector/#jpj1s_UlTX6RWTMz4ys3Uw)
+* Responded to all pings
+* [Responded to q's about debugging homu](https://github.com/barosl/homu/pull/67#issuecomment-82275752)
+* [Merged doc backport](https://github.com/rust-lang/rust/pull/26440)
+
 # 2015-06-18
 
 * [Posted a quote for twir](https://users.rust-lang.org/t/twir-quote-of-the-week/328/85?u=brson)
