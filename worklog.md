@@ -2,6 +2,72 @@
 layout: basic
 ---
 
+# 2015-07-09
+
+* [Merged beta backports](https://github.com/rust-lang/rust/pull/26901)
+* [Bumped beta to .2](https://github.com/rust-lang/rust/pull/26921)
+* [Reviewed msvc unwind revert](https://github.com/rust-lang/rust/pull/26919)
+* Started build of 1.2.0-beta.2
+* [Reviewed save-analysis patch](https://github.com/rust-lang/rust/pull/26907)
+
+# 2015-07-08
+
+* In SF, away from computer
+
+# 2015-07-07
+
+* [Encouraged 'easier libc in rust'](https://www.reddit.com/r/rust/comments/3cfjbp/easier_libc_in_rust/csv6g2l)
+* [Closed PR to remove hyper from stdx](https://github.com/brson/stdx/pull/3#issuecomment-119277252)
+* [Posted patch to revert broken stage number reporting](https://github.com/rust-lang/rust/pull/26863)
+* [Commented on closure inference changes](https://github.com/rust-lang/rfcs/pull/756#issuecomment-119287742)
+* [Commented on stdx thread](https://users.rust-lang.org/t/stdx-the-missing-batteries-of-rust/2015/27)
+* Responded to all pings
+* [Commented on Duration stabilization](https://github.com/rust-lang/rust/pull/26818#issuecomment-119295749)
+* [Updated brson in rustaceans.org](https://github.com/nrc/rustaceans.org/pull/166)
+* [Reviewed cargo dep install scripts](https://github.com/rust-lang/cargo/pull/1788)
+* **Scheduling meetings**
+
+# 2015-07-06
+
+* Restarted mac3/4
+* Turned in laptop for refurb again
+* [Reviewed multirust ctl default patch](https://github.com/brson/multirust/pull/78#issuecomment-118940288)
+* [Reviewed rustup fix](https://github.com/brson/multirust/pull/78#issuecomment-118940288)
+* [Upgraded rustup in multirust](https://github.com/brson/multirust/commit/7b3ae3bf35c08f8dee6e89e692456c9e1b975c5d)
+* [Started crater run for prelude feature gating](https://tools.taskcluster.net/aws-provisioner/)
+* [Nominating msi problem](https://github.com/rust-lang/rust/issues/26765)
+* [Nominated another msi problem](https://github.com/rust-lang/rust/issues/26758)
+* [Reviewed minor formatting patch](https://github.com/rust-lang/rust/pull/26757)
+* [Reviewed adding issue numbers to unstable attribute](https://github.com/rust-lang/rust/pull/26747)
+* [Started twir draft](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806/16)
+* [Reviewed new msvc patch](https://github.com/rust-lang/rust/pull/26741)
+* [Merged beta backports](https://github.com/rust-lang/rust/pull/26700)
+* Started new nightly build
+* [Commented on prelude_import issue](https://github.com/rust-lang/rust/issues/26690#issuecomment-118964487)
+* [Commented on tarball perm issue](https://github.com/rust-lang/rust/issues/26685#issuecomment-118965857)
+* [Reviewed rust-installer netbsd patch](https://github.com/rust-lang/rust-installer/pull/38)
+* [Commented on signing snaps](https://github.com/rust-lang/rust/issues/13254#issuecomment-118968182)
+* [Started new crater run for resolve fix](https://github.com/rust-lang/rust/pull/26242#issuecomment-118969343)
+* [Told richo to add the stage number to version output only for stage0/2](https://github.com/rust-lang/rust/pull/26599)
+* [Thanked @nasa42 for finishing twir](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806/26?u=brson)
+* [Reviewed whitespace patch](https://github.com/rust-lang/rust/pull/26834)
+* [Found occurances of `&mut |` for eddyb](https://gist.github.com/brson/f8ec7bcdf54e5d18419f)
+* [Rereviewed patch to add stage info to rustc version output](https://github.com/rust-lang/rust/pull/26599)
+* Followed up on production user responses
+* Took whistler survey
+* Submitted June discourse expense
+* Ordered pizza for Wednesday meetup
+* [Removed flate2 and hyper from stdx](https://github.com/brson/stdx/pull/3)
+* [Finished crater report for prelude feature gate](https://github.com/rust-lang/rust/pull/26699#issuecomment-119027362)
+* [Finished crater report for resolve fix](https://github.com/rust-lang/rust/pull/26242#issuecomment-119027632)
+* [Approved resolve fix](https://github.com/rust-lang/rust/pull/26242#issuecomment-119027651)
+* Wrote more stdx docs
+* [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/1776)
+
+# 2015-07-05
+
+* [Merged stdx feature configuration patch](https://github.com/brson/stdx/pull/2)
+
 # 2015-06-18
 
 * [Posted a quote for twir](https://users.rust-lang.org/t/twir-quote-of-the-week/328/85?u=brson)
