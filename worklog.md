@@ -2,6 +2,40 @@
 layout: basic
 ---
 
+# 2015-07-12
+
+* [Responded to rustle feature request](https://github.com/brson/rustle/issues/1)
+* [Reviewed gedit updates](https://github.com/rust-lang/gedit-config/pull/8)
+* [Reviewed stdx typo](https://github.com/brson/stdx/pull/4)
+* [Responded to q about cargo bug and doing a point release](https://github.com/rust-lang/cargo/issues/1801#issuecomment-120693008)
+* [Commented on rustbook pr problem](https://github.com/rust-lang/rust/pull/26216#issuecomment-120762561)
+* [Reviewed tls fix](https://github.com/rust-lang/rust/pull/26958)
+* [Reviewed errorck fix](https://github.com/rust-lang/rust/pull/26984)
+* **twir**
+
+# 2015-07-11
+
+* **Writing std docs**
+* [Posted PR improving std docs](https://github.com/rust-lang/rust/pull/26977)
+
+# 2015-07-10
+
+* Organized some accomplishments
+* [Responded to q about core team re stdx](https://users.rust-lang.org/t/stdx-the-missing-batteries-of-rust/2015/35?u=brson)
+* **Working on rust-installer ldconfig bug**
+* [Opened issue about rust-installer default dir](https://github.com/rust-lang/rust-installer/issues/40)
+* Responded to pings
+* Started beta packaging rebuilds to pick up cargo ssl fix
+* [Praised llogiq's writing](https://www.reddit.com/r/rust/comments/3ct5yx/blog_holy_stdborrowcow_redux/csyu60t)
+* [Posted rust-installer ldconfig patch](https://github.com/rust-lang/rust-installer/pull/41)
+* [Upgraded rust-installer for rust-packaging](https://github.com/rust-lang/rust-packaging/pull/38)
+* [Upgraded rust-installer for cargo](https://github.com/rust-lang/cargo/pull/1798)
+* [Upgraded rust-installer for rust](https://github.com/rust-lang/rust/pull/26943)
+* Upgraded rust-installer for multirust
+* **twir**
+* [Reviewed doc fix](https://github.com/rust-lang/rust/pull/26944)
+* [Reviewed rustbook merge failure](https://github.com/rust-lang/rust/pull/26216#issuecomment-120508913)
+
 # 2015-07-09
 
 * [Merged beta backports](https://github.com/rust-lang/rust/pull/26901)
@@ -9,6 +43,15 @@ layout: basic
 * [Reviewed msvc unwind revert](https://github.com/rust-lang/rust/pull/26919)
 * Started build of 1.2.0-beta.2
 * [Reviewed save-analysis patch](https://github.com/rust-lang/rust/pull/26907)
+* Responded to all pings
+* [Responded to q about custom rust optimization pass ordering](https://internals.rust-lang.org/t/using-a-custom-optimisation-pass-pipeline/2345/5?u=brson)
+* [Finished relnotes updates](https://github.com/rust-lang/rust/pull/26613)
+* [Reviewed llvm ar patch](https://github.com/rust-lang/rust/pull/26926)
+* [Reviewed windows directory junction fix](https://github.com/rust-lang/rust/pull/26929)
+* [Posted rust-buildbot license](https://github.com/rust-lang/rust-buildbot/pull/20)
+* [Posted rustup license](https://github.com/rust-lang/rustup/pull/24)
+* [Posted rust-packaging license](https://github.com/rust-lang/rust-packaging/pull/36)
+* [Posted rust-installer license](https://github.com/rust-lang/rust-installer/pull/39)
 
 # 2015-07-08
 
