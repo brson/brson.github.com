@@ -12,6 +12,7 @@ layout: basic
 * [Reviewed tls fix](https://github.com/rust-lang/rust/pull/26958)
 * [Reviewed errorck fix](https://github.com/rust-lang/rust/pull/26984)
 * **twir**
+* [Worked on my website](http://brson.github.io/rust-stuff.html)
 
 # 2015-07-11
 

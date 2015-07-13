@@ -2,7 +2,7 @@
 layout: basic
 ---
 
-I've been [doing the Rust thing](http://www.rust-lang.org) for a long
+I've been [doing the Rust thing](http://www.rust-lang.org/team.html) for a long
 time, and at this point it most of my significant accomplishments are
 part of the Rust legacy. So here's where I remind myself of the good
 work I've done.
