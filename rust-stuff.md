@@ -1,33 +1,29 @@
 ---
 layout: basic
-title: I've done some Rust
 ---
 
-I've been [doing the Rust thing](http://www.rust-lang.org/team.html)
-for [a while
-now](https://github.com/rust-lang/rust/commit/0633c7ae6e54edebde8421cef14267ad1ba1e30c),
-and most of my professional accomplishments are part of the Rust
-legacy. This is where I remind myself of the good work I've done.
-
-*I did none of this on my own. Rust is built by a lot of people.*
+I've been [doing Rust](http://www.rust-lang.org/team.html) for [a
+while
+now](https://github.com/rust-lang/rust/commit/0633c7ae6e54edebde8421cef14267ad1ba1e30c). This
+is where I remind myself of the good work I've done.
 
 * Converted Rust from a statement language to an expression
-  language. Yes, Rust was originally statement-oriented.
+  language.
 
-* A lot of my first few years was spent on the runtime. I introduced
-  multithreading to the original (C++-based) green-threading runtime
-  (along with [Eric Holk](http://github.com/eholk) others), and I
-  [rewrote the runtime in
+* Introduced multithreading to the original (C++-based)
+  green-threading runtime (along with [Eric
+  Holk](http://github.com/eholk) and others), and [rewrote the runtime in
   Rust](https://mail.mozilla.org/pipermail/rust-dev/2013-August/005158.html). Most
   of this did not survive once green-threading was removed from Rust.
 
-* Wrote the segmented stack implementation of the green threading
-  runtime, enabling lightweight threads with small stacks.
+* Wrote the [segmented
+  stack](https://mail.mozilla.org/pipermail/rust-dev/2013-November/006314.html)
+  implementation of the green threading runtime.
 
-* [I created the `Result`
+* [Created the `Result`
   type](https://github.com/rust-lang/rust/commit/c1092fb6d88efe51e42df3aae2a321cc669e12a0),
-  an alternative to Haskell's Either (which I *also* added to Rust,
-  but was later removed), [adopted by the Elm
+  an alternative to Haskell's `Either` (which I *also* added to Rust,
+  and later removed). Result was also [adopted by the Elm
   language](https://github.com/rust-lang/rust/commit/c1092fb6d88efe51e42df3aae2a321cc669e12a0).
 
 * [Wrote the standard testing
@@ -36,15 +32,23 @@ legacy. This is where I remind myself of the good work I've done.
   [compiletest](https://github.com/rust-lang/rust/commit/2573fe7026eb696841acbba8f3d1c09e2224acf0),
   the first parallel Rust program.
 
-* Established the 'character' of Rust (casual, playful, welcoming,
-  straightforward), from designing the website, the README, the std
-  docs, release announcements, to hiring [Steve
-  Klabnik](http://www.steveklabnik.com/) to write the
-  documentation. My greatest claim here may be that [I added an easter
-  egg to the runtime that output random Lovecraft quotes during fatal
-  errors](https://github.com/rust-lang/rust/issues/13871). The
-  worthiness of Lovecraft in a systems language was debated far and
-  wide.
+* Wrote a lot of documentation.
+
+* Created the original website that survived at least into 2015.
+
+* Added an easter egg to the runtime that output [random Lovecraft
+  quotes during fatal
+  errors](https://github.com/brson/rust/blob/71a71ce4f948dd5ae792db4a88c9cc2fae94dfb0/src/libstd/rt/util.rs#L124).
+  The worthiness of Lovecraft in a systems language was [hotly
+  debated](https://news.ycombinator.com/item?id=8869572).
+
+* Wrote much of the Rust build system, after
+  [Graydon](http://github.com/graydon), which is a notoriously
+  brain-searing abuse of make. It does though have an advanced
+  [self-documenting](https://github.com/rust-lang/rust/blob/e4e93196e16030ebf7a20c473849534235d676f8/mk/main.mk#L592)
+  help
+  [system](https://github.com/rust-lang/rust/blob/e4e93196e16030ebf7a20c473849534235d676f8/Makefile.in#L11).
+  That's my best idea there.
 
 * I wrote the first version of rustdoc and created the original
   conventions for using Markdown in Rust doc comments. Rustdoc was
@@ -60,7 +64,7 @@ legacy. This is where I remind myself of the good work I've done.
 
 * Created the [Friend of the
   Tree](https://github.com/rust-lang/rust-wiki-backup/blob/master/Doc-friends-of-the-tree.md)
-  tradition (after Mozilla's own tradition) for acknowleding community
+  tradition (after Mozilla's own) for acknowleding community
   contributions.
 
 * Created the Unix distribution tooling including
