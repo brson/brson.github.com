@@ -2,6 +2,64 @@
 layout: basic
 ---
 
+# 2015-07-16
+
+* [Responded to pnacl port](https://github.com/rust-lang/rust/pull/26505#issuecomment-121976244)
+* [Reviewed from_raw_parts assert](https://github.com/rust-lang/rust/pull/27068)
+* [Asked glandium for Linux->Mac cross toolchain](https://bugzilla.mozilla.org/show_bug.cgi?id=1183850#c11)
+* Responded to pings
+* [Reviewed intofd patches](https://github.com/rust-lang/rust/pull/27064)
+* Entered q3 goals in workday
+* Updated windows ami with new cert
+* Updated macs with new cert
+* [Fixed a multirust override directory comparison bug](https://github.com/brson/multirust/commit/cfa900a77cb6d3c8bd1ad48ec5b33abd33e88e3f)
+* [Reviewed llvm upgrade](https://github.com/rust-lang/rust/pull/27076)
+* Sent prod meeting minutes
+* [Started new twir](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806/32?u=brson)
+* [Replied to Q about mutating boxes](https://users.rust-lang.org/t/why-are-we-able-to-change-the-content-of-box/2125)
+
+# 2015-07-15
+
+* Emailed minutes from yesterday's support meeting
+* [Reviewed Gankro's TARPL PR](https://github.com/rust-lang/rust/pull/27032#issuecomment-121679712)
+* [Reviewed no_std RFC](https://github.com/rust-lang/rfcs/pull/1184#issuecomment-121732953)
+* Sent prod meeting minutes
+* Learned how to record vidyo calls
+* Investigated buildbot cert expiry
+* [Posted message about expired cert](https://internals.rust-lang.org/t/buildbot-is-down-for-a-bit/2365)
+* [Reviewed httptest patch](https://github.com/brson/httptest/pull/1)
+* Worked on meld
+* [Encouraged dwarf hacker](https://users.rust-lang.org/t/dwarf-debug-format/2100)
+
+# 2015-07-14
+
+* MC'd a production support meeting
+* Sent minutes to above meeting
+* [Responded to std doc feedback again](https://github.com/rust-lang/rust/pull/26977)
+* [Added `#[packed]` breakage to release notes](https://github.com/rust-lang/rust/pull/27040)
+* Added some more to annotated-std
+* [Filed issue about linkage regression](https://github.com/rust-lang/rust/issues/27043)
+* Set up new FreeBSD builders for dhuseby
+* [Reviewed httptest patch](https://github.com/brson/httptest/pull/1)
+
+# 2015-07-13
+
+* [Reviewed errorck.py fix](https://github.com/rust-lang/rust/pull/26984#issuecomment-121011032)
+* [Reviewed blastoff --yes patch](https://github.com/brson/multirust/pull/80)
+* [Reviewed x86_64 abi fixes](https://github.com/rust-lang/rust/pull/27017)
+* [Reviewed apple clang configure patch](https://github.com/rust-lang/rust/pull/27006)
+* [Suggested a way to work around cwd issue in rustbook upgrade](https://github.com/rust-lang/rust/pull/26216#issuecomment-121019698)
+* [Responded to stdx thread](https://users.rust-lang.org/t/stdx-the-missing-batteries-of-rust/2015/46)
+* [Posted twir](https://www.reddit.com/r/rust/comments/3d5yta/this_week_in_rust_87/)
+* [Reviewed stdx readme tweak](https://github.com/brson/stdx/pull/5)
+* Responded to all pings
+* [Posted regression report](https://internals.rust-lang.org/t/new-crater-reports-1-1-stable-vs-beta-2015-07-10-and-nightly-2015-07-10/2358)
+* Put together agenda for prod meetings
+* [Left some more comments on annotated std](https://github.com/brson/std-annotated-rs/commit/cb12c0e8758181a8f0be0671707025450eb60381)
+* [Started thread on reverting `#[packed]` breakage](https://internals.rust-lang.org/t/turning-packed-into-a-permanent-warning-and-backporting-to-1-2/2359)
+* [Addressed feedback on std doc patch](https://github.com/rust-lang/rust/pull/26977)
+* [Described final stdx crates](https://users.rust-lang.org/t/stdx-the-missing-batteries-of-rust/2015/49?u=brson)
+
 # 2015-07-12
 
 * [Responded to rustle feature request](https://github.com/brson/rustle/issues/1)
