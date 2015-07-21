@@ -13,6 +13,46 @@ layout: basic
 * [Mentioned LLVM 3.6 fix in that thread](https://internals.rust-lang.org/t/build-with-llvm-3-6-broken-on-head/2383/3?u=brson)
 * [Reviewed android configuration fixes](https://github.com/rust-lang/rust/pull/27173)
 
+# 2015-07-20
+
+* Responded to pings
+* [Reviewed rustc panic suppressant](https://github.com/rust-lang/rust/pull/27153)
+* [Posted patch to revert missing_docs lint fixes](https://github.com/rust-lang/rust/pull/27160)
+* [Posted issue to unrevert missing_docs lint fixes](https://github.com/rust-lang/rust/issues/27161)
+* Improving primitive docs in std
+* [TWiR](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806/35?u=brson)
+* [Posted primitive doc PR](https://github.com/rust-lang/rust/pull/27168)
+* [Defaulted multirust to stable](https://github.com/brson/multirust/commit/95fe46e249399e12129e48804705a968513e66fe)
+* [Fixed $SHELL bug in rustup.sh](https://github.com/rust-lang/rustup/pull/25)
+* [Updated rustup.sh in multirust](https://github.com/brson/multirust/commit/de094d931e6c86d6a704bbef32ae242ebaaf67ec)
+* Improving crater image compatibility
+* [Posted crater results for jroesch's pr](https://github.com/rust-lang/rust/pull/26870#issuecomment-123036377)
+* [Responded to LLVM 3.6 breakage](https://internals.rust-lang.org/t/build-with-llvm-3-6-broken-on-head/2383)
+* [Merged TWiR PR](https://github.com/cmr/this-week-in-rust/pull/83)
+* [Posted twir](https://www.reddit.com/r/rust/comments/3e0drc/this_week_in_rust_88/)
+* [Addressed reviews of my primitive doc PR](https://github.com/rust-lang/rust/pull/27168)
+* [Reviewed std::io docs](https://github.com/rust-lang/rust/pull/27171)
+* [Reviewed Rc/Arc mem::forget patch](https://github.com/rust-lang/rust/pull/27174)
+* [Reviewed linux guard page fixes](https://github.com/rust-lang/rust/pull/27073)
+* [Reviewed snaps](https://github.com/rust-lang/rust/pull/27172#issuecomment-123085694)
+
+# 2015-07-19
+
+* [Published initial release of Rust Skeptic](https://users.rust-lang.org/t/rust-skeptic-test-your-rust-markdown-documentation-via-cargo/2163)
+
+# 2015-07-18
+
+* Registered for Rust Camp
+
+# 2015-07-17
+
+* Responded to pings
+* [Reviewed minor rustdoc js fix](https://github.com/rust-lang/rust/pull/27094#issuecomment-122368848)
+* [Reviewed cargo backtracking patch](https://github.com/rust-lang/cargo/pull/1804)
+* [Posted twir wip](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806/27)
+* [Reviewed death and life of an api rfc](https://github.com/rust-lang/rfcs/pull/1213)
+* [Reviewed msvc-64 buildbot builders](https://github.com/rust-lang/rust-buildbot/pull/22)
+
 # 2015-07-16
 
 * [Responded to pnacl port](https://github.com/rust-lang/rust/pull/26505#issuecomment-121976244)
