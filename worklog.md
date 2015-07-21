@@ -2,6 +2,12 @@
 layout: basic
 ---
 
+# 2015-07-21
+
+* Replacement laptop now in for repair
+* [Responded `rustc --fatal` RFC](https://github.com/rust-lang/rust/issues/27189#issuecomment-123385195)
+* [Merged multirust typo fix](https://github.com/brson/multirust/pull/82)
+
 # 2015-07-16
 
 * [Responded to pnacl port](https://github.com/rust-lang/rust/pull/26505#issuecomment-121976244)
