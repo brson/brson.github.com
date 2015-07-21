@@ -7,6 +7,11 @@ layout: basic
 * Replacement laptop now in for repair
 * [Responded `rustc --fatal` RFC](https://github.com/rust-lang/rust/issues/27189#issuecomment-123385195)
 * [Merged multirust typo fix](https://github.com/brson/multirust/pull/82)
+* [Reviewed cargo fix for empty features](https://github.com/rust-lang/cargo/pull/1822)
+* [Reviewed extended errors](https://github.com/rust-lang/rust/pull/27084#issuecomment-123410872)
+* [Reviewed patch to remove rust-try.ll](https://github.com/rust-lang/rust/pull/27176)
+* [Mentioned LLVM 3.6 fix in that thread](https://internals.rust-lang.org/t/build-with-llvm-3-6-broken-on-head/2383/3?u=brson)
+* [Reviewed android configuration fixes](https://github.com/rust-lang/rust/pull/27173)
 
 # 2015-07-16
 
