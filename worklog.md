@@ -2,6 +2,86 @@
 layout: basic
 ---
 
+# 2015-07-29
+
+* [Replied to annotated-std thread](https://www.reddit.com/r/rust/comments/3eyppp/an_annotation_of_the_rust_standard_librarys_librs/ctkd4gy)
+* [Reviewed condvar wait timeout patch](https://github.com/rust-lang/rust/pull/27373)
+* Triaged beta backports
+* [Rejected associated type default backport](https://github.com/rust-lang/rust/pull/26728)
+* [Closed assoc type backport](https://github.com/rust-lang/rust/pull/27364)
+* [Re-reviewed condvar patch](https://github.com/rust-lang/rust/pull/27373)
+* Tried to schedule 8/27 meetup and failed
+* Added more tests and deleted dupes from ctrs
+* [Posted beta backports](https://github.com/rust-lang/rust/pull/27387)
+* [Reviewed panic! hygiene](https://github.com/rust-lang/rust/pull/27385#issuecomment-126094133)
+* [Responded to multirust man page issue](https://github.com/brson/multirust/issues/24#issuecomment-126094917)
+* [Reviewed curious inner module removal](https://github.com/rust-lang/rust/pull/27388)
+* [Reviewed stabilization pr](https://github.com/rust-lang/rust/pull/27370)
+* Started crater run for associated default type gating
+
+# 2015-07-28
+
+* [Begged people to resolve beta nominations](https://internals.rust-lang.org/t/triage-digest-tue-jul-28-2015/2411)
+* [Re-reviewed configure cleanup patch](https://github.com/sstewartgallus/rust/commit/c1b8365e328ea3d1741a83d76c30cd857ef6db99#commitcomment-12404209)
+* [Posted sprocket template](https://users.rust-lang.org/t/rust-sprocket-template-image/2254)
+* [Merged twir header id tweak](https://github.com/cmr/this-week-in-rust/pull/87)
+* [Merged tweaks to twir theme](https://github.com/cmr/this-week-in-rust/pull/78)
+* [Reviwed twir redesign](https://github.com/cmr/this-week-in-rust/pull/66)
+* [Merged twir job posting](https://github.com/cmr/this-week-in-rust/pull/91)
+* [Merged nasa42's twir work](https://github.com/cmr/this-week-in-rust/pull/90)
+* Published twir
+* Improved annotated std a bit
+* [Posted realstd removal](https://github.com/brson/rust/commit/64641985087e1aadfa2fcc1c849953b827a9fcd1)
+* [Posted annotated-std](https://www.reddit.com/r/rust/comments/3eyppp/an_annotation_of_the_rust_standard_librarys_librs/)
+* [Reviewed api stabilization](https://github.com/rust-lang/rust/pull/27370#issuecomment-125784460)
+
+# 2015-07-27
+
+* [Reviewed error codes](https://github.com/rust-lang/rust/pull/27230)
+* [Reviewed VS2015 patch](https://github.com/rust-lang/rust/pull/27250)
+* [Reviewed save analysis patch](https://github.com/rust-lang/rust/pull/27275)
+* [Reviewed rustup.sh typo fix](https://github.com/rust-lang/rustup/pull/23#issuecomment-124904545)
+* [Reviewed dllimport revert](https://github.com/rust-lang/rust/pull/27304)
+* [Reviewed readme update](https://github.com/rust-lang/rust/pull/26745)
+* [Reviewed multirust perf issue](https://github.com/brson/multirust/issues/83
+* Submitted internals.rlo expenses for July
+* Cleaning up meld.rs
+* [Created beta backport PR](https://github.com/rust-lang/rust/pull/27334)
+* [Reviewed configure cleanup](https://www.github.com/rust-lang/rust/pull/27331)
+* [Responded to regression fixes](https://internals.rust-lang.org/t/regression-analysis-for-1-2-beta-and-1-3-nightly/2395/4)
+* Bumped beta to .3
+* Started a build of 1.2.0-beta.3
+* [Nominated some pr for beta](https://github.com/rust-lang/rust/pull/26728)
+* **twir**
+* [Reviewed valgrind removal](https://github.com/rust-lang/rust/pull/27339)
+* [Reviewed morestack removal](https://github.com/rust-lang/rust/pull/27338)
+* Updated CTRS
+
+# 2015-07-25
+
+* Wrote up some notes on the Total Domination Kit
+* *meld*
+
+# 2015-07-24
+
+* [Started twir draft](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806/40?u=brson)
+
+# 2015-07-23
+
+* [Merged DNS addition to rust-infra](https://github.com/brson/rust-infra/pull/3)
+* [Filed bug on ellision regression](https://github.com/rust-lang/rust/issues/27248)
+* [Posted analysis of regressions with spreadsheet](https://internals.rust-lang.org/t/regression-analysis-for-1-2-beta-and-1-3-nightly/2395)
+* [Reviewed dllimport tweaks](https://github.com/rust-lang/rust/pull/27208)
+* [Reviewed LLVM pass manager cleanup](https://github.com/rust-lang/rust/pull/27224)
+* **meld**
+
+# 2015-07-22
+
+* **meld**
+* **investigating crater-cli failure on mac**
+* [Assigned nrc to old PR](https://github.com/rust-lang/rust/pull/26588)
+* [Reviewed cargo msvc fixes](https://github.com/rust-lang/cargo/pull/1825)
+
 # 2015-07-21
 
 * Replacement laptop now in for repair
@@ -12,6 +92,7 @@ layout: basic
 * [Reviewed patch to remove rust-try.ll](https://github.com/rust-lang/rust/pull/27176)
 * [Mentioned LLVM 3.6 fix in that thread](https://internals.rust-lang.org/t/build-with-llvm-3-6-broken-on-head/2383/3?u=brson)
 * [Reviewed android configuration fixes](https://github.com/rust-lang/rust/pull/27173)
+* **meld**
 
 # 2015-07-20
 
