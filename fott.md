@@ -1,12 +1,34 @@
 ---
+title: Rust Friends of the Tree
 layout: basic
 ---
 
-At the [weekly meeting](https://github.com/rust-lang/meeting-minutes)
-The Rust Team likes to occassionally recognize people who have made
-outstanding contributions to The Rust Project, its ecosystem, and its
-community. These people are 'friends of the tree', archived here
-for eternal glory.
+[The Rust Team](http://www.rust-lang.org/team.html) likes to
+occassionally recognize people who have made outstanding contributions
+to The Rust Project, its ecosystem, and its community. These people
+are 'friends of the tree', archived here for eternal glory.
+
+# 2015-07-24 Tshepang Lekhonkhobe
+
+[@Gankro](http://github.com/Gankro) has nominated [@tshepang](http://github.com/tshepang) for
+Friend of the Tree this week:
+
+Over the last year Tshepang has landed over 100 improvements to our
+documentation. Tshepang saw where documentation was not, and said
+"No. This will not do."
+
+We should all endeavor to care about docs as much as Tshepang.
+
+[Source](https://internals.rust-lang.org/t/subteam-reports-2015-07-24/2397).
+
+# 2015-05-19 Chris Morgan
+
+I'd like to nominate Chris Morgan (@chris-morgan) for Friend of the Tree today.
+Chris recently redesigned the play.rust-lang.org site for the 1.0 release,
+giving the site a more modern and rustic feel to it. Chris has been contributing
+to Rust for quite some time now, his first contribution dating back to July
+2013 and also being one of the early pioneers in the space of HTTP libraries
+written in Rust. Chris truly is a friend of the tree!
 
 ## 2015-03-24 Andrew Gallant (BurntSushi)
 
