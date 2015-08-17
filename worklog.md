@@ -2,6 +2,229 @@
 layout: basic
 ---
 
+# 2015-08-17
+
+* [Reviewed test runner panic patch](https://github.com/alexcrichton/rust/commit/bfc45834c110f7f021daffefcc2290c9133d6139)
+
+# 2015-08-15
+
+* Sent James and Jonas some appreciation for TaskCluster
+* Sent email about cross-std installation via cargo
+
+# 2015-08-14
+
+* [Responded to hn q about crater](https://news.ycombinator.com/reply?id=10061351&goto=item%3Fid%3D10060811)
+* Apologized to wycats for yelling at him
+* [Reviewed netbsd fix](https://github.com/rust-lang/rust/pull/27839)
+* [Reviewed old configure patch](https://github.com/rust-lang/rust/pull/27331#issuecomment-131219842)
+* [Posted regression reports](https://internals.rust-lang.org/t/regression-reports-for-stable-2015-08-06-beta-2015-08-11-nightly-2015-08-12/2508)
+* [Reviewed multirust fix](https://github.com/brson/multirust/pull/90)
+* Poked at CTRS a bit
+* [Responded to shebang lexer hack q](https://www.reddit.com/r/rust/comments/3gy99p/develop_test_run_and_deploy_rust_as_a_scripted/cu39jf0)
+
+# 2015-08-13
+
+* [Reviewed allocator patch](https://github.com/rust-lang/rust/pull/27400)
+* [Responded to cargo tarball issue](https://github.com/rust-lang/cargo/issues/1901#issuecomment-130746525)
+* [Reviewed make check msvc fix](https://github.com/rust-lang/rust/pull/27786)
+* [Reviewed multirust doc improvement](https://github.com/klieth/multirust/commit/a70368ef29178dda26d10a4695068a63c72b2a0f#diff-04c6e90faac2675aa89e2176d2eec7d8L74)
+* [Commented on `!` crater request](https://github.com/rust-lang/rfcs/pull/1216#issuecomment-130772783)
+* [Commented on CFG_CC](https://github.com/rust-lang/rust/pull/27653#issuecomment-130773787)
+* [Gave a suggestion to troubleshoot windows crash](https://users.rust-lang.org/t/rust-1-2-stable-windows-7-crash/2403/3)
+* [Encouraged somebody to work on semver comparison](https://users.rust-lang.org/t/signature-based-api-comparison/2377/6)
+* [Merged multirust first-run patch](https://github.com/brson/multirust/pull/89#issuecomment-130799070)
+* Posted prod user resarch summary to rust-community
+* [Reviewed libcore de-mathing](https://github.com/rust-lang/rust/pull/27823)
+* **1.3 relnotes**
+* Running crater builds for all channels
+
+# 2015-08-12
+
+* [Responded to crater request](https://github.com/rust-lang/rfcs/pull/1216#issuecomment-130322419)
+
+# 2015-08-11
+
+* [Asked hoodie if he wants to work on semver tool](https://users.rust-lang.org/t/signature-based-api-comparison/2377/4)
+* [Backported duration to beta](https://github.com/rust-lang/rust/pull/27668)
+* [Added tutorials tag to users.rlo](https://users.rust-lang.org/t/adding-a-tutorial-tag/2386)
+* [Merged crusader cleanup](https://github.com/brson/cargo-crusader/pull/2)
+* [Reviewed allocator patch again](https://github.com/rust-lang/rust/pull/27400)
+* [Merged a crusader cleanup patch](https://github.com/brson/cargo-crusader/pull/3)
+* [Reviewed cargo version bump](https://github.com/rust-lang/cargo/pull/1893)
+* [Posted another beta patch](https://github.com/rust-lang/rust/pull/27680)
+* [Reviewed msvc unwinding patch](https://github.com/rust-lang/rust/pull/27676)
+* [Commented on rustdoc frontmatter](https://github.com/rust-lang/rust/pull/16374#issuecomment-130129083)
+* [Reviewed new snaps](https://github.com/rust-lang/rust/pull/27678)
+* [Reviewed allocator patch again](https://github.com/rust-lang/rust/pull/27400)
+* [Reviewed minor doc patch](https://github.com/rust-lang/rust/pull/27682)
+
+# 2015-08-10
+
+* [Responded to crusader issue on contain-rs](https://github.com/contain-rs/discuss/issues/8)
+* [Merged crusader patch](https://github.com/brson/cargo-crusader/pull/1)
+* [Reviewed windows icon improvement](https://github.com/rust-lang/rust-packaging/pull/41)
+* [Responded to thread about semver verification](https://users.rust-lang.org/t/signature-based-api-comparison/2377/6?u=brson)
+* [Merged twir fix](https://github.com/cmr/this-week-in-rust/pull/93)
+* [Commented on must_use for fns](https://github.com/rust-lang/rfcs/pull/886#issuecomment-129621608)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/27648)
+* [Reviewed dllexport patch](https://github.com/rust-lang/rust/pull/27416)
+* [Published twir](http://this-week-in-rust.org/blog/2015/08/10/this-week-in-rust-91/)
+* [Updated authors PR](https://github.com/rust-lang/rust/pull/27572)
+* [Posted beta backports](https://github.com/rust-lang/rust/pull/27649)
+* Started build of 1.3-beta.2
+
+# 2015-08-09
+
+* [Posted term patch](https://github.com/rust-lang/term/pull/38)
+* **Final crusader polish**
+* [Posted crusader](https://users.rust-lang.org/t/cargo-crusader-0-1-test-the-downstream-impact-of-rust-crate-changes-before-publishing/2373)
+
+# 2015-08-08
+
+* [Posted bug about cargo onlineness](https://github.com/rust-lang/cargo/issues/1882)
+* [Asked about perf for load/store fixes](https://github.com/rust-lang/rust/pull/27600)
+* [Responded to q about available targets](https://www.reddit.com/r/rust/comments/3g58fx/any_ways_to_know_what_targets_are_supported_by_a/ctw5sqx)
+* **cargo-crusader**
+* **inline(always)**
+* **gold**
+
+# 2015-08-07
+
+* Released Rust 1.2
+* [Merged beta distcheck enable](https://github.com/rust-lang/rust/pull/27568)
+* [Reviewed extended errors](https://github.com/rust-lang/rust/pull/27378)
+* [Commented on rust-lang crates](https://github.com/rust-lang/rfcs/pull/1242#discussion_r36543044)
+* [Responded to multirust bug](https://github.com/brson/multirust/pull/84#issuecomment-128778780)
+* [Responded to q about msvc readiness](https://github.com/PistonDevelopers/VisualRust/issues/172#issuecomment-128594205)
+* Sent another email to (production user) offering help
+* [Removed built date from cargo](https://github.com/rust-lang/cargo/pull/1881)
+* [Reviewed multirust patch](https://github.com/brson/multirust/pull/87)
+* [Responded to multirust slow issue](https://github.com/brson/multirust/issues/83)
+* **Exploring servo debug perf**
+* [Merged multirust whitespace cleanup](https://github.com/brson/multirust/pull/88)
+* [Posted comment to gold issue](https://github.com/rust-lang/rust/issues/14560)
+
+# 2015-08-06
+
+* [Commented on experimentalness of msvc build](https://internals.rust-lang.org/t/1-2-rc-testing/2460/5)
+* [Nominated and accepted emergency beta port](https://github.com/rust-lang/rust/pull/27534)
+* [Backported distcheck fix to beta](https://github.com/rust-lang/rust/pull/27562)
+* [Disabled distcheck for beta](https://github.com/rust-lang/rust/pull/27563)
+* Started 1.3.0-beta.1 build agian
+* [Posted revert of distcheck disable](https://github.com/rust-lang/rust/pull/27564)
+* [Reviewed blog post](https://github.com/rust-lang/blog.rust-lang.org/pull/66)
+* [Thanked testers](https://internals.rust-lang.org/t/1-2-rc-testing/2460/6)
+* [Closed old servo issue](https://github.com/servo/servo/issues/249#issuecomment-128367330)
+* [Responded to rustdoc collapse thread](https://internals.rust-lang.org/t/could-function-text-in-rustdoc-be-collapsed-by-default/2470/2)
+* [Apologized to strcat](https://github.com/rust-lang/rust-playpen/issues/134#issuecomment-128487325)
+* [Posted AUTHORS.txt 1.3 update](https://github.com/rust-lang/rust/pull/27572)
+* [Responded to strict tls issue](https://github.com/rust-lang/rust-www/issues/165#issuecomment-128531369)
+* [Commented on mdBook](https://users.rust-lang.org/t/mdbook-v0-0-1-on-crates-io/2343)
+* [Posted staged_api opt](https://github.com/rust-lang/rust/pull/27574)
+* [Reviewed pretty testing patch](https://github.com/rust-lang/rust/pull/27571)
+* [Reviewed doc fix](https://github.com/rust-lang/rust/pull/27558)
+* [Posted revert for missing_doc lint revert](https://github.com/rust-lang/rust/pull/27575)
+* [Commented on windows configuration fixes](https://github.com/rust-lang/rust/pull/27553)
+* [Welcomed niconii](https://internals.rust-lang.org/t/new-moderation-team-member-niconii/2472/2)
+* [Triaged PR](https://github.com/rust-lang/rust/pull/27549)
+* [Reviewed doc PR](https://github.com/rust-lang/rust/pull/27552)
+* [Triage](https://github.com/rust-lang/rust/issues/27543)
+
+# 2015-08-05
+
+* [Posted 1.2 RCs](https://internals.rust-lang.org/t/1-2-rc-testing/2460)
+* [Reviewed fn pointer docs](https://github.com/rust-lang/rust/pull/27539)
+* [Respond to multirust os x perf issue](https://github.com/brson/multirust/issues/83#issuecomment-127762797)
+* [Merged multirust which](https://github.com/brson/multirust/pull/84)
+* [Reviewed morestack removal](https://github.com/rust-lang/rust/pull/27338)
+* [Reviewed dllexport patch](https://github.com/rust-lang/rust/pull/27416#issuecomment-128105534)
+* [Copied alex on a tls bug](https://github.com/rust-lang/rust/issues/27543)
+* Responded to all pings
+* Started 1.3-beta.1 build
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/27546)
+* [Updated website for 1.2](https://github.com/rust-lang/rust-www/pull/164)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/27550)
+* Summarized another prod meeting
+* [Reviewed old test removal](https://github.com/rust-lang/rust/pull/27505)
+* [Reviewed some patch](https://github.com/rust-lang/rust/pull/27516)
+* [Commented on pretty-printing # fix](https://github.com/rust-lang/rust/pull/27499#issuecomment-128182568)
+* Investigated instsimplify
+
+# 2015-08-04
+
+* [Updated rust-packaging for 1.3](https://github.com/rust-lang/rust-packaging/pull/39)
+* [Updated version to 1.4](https://github.com/rust-lang/rust/pull/27520)
+* [Posted message about rustacean t-shirt avail](https://www.reddit.com/r/rust/comments/3fscka/rustacean_tshirts_are_shipping_again/)
+* [Responded to multirust add-toolchain patch](https://github.com/brson/multirust/pull/85)
+* [Responded to multirust os x perf issue](https://github.com/brson/multirust/issues/83#issuecomment-127756226)
+* [Reviewed multirust which patch](https://github.com/brson/multirust/pull/84)
+* [Responded to multirust ctl issue](https://github.com/brson/multirust/issues/86)
+* [Commented on pub extern crate](https://github.com/rust-lang/rust/issues/26775#issuecomment-127771640)
+* [Commented on patch expanding doc comments](https://github.com/rust-lang/rust/pull/27499)
+* [Fixed Rachael Craig's name on www](https://github.com/rust-lang/rust-www/pull/160)
+* Summarized another prod meeting
+* Scheduled meeting with (production user)
+* [Merged some website PR](https://github.com/rust-lang/rust-www/pull/161)
+* [Posted commentary on function melding](https://internals.rust-lang.org/t/some-notes-on-reducing-monomorphizations/2459)
+* [Responded to German forum page](https://users.rust-lang.org/t/german-language-rust-forum-site-on-rust-lang-de/2295/32?u=brson)
+* [Posted notes about twir next](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806/47?u=brson)
+* [Posted stdx update](https://users.rust-lang.org/t/stdx-the-missing-batteries-of-rust/2015/51?u=brson)
+
+# 2015-08-03
+
+* Bumped 1.2 to beta 5
+* Started 1.2.0-beta.5 build
+* [Fixed some tags on an old beta-nominated issue](https://github.com/rust-lang/rust/pull/27405)
+* Made a few cargo-crusader README tweaks
+* Started 1.2.0-beta.4 crater run
+* Updated customer spreadsheet
+* [Reviewed relnote fix](https://github.com/rust-lang/rust/pull/27502)
+* [Triaged doc PR](https://github.com/rust-lang/rust/pull/27503)
+* [Reviewed httptest patch](https://github.com/brson/httptest/pull/2)
+* Bumped 1.2 to beta 6
+* Started 1.2.0-beta.6 build
+* [Posted 1.2.0-beta.4 regression report](https://internals.rust-lang.org/t/regression-report-stable-vs-1-2-0-beta-4/2456)
+* [Commented on weak-removal rfc](https://github.com/rust-lang/rfcs/pull/1232#issuecomment-127417736)
+* **twir**
+* [Merged twir typo](https://github.com/cmr/this-week-in-rust/pull/94).
+* [Published twir](http://this-week-in-rust.org/blog/2015/08/03/this-week-in-rust-90/).
+* [Merged twir fix](https://github.com/cmr/this-week-in-rust/pull/100).
+* [Reviewed some cargo pr](https://github.com/rust-lang/cargo/pull/1873).
+* [Reviewed rustup fix](https://github.com/rust-lang/rustup/pull/14).
+* [Responded to multirust override issue](https://github.com/brson/multirust/issues/54#issuecomment-127438754).
+
+# 2015-08-02
+
+* [Posted PR cleaning up std docs again](https://github.com/rust-lang/rust/pull/27473)
+* [Reviewed svh cleanup](https://github.com/rust-lang/rust/pull/27461)
+* [Created Cargo Crusader](https://github.com/brson/cargo-crusader)
+
+# 2015-07-31
+
+* More work on fixing beta
+* [Merged twir redesign](https://github.com/cmr/this-week-in-rust/pull/66#issuecomment-117923483)
+* [Reviewed `#[no_core]`](https://github.com/rust-lang/rust/pull/27393)
+* [Reviewed allocator patch](https://github.com/rust-lang/rust/pull/27400)
+* [Responded to Gankro's book naming issue](https://github.com/rust-lang/rust/issues/27412)
+* [Submittetd license patch to rust_snippets](https://github.com/geraldstanje/rust_snippets/pull/1)
+* [Reviewed 32-bit freebsd snap](https://github.com/rust-lang/rust/pull/27441)
+* Uploaded 32-bit freebsd snap
+* [Reviewed some PR](https://github.com/rust-lang/rust/pull/27017)
+* [Replied to win32 atom thread](https://users.rust-lang.org/t/using-atom-to-work-with-rust-under-win32/2280?u=brakmic)
+
+# 2015-07-30
+
+* Committed some work from last night to CTRS
+* Summarized one prod meeting
+* [Merged backports](https://github.com/rust-lang/rust/pull/27382)
+* [Approved associated default type gate](https://github.com/rust-lang/rust/pull/27382)
+* [Updated 1.2 relnotes](https://github.com/rust-lang/rust/pull/27405)
+* [Ported 1.2 relnotes to beta](https://github.com/rust-lang/rust/pull/27407)
+* Started 1.2.0-beta.4
+* Investigated crater failures
+* Added 1.2 tests to CTRS
+* [Published twir](https://www.reddit.com/r/rust/comments/3f8k7a/this_week_in_rust_89/)
+
 # 2015-07-29
 
 * [Replied to annotated-std thread](https://www.reddit.com/r/rust/comments/3eyppp/an_annotation_of_the_rust_standard_librarys_librs/ctkd4gy)
@@ -18,6 +241,8 @@ layout: basic
 * [Reviewed curious inner module removal](https://github.com/rust-lang/rust/pull/27388)
 * [Reviewed stabilization pr](https://github.com/rust-lang/rust/pull/27370)
 * Started crater run for associated default type gating
+* [Posted fotts to internals.rlo](https://internals.rust-lang.org/t/remembering-those-friends-of-the-tree)
+* Started summarizing production meetings
 
 # 2015-07-28
 
