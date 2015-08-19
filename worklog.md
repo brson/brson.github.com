@@ -5,6 +5,21 @@ layout: basic
 # 2015-08-17
 
 * [Reviewed test runner panic patch](https://github.com/alexcrichton/rust/commit/bfc45834c110f7f021daffefcc2290c9133d6139)
+* **
+* [Praised Vikrant's TWiR work](https://www.reddit.com/r/rust/comments/3hd143/this_week_in_rust_92/cu6dz0v)
+* [**Collecting info about packaging**](https://etherpad.mozilla.org/rust-packaging)
+* [Reviewed two-way search fix](https://github.com/rust-lang/rust/pull/27474#issuecomment-131959358)
+* [Reviewed rustup doc patch](https://github.com/rust-lang/rustup/pull/28)
+* Added burntsushi, kimundi, and vadim as reviewers
+* [Posted comment about CFG_CC](https://github.com/rust-lang/rust/pull/27653#issuecomment-131987429)
+* [Merged twir fix](https://github.com/cmr/this-week-in-rust/pull/103)
+* [Merged twir redesign](https://github.com/cmr/this-week-in-rust/pull/104)
+* [Merged twir fix](https://github.com/cmr/this-week-in-rust/pull/102)
+* [Reviewed multirust remove-override patch](https://github.com/brson/multirust/pull/91)
+* [Reviewed musl test fixes](https://github.com/rust-lang/rust/pull/27850)
+* [Posted issue about cargo-crusader truncated rev deps](https://users.rust-lang.org/t/cargo-crusader-0-1-test-the-downstream-impact-of-rust-crate-changes-before-publishing/2373/18?u=brson)
+* Sent Chris Granger an intro email
+* [Posted Servo UA link to /r/rust](https://www.reddit.com/r/rust/comments/3hdr3x/servo_gets_a_user_agent_string/)
 
 # 2015-08-15
 
