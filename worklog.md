@@ -2,6 +2,14 @@
 layout: basic
 ---
 
+# 2015-08-19
+
+* Failing to switch over to windows and upgrade to win 10
+* [Merged multirust remove-override patch](https://github.com/brson/multirust/pull/91)
+* [Finished crater run for ! patch](https://github.com/rust-lang/rfcs/pull/1216#issuecomment-132818192)
+* [Posted prod report](https://internals.rust-lang.org/t/production-user-research-summary/2530/1)
+* *Rusty Web Strike Force*
+
 # 2015-08-17
 
 * [Reviewed test runner panic patch](https://github.com/alexcrichton/rust/commit/bfc45834c110f7f021daffefcc2290c9133d6139)
