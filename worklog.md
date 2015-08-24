@@ -2,6 +2,29 @@
 layout: basic
 ---
 
+# 2015-08-24
+
+* [Commented on clone_from specialization](https://github.com/rust-lang/rust/pull/27939#issuecomment-134308893)
+
+# 2015-08-23
+
+* Started working on the Cargo-based CTRS runner
+
+# 2015-08-21
+
+* [Merged multirust whitespace fix](https://github.com/brson/multirust/pull/94)
+* [Triaged a typeck PR](https://github.com/rust-lang/rust/pull/27929)
+* [Running more tests for canndrew for !](https://github.com/rust-lang/rfcs/pull/1216#issuecomment-133363455)
+* Emailed contributor about adding compatibility reporting to crates.io
+* Setting up call with game devs, talking to Sven
+* *Rusty Web Strike Force*
+
+# 2015-08-20
+
+* *Rusty Web Strike Force*
+* Sent a variety of emails
+* [Brought up newline output conversion issue in newline RFC](https://github.com/rust-lang/rfcs/pull/1212#issuecomment-133231786)
+
 # 2015-08-19
 
 * Failing to switch over to windows and upgrade to win 10
@@ -13,7 +36,6 @@ layout: basic
 # 2015-08-17
 
 * [Reviewed test runner panic patch](https://github.com/alexcrichton/rust/commit/bfc45834c110f7f021daffefcc2290c9133d6139)
-* **
 * [Praised Vikrant's TWiR work](https://www.reddit.com/r/rust/comments/3hd143/this_week_in_rust_92/cu6dz0v)
 * [**Collecting info about packaging**](https://etherpad.mozilla.org/rust-packaging)
 * [Reviewed two-way search fix](https://github.com/rust-lang/rust/pull/27474#issuecomment-131959358)
