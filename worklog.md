@@ -2,9 +2,76 @@
 layout: basic
 ---
 
+# 2015-08-28
+
+* [Commented on clone_from](https://github.com/rust-lang/rust/pull/27939)
+* [Commented on multirust global toolchain issue](https://github.com/brson/multirust/issues/95)
+* [Reviewed README PR](https://github.com/rust-lang/rust/pull/28042#issuecomment-135664744)
+* [Reviewed CRLF PR](https://github.com/rust-lang/rust/pull/28034#issuecomment-135849910)
+* [Responded to Vikrant about TWiR](https://github.com/rust-lang/rust/pull/28034#issuecomment-135849910)
+* Responded to all pings
+* Asked edunham for ansible walkthrough
+* [Replied to mergefunc thread](https://internals.rust-lang.org/t/some-notes-on-reducing-monomorphizations/2459/10?u=brson)
+* [Reviewed svg compression PR](https://github.com/rust-lang/rust-www/pull/173#issuecomment-135868865)
+* [Commented on rust-www license](https://github.com/rust-lang/rust-www/issues/174#issuecomment-135870384)
+* [Posted website project](https://internals.rust-lang.org/t/rusty-web-improvement-bureau/2572/1)
+* [Reviewed rust-www license update](https://github.com/rust-lang/rust-www/pull/183)
+* Sent email about bay area rust training
+* [Posted regression report](https://internals.rust-lang.org/t/regression-report-stable-2015-08-06-vs-nightly-2015-08-27/2575)
+* [Triaged stability bug](https://github.com/rust-lang/rust/issues/28075#issuecomment-135896841)
+* [Started thread about gold linker](https://internals.rust-lang.org/t/how-to-move-to-the-gold-linker-on-linux/2576)
+* [Commented on atexit patch](https://github.com/rust-lang/rust/pull/28069#issuecomment-135909646)
+* [Fixed crusader pagination](https://github.com/brson/cargo-crusader/issues/5)
+* [Posted message about crusader fix](https://users.rust-lang.org/t/cargo-crusader-0-1-test-the-downstream-impact-of-rust-crate-changes-before-publishing/2373/21?u=brson)
+
+# 2015-08-27
+
+* [Posted hoverbear's business card](https://www.reddit.com/r/rust/comments/3ijhe2/rust_meetup_live_stream_at_7pm_pst_rust_raft/cuhhnco)
+* [Commented on OS X code signing](https://github.com/rust-lang/rust/issues/27694)
+* Thanked Yvonne and Diego for coming to Rust meetup
+* Rescheduled meeting with tomaka
+* [Posted VNDF to /r/rust](https://www.reddit.com/r/rust/comments/3im6a2/von_neumann_defense_force/)
+* [Replied to release calendar q](https://users.rust-lang.org/t/rust-releases-on-the-calendar/2636)
+* [Replied on aster](https://github.com/rust-lang/rust/pull/28006#issuecomment-135489063)
+* [Triaged a collections pr](https://github.com/rust-lang/rust/pull/28043)
+* [Responded to crossbeam thread](https://news.ycombinator.com/item?id=10131924)
+* [Posted libwebpki to hn](https://news.ycombinator.com/item?id=10131960)
+* [Reviewed CRLF patch](https://github.com/rust-lang/rust/pull/28034)
+* [Responded to crater q](https://github.com/rust-lang/rfcs/pull/1216#issuecomment-135552683)
+* [Reviewed README update](https://github.com/rust-lang/rust/pull/28042#issuecomment-135553343)
+* [Reviewed --llvm-root patch](https://github.com/rust-lang/rust/pull/27937#issuecomment-135555453)
+
+# 2015-08-26
+
+* Responded to pings
+* [Responded to semver thread](https://users.rust-lang.org/t/signature-based-api-comparison/2377/22)
+* [Gave canndrew a crater run](https://github.com/rust-lang/rfcs/pull/1216#issuecomment-135167689)
+* [Reviewed aster](https://github.com/rust-lang/rust/pull/28006)
+
+# 2015-08-25
+
+* Finishing up last few missions of Rusty Web Strike Force
+* Talked to rust-community about design team
+* Send Rusty Web Strike Force draft
+* Ordered pizza for meetup
+
 # 2015-08-24
 
 * [Commented on clone_from specialization](https://github.com/rust-lang/rust/pull/27939#issuecomment-134308893)
+* Sent gamedev meeting request
+* Added Hamburg meetup to calendar
+* Continued crater run for canndrew
+* [Merged twir fixes](https://github.com/cmr/this-week-in-rust/pull/106)
+* [Posted twir](https://www.reddit.com/r/rust/comments/3i90qi/this_week_in_rust_93/)
+* [Posted mac installer poll](https://www.reddit.com/r/rust/comments/3i9dms/which_rust_installer_for_mac_do_you_use_poll/)
+* [Replied to q about semver validation](https://users.rust-lang.org/t/cargo-crusader-0-1-test-the-downstream-impact-of-rust-crate-changes-before-publishing/2373/17)
+* [Tried to revive semver thread](https://users.rust-lang.org/t/signature-based-api-comparison/2377/18)
+* [Replied to dotdash about monomorphizations](https://internals.rust-lang.org/t/some-notes-on-reducing-monomorphizations/2459/8)
+* [Posted note about eco to twir thread](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806/52)
+* [Reviewed minor patch](https://github.com/rust-lang/rust/pull/27988)
+* [Assigned driver patch to nrc](https://github.com/rust-lang/rust/pull/27983)
+* [Reviewed some GEP/fatptr fixes](https://github.com/rust-lang/rust/pull/27981)
+* [Reviewed error codes](https://github.com/rust-lang/rust/pull/27905)
 
 # 2015-08-23
 
