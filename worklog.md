@@ -2,6 +2,371 @@
 layout: basic
 ---
 
+# 2015-10-15
+
+* [Responded to multirust xdg issue](https://github.com/brson/multirust/issues/104#issuecomment-148443720)
+* [Reviewed attr refactor](https://github.com/rust-lang/rust/pull/29014#issuecomment-148454950)
+* [Triaged parser fix](https://github.com/rust-lang/rust/pull/29072)
+* Created team@rust-lang.org and sent some qs to it
+* [Commented about breaking change documentation](https://internals.rust-lang.org/t/document-breaking-changes-better/2791/8?u=brson)
+* [Read placement in faq](https://internals.rust-lang.org/t/placement-nwbi-faq-new-box-in-left-arrow/2789)
+* [Reviewed test suite fixes](https://github.com/rust-lang/rust/pull/29079#issuecomment-148499348)
+
+# 2015-10-14
+
+* [Suggested ideas about soundness breakage](https://internals.rust-lang.org/t/rfc-1214-regression-report-where-to-go-from-here/2788/8?u=brson)
+* [Reviewed attribute refactoring](https://github.com/rust-lang/rust/pull/29014)
+* Fixed bugs in rust-packaging
+* [Reviewed tier docs](https://github.com/rust-lang/rust/pull/29055)
+
+# 2015-10-13
+
+* [Reviewed std makefile updates](https://github.com/rust-lang/rust/pull/29009)
+* [Reviewed www communmity pr](https://github.com/rust-lang/rust-www/pull/193#issuecomment-147795677)
+* [Merged ide page](https://github.com/rust-lang/rust-www/pull/195)
+* [Reviewed cargo doc pr](https://github.com/rust-lang/cargo/pull/2055#event-434302738)
+* [Reviewed www pr](https://github.com/rust-lang/rust-www/pull/196)
+* [Reviewed www pr](https://github.com/rust-lang/rust-www/pull/198)
+* [Commented on compiler perf](https://internals.rust-lang.org/t/appreciable-compilation-slowdown-with-sync-send-markers/2784/2?u=brson)
+* Fixed rustup tests on windows
+* Sent aturon contracting instructions
+
+# 2015-10-12
+
+* [Responded to multirust on raspbian](https://github.com/brson/multirust/issues/102#issuecomment-147442982)
+* [Reviewed rustfmt patch](https://github.com/rust-lang/rust/pull/28986)
+* [Reviewed rustfmt patch](https://github.com/rust-lang/rust/pull/28987)
+* [Triaged typeck PR](https://github.com/rust-lang/rust/pull/28931)
+* [Commented on rwib pr](https://github.com/rust-lang/rust-www/pull/193#issuecomment-147450936)
+* [Followed up on rwib](https://internals.rust-lang.org/t/rusty-web-improvement-bureau/2572/40)
+* Updated rust-packaging for std package
+* [Merged buildbot docs](https://github.com/rust-lang/rust-buildbot/pull/34)
+
+# 2015-10-09
+
+* [Reviewed some cargo PR](https://github.com/rust-lang/cargo/pull/2044#event-431039634)
+* [Triaged multirust tarball bug](https://github.com/brson/multirust/issues/103#issuecomment-146946120)
+* [Commented about changelog generation](https://github.com/ashleygwilliams/rust-release-explorer/issues/19#issuecomment-146947272)
+* [Responded to PRP](https://internals.rust-lang.org/t/perfecting-rust-packaging/2623/61?u=brson)
+* [Responded to WCT thread](https://internals.rust-lang.org/t/adding-wct-number-system-to-rust/2764/6?u=brson)
+* [Merged buildbot PR](https://github.com/rust-lang/rust-buildbot/pull/32)
+* More PRP work
+* [Filed license issue against multirust-rs](https://github.com/Diggsey/multirust-rs/issues/11)
+* [Posted PRP plan](https://internals.rust-lang.org/t/perfecting-rust-packaging-the-plan/2767)
+* [Commented about i586](https://users.rust-lang.org/t/i586-support-illegal-hardware-instruction/2694/11?u=brson)
+* Triaged PRs for twir
+* Reviewed a bit of cargo install
+* [Reviewed some cargo pr](https://github.com/rust-lang/cargo/pull/2048#event-431850440)
+
+# 2015-10-08
+
+* Responded to q about coc license
+* [Merged PR to gate on msvc](https://github.com/rust-lang/rust-buildbot/pull/31)
+* [Reviewed minor Cargo patch](https://github.com/rust-lang/cargo/pull/2032#event-429327744)
+* [Commented on raspian multirust failure](https://github.com/brson/multirust/issues/102)
+* [Reviewed Cargo optimizations](https://github.com/rust-lang/cargo/pull/2035)
+* [Reviewed Cargo dedupe patch](https://github.com/rust-lang/cargo/pull/2040#event-429948969)
+* [Asked gerv's opinion about bundling licenses in Cargo](https://github.com/rust-lang/cargo/pull/2013#issuecomment-146643267)
+* [Commented on OS X dynamic linking problemns](https://github.com/rust-lang/rust/issues/28640#issuecomment-146644958)
+* [Thanked arielb1 for explaining a change](https://github.com/rust-lang/rust/pull/28790#issuecomment-146645412)
+* [Thanked gorhill for linking about blocking suggested tiles](https://github.com/gorhill/uBlock/issues/789#issuecomment-146646460)
+* [Removed relnotes tag from simple PR](https://github.com/rust-lang/rust/pull/28738#issuecomment-146647276)
+* [Commented on regression report](https://internals.rust-lang.org/t/regression-reports-stable-2015-09-17-vs-beta-2015-10-02-nightly-10-06/2737/4?u=brson)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/28817)
+* [Reviewed submlime text patch](https://github.com/rust-lang/sublime-rust/pull/65)
+* [Closed old crates.io PR](https://github.com/rust-lang/crates.io/pull/111)
+* [Posted Rust release explorer to /r/rust](https://www.reddit.com/r/rust/comments/3o073p/rust_release_explorer/)
+* [Praised @ag_dubs' release explorer](https://internals.rust-lang.org/t/rust-release-explorer/2746/2?u=brson)
+* [Commented on old rust-installer PR](https://github.com/rust-lang/rust-installer/pull/25#issuecomment-146654770)
+* [Commented on old vim PR](https://github.com/rust-lang/rust.vim/pull/14#issuecomment-146655079)
+* [Merged old vim PR](https://github.com/rust-lang/rust.vim/pull/16)
+* [Responded to rwib thread](https://internals.rust-lang.org/t/rusty-web-improvement-bureau/2572/38)
+* [Reviewed www community page](https://github.com/rust-lang/rust-www/pull/193#issuecomment-146706053)
+* [Triaged an old deref bug](https://github.com/rust-lang/rust/issues/19509#issuecomment-146710089)
+
+# 2015-10-07
+
+* Received new stickers, offered them to a community organizer
+* [Posted airmo podcast](https://www.reddit.com/r/rust/comments/3nv15e/air_mozilla_rust_podcast_feed/)
+* [Asked questions of packagers](https://internals.rust-lang.org/t/perfecting-rust-packaging/2623/45?u=brson)
+* Worked on packaging tasks
+
+# 2015-10-06
+
+* [Merged twir fix](https://github.com/cmr/this-week-in-rust/pull/134)
+* Started crater run for beta/nightly
+* [Posted regression report](https://internals.rust-lang.org/t/regression-reports-stable-2015-09-17-vs-beta-2015-10-02-nightly-10-06/2737)
+* [Reviewed some cargo pr](https://github.com/rust-lang/cargo/pull/2022)
+
+# 2015-10-05
+
+* [Filed uBlock issue to disable suggested tiles](https://github.com/gorhill/uBlock/issues/789)
+* [Commented on KeePassC](https://www.reddit.com/r/rust/comments/3nk3f5/keepassc_by_raymontag_aka_lykaner_aka_grayfox/cvp5mnx)
+* [Posted status](https://www.reddit.com/r/rust/comments/3njk0l/whats_everyone_working_on_this_week_week_41_2015/cvp66ej)
+* [Merged twir](https://github.com/cmr/this-week-in-rust/pull/130)
+* [Encouraged edunham's doc efforts](https://github.com/rust-lang/rust-buildbot/pull/29#issuecomment-145629234)
+* [Commented on doc repo](https://internals.rust-lang.org/t/shouldnt-the-book-be-in-a-separate-repo/2724/14?u=brson)
+
+# 2015-10-04
+
+* [Added tock paper to biblio](https://github.com/rust-lang/rust/pull/28840)
+* [Reviewed rustdoc license patch](https://github.com/rust-lang/rust/pull/28573)
+
+# 2015-10-02
+
+* Filled out tools meeting poll
+* [Reviewed soundness fix](https://github.com/rust-lang/rust/pull/28669)
+* Triaged the week's PRs for relnotes/twir
+* [Nominated regression fix for beta](https://github.com/rust-lang/rust/pull/28681)
+* [Commented about reconfig changes](https://github.com/rust-lang/cargo/pull/2003#issuecomment-145118489)
+* [Reviewed from_utf8 doc PR](https://github.com/rust-lang/rust/pull/28812)
+* [Updated fotts](https://internals.rust-lang.org/t/remembering-those-friends-of-the-tree/2415/4)
+* [Reviewed a doc pr](https://github.com/rust-lang/rust/pull/28819)
+
+# 2015-10-01
+
+* [Reviewed dep-info patch](https://github.com/rust-lang/rust/pull/28768)
+* Introduced edunham to Corey Shields
+* Investigated iot conferences
+* Finished new sticker order
+* [Reviewed rwib community page](https://internals.rust-lang.org/t/rusty-web-improvement-bureau/2572/32?u=brson)
+* [Checked on rwib faq](https://github.com/rust-lang/rust-www/issues/181#issuecomment-144857860)
+* [Finished rwib 8](https://github.com/rust-lang/rust-www/pull/187)
+* [Closed rwib 8](https://github.com/rust-lang/rust-www/issues/182)
+* [Followed up on prp](https://internals.rust-lang.org/t/perfecting-rust-packaging/2623/44)
+* [Merged backports](https://github.com/rust-lang/rust/pull/28802)
+
+# 2015-09-30
+
+* [Commented on multirust](https://users.rust-lang.org/t/multirust-0-7-now-with-msys2-support/2990/7)
+* [Triaged rustdoc issue](https://github.com/rust-lang/rust/pull/28683)
+* [Reviewed rustfmting](https://github.com/rust-lang/rust/pull/28698)
+* [Commented on --version reporting llvm version](https://github.com/rust-lang/rust/issues/28405#issuecomment-143608961)
+* [Reviewed rustfmting](https://github.com/nrc/rust/commit/9d34308a13316188c62cf1feaa8b858f18ce8bca#commitcomment-13524178)
+* Fixed vadim's homu config
+* [Reviewed some windows patch](https://github.com/rust-lang/rust/pull/28741#issuecomment-144490993)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/28761)
+* [Reviewed rustfmting](https://github.com/rust-lang/rust/pull/28697#issuecomment-144492290)
+* Responded to all pings
+* Continued crater run for https://github.com/rust-lang/rust/pull/28669
+* [Finished a crater run](https://github.com/rust-lang/rust/pull/28369#issuecomment-144509161)
+* [Finished crater runfor link order swap](https://github.com/rust-lang/rust/pull/28605)
+* Set up debug builder with edunham
+* Scheduled rustdoc.org meeting
+* [Reviewed cargo --license patch](https://github.com/rust-lang/cargo/pull/2013#issuecomment-144547650)
+* Pointed windowsbunny toward makefile help
+* [Finished crater run](https://github.com/rust-lang/rust/pull/28669#issuecomment-144551890)
+
+# 2015-09-29
+
+* [Posted lalrpop to hn](https://news.ycombinator.com/item?id=10296149)
+* [Reviewed benchmark updates](https://github.com/rust-lang/rust/pull/28623)
+* Scheduled debug bot setup
+* Sent Vikrant deploy keys to TWiR
+* [Updated notes about compile-fail rustdoc](https://github.com/rust-lang/rust/issues/27328#issuecomment-144152641)
+* Sent email to extended diagnostic folks to get them tested
+* [Outlined cross-std plan](https://etherpad.mozilla.org/rust-cross-compilation-plan)
+* Responded to timon about fosdem proposal
+* 3 crater runs
+
+# 2015-09-28
+
+* [Encouraged llogiq](https://www.reddit.com/r/rust/comments/3mofy0/when_rust_makes_sense_or_the_state_of_typed/cvh31h9)
+* [Merged twir](https://github.com/cmr/this-week-in-rust/pull/128)
+* Debugging new twir deployment
+* Asked vikrant for his gpg key
+* [Commented on gecko depinfo bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1208566#c5)
+* [Made some notes about a recent optimization](https://github.com/rust-lang/rust/pull/28531?#issuecomment-143857789)
+* [Reviewed travis changes](https://github.com/rust-lang/rust/pull/28500#issuecomment-143863265)
+* [Published twir](https://www.reddit.com/r/rust/comments/3mqnh6/this_week_in_rust_98/)
+* Extended nginx timeout to fix crater errors
+* Scheduled crate builds for some lifetime PR
+* [Reviewed some cargo thing](https://github.com/rust-lang/cargo/pull/2006)
+* [Posted webrender to /r/rust](https://www.reddit.com/r/rust/comments/3mrq32/preliminary_results_for_servos_new_gpubased/)
+* [Wrote status](https://www.reddit.com/r/rust/comments/3modb4/whats_everyone_working_on_this_week_week_40_2015/cvhjkpt)
+
+# 2015-09-25
+
+* [Comented on Rust license attribution](https://www.reddit.com/r/rust/comments/3m95tg/survey_of_licenses_used_by_rust_projects_on/cvdvdg9)
+* Escalated FOSDEM
+* Scheduled infra planning mtg
+* Created rustup-push team and added edunham
+* [Encouraged servo-electron](https://www.reddit.com/r/rust/comments/3mcpfu/questions_about_the_servo_rendering_engine/)
+* Documented infra security concerns
+* Sent Kenton kudos for his blog post
+* [Reviewed rust-installer cygwin fix](https://github.com/rust-lang/rust-installer/pull/44)
+* [Triaged multirust issue](https://github.com/brson/multirust/issues/101)
+* Triaged PRs for TWiR
+* [Merged rustup cygwin fix](https://github.com/rust-lang/rustup/pull/31)
+* [Responded to multirust thread](https://users.rust-lang.org/t/multirust-0-7-now-with-msys2-support/2990)
+* Reviewed nrc's IDE initiative
+* Connected edunham and Gene Wood
+* [Posted opinion about oibit-based recover proposal](https://github.com/rust-lang/rfcs/pull/1236#issuecomment-143361653)
+
+# 2015-09-24
+
+* [Released multirust 0.7 with msys2 support](https://users.rust-lang.org/t/multirust-0-7-now-with-msys2-support/2990)
+* Sent eddyb kudos for his comment to sutter
+
+# 2015-09-23
+
+* [Commented on emscripten status](https://news.ycombinator.com/item?id=10266499)
+* [Commented on compiletest -> nursery](https://internals.rust-lang.org/t/proposing-compiletest-for-the-nursery/2681/8?u=brson)
+* Set up meeting with sunfish/niko to talk about codegen
+* [Commented on dllipmort](https://github.com/rust-lang/rust/issues/27438#issuecomment-142731302)
+* [Filed issue on cargo cache](https://github.com/rust-lang/cargo/issues/1997)
+* [Commented about libcore](https://github.com/rust-lang/rust/issues/27701#issuecomment-142745907)
+* [Posted multirust windows patch](https://github.com/brson/multirust/pull/100)
+
+# 2015-09-22
+
+* [Started crater run for some pr](https://github.com/rust-lang/rust/pull/28369)
+* Building crater on msvc
+* [Escalated dllimport issue](https://github.com/rust-lang/rust/issues/27438)
+* [Submitted dllimport warkaround to rust-phf](https://github.com/sfackler/rust-phf/pull/66)
+* [Commented on parsing command line args from file](https://github.com/rust-lang/rust/pull/28391#issuecomment-142455184)
+* Reviewed libc rfc
+* [Reviewed solaris support](https://github.com/rust-lang/rust/pull/28589)
+* [Reviewed rump kernel patch](https://github.com/rust-lang/rust/pull/28593)
+* [Deployed TWiR](https://www.reddit.com/r/rust/comments/3m0b39/this_week_in_rust_97/)
+* [Merged TWiR PR](https://github.com/cmr/this-week-in-rust/pull/122)
+* [Merged TWiR PR](https://github.com/cmr/this-week-in-rust/pull/126)
+* [Merged TWiR PR](https://github.com/cmr/this-week-in-rust/pull/123)
+* [Merged TWiR PR](https://github.com/cmr/this-week-in-rust/pull/121)
+* [Merged TWiR PR](https://github.com/cmr/this-week-in-rust/pull/120)
+* [Replied to PRP](https://internals.rust-lang.org/t/perfecting-rust-packaging/2623/39?u=brson)
+
+# 2015-09-21
+
+* [Merged hoedown upgrade](https://github.com/rust-lang/hoedown/pull/4)
+* [Triage](https://github.com/rust-lang/rust/pull/28364#issuecomment-142091627)
+* [Commented on /DEBUG](https://github.com/rust-lang/rust/issues/28448#issuecomment-142093896)
+* [Reviewed rustdoc license pr](https://github.com/rust-lang/rust/pull/28573#issuecomment-142095812)
+* [Updated rwib 8 pr](https://github.com/rust-lang/rust-www/pull/187#issuecomment-142142645)
+
+# 2015-09-18
+
+* [Responded to panic thread](https://www.reddit.com/r/rust/comments/3lftcl/rust_panics_too_easily/cv5z6r8)
+* [Responded to release process thread](https://internals.rust-lang.org/t/the-rust-release-process-as-of-1-3-0/2651/3?u=brson)
+* Adjusted stable regression tags
+* Project planning
+* [Filed snapshot.pyc issue](https://github.com/rust-lang/rust/issues/28508)
+* [Filed LLVM license issue](https://github.com/rust-lang/rust/issues/28509)
+* [Replied to prp](https://internals.rust-lang.org/t/perfecting-rust-packaging/2623/33)
+
+# 2015-09-17
+
+* [Contributed community links to rust-learning](https://github.com/ctjhoa/rust-learning/pull/21)
+* Released 1.3
+* [Commented on multirust s3 issue](https://github.com/brson/multirust/issues/93)
+* [Suggested CTRS to somebody implementing a parser](https://users.rust-lang.org/t/advice-on-build-a-test-suite-for-a-parser-of-the-rust-language/2897)
+* [Retried jemalloc patch](https://github.com/rust-lang/rust/pull/28304)
+* Registered for dec ww
+* [Documented current release process](https://internals.rust-lang.org/t/the-rust-release-process-as-of-1-3-0/2651)
+* [Commented on bug bounty](https://www.reddit.com/r/rust/comments/3ld1hl/rust_should_really_have_a_bounty_program/)
+* [Assigned rwib mission 2](https://internals.rust-lang.org/t/rusty-web-improvement-bureau/2572/27)
+* [Showed niko a lalrpop error](https://github.com/nikomatsakis/lalrpop/pull/20#issuecomment-141292092)
+* [Posted suggestions to crate of the week](https://users.rust-lang.org/t/crate-of-the-week/2704/33?u=brson)
+
+# 2015-09-16
+
+* [Reviewed cargo version bump](https://github.com/rust-lang/cargo/pull/1988#issuecomment-140797217)
+* [Commented on souper](https://www.reddit.com/r/rust/comments/3l3bnn/eliminating_branches_in_rust_for_fun_but_not_much/cv3pskw)
+* [Staged 1.3 RC's for testing](https://internals.rust-lang.org/t/1-3-rc-testing/2643)
+* [Updated rust-www for 1.3](https://github.com/rust-lang/rust-www/pull/189)
+* Investigating https://github.com/nikomatsakis/lalrpop/issues/18
+* [Posted /DEBUG issue](https://github.com/rust-lang/rust/issues/28448)
+* [Fixed lalrpop win bug](https://github.com/nikomatsakis/lalrpop/pull/20)
+
+# 2015-09-15
+
+* [Triaged backport suggestion](https://github.com/rust-lang/rust/pull/28395#issuecomment-140473997)
+* Sent email to community team about weekly task suggestions
+* [Added wellington meetup to the calendar](https://www.reddit.com/r/rust/comments/3l01ax/meetup_in_wellington_nz/)
+* Updated 1.3 relnotes
+* [Decided not to do last minute diagnostics backport](https://github.com/rust-lang/rust/pull/28395)
+* [Backported relnotes](https://github.com/rust-lang/rust/pull/28425)
+* Promoted release channels
+* [Bumped to 1.5](https://github.com/rust-lang/rust/pull/28426)
+* Started 1.3 and 1.4 beta builds
+* [Merged httptest fixes](https://github.com/brson/httptest/pull/3)
+* Responded to packt about new books
+* [Posted rust-packaging update for 1.4](https://github.com/rust-lang/rust-packaging/pull/42)
+* [Responded to rustdoc licensing](https://users.rust-lang.org/t/licensing-rustdoc-output/2880/2?u=brson)
+* [Responded to PRP](https://internals.rust-lang.org/t/perfecting-rust-packaging/2623/16)
+
+# 2015-09-14
+
+* [Merged twir style tweaks](https://github.com/cmr/this-week-in-rust/pull/117)
+* [Merged twir](https://github.com/cmr/this-week-in-rust/pull/119#issuecomment-140206825)
+* [Posted twir](https://www.reddit.com/r/rust/comments/3kykhu/this_week_in_rust_96/)
+* [Commented on multirust msys fixes](https://github.com/brson/multirust/pull/99#issuecomment-140208228)
+* [Commented on multirust fuzzy matching](https://github.com/brson/multirust/pull/98#issuecomment-140208755)
+* [Posted status to irlo](https://users.rust-lang.org/t/what-s-everyone-working-on-this-week-week-38-2015/2857/8?u=brson)
+* [Asked frank mcsherry about timely closures](https://www.reddit.com/r/rust/comments/3kvifv/whats_everyone_working_on_this_week_week_38_2015/cv1m2mg)
+* 1.3 relnotes
+* [Commented on cargo-build fixes](https://github.com/AerialX/cargo-build/pull/4#issuecomment-140224450)
+* [Thanked tomaka for writing up gamedev problems](https://users.rust-lang.org/t/my-gamedever-wishlist-for-rust/2859/6?u=brson)
+* [Posted relnote PR for 1.3](https://github.com/rust-lang/rust/pull/28408)
+* [Requested relnote review](https://internals.rust-lang.org/t/1-3-relnote-review/2635)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/28314)
+
+# 2015-09-11
+
+* [Replied to erickt's str cmp opt](https://github.com/rust-lang/rust/pull/28338#issuecomment-139593532)
+* [Responded to twir thread about task of the week](https://users.rust-lang.org/t/this-week-in-rust-editors-thread/1806/52)
+* [Responded to --channel=release in source tarball issue](https://github.com/rust-lang/rust/issues/28322#issuecomment-139614600)
+* [Responded to deb/rpm issue](https://github.com/rust-lang/rust/issues/28307#issuecomment-139615526)
+* [Reviewed cargo rustdoc](https://github.com/rust-lang/cargo/pull/1977#issuecomment-139617489)
+* [Triaged libfmt_macros](https://github.com/rust-lang/rust/pull/28357#issuecomment-139617914)
+* [Responded to RWIB 8 PR](https://github.com/rust-lang/rust-www/pull/187#issuecomment-139618974)
+* Responded to larsberg about github 2fa
+* Posted my press quote list privately
+* 1.3 relnotes
+* [Updated configure PR](https://github.com/rust-lang/rust/pull/28340#issuecomment-139666941)
+* [Reviewed sublime-rust patch](https://github.com/rust-lang/sublime-rust/pull/62)
+* [Commented on import stability fix](https://github.com/rust-lang/rust/pull/28364#issuecomment-139682971)
+
+# 2015-09-10
+
+* [Posted another regression report](https://internals.rust-lang.org/t/regression-report-stable-2015-08-06-vs-nightly-2015-09-08/2622)
+* Working on packaging thread
+* [Posted configure script cleanup PR](https://github.com/rust-lang/rust/pull/28340)
+* [Posted metadata optimization PR](https://github.com/rust-lang/rust/pull/28341)
+* [Posted perfecting rust packaging](https://internals.rust-lang.org/t/perfecting-rust-packaging/2623)
+* [Reviewed string cmp optimization](https://github.com/rust-lang/rust/pull/28338#issuecomment-139411715)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/28328)
+* [Merged svg opts](https://github.com/rust-lang/rust-www/pull/173)
+* [Responded to FAQ thread](https://users.rust-lang.org/t/taking-suggestions-for-the-new-rust-faq/2813/2?u=brson)
+* [Encouraged chinese translation](https://users.rust-lang.org/t/whats-everyone-working-on-this-week-week-36-2015/2679/33?u=brson)
+* [Posted RWIB 8 PR](https://github.com/rust-lang/rust-www/pull/187)
+
+# 2015-09-09
+
+* [Merged twir fix](https://github.com/cmr/this-week-in-rust/pull/115)
+* [Merged twir fix](https://github.com/cmr/this-week-in-rust/pull/116)
+* [Relpied to why rust](https://news.ycombinator.com/edit?id=10192985)
+* [Responded to rust-buildbot OpenBSD PR](https://github.com/rust-lang/rust-buildbot/pull/26#issuecomment-138982126)
+* Wrote a fott
+* [Asked for status on stability issue](https://github.com/rust-lang/rust/issues/28075#issuecomment-139065323)
+* [Posted regression report](https://internals.rust-lang.org/t/regression-report-stable-2015-08-06-vs-nightly-2015-09-04/2618)
+* Started another crater run
+* [Reviewed cargo fix](https://github.com/rust-lang/cargo/pull/1981)
+* [Commented on release channel defaults](https://github.com/rust-lang/rust/issues/28322#issuecomment-139070512)
+* [Reviewed rt decimation](https://github.com/rust-lang/rust/pull/28306#issuecomment-139072337)
+* [Commented on ecosystem doc initiative](https://users.rust-lang.org/t/lets-talk-about-ecosystem-documentation/2791/15?u=brson)
+* [Posted to status thread](https://users.rust-lang.org/t/whats-everyone-working-on-this-week-week-36-2015/2679/31?u=brson)
+* Started composing packaging thread
+* [Offered suggestion for targeting i386](https://users.rust-lang.org/t/running-rust-on-i386-systems/2787/6?u=brson)
+* [+1 a community survey](https://users.rust-lang.org/t/rust-community-survey/2779/3?u=brson)
+
+# 2015-09-08
+
+* Reviewed regressions with Niko
+* [Posted twir](https://www.reddit.com/r/rust/comments/3k5nnr/this_week_in_rust_95/)
+* [Reviewed cargo curl update](https://github.com/rust-lang/cargo/pull/1972#issuecomment-138732316)
+* [Reviewed some cargo patch](https://github.com/rust-lang/cargo/pull/1975#event-404259149)
+
 # 2015-08-28
 
 * [Commented on clone_from](https://github.com/rust-lang/rust/pull/27939)
