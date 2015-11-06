@@ -2,6 +2,161 @@
 layout: basic
 ---
 
+# 2015-11-06
+
+* [Reviewed www windows prs](https://github.com/rust-lang/rust-www/pull/216)
+* [More faq reviews](https://github.com/rust-lang/rust-www/pull/202)
+
+# 2015-11-05
+
+* [Commented on 'thread safety' claim](https://github.com/rust-lang/rust-www/pull/213)
+* [Reviewed multirust bash completions](https://github.com/brson/multirust/pull/110)
+* [Reviewed the doc page](https://github.com/rust-lang/rust-www/pull/200#issuecomment-154201830)
+* [Reviewed faq](https://github.com/rust-lang/rust-www/pull/202)
+* [Reviewed setenv pr](https://www.github.com/rust-lang/rust/pull/29305)
+* [Reviewed some patch](https://www.github.com/rust-lang/rust/pull/29491)
+* [Reviewed fixes to prepare.mk](https://github.com/rust-lang/rust/pull/29653)
+
+# 2015-11-04
+
+* [Commented on mechanical test output](https://github.com/rust-lang/rfcs/pull/1284#issuecomment-153834811)
+* [Reviewed cargo PR](https://github.com/rust-lang/cargo/pull/2113)
+* [Reviewed another cargo PR](https://github.com/rust-lang/cargo/pull/2114)
+* [Triaged multirust feature req](https://github.com/brson/multirust/issues/108)
+* [Responded to PRP](https://internals.rust-lang.org/t/perfecting-rust-packaging-the-plan/2767/19)
+* [Commented about rpath on install](https://github.com/rust-lang/rust/issues/21483#issuecomment-153889477)
+* [Backported a PR](https://github.com/rust-lang/rust/pull/29592)
+* [Reviewed book intro PR](https://github.com/rust-lang/rust/pull/29538)
+* [Updated relnotes PR](https://github.com/rust-lang/rust/pull/29416)
+* Started new beta
+* [Reviewed cargo PR](https://github.com/rust-lang/cargo/pull/2115)
+
+# 2015-11-03
+
+* Reviewed libc migration
+* [Posted doc index PR](https://github.com/rust-lang/rust/pull/29549)
+* [Fixed website titles](https://github.com/rust-lang/rust-www/pull/211)
+* Updated ctrs for 1.4
+* Worked on contributions page
+* Fixed crater again
+* Filed issues for PRP
+* [Commented about Haxe](https://internals.rust-lang.org/t/haxe-influences/2860/2)
+
+# 2015-11-02
+
+* Reviewed twir for vikram
+* Fixing crater for std changes
+* Updating ctrs for 1.4
+* [Worked on www contributing page](https://github.com/efindlay/rust-www/pull/4)
+* [Removed rachael from community team](https://github.com/rust-lang/rust-www/pull/210)
+* [Reviewed minor test case PR](https://github.com/efindlay/rust-www/pull/4)
+
+# 2015-10-30
+
+* [Responded to q about building rustc with rustc](https://www.reddit.com/r/rust/comments/3qqdqk/announcing_rust_14/cwin89x)
+* [Reviewed some compiler-rt revert](https://github.com/rust-lang/rust/pull/2947)7
+* [Reviewed doc pr](https://github.com/rust-lang/rust/pull/29484)
+
+# 2015-10-29
+
+* Released 1.4
+* [Updated relnotes](https://github.com/rust-lang/rust/pull/29416)
+* [Reviewed libc stuff](https://github.com/rust-lang-nursery/libc/pull/21)
+* Merged community page
+
+# 2015-10-28
+
+* [Reviewed win dll fixes](https://github.com/rust-lang/rust/pull/2940)
+* [Uploaded stable bins to staging](https://gist.github.com/brson/820c25540da2e5f4db78)
+* [Updated AUTHORS.txt](https://github.com/rust-lang/rust/pull/29437)
+* [Reviewed #[deprecated] RFC](https://github.com/rust-lang/rfcs/pull/1270)
+* [Posted www updates](https://github.com/rust-lang/rust-www/pull/204)
+* [Merged backports](https://github.com/rust-lang/rust/pull/29443)
+* [Commented on changelogs](https://internals.rust-lang.org/t/document-breaking-changes-better/2791/15)
+
+# 2015-10-27
+
+* [Merged rust-packaging PR](https://github.com/rust-lang/rust-packaging/pull/44)
+* Conference call with Diggsey about rustup.exe
+* [Merged twir update](https://github.com/cmr/this-week-in-rust/pull/143)
+* [Commented on exit code 101](https://www.reddit.com/r/rust/comments/3qdvez/guarantees_about_exit_codes/cwf46cb)
+* Wrote 1.4 release notes
+* Did release things
+
+# 2015-10-23
+
+* [Merged fuzzy matching into multirust](https://github.com/brson/multirust/pull/98)
+* [Reviewed hacks](https://github.com/rust-lang/rust/pull/29256)
+* [Merged buildbot travis config](https://github.com/rust-lang/rust-buildbot/pull/40)
+* [Merged multirust readme update](https://github.com/brson/multirust/pull/105)
+* [Followed up on website pr](https://www.reddit.com/r/rust/comments/3ptthw/seeking_feedback_on_new_website_community_page/)
+* [Reviewed win32 fix](https://github.com/rust-lang/rust/pull/29255)
+* Worked on lars servo paper
+* [Merged beta ports](https://github.com/rust-lang/rust/pull/29262)
+* Started beta build
+* [Reviewed api stabilization](https://github.com/rust-lang/rust/pull/29254)
+* Sent vikram prs
+
+# 2015-10-22
+
+* Talked to acrichto about Rustup New Experience
+* Invited Diggsey to talk about Rustup New Experience
+* [Reviewed makefile hacks](https://github.com/rust-lang/rust/pull/29237)
+* [Posted community subteam report](https://github.com/rust-lang/subteams/pull/16)
+* [Sent efindlay another community PR](https://github.com/efindlay/rust-www/pull/3)
+* [Posted request for community page feedback to reddit](https://www.reddit.com/r/rust/comments/3ptthw/seeking_feedback_on_new_website_community_page/)
+* Reviewing Lars's servo paper
+* [Nominated backport fix](https://github.com/rust-lang/rust/pull/29241)
+* [Praised Diggsey](https://www.reddit.com/r/rust/comments/3pu6bn/multirust_in_rust/cw9hv6t)
+
+# 2015-10-21
+
+* rwibbing
+* [Reviewed gcc fix](https://github.com/rust-lang/rust/pull/29195)
+
+# 2015-10-20
+
+* [Commented about duplicate tests in ctrs](https://github.com/brson/ctrs/issues/1)
+* [Merged buildbot change](https://github.com/rust-lang/rust-buildbot/pull/38)
+* [Reviewed socketaddr parser](https://github.com/rust-lang/rust/pull/29190)
+* [Pinged people about beta regression](https://github.com/rust-lang/rust/issues/28871)
+* [Reviewed buildbot dockerification](https://github.com/rust-lang/rust-buildbot/pull/39)
+* Added Tokyo meetup to calendar
+* [Reviewed cargo PR](https://github.com/rust-lang/cargo/pull/2068)
+* [Commented on prp](https://internals.rust-lang.org/t/perfecting-rust-packaging-the-plan/2767/9?u=brson)
+
+# 2015-10-19
+
+* Adding cross-std to rustup
+* [Commented on www pr](https://github.com/rust-lang/rust-www/pull/199)
+* [Reviewed rust std change](https://github.com/rust-lang/rust/pull/29009)
+
+# 2015-10-18
+
+* [Commented on breaking changes](https://internals.rust-lang.org/t/document-breaking-changes-better/2791/12?u=brson)
+
+# 2015-10-16
+
+* [Commented about web push slide deck](https://www.reddit.com/r/rust/comments/3p0a9z/from_python_to_go_and_back_again/cw20ow4)
+* [Responded to arm qs](https://www.reddit.com/r/rust/comments/3ozoyw/whats_the_arm_crosscompilation_story_right_now/cw21l4s)
+* [Commented on multirust XDG](https://github.com/brson/multirust/issues/104#issuecomment-148597197)
+* [Reviewed stability refactor](https://github.com/rust-lang/rust/pull/29014#issuecomment-148779833)
+* [Commented on multirust dylibs](https://github.com/brson/multirust/issues/43#issuecomment-148780966)
+* [Commented on dead_code Drop fields](https://github.com/rust-lang/rust/issues/21775)
+* Prodded people to review backport nominations
+* [Filed issue on const unsafe fn declaration order](https://github.com/rust-lang/rust/pull/28827#issuecomment-148796300)
+* Triaged beta nominations
+* Triaged twir prs
+* Backporting beta prs
+* [Posted PR for rust-packaging](https://github.com/rust-lang/rust-packaging/pull/43)
+* [Reviewed rust-buildbot patch](https://github.com/rust-lang/rust-buildbot/pull/37)
+* [Commented on sql database field report](https://www.reddit.com/r/rust/comments/3p1dew/building_an_sql_database_with_10_rust_beginners/)
+* [Recorded friend of the tree](https://internals.rust-lang.org/t/remembering-those-friends-of-the-tree/2415/4)
+* [Posted beta pr](https://github.com/rust-lang/rust/pull/29112)
+* Bumped beta prerelease to .3
+* [Approved cargo install](https://github.com/rust-lang/cargo/pull/2026)
+* [Reviewed some doc pr](https://github.com/rust-lang/cargo/pull/2055)
+
 # 2015-10-15
 
 * [Responded to multirust xdg issue](https://github.com/brson/multirust/issues/104#issuecomment-148443720)

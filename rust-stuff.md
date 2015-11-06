@@ -2,10 +2,9 @@
 layout: basic
 ---
 
-I've been [doing Rust](http://www.rust-lang.org/team.html) for [a
-while
-now](https://github.com/rust-lang/rust/commit/0633c7ae6e54edebde8421cef14267ad1ba1e30c). This
-is where I remind myself of the good work I've done.
+I've been [doing Rust](http://www.rust-lang.org/team.html) for
+[a while now](https://github.com/rust-lang/rust/commit/0633c7ae6e54edebde8421cef14267ad1ba1e30c).
+This is where I remind myself of the good things I've made.
 
 * Converted Rust from a statement language to an expression
   language.
@@ -25,6 +24,8 @@ is where I remind myself of the good work I've done.
   an alternative to Haskell's `Either` (which I *also* added to Rust,
   and later removed). Result was also [adopted by the Elm
   language](https://github.com/rust-lang/rust/commit/c1092fb6d88efe51e42df3aae2a321cc669e12a0).
+
+* [Created the notorious `Option::unwrap` method](https://github.com/rust-lang/rust/commit/910a32c7c777296be0992bf0d6f2d66261c407d6).
 
 * [Wrote the standard testing
   support](https://github.com/rust-lang/rust/commit/09982784c6ad1c78f9480c3c2c0c3a2b2bf7f969)
@@ -72,7 +73,7 @@ is where I remind myself of the good work I've done.
   [rust-installer](http://github.com/rust-lang/rust-installer) and
   [multirust](http://github.com/brson/multirust).
 
-* Bootstrapped
+* Created
   [Servo](https://github.com/servo/servo/graphs/contributors), the web
   browser written in Rust, along with
   [pcwalton](http://github.com/pcwalton) back when Rust barely worked.
@@ -87,3 +88,11 @@ is where I remind myself of the good work I've done.
   release in January 2012](https://mail.mozilla.org/pipermail/rust-dev/2012-January/001256.html).
 
 * I am responsible for [demanding Rust switch from an 80 character limit to 100](https://github.com/rust-lang/rust/pull/5340).
+
+* I both added and removed the ternary operator from Rust.
+
+* Defined the 101 exit code so that the test runner could distinguish
+  'good failure' from 'bad failure'.
+
+* [Added `transmute`](https://github.com/rust-lang/rust/commit/f12adcbf930122ef6d98790b53d80d511dc62406), the legendary waraxe of unsafety.
+
