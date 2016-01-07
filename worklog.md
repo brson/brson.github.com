@@ -2,10 +2,402 @@
 layout: basic
 ---
 
+# 2016-01-06
+
+* Made compiletest work with emscripten
+* [Merged cargo zsh completions](https://github.com/rust-lang/cargo/pull/2241)
+* [Merged cargo doc update](https://github.com/rust-lang/cargo/pull/2260)
+* [Reviewed panictry removal](https://github.com/rust-lang/rust/pull/30654)
+* Updated regression spreadsheet
+* Reviewed regressions with niko
+* [Fixed a cargo-crusader bug](https://github.com/brson/cargo-crusader/issues/6)
+* Responded to pings
+* [Merged multirust readme fix](https://github.com/brson/multirust/pull/117)
+* Responded to rust-gdb on OS X issues
+
+# 2016-01-05
+
+* [Commented on arch compilation failure](https://github.com/rust-lang/rust/issues/30323#issuecomment-169088651)
+* [Closed c_bool patch](https://github.com/rust-lang-nursery/libc/pull/130)
+* [Revied c_bool patch](https://github.com/rust-lang-nursery/libc/pull/128#issuecomment-169093153)
+* [Reviewed eventfd patch](https://github.com/rust-lang-nursery/libc/pull/126#issuecomment-169092578)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/30700#issuecomment-169095209)
+* [Reviewed README PR](https://github.com/rust-lang/rust/pull/30698)
+* [Reviewed rustdoc stability pr](https://github.com/rust-lang/rust/pull/30686#issuecomment-169097725)
+* [Reviewed AtomicPtr cas docs](https://github.com/rust-lang/rust/pull/30682)
+* [Reviewed jemalloc patch](https://github.com/rust-lang/rust/pull/30662#issuecomment-169102987)
+* [Reviewed panictry removal](https://github.com/rust-lang/rust/pull/30654)
+* [Reviewed shallow clone patch](https://github.com/rust-lang/rust/pull/30653)
+* [Updated libc musl patch](https://github.com/rust-lang-nursery/libc/pull/122)
+* [Reviewed msvc float patch](https://github.com/rust-lang/rust/pull/30719)
+* Applied for new Go Pass
+* Responded to a candidate
+* Dealt with meetup issues
+* [Filed deny(warnings) issue](https://github.com/rust-lang/rust/issues/30730)
+* [Responded to cargo metadata issue](https://github.com/rust-lang/cargo/pull/2196#issuecomment-168494478)
+* [Commented on type_name](https://github.com/rust-lang/rfcs/issues/1428#issuecomment-169205807)
+* [Commented on vectorcall](https://github.com/rust-lang/rust/pull/30567#issuecomment-169206087)
+* [Commented on Box<String> regression](https://github.com/rust-lang/rust/issues/30634#issuecomment-168192085)
+
+# 2016-01-04
+
+* Reviewed FAQ changes
+* [Updated doc PR](https://github.com/rust-lang/rust-www/pull/241#issuecomment-168862713)
+* Tweaked website style to incorporate the faq
+
+# 2015-12-29
+
+* Triaged PRs
+* [Reviewed libc conversion](https://github.com/rust-lang/rust/pull/30601)
+* [Reviewed error improvement](https://github.com/rust-lang/rust/pull/30598)
+* [Reviewed new metadata encoding](https://github.com/rust-lang/rust/pull/30565)
+* [Reviewed .githmodules patch](https://github.com/rust-lang/rust/pull/30556)
+* [Reviewed doc comments for instants](https://github.com/rust-lang/rust/pull/30591#issuecomment-167861078)
+* [Reviewed cleanup](https://github.com/rust-lang/rust/pull/30526)
+* [Reviewed cleanup](https://github.com/rust-lang/rust/pull/30585)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/30620)
+* Continued work on 32-but musl libc bindings
+* [Posted PR for 32-bit musl libc bindings](https://github.com/rust-lang-nursery/libc/pull/122)
+* Started working on forge.rust-lang.org
+* [Posted emscripten patch](https://github.com/rust-lang/rust/pull/30629)
+
+# 2015-12-28
+
+* [Commented on multirust source installation](https://github.com/brson/multirust/issues/77#issuecomment-167435556)
+* [Commented on multirust global installation](https://github.com/brson/multirust/issues/95#issuecomment-167171873)
+* [Commented on cargo metadata](https://github.com/rust-lang/cargo/pull/2196#issuecomment-167611981)
+* [Reviewed syscall patch](https://github.com/rust-lang/rust/pull/30548)
+* [Reviewed minor doc fix](https://github.com/rust-lang/rust/pull/30549)
+* [Closed emscripten PR](https://github.com/rust-lang/rust/pull/30453)
+* [Approved gold linker](https://github.com/rust-lang/rust/pull/29974)
+* [Approved Weak::new](https://github.com/rust-lang/rust/pull/30467)
+* [Triaged some PR](https://github.com/rust-lang/rust/pull/30317)
+* [Closed create_dir_all PR](https://github.com/rust-lang/rust/pull/30152)h
+* [Commented on old lint PR](https://github.com/rust-lang/rust/pull/26502)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/30593)
+* [Closed rust RUSTFLAGS issue](https://github.com/rust-lang/rust/issues/29554)
+* [Closed go doc patch](https://github.com/rust-lang/rust/pull/28915#issuecomment-167651600)
+* [Commented on library installation and resolution](https://github.com/rust-lang/rust/issues/16402#issuecomment-167662130)
+* [Triaged moving Duration to core](https://github.com/rust-lang/rust/pull/30594)
+* [Posted --extra-filename patch](https://github.com/rust-lang/rust/pull/30599)
+* [Reviewed macro error improvements](https://github.com/rust-lang/rust/pull/30598)
+* Got 32-bit musl build working
+
+# 2015-12-23
+
+* [Submitted more translations to rust-learning](https://github.com/ctjhoa/rust-learning/pull/26)
+* [Submitted doc page PR](https://github.com/rust-lang/rust-www/pull/241)
+* [Posted beta regression report](https://internals.rust-lang.org/t/regression-report-stable-2015-12-10-vs-beta-2015-12-10/3025/2)
+* [Posted nightly regression report](https://internals.rust-lang.org/t/regression-report-stable-2015-12-10-vs-nightly-2015-12-21/3026/1)
+* [Posted PR to strip the doc index](https://github.com/rust-lang/rust/pull/30543)
+
+# 2015-12-22
+
+* [Posted RUSTFLAGS PR](https://github.com/rust-lang/cargo/pull/2241)
+* [Updated emscripten pr](https://github.com/rust-lang/rust/pull/30453)
+* [Reviewed rpath enabling](https://github.com/rust-lang/rust/pull/30353)
+* [Updated contributing PR](https://github.com/rust-lang/rust-www/pull/229)
+
+# 2015-12-21
+
+* [Re-reviewed removing rust_builtin](https://github.com/rust-lang/rust/pull/30175#issuecomment-166100666)
+* [Reviewed README update for OSX](https://github.com/rust-lang/rust/pull/30412)
+* [Reviewed tls patch](https://github.com/rust-lang/rust/pull/30417)
+* [Commented on panic UI changes](https://github.com/rust-lang/rust/pull/30402#issuecomment-166468277)
+* [Commented on cargo xdg](https://github.com/rust-lang/cargo/pull/2127#issuecomment-166469592)
+* [Merged rust-packaging changes for msvc](https://github.com/rust-lang/rust-packaging/pull/46#issuecomment-165878760)
+* [Reviewed i686 unwinding patch](https://github.com/rust-lang/rust/pull/30448)
+* [Commented on new error formats](https://github.com/rust-lang/rust/pull/29989#issuecomment-166470859)
+
+# 2015-12-20
+
+* [Finished FAQ pass](https://github.com/AndrewBrinker/rust-www/pull/1
+
+# 2015-12-18
+
+* [Reviewed cargo patch](https://github.com/rust-lang/cargo/pull/2224#event-494992688)
+* [Reviewed cargo patch](https://github.com/rust-lang/cargo/pull/2223#event-494991408)
+* [Reviewed windows installer fix](https://github.com/rust-lang/rust-packaging/pull/46)
+* [Reviewed Weak::new_downgraded](https://www.github.com/rust-lang/rust/pull/30467)
+
+# 2015-12-17
+
+* [Posted emscripten patch for rust](https://github.com/rust-lang/rust/pull/30453)
+* [Posted emscripten patch for libc](https://github.com/rust-lang-nursery/libc/pull/107)
+
+# 2015-12-15
+
+* [Reviewed deprecated patch](https://github.com/rust-lang/rust/pull/30206)
+* [Commented on unstable on beta](https://internals.rust-lang.org/t/allow-unstable-features-on-beta/2986/25)
+* Did more stuff
+* [Filed local registry bug](https://github.com/rust-lang/cargo/issues/2212)
+
+# 2015-12-14
+
+* [Responded to multirust RPATH bug](https://github.com/brson/multirust/issues/115)
+* Sent debian packagers meeting invite
+* [Stopped passing -C rpath in multirust](https://github.com/brson/multirust/issues/96)
+* [Triaged some bug](https://github.com/rust-lang/rust/pull/30317)
+* [Reviewed rpath PR](https://github.com/rust-lang/rust/pull/30353#issuecomment-164558250)
+* [Reviewed msvc test fixes}(https://github.com/rust-lang/rust/pull/30168)
+* Responded to spam filtered user on urlo
+* [Reviewed deprecated patch](https://github.com/rust-lang/rust/pull/30206)
+
+# 2015-12-10
+
+* Released 1.5
+* Started another crater 1.0->1.5 test
+* [Reviewed deprecated patch](https://github.com/rust-lang/rust/pull/30206)
+* [Reviewed docck fixes](https://github.com/rust-lang/rust/pull/30303)
+* [Reviewed readme fixes](https://github.com/rust-lang/rust/pull/30248)
+
+# 2015-12-09
+
+* [Bumped to 1.7](https://github.com/rust-lang/rust/pull/30288)
+* Posted 1.5 RCs for testing
+* [Reviewed docs](https://github.com/rust-lang/rust/pull/30293)
+* [Updated regression notes](https://gist.github.com/brson/8fe6b162c02c384ba428)
+* Ran big 1.0->1.5 crater report
+
+# 2015-12-04
+
+* Revised 1.5 relnotes
+* Started 1.5 build
+* Commented on dungeon threda
+* Sent Vikrant interesting PRs
+* [Commented on XDG for cargo](https://github.com/rust-lang/cargo/pull/2127#issuecomment-162086240)
+* [Reviewed readme patch](https://github.com/rust-lang/rust/pull/30196#issuecomment-162088921)
+* [Reviewed make dist fix](https://github.com/rust-lang/rust/pull/30205)
+* Remomved a stray file from cargo-bake
+* [Followed up on contribution pr](https://github.com/rust-lang/rust-www/pull/229)
+* [Reviewed rustdoc css pr](https://github.com/rust-lang/rust/pull/30212)
+* [Reviewed a pr](https://github.com/rust-lang/rust/pull/30215)
+
+# 2015-12-03
+
+* [Reiewed rust_builtin patch](https://github.com/rust-lang/rust/pull/30175#issuecomment-161758646)
+* [Closed multirust homebrew issue](https://github.com/brson/multirust/issues/8#issuecomment-161551504)
+* Relnotes
+* [Reviewed cargo search path patch](https://github.com/rust-lang/cargo/pull/2192)
+* [Reviewed cargo patch](https://github.com/rust-lang/cargo/pull/2134#issuecomment-161826391)
+* [Posted relnotes](https://github.com/rust-lang/rust/pull/30194)
+* Continued emscripten fork
+
+# 2015-12-02
+
+* [Ported a fix to beta](https://github.com/rust-lang/rust/pull/30166)
+* Started a new beta
+* [Commented on gold](https://github.com/rust-lang/rust/pull/29974#issuecomment-161381364)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/30146)
+* [Commented on new error messages](https://github.com/rust-lang/rust/pull/29989#issuecomment-161402201)
+* Looked into security report
+* [Updated AUTHORS.txt](https://github.com/rust-lang/rust/pull/30174)
+* [Removed AUTHORS.txt](https://github.com/rust-lang/rust/pull/30176)
+* [Closed another rustdoc theme pr](https://github.com/rust-lang/rust/pull/30045#issuecomment-161480068)
+* [Filed issue to search $CARGO_HOME/bin for subcommands](https://github.com/rust-lang/cargo/issues/2189)
+
+# 2015-12-01
+
+* [Reviewed configure script abort on spaces](https://github.com/rust-lang/rust/pull/29858#issuecomment-161102038)
+* Continued work on gold patch
+* Continued work on emscripten patch
+* [Reviewed fs patch](https://github.com/rust-lang/rust/pull/30152)
+* [Reviewed some cargo patch](https://github.com/rust-lang/cargo/pull/2186)
+* [Reviewed string docs](https://github.com/rust-lang/rust/pull/30146)
+* [Submitted minor mkfile fix](https://github.com/rust-lang/rust/pull/30157)
+
+# 2015-11-30
+
+* Filled out workday
+* [Posted contributing page](https://github.com/rust-lang/rust-www/issues/177)
+* [Responded to PRP](https://internals.rust-lang.org/t/perfecting-rust-packaging-the-plan/2767/34?u=brson)
+* [Responded to question about multirust v2 manifests](https://github.com/brson/multirust/pull/112#issuecomment-160811353)
+* [Reviewed some cargo patch](https://github.com/rust-lang/cargo/pull/2186)
+
+# 2015-11-28
+
+* Working on emscripten port
+
+# 2015-11-26
+
+* [Responded to cross-compile thread](https://internals.rust-lang.org/t/cross-compiling-libraries/2942)
+* [Rebased netbsd libc fixes](https://github.com/rust-lang/rust/pull/30071)
+
+# 2015-11-25
+
+* [Reviewed doc fix](https://github.com/rust-lang/rust-www/pull/202/files)
+* Reviewed faq
+* [Reviewed some rustfmting](https://github.com/rust-lang/rust/pull/30017)
+* [Triaged rust-buildbot issue](https://github.com/rust-lang/rust-buildbot/pull/47#issuecomment-159728532)
+* [Reviewed doc pr](https://github.com/rust-lang/rust/pull/30061)
+* [Triaged rustdoc theme issue](https://github.com/rust-lang/rust/pull/30045)
+* [Merged a gyp readme}(https://github.com/brson/gyp/pull/1)
+* [Reviewed staged_api](https://github.com/rust-lang/rust/pull/30015#issuecomment-159869366)
+* [Posted netbsd fixes](https://github.com/rust-lang/rust/pull/30071)
+
+# 2015-11-24
+
+* [Fixed security key on website](https://github.com/rust-lang/rust-www/pull/227)
+* [Updated gold patch](https://github.com/rust-lang/rust/pull/29974#issuecomment-159382544)
+* [Removed RUST_PATH](https://github.com/rust-lang/rust/pull/30034)
+* [Posted cargo-bake](https://users.rust-lang.org/t/cargo-bake-compile-rust-faster/3763)
+* [Closed dark theme rustdoc PR](https://github.com/rust-lang/rust/pull/29703#issuecomment-159435016)
+* [Reviewed some doc PR](https://github.com/rust-lang/rust/pull/30030)
+
+# 2015-11-23
+
+* Emailed vikrant some twir suggestions
+* Responded to an applicant about working on Rust
+* [Commented on multirust source issue](https://github.com/brson/multirust/issues/114#issuecomment-159036251)
+* [Responded to multirust ldconfig issue](https://github.com/brson/multirust/issues/113#issuecomment-159030254)
+* [Responded to multirust man issue](https://github.com/brson/multirust/issues/24#issuecomment-159037917)
+* [Respondod to rpath](https://github.com/rust-lang/rust/issues/29941#issuecomment-159039329)
+* [Reviewed *FLAGS patch](https://github.com/rust-lang/rust/pull/29955)
+* [Reviewed rustc_deprecated](https://github.com/rust-lang/rust/pull/29952)
+* [Filed issue to remove staged_api](https://github.com/rust-lang/rust/issues/30008)
+* [Reviewed valgrind patch for rust-buildbot](https://www.github.com/rust-lang/rust-buildbot/pull/46)
+* [Closed a dupe](https://github.com/rust-lang/rust/issues/29979)
+* [Closed an old PR](https://github.com/rust-lang/rust/pull/27939)
+* [Revising gold patch](https://github.com/rust-lang/rust/pull/29974)
+* [Closed an old RFC](https://github.com/rust-lang/rust/pull/29139)
+* [Reviewed doc PR](https://github.com/rust-lang/rust/pull/30013)
+* [Reviewed some old makefile patch](https://github.com/rust-lang/rust/pull/29397)
+* [Reviewed www pr](https://github.com/rust-lang/rust-www/pull/225)
+* Responded to somebody about t-shirts
+* [Reviewed some time PR](https://github.com/rust-lang/rust/pull/30016)
+* [Reviewed recover PR](https://github.com/rust-lang/rust/pull/29937)
+
+# 2015-11-21
+
+* [Reviewed libc upgrade](https://github.com/rust-lang/rust/pull/29964)
+* Reviewed templo of rust svg
+* [Posted pr to link with gold](https://github.com/rust-lang/rust/pull/29974)
+
+# 2015-11-20
+
+* [Reviewed rustc_deprecated](https://github.com/rust-lang/rust/pull/29952#issuecomment-158426898)
+* [Commented about crates.io design](https://github.com/rust-lang/crates.io/issues/223#issuecomment-158483872)
+* [Reviewed loading fix](https://github.com/rust-lang/rust/pull/29961)
+* Finished cargo-bake
+* Ran crater on nightly/beta
+* [Asked someone else to cherry pick a backport](https://github.com/rust-lang/rust/pull/29748#issuecomment-158545701)
+* [Posted regression reports](https://internals.rust-lang.org/t/regression-report-stable-2015-10-29-vs-beta-2015-11-05-vs-nightly-2015-11-19/2922)
+* [Merged backport](https://github.com/rust-lang/rust/pull/29967)
+* Started beta build
+* [Cleaned up community.html](https://github.com/rust-lang/rust-www/pull/224)
+
+# 2015-11-19
+
+* [Commented about www examples](https://users.rust-lang.org/t/soliciting-multiple-new-examples-for-rust-lang-org-homepage/3676/25?u=brson)
+* [Reviewed book directory PR](https://github.com/rust-lang/rust/pull/29932)
+* Talked to Lurkin about playbot
+* Investigated reported website vulnerability
+* [Commented about putting MIR in rustc](https://github.com/rust-lang/rust/pull/29929#issuecomment-158125636)
+* Testing gold on crater
+* [Reviewed time patch](https://github.com/rust-lang/rust/pull/29894)
+* [Removed segstack from llvm interface](https://github.com/rust-lang/rust/pull/29942)
+* [Commented on gold](https://github.com/rust-lang/rust/issues/29938)
+
+# 2015-11-18
+
+* [More reviewing rustdoc themes](https://github.com/rust-lang/rust/pull/29703)
+* [Reviewed --libdir](https://github.com/rust-lang/rust/pull/29878#issuecomment-157806399)
+* [Commented on monomorphic collapse](https://users.rust-lang.org/t/avoiding-monomorphisations-for-structurally-equivalent-types/3656/4?u=brson)
+* [Commented on LD_LIBRARY_PATH installs](https://github.com/rust-lang/rust/issues/29905#issuecomment-157832920)
+* [Closed beta/stable CI issue](https://github.com/rust-lang/rust/issues/23757)
+* Commented on some regressions
+* [Commented on security issue clarification](https://github.com/rust-lang/rust-www/issues/220)
+* [Commented about build tools preview](https://github.com/rust-lang/rust-www/issues/215)
+* [Commented about www example](https://github.com/rust-lang/rust-www/issues/207)
+* [Commented about www example](https://github.com/rust-lang/rust-www/issues/180#issuecomment-157872631)
+* [Solicited examples for www homepage](https://users.rust-lang.org/t/soliciting-multiple-new-examples-for-rust-lang-org-homepage/3676)
+* Responded to question about use of temple of rust logo
+* Helped edunham with manifest construction
+* More work on contributing page
+* [Reviewed time PR](https://github.com/rust-lang/rust/pull/29894)
+
+# 2015-11-17
+
+* [Tested and reviewed buildbot v2 manifests](https://github.com/rust-lang/rust-buildbot/pull/44#issuecomment-157479324)
+* [Followed up on dungeon](https://internals.rust-lang.org/t/dungeon-rust-lang-org-secondary-developer-docs/2896/10)
+* [Filed issue about compiler docs](https://github.com/rust-lang/rust/issues/29893)
+* [Reviewed rustdoc issue](https://github.com/rust-lang/rust/pull/29703#issuecomment-157492139)
+* {Reviewed --libdir changes](https://github.com/rust-lang/rust/pull/29878)
+* [Reviewed multirust ldconfig issue](https://github.com/brson/multirust/issues/113#issuecomment-157541562)
+* [Reviewed some thread patch](https://github.com/rust-lang/rust/pull/29897)
+* Poked an the cronjob for the weekly triage email
+
+# 2015-11-16
+
+* [Reviewed AUTHORS.txt fixes](https://github.com/rust-lang/rust/pull/29843)
+* [Closed PR to add license to RFCs](https://github.com/rust-lang/rfcs/pull/1372)
+* [Made minor fixes to doc idx PR](https://github.com/rust-lang/rust/pull/29549)
+* Asked psd to run his E-easy charts against rust
+* [Comented on FFI doc problems](https://github.com/rust-lang/rust/pull/29790#issuecomment-157123579)
+* [Reviewed patch to exclude spaces from Rust source path](https://github.com/rust-lang/rust/pull/29858)
+* [Posted to weekly thread](https://users.rust-lang.org/t/whats-everyone-working-on-this-week-week-47-2015/3642)
+* [Updated fott list](https://internals.rust-lang.org/t/remembering-those-friends-of-the-tree/2415)
+* [Updated PRP with relro stuff](https://internals.rust-lang.org/t/perfecting-rust-packaging-the-plan/2767/24)
+* [Filed relro issue](https://github.com/rust-lang/rust/issues/29877)
+* [Commented on FAQ](https://github.com/rust-lang/rust-www/pull/202#issuecomment-157235185)
+
+# 2015-11-13
+
+* [Commented on multirust doc toolchain arg](https://github.com/brson/multirust/issues/111)
+* [Commented on dark themes for rustdoc](https://github.com/rust-lang/rust/pull/29703#issuecomment-156509688)
+* [Reviewed cargo clean fixes](https://github.com/rust-lang/cargo/pull/2131#event-460398738)
+* Responded to Jaimie from Eve
+* Responded to Nick from MaidSafe
+* [Posted rustup V2 PR](https://github.com/rust-lang/rustup/pull/33)
+* [Postetd multirust V2 PR](https://github.com/brson/multirust/pull/112)
+* [Reviewed makefile fixes](https://www.github.com/rust-lang/rust/pull/29820)
+* Sent vikrant twir prs
+
+# 2015-11-12
+
+* [Reviewed something](https://github.com/rust-lang/rust/pull/29807)
+* [Wrote proposal for new wiki](https://gist.github.com/brson/4f2f435a4169d40369f1)
+* [Posted wiki proposal](https://internals.rust-lang.org/t/dungeon-rust-lang-org-secondary-developer-docs/2896)
+
+# 2015-11-11
+
+* Submitted expenses
+* Sent check-in to Eve team
+* [Reviewed cargo build script deps](https://github.com/rust-lang/cargo/pull/2134)
+* [Reviewed some pr](https://github.com/rust-lang/rust/pull/29786)
+* Working on v2 manifests for rustup
+* [Commented on LD_LIBRARY_PATH installation](https://github.com/rust-lang/rust/issues/28917)
+* [Reviewed ux guideline pr](https://github.com/rust-lang/rust/pull/29687#issuecomment-155941701)
+* [Commented on thread ids](https://github.com/rust-lang/rust/pull/29448#issuecomment-155945243)
+* [Commented again on PanicSafe](https://github.com/rust-lang/rfcs/pull/1323#issuecomment-155948803)
+* [Reviewed float intrinsic change](https://github.com/rust-lang/rust/pull/29792)
+
+# 2015-11-09
+
+* Commented on intellij multirust integration
+* Editing contributions.html
+* [Closed www pr](https://github.com/rust-lang/rust-www/pull/213)
+* [Merged windows PATH installer PR](https://github.com/rust-lang/rust-packaging/pull/45)
+* [Updated README](https://github.com/rust-lang/rust/pull/29729)
+* Created new twitter pw
+* Reviewed cargo rustdoc
+* [Responded to symbol versioning issue](https://github.com/rust-lang/rfcs/issues/689#issuecomment-155614409)
+
+# 2015-11-08
+
+* [Proposed FFI Omnibus to rust-learning](https://www.reddit.com/r/rust/comments/3s18ea/update_the_rust_ffi_omnibus_now_includes_haskell/cwtrrmn)
+
 # 2015-11-06
 
 * [Reviewed www windows prs](https://github.com/rust-lang/rust-www/pull/216)
 * [More faq reviews](https://github.com/rust-lang/rust-www/pull/202)
+* Wrote a fott
+* Working on contributions.html
+* [Sent update to RWIB](https://internals.rust-lang.org/t/rusty-web-improvement-bureau/2572/54?u=brson)
+* [Renamed Community to Resources on www](https://github.com/rust-lang/rust-www/pull/217)
+* [Updated CONTRIBUTING.md to link to security policy](https://github.com/rust-lang/rust/pull/29662)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/29660)
+* Sent Vikram interesting PRs
 
 # 2015-11-05
 
