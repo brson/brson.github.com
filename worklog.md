@@ -1,6 +1,393 @@
----
+o---
 layout: basic
 ---
+
+# 2016-02-08
+
+* [Commented on SVH](https://github.com/rust-lang/rfcs/issues/689#issuecomment-181513929)
+* [Filed bug on bad --cfg parsing](https://github.com/rust-lang/rust/issues/31495)
+* [Reviewed --print cfg](https://github.com/rust-lang/rust/pull/31278)
+* [Filed another --cfg bug](https://github.com/rust-lang/rust/issues/31496)
+* [And another](https://github.com/rust-lang/rust/issues/31497)
+* [Reviewed SEH](https://github.com/rust-lang/rust/pull/31313)
+* [Posted forge](https://internals.rust-lang.org/t/rust-forge-secondary-developer-docs/3153)
+* [Reviewed httptest fix](https://github.com/brson/httptest/pull/5)
+* [Merged multirust-rs whitespace fixes](https://github.com/Diggsey/multirust-rs/pull/57)
+* [Merged forge fix](https://github.com/brson/rust-forge/pull/1)
+* Made some updates to multirust-rs patch
+* [Asked for help on emscripten port](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/1)
+
+# 2016-02-07
+
+* [Reviewed minor rumprun tweak](https://github.com/rust-lang/rust/pull/31470)
+* [Commented on rustdoc search index tests](https://github.com/rust-lang/rust/pull/31483#issuecomment-181191150)
+
+# 2016-02-06
+
+* More work on emscripten port
+* [Replied to derive(Copy, Clone) optimization](https://github.com/rust-lang/rust/pull/31414#issuecomment-180889578)
+* [Filed bug against atty](https://github.com/softprops/atty/issues/3)
+* [Filed bug about colors on msys](https://github.com/rust-lang/rust/issues/31459)
+
+# 2016-02-05
+
+* [Posted multirust-rs PR](https://github.com/Diggsey/multirust-rs/pull/51)
+* Responded to potential rust doc translator
+* Wrote another draft message about crates.io redesign
+* [Commented on cargo XDG](https://github.com/rust-lang/cargo/pull/2127#issuecomment-180553982)
+* [Commented on multirust XDG](https://github.com/brson/multirust/issues/104#issuecomment-180556433)
+* [Reviewed cargo polish PR](https://github.com/rust-lang/cargo/pull/2315)
+* [Proposed a design for  multirust global data](https://github.com/brson/multirust/issues/95#issuecomment-180581010)
+* [Reviewed sigsegv patch](https://github.com/rust-lang/rust/pull/31333)
+* [Reviewed cargo build system further](https://github.com/rust-lang/rust/pull/31123#issuecomment-175417199)
+* [Reviewed www edits](https://github.com/rust-lang/rust-www/pull/298#issuecomment-178651680)
+* [Commented on overriding build system flags](https://github.com/rust-lang/rust/issues/15054#issuecomment-180617631)
+* [Reviewed gc-sections](https://github.com/rust-lang/rust/pull/31368)
+* [Commented on multipsan parsing for compiletes](https://github.com/rust-lang/rust/issues/31380#issuecomment-180620496)
+* [Reviewed improvements to derive(Copy, Clone)](https://github.com/rust-lang/rust/pull/31414)
+* [Responded to extern crate spookiness](https://github.com/rust-lang/rust/issues/31422#issuecomment-180626058)
+* [Closed backported issue](https://github.com/rust-lang/rust/issues/30669#issuecomment-180055467)
+* [Reviewed cloexec](https://github.com/rust-lang/rust/pull/31417)
+* [Reviewed man cleanup](https://github.com/rust-lang/rust/pull/31433)
+* [rustfmted multirust again](https://github.com/Diggsey/multirust-rs/pull/52)
+* Rebased emscripten branch
+* [Reviewed man fix](https://github.com/rust-lang/rust/pull/31445)
+
+# 2016-02-04
+
+* Worked on rustup
+* [Filed this bug](https://github.com/rust-lang/rust/issues/31422)
+
+# 2016-02-03
+
+* [Merged beta PR](https://github.com/rust-lang/rust/pull/31392)
+* Started a beta build
+* Worked on rustup.rs installation
+
+# 2016-02-02
+
+* Added rust-bio paper to rust-forge
+* [Reviewed a mk revert](https://github.com/rust-lang/rust/pull/31361)
+* [Commented on rng changes](https://github.com/rust-lang/rust/pull/31356)
+* [Reviewed -L fixes in cargo](https://github.com/rust-lang/cargo/pull/2355)
+* [Responded to crater bug](https://github.com/brson/taskcluster-crater/issues/1)
+* [Addressed feedback on multirust-rs](https://github.com/Diggsey/multirust-rs/pull/49)
+
+# 2016-02-01
+
+* [Responded to weekly thread](https://users.rust-lang.org/t/what-do-you-work-on-this-week-5-2016/4491?u=llogiq)
+* [Posted PR to multirust-rs](https://github.com/Diggsey/multirust-rs/pull/49)
+* Worked on multirust-rs dist mocking
+* [Merged FAQ syntax highlighting](https://github.com/rust-lang/rust-www/pull/299)
+* [Closed FAQ syntax highlighting issue](https://github.com/rust-lang/rust-www/issues/246)
+* [Merged vs code mention into ides page](https://github.com/rust-lang/rust-www/pull/297)
+* [Reviewed www contributing clarification](https://github.com/rust-lang/rust-www/pull/298)
+* [Reviewed website localization updates](https://github.com/rust-lang/rust-www/pull/296#issuecomment-178274785)
+* [Merged updates to httptest](https://github.com/brson/httptest/pull/4)
+* [Reviewed cargo cfg](https://github.com/rust-lang/cargo/pull/2328)
+* [Triaged some trans issue](https://github.com/rust-lang/rust/pull/31215)
+* [Reviwed --print cfg PR](https://github.com/rust-lang/rust/pull/31278)
+* [Reviewed cargo feature deps](https://github.com/rust-lang/cargo/pull/2325#issuecomment-178290862)
+* [Reviewed mips cfg changes](https://github.com/rust-lang/rust/pull/31312)
+* [Reviewed SEH unwinding patch](https://github.com/rust-lang/rust/pull/31313#issuecomment-178293334)
+* [Reviewed deny warnings cleanup](https://github.com/rust-lang/rust/pull/31314)
+* [Reviewed cargo config targets](https://github.com/rust-lang/cargo/pull/2335#issuecomment-177573171)
+* [Commented on compile_fail feature](https://github.com/rust-lang/rust/pull/30726#issuecomment-178295447)
+* [Reviewed errorcode lint fix](https://github.com/rust-lang/rust/pull/31332)
+* [Reviewed sigsegv -> abort](https://github.com/rust-lang/rust/pull/31333)
+* [Commented on Failures -> Errors](https://github.com/rust-lang/rust/pull/31345)
+* [Reviewed HashMap simplification](https://github.com/rust-lang/rust/pull/31356)
+* [Fixed typo on www](https://github.com/rust-lang/rust-www/pull/300)
+* [Posted fix for AUTHORs.txt file](https://github.com/rust-lang/rust-www/pull/301)
+* [Commented on missing AUTHORS.txt](https://github.com/rust-lang/rust-www/issues/285#issuecomment-178376618)
+* [Removed bold from contributing links](https://github.com/rust-lang/rust-www/pull/302
+
+# 2016-01-29
+
+* [Updated rustup PR](https://github.com/Diggsey/multirust-rs/pull/45)
+* Continued a crater run
+* [Asked azurepi to submit www pygments PR](https://github.com/rust-lang/rust-www/issues/246)
+* [Closed issue about beta dates on www](https://github.com/rust-lang/rust-www/issues/117)
+* Sent web strike team draft
+* [Posted crater report for index PR](https://github.com/rust-lang/rust/pull/31191#issuecomment-176976241)
+* [Reviewed cross compile fixes](https://github.com/rust-lang/rust/pull/31290)
+* [Reviewed unused error code check](https://github.com/rust-lang/rust/pull/31288)
+* Updated libc musl pr again
+* [Rebased bench removal](https://github.com/rust-lang/rust/pull/31274)
+* [Finished 1.7 relnotes](https://github.com/rust-lang/rust/pull/31099)
+* [Reviewed EscapeUnicode fixes](https://github.com/rust-lang/rust/pull/31253)
+* [Submitted PR to cleanup windows triple compatibility](https://github.com/rust-lang/rust/pull/31297)
+* Reviewed new build system
+* [Filed bug about fs::rename on windows](https://github.com/rust-lang/rust/issues/31301)
+
+# 2016-01-28
+
+* [Commented on website translation](https://internals.rust-lang.org/t/translations-for-rust/3126/4?u=brson)
+* [Reviewed buildbot cross upgrades](https://github.com/rust-lang/rust-buildbot/pull/55)
+* [rustfmted multirust-rs](https://github.com/Diggsey/multirust-rs/pull/47)
+* [Reviewed compiler docs](https://github.com/rust-lang/rust/pull/31132)
+* [Reviewed Option<char> optimization](https://github.com/rust-lang/rust/pull/31215)
+* [Deleted old docs](https://github.com/rust-lang/rust/issues/31125#issuecomment-174017826)
+* [Commented on multirust global toolchains](https://github.com/brson/multirust/issues/95#issuecomment-176506992)
+* [Commented on copyright](https://github.com/rust-lang/rust/pull/31007#issuecomment-176509623)
+* [Filed issue about not segfaulting on overflow](https://github.com/rust-lang/rust/issues/31273)
+* [Reviewed minor iOS patch](https://github.com/rust-lang/rust/pull/31252)
+* [Opened PR to remove src/test/bench](https://github.com/rust-lang/rust/pull/31274)
+* [Reviewed rumprun fix](https://github.com/rust-lang/rust/pull/31275)
+* [Reviewed powerpc fix](https://github.com/rust-lang/rust/pull/31276)
+* Wrote more tests and such for rustup.rs
+
+# 2016-01-27
+
+* [Commented on copyright dates](https://github.com/rust-lang/rust/pull/31007)
+
+# 2016-01-26
+
+* [Closed old multirust bug](https://github.com/Diggsey/multirust-rs/pull/16)
+* Wrote tests for multirust-rs
+* [Updated libc defs](https://github.com/rust-lang-nursery/libc/pull/122)
+* [Closed multirust-rs relicense issue](https://github.com/Diggsey/multirust-rs/issues/44)
+* [Commented on sonames](https://github.com/rust-lang/rust/pull/31170#issuecomment-175308142)
+* [Commented on multirust global toolchains](https://github.com/brson/multirust/issues/95#issuecomment-175329362)
+* [Followed up on some thread_local PR](https://github.com/rust-lang/rust/pull/30856)
+* [Commented on rustdoc compile-fail tests](https://github.com/rust-lang/rust/pull/30726#issuecomment-175333751)
+* [Commented on recoversafe](https://github.com/rust-lang/rust/issues/27719#issuecomment-175335119)
+* [Commented on no_std for libc](https://github.com/rust-lang-nursery/libc/pull/146#issuecomment-175338656)
+* [Reviewed NX stacks](https://github.com/rust-lang/rust/pull/30859#issuecomment-175339495)
+* [Reviewed match errors](https://github.com/rust-lang/rust/pull/31020#issuecomment-175341410)
+* [Triaged issue about bad arm tarballs](https://github.com/rust-lang/rust/issues/31101#issuecomment-175343286)
+* [Commented on removed lint warnings](https://github.com/rust-lang/rust/issues/31141#issuecomment-175344155)
+* [Commented on i686 CPUs](https://github.com/rust-lang/rust/pull/31110#issuecomment-175354166)
+* [Merged rust-buildbot iOS setup](https://github.com/rust-lang/rust-buildbot/pull/54)
+
+# 2016-01-25
+
+* [Published draft of rust forge](https://internals.rust-lang.org/t/dungeon-rust-lang-org-secondary-developer-docs/2896/21?u=brson)
+* [Reviewed some cargo pr](https://github.com/rust-lang/cargo/pull/2319#event-525543891)
+
+# 2016-01-23
+
+* [Responded to 1.6 linker regression](https://www.reddit.com/r/rust/comments/429eqr/upgrading_from_15_to_16_or_18_breaks_linking/)
+
+# 2016-01-22
+
+* [Filed issue to lint for #[unstable]](https://github.com/rust-lang/rust/issues/31122)
+* [Reviewed deny_warnings for all crates](https://github.com/rust-lang/rust/pull/31120)
+* [Reviewed flexible target /etc/ patch](https://github.com/rust-lang/rust/pull/31117)
+* [Reviewed definition of i686](https://github.com/rust-lang/rust/pull/31110)
+* [Reviewed multirut typo](https://github.com/brson/multirust/pull/123)
+* [Commented on multirust global toolchains](https://github.com/brson/multirust/issues/95#issuecomment-174020335)
+* [Commented on removing /etc/ from target spec rfc](https://github.com/rust-lang/rfcs/pull/1473)
+* [Commented on /etc](https://github.com/rust-lang/rust/pull/31117#issuecomment-174024786)
+* [Responded to multirust bash completions PR](https://github.com/brson/multirust/pull/110#issuecomment-174032948)
+* [Fixed multirust MULTIRUST_HOME docs](https://github.com/brson/multirust/issues/119#issuecomment-171063306)
+* [Fixed multirust doc bug](https://github.com/brson/multirust/issues/120)
+* [Reviewed illumos patch](https://github.com/rust-lang/rust/pull/31078)
+* Started spreadsheet for rust-lang crate regressions
+* [Reviewed internals docs PR](https://github.com/rust-lang/rust/pull/31132/files)
+* [Reviewed minor cargo patch](https://github.com/rust-lang/cargo/pull/2307)
+
+# 2016-01-21
+
+* [Commented on no-std feature for libc](https://github.com/rust-lang-nursery/libc/pull/146#issuecomment-173674048)
+* [Merged libc version bump](https://github.com/rust-lang-nursery/libc/pull/142)
+* [Updated libc musl defs](https://github.com/rust-lang-nursery/libc/pull/122)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/31088)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/31090)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/31092)
+* [Merged cargo version bump](https://github.com/rust-lang/cargo/pull/2303)
+* Did 1.6 release
+* [Wrote 1.7 release notes](https://github.com/rust-lang/rust/pull/31099)
+* [Fixed html formatting in www](https://github.com/rust-lang/rust-www/pull/292)
+* Worked on forge
+* [Updated style of user groups page](https://github.com/rust-lang/rust-www/pull/293)
+* [Fixed www style on phones](https://github.com/rust-lang/rust-www/pull/294)
+* [Reviewed build system cleanup](https://github.com/rust-lang/rust/pull/31095)
+
+# 2016-01-20
+
+* [Filed cargo libz bug](https://github.com/rust-lang/cargo/issues/2298)
+* Tested release artifacts
+* [Tweaked msis](https://github.com/rust-lang/rust-packaging/pull/49)
+* [Added Gankro's thesis to bibliography](https://github.com/rust-lang/rust/pull/31061)
+* [Updated website for 1.6](https://github.com/rust-lang/rust-www/pull/286)
+* [Reviewed some cargo bug](https://github.com/rust-lang/cargo/pull/2296)
+* [Responded to IllumOS pr](https://github.com/rust-lang/rust/pull/28589#issuecomment-173461303)
+* [Merged www documentation style](https://github.com/rust-lang/rust-www/pull/272)
+* [Commented on HashMap capacity](https://github.com/rust-lang/rust/pull/30991#issuecomment-173468978)
+
+# 2016-01-19
+
+* Relnotes
+* Updated regression sheet
+* [Made another 1.6 backport](https://github.com/rust-lang/rust/pull/31026)
+* [Bumped beta to .4](https://github.com/rust-lang/rust/pull/31027)
+* [Merged cargo release pairing](https://github.com/rust-lang/rust-packaging/pull/48)
+* [Posted test for issue 30123](https://github.com/rust-lang/rust/pull/31031)
+* [Posted relnotes](https://github.com/rust-lang/rust/pull/31032)
+* [Reviewed diagnostics patch](https://github.com/rust-lang/rust/pull/31020)
+* [Reviewed jemalloc downgrade](https://github.com/rust-lang/rust/pull/30985)
+* [Did not review atomic PR](https://github.com/rust-lang/rust/pull/30969)
+* [Reviewed removal of volatile from atomics](https://github.com/rust-lang/rust/pull/30962)
+* [Reviewed AUTHORS fix](https://github.com/rust-lang/rust/pull/30958)
+* [Reviewed Debug for sync things](https://github.com/rust-lang/rust/pull/30894)
+* [Triaged some libs thing](https://github.com/rust-lang/rust/pull/3089)3
+* [Reviewed rust-buildbot fix](https://github.com/rust-lang/rust-buildbot/pull/53)
+* [Reviewed thread_local extern patch](https://github.com/rust-lang/rust/pull/30856)
+* [Commented on compile-fail for rustdoc](https://github.com/rust-lang/rust/pull/30726#issuecomment-173035317)
+* [Commented on IllumOS configure patch](https://github.com/rust-lang/rust/pull/28589#issuecomment-173038224)
+* [Filed issue about converting sh to bash](https://github.com/rust-lang/rust/issues/31036)
+* [Triage](https://github.com/rust-lang/rust/issues/30999#issuecomment-173039155)
+* [Closed an attribute complaint](https://github.com/rust-lang/rust/issues/31001#issuecomment-173042722)
+* [Added a wanted FAQ](https://github.com/rust-lang/rust-www/issues/248#issuecomment-173043205)
+* [Commented about HashMap capacity bug](https://github.com/rust-lang/rust/pull/30991#issuecomment-173043691)
+* [Commented about segfault terminology](https://github.com/rust-lang/rust/issues/30963#issuecomment-173050368)
+* [Commented about rustc printing cpu archs](https://github.com/rust-lang/rust/issues/30961#issuecomment-173052630)
+* [Commented about recover](https://github.com/rust-lang/rust/issues/27719#issuecomment-173060367)
+* [Merged some FAQ fixes](https://github.com/rust-lang/rust-www/pull/280)
+* [Reviewed libc CI fixes](https://github.com/rust-lang-nursery/libc/pull/139)
+* Ordered meetup pizza
+* [Merged release notes into 1.6](https://github.com/rust-lang/rust/pull/31040)
+* [Bumped version](https://github.com/rust-lang/rust/pull/31041)
+* Started 1.6 stable, 1.7 beta
+
+# 2016-01-18
+
+* [Commented on copyright dates](https://github.com/rust-lang/rust/pull/31007#issuecomment-172681657)
+* [Posted basic-http-server](https://users.rust-lang.org/t/basic-http-server-a-simple-http-file-server-built-on-rotor/4332)
+* Worked on 1.6 relnotes
+
+# 2016-01-17
+
+* [Filed fix for rotor-http](https://github.com/tailhook/rotor-http/pull/7)
+* [Filed bug for rotor-http regression](https://github.com/rust-lang/rust/issues/30989
+* [Continued bisecting](https://github.com/rust-lang/rust/issues/30123#issuecomment-172403871)
+* [Created basic-http-server](https://github.com/brson/basic-http-server)
+
+# 2016-01-16
+
+* [Commented on SipHash1-3](https://github.com/rust-lang/rust/issues/29754#issuecomment-172244152)
+* [Merged www PR](https://github.com/rust-lang/rust-www/pull/281)
+* [Reviewed FAQ PR](https://github.com/rust-lang/rust-www/pull/280)
+* [Posted issue about using llc to find options](https://github.com/rust-lang/rust/issues/30961)
+* [Commented on cargo metadata](https://github.com/rust-lang/cargo/pull/2127#issuecomment-172283297)
+
+# 2016-01-15
+
+* [Reviewed msi patch](https://github.com/rust-lang/rust-packaging/pull/47)
+* [Reviewed www patch](https://github.com/rust-lang/rust-www/pull/260)
+* [Reviewed www rouge patch](https://github.com/rust-lang/rust-www/pull/258)
+* [Responded to debian thread](https://www.reddit.com/r/rust/comments/40ydym/psa_rust_and_cargo_now_available_in_debian_stretch/cyzf0oq)
+* [Responded to oibit name](https://internals.rust-lang.org/t/pre-rfc-renaming-oibits-and-changing-their-declaration-syntax/3086/7?u=brson)
+* [Minor www fix](https://github.com/rust-lang/rust-www/commit/528695ea9bb24599239a7e3ff52fdc65458b555d)
+* [Responded to www reviews](https://www.reddit.com/r/rust/comments/40zxey/major_website_updates/)
+* [Commented on fuzzy fonts](https://github.com/rust-lang/rust-www/pull/272#issuecomment-172127517)
+* [Posted revert of coc change](https://github.com/rust-lang/rust-www/pull/274)
+* [Filed issue about missing faq numbers in chrome](https://github.com/rust-lang/rust-www/issues/275)
+* [Commented about file access time](https://github.com/rust-lang/rust/pull/30865#issuecomment-172139528)
+* [Commented about vectorcall](https://github.com/rust-lang/rust/pull/30567#issuecomment-172141035)
+* [Reviewed from_utf8 ascii speedup](https://github.com/rust-lang/rust/pull/30740)
+* [Triaged mpsc Debug stubs](https://github.com/rust-lang/rust/pull/30894#issuecomment-172142550)
+* [Commented on default typaram bug](https://github.com/rust-lang/rust/issues/30123#issuecomment-172143655)
+* [Commented on std refactor](https://github.com/rust-lang/rust/pull/30777#issuecomment-172144506)
+* [Merged rust-packaging windows fixes](https://github.com/rust-lang/rust-packaging/pull/47#issuecomment-172055038)
+* [Commented on musl NX](https://github.com/rust-lang/rust/pull/30859#issuecomment-172148714)
+
+# 2016-01-14
+
+* [Posted crater report to PR](https://github.com/rust-lang/rust/pull/30587#issuecomment-171745479)
+* [Reverted gold linker](https://github.com/rust-lang/rust/pull/30913)
+* [Updated raw_pointer_derive PR](https://github.com/rust-lang/rust/pull/30878)
+* [Backported rustdoc fixes](https://github.com/rust-lang/rust/pull/30918)
+* [Merged another FAQ PR](https://github.com/brson/rust-www/pull/4)
+* [Merged website update](https://github.com/rust-lang/rust-www/pull/244)
+* [Complemented Debian packagers](https://www.reddit.com/r/rust/comments/40ydym/psa_rust_and_cargo_now_available_in_debian_stretch/cyyfqvf)
+* [Responded to comment about compiler internals](https://www.reddit.com/r/rust/comments/40f5ii/whats_everyone_working_on_this_week_22016/cyyfx77)
+* [Postetd thread about website](https://www.reddit.com/r/rust/comments/40zxey/major_website_updates)/
+* [Posted issue to rust-learning adding explanations](https://github.com/ctjhoa/rust-learning/issues/30)
+* [Fixed FAQ markup](https://github.com/rust-lang/rust-www/pull/251)
+* [Reviewed future incompatible lints](https://github.com/rust-lang/rust/pull/30787)
+* [Reviewed some cargo patch](https://github.com/rust-lang/cargo/pull/2279#issuecomment-171830181)
+
+# 2016-01-13
+
+* Ran crater against new beta
+* [Started crater run for some PR](https://github.com/rust-lang/rust/pull/30587)
+* [Commented on target-specific cargo cfgs](https://github.com/rust-lang/rfcs/pull/1361#issuecomment-171412295)
+* [Merged rust-skeptic patch](https://github.com/brson/rust-skeptic/pull/2#issuecomment-171113261)
+* [Posted beta crater report](https://internals.rust-lang.org/t/regression-report-stable-2015-12-10-vs-beta-2016-01-13/3080)
+* Continued integrating FAQs
+* [Responded to www issue](https://github.com/rust-lang/rust-www/issues/243)
+
+# 2016-01-12
+
+* [Merged beta PR](https://github.com/rust-lang/rust/pull/30844)
+* [Closed beta regression issue](https://github.com/rust-lang/rust/issues/30379)
+* [Merged beta issue](https://github.com/rust-lang/rust/pull/30847)
+* Continued bisecting regressions
+* [Continued restoring raw_pointer_derive lint](https://github.com/rust-lang/rust/issues/30346)
+* [Ported some docs to beta](https://github.com/rust-lang/rust/pull/30852)
+* [Ported a patch to beta](https://github.com/rust-lang/rust/pull/30853)
+* [Ported 3 patches to beta](https://github.com/rust-lang/rust/pull/30854)
+* [Bumped version to .2](https://github.com/rust-lang/rust/pull/30855)
+* Started a beta build
+* [Commented on libc eventfd breakage](https://github.com/rust-lang-nursery/libc/pull/126#issuecomment-171019540)
+* [Commented on thread-local externs](https://github.com/rust-lang/rust/pull/30856)
+
+# 2016-01-11
+
+* [Responded to weekly thread](https://users.rust-lang.org/t/whats-everyone-working-on-this-week-2-2016/4240/6)
+* [Responded to servo breakage](https://github.com/servo/servo/pull/9093#issuecomment-170648765)
+* [Reviewed rust-skeptic patch](https://github.com/brson/rust-skeptic/pull/2#issuecomment-170654511)
+* [Reviewed rust-buildbot script patch](https://github.com/rust-lang/rust-buildbot/pull/51)
+* [Commented on posix_memalign for android](https://github.com/rust-lang/rust/pull/30601#issuecomment-170662630)
+* [Triaged an issue](https://github.com/rust-lang/rust/issues/30633)
+* [Triaged an issue](https://github.com/rust-lang/rust/issues/30632)
+* [Commented on Instant docs](https://github.com/rust-lang/rust/pull/30591#issuecomment-170665086)
+* [Commented on AtomicPtr docs](https://github.com/rust-lang/rust/pull/30682#discussion_r49367244)
+* [Commented on gold bugs](https://github.com/rust-lang/rust/issues/30783#issuecomment-170666290)
+* [Reviewed drop docs](https://github.com/rust-lang/rust/pull/30696)
+* [Commented on epub](https://github.com/rust-lang/rust/issues/20866#issuecomment-170670360)
+* [Tested rand against master](https://github.com/rust-lang/rust/issues/30531#issuecomment-170727869)
+* [Posted PRP status update](https://internals.rust-lang.org/t/perfecting-rust-packaging-the-plan/2767/41?u=brson)
+* [Reviewed rustdoc compile-fail patch](https://github.com/rust-lang/rust/pull/30726#issuecomment-170752421)
+* [Commented on rustdoc stability numbers](https://github.com/rust-lang/rust/pull/30686#issuecomment-170753947)
+* [Commented on unused mut lint](https://github.com/rust-lang/rust/pull/30732#issuecomment-170755198)
+* [Reviewed from_utf8 ascii patch](https://github.com/rust-lang/rust/pull/30740#issuecomment-170758478)
+* [Commented on MULTIRUST_HOME](https://github.com/brson/multirust/issues/119)
+* [Commented on future-incompatible lints](https://github.com/rust-lang/rust/pull/30787#issuecomment-170762989)
+* [r-'d putting allow attributes in thread_local macro](https://github.com/rust-lang/rust/pull/30759#issuecomment-170765012)
+* [Reviewed string examples](https://github.com/rust-lang/rust/pull/30770)
+* [Triaged multirust doc issue](https://github.com/brson/multirust/issues/120#issuecomment-170766326)
+* [Commented on multirust update issue](https://github.com/brson/multirust/issues/121)
+* [Commented on gold](https://github.com/rust-lang/rust/pull/29974#issuecomment-170767131)
+* [Commented on vectorcall](https://github.com/rust-lang/rust/pull/30567#issuecomment-170769253)
+* [Commented on changing libc eventfd change](https://github.com/rust-lang-nursery/libc/pull/126#issuecomment-170770047)
+
+# 2016-01-09
+
+* [Added syntax index to rust-learning](https://github.com/ctjhoa/rust-learning/pull/29)
+* [Added descriptions to doc index](https://github.com/rust-lang/rust/pull/30814)
+
+# 2016-01-08
+
+* Fixed buildbot
+* [Closed impl AsRef on Box issue](https://github.com/rust-lang/rust/issues/30744)
+* [Reviewed rust-cgdb](https://github.com/rust-lang/rust/pull/30780#issuecomment-170109601)
+* [Filed issues on gold regressions](https://github.com/rust-lang/rust/pull/29974#issuecomment-170112656)
+* Worked on regressions
+* [Retried a pr](https://github.com/rust-lang/rust/pull/30737)
+* [Reviewed playpen docs](https://github.com/rust-lang/rust-playpen/pull/169)
+* [Reviewed future-incompatible changes](https://github.com/rust-lang/rust/pull/30787#issuecomment-170158321)
+
+# 2016-01-07
+
+* [Posted new regression report](https://internals.rust-lang.org/t/regression-report-stable-2015-12-10-vs-nightly-2016-01-05/3063/1)
+* [Posted breakage message](https://users.rust-lang.org/t/upcoming-breakage-starting-in-rust-1-7-from-rfcs-1214-and-136/4207/1)
+* Sent email to crate authors whose crates are breaking
+* [Closed a fixed issue](https://github.com/rust-lang/rust/issues/27819)
+* [Posted 1.6 regression watch](https://internals.rust-lang.org/t/rust-1-6-regression-watch/3064)
+* Started new nightly
 
 # 2016-01-06
 
