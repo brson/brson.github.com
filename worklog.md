@@ -2,6 +2,46 @@ o---
 layout: basic
 ---
 
+# 2016-02-11
+
+* Ran crater
+* [Reviewed cargo patch to prefer env vars](https://github.com/rust-lang/cargo/pull/2365#issuecomment-180863920)
+* [Commented on derive copy clone](https://github.com/rust-lang/rust/pull/31414)
+* [Reviewed new build system](https://github.com/rust-lang/rust/pull/31123#issuecomment-181093400)
+* [Reviewed cargo job objects](https://github.com/rust-lang/cargo/pull/2370)
+* [Commented on upstreaming sublime](https://github.com/rust-lang/sublime-rust/issues/72#issuecomment-182991267)
+* [Reviewed sublime snippet patches](https://github.com/rust-lang/sublime-rust/pull/68#issuecomment-182038046)
+* Commented on windows __fastfail
+* [Commented on emscripten](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/22?u=brson)
+* [Reviewed os::raw changes](https://github.com/rust-lang/rust/pull/31551)
+* [Reviewed emscripten patch](https://github.com/rust-lang/rust/pull/31570)
+* [Commemnted on i686](https://github.com/rust-lang/rust/pull/31110#issuecomment-183013095)
+* [Reviewed jemalloc patch](https://github.com/rust-lang/rust/pull/31460)
+* Fixed disks on rust-android1
+* [Reviewed coc fix](https://github.com/rust-lang/rust-www/pull/305)
+* [Filed community report](https://github.com/rust-lang/subteams/pull/26)
+* [Closed an old rust-www PR](https://github.com/rust-lang/rust-www/pull/279)
+* Send www email
+* [Filed but about error index tests not running on make check](https://github.com/rust-lang/rust/issues/31587)
+* [Reviewed error index tests](https://github.com/rust-lang/rust/pull/30726)
+* [Reviewed doc pr](https://github.com/rust-lang/rust/pull/31585)
+
+# 2016-02-10
+
+* [Reviewed emscripten fixes](https://github.com/rust-lang/rust/pull/31532)
+* [Closed rust-cgdb PR](https://github.com/rust-lang/rust/pull/30780)
+* [Commented about simd](https://github.com/rust-lang/rust/pull/31110)
+* [Merged basic-http-server patch](https://github.com/brson/basic-http-server/pull/1)
+
+# 2016-02-09
+
+* [Reviewed minor doc patch](https://github.com/rust-lang/rust/pull/31516)
+* [Reviewed --cfg fix](https://github.com/rust-lang/rust/pull/31499)
+* [Reviewed ar fixes](https://github.com/rust-lang/rust/pull/31494)
+* [Reviewed jemalloc](https://github.com/rust-lang/rust/pull/31460)
+* Worked on error index makefile fixes for imperio
+* [Commented on test frameworks](https://internals.rust-lang.org/t/test-and-external-test-harnesses/3145/7)
+
 # 2016-02-08
 
 * [Commented on SVH](https://github.com/rust-lang/rfcs/issues/689#issuecomment-181513929)
@@ -16,6 +56,8 @@ layout: basic
 * [Merged forge fix](https://github.com/brson/rust-forge/pull/1)
 * Made some updates to multirust-rs patch
 * [Asked for help on emscripten port](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/1)
+* [Posted fixes to rustdoc compile-fail makefiles](https://github.com/rust-lang/rust/pull/30726#issuecomment-181685848)
+* [Filed issue about guard pages](https://github.com/rust-lang/rust/issues/31506)
 
 # 2016-02-07
 
