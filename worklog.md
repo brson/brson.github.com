@@ -1,6 +1,381 @@
-o---
+---
 layout: basic
 ---
+
+# 2016-04-08
+
+* [Funnel aborts through rtabort](https://github.com/rust-lang/rust/pull/32832)
+* [Patch to distribute all debugger scripts](https://github.com/rust-lang/rust/pull/32835)
+* [Rejected minor doc patch](https://github.com/rust-lang/rust/pull/32825)
+* [Fixed rustup.sh sudo bug](https://github.com/rust-lang/rustup/pull/52)
+* More book review
+* [Reviewed a multirust-rs patch](https://github.com/rust-lang-nursery/multirust-rs/pull/290)
+* [Respond to CLI thread](https://github.com/rust-lang-nursery/multirust-rs/issues/266)
+
+# 2016-04-07
+
+* Still trying to configure cargotest in dev
+* Writing 1.8 relnotes
+* [Reviewed telemetry patch](https://github.com/rust-lang-nursery/multirust-rs/pull/289)
+* [Reviewed 1.9 stabilizations](https://github.com/rust-lang/rust/pull/32804)
+* [Fixed featureck for 1.8](https://github.com/rust-lang/rust/pull/32806)
+* [Reviewed](https://github.com/rust-lang/rust/pull/32751)
+* [Reviewed](https://github.com/rust-lang/rust/pull/32755)
+* [Continued working on cargotest](https://github.com/rust-lang/rust/pull/32786)
+* [Release notes](https://github.com/rust-lang/rust/pull/32810)
+* [Closed pr to remove "aborting due to previous errors"](https://github.com/rust-lang/rust/pull/32659)
+* Deployed cargotest builders
+
+# 2016-04-06
+
+* Attended community meeting
+* Worked on cargotest more
+* Repsonded to rustup threads
+* [Reviewed minor doc patch](https://github.com/rust-lang/rust/pull/32774)
+* [Posted cargotest fix](https://github.com/rust-lang/rust/pull/32786)
+
+# 2016-04-05
+
+* [Booked meetup for 4/26](https://github.com/rust-community/talks/issues/11#issuecomment-205976826)
+
+# 2016-04-01
+
+* [Responded to libsys rfc](https://github.com/rust-lang/rfcs/pull/1502)
+
+# 2016-03-26
+
+* [Parse toolchain names better](https://github.com/rust-lang-nursery/multirust-rs/pull/160)
+* Trying to land new deployment scheme for rustup
+* Lots of rustup work
+
+# 2016-03-25
+
+* [Fixed cargotest makefile](https://github.com/rust-lang/rust/pull/32484)
+* Trying to get cargotest into buildbot
+* Set up ssl for rustup.rs
+* [Multirust which](https://github.com/rust-lang-nursery/multirust-rs/pull/152)
+* [Fixed multirust panics](https://github.com/rust-lang-nursery/multirust-rs/pull/153)
+* [rustup show](https://github.com/rust-lang-nursery/multirust-rs/pull/156)
+
+# 2016-03-24
+
+* [Replied to multirust IDE integration thread](https://internals.rust-lang.org/t/multirust-rs-integration-with-tools/3293/5)
+* [Fixed a multirust bug](https://github.com/rust-lang-nursery/multirust-rs/pull/146)
+
+# 2016-03-23
+
+* [Posted comment on derive(Clone) opt](https://github.com/rust-lang/rust/pull/31414#issuecomment-200566206)
+* [Posted comment on adding libutil to libc](https://github.com/rust-lang/rfcs/pull/1529#issuecomment-200575909)
+* [Commented on multirust-rs q](https://internals.rust-lang.org/t/multirust-rs-integration-with-tools/3293/2)
+* [Updated pr](https://github.com/rust-lang/rust/pull/32276)
+* [Updated pr](https://github.com/rust-lang/rust/pull/32219)
+* [Posted rustup PR to overhaul UI](https://github.com/rust-lang-nursery/multirust-rs/pull/142)
+* [Posted rustup setup script](https://github.com/rust-lang-nursery/multirust-rs/pull/143)
+* [Responded to multirust issue](https://github.com/brson/multirust/issues/121#issuecomment-200604319)
+
+# 2016-03-22
+
+* [Posted glium bug](https://github.com/tomaka/glium/issues/1440)
+* [Updated cargotest](https://github.com/rust-lang/rust/pull/32348)
+* [Merged beta ports](https://github.com/rust-lang/rust/pull/32291)
+* Reviewed cargo nightly updates
+
+# 2016-03-21
+
+* [Merged stdx serde patch](https://github.com/brson/stdx/pull/7)
+* [Responded to multirust homebrew problem](https://github.com/brson/multirust/issues/149)
+* [Closed Pr to add logo to readme](https://github.com/rust-lang/rust/pull/32406)
+* [Fixed rustup deployment](https://github.com/rust-lang-nursery/multirust-rs/pull/138)
+* [Reviewed playpen rewrite](https://github.com/rust-lang/rust-playpen/pull/187#event-595939995)
+
+# 2016-03-19
+
+* [Posted rustup pr](https://github.com/rust-lang-nursery/multirust-rs/pull/136)
+* [Commented a lot about the rustup ui](https://github.com/rust-lang-nursery/multirust-rs/issues/129)
+* [Merged forge release history](https://github.com/rust-lang-nursery/rust-forge/pull/6)
+
+# 2016-03-19
+
+* Worked on rustup
+* [Merged forge stuff](https://github.com/rust-lang-nursery/rust-forge/pull/5)
+* [rustup whitespace fixes](https://github.com/rust-lang-nursery/multirust-rs/pull/135)
+
+# 2016-03-18
+
+* [Commented on Copy opt](https://github.com/rust-lang/rust/pull/31414#issuecomment-198449782)
+* [Reviewed some pr](https://github.com/rust-lang/rust/pull/31977)
+* [Fixed rustup not printing cargo version](https://github.com/rust-lang-nursery/multirust-rs/pull/132)
+* [Reduced copying in test suite](https://github.com/rust-lang-nursery/multirust-rs/pull/134)
+* [Merged multirust pr](https://github.com/brson/multirust/pull/146#issuecomment-198567920)
+* [Reviewed new builders](https://github.com/rust-lang/rust-buildbot/pull/81)
+* [Published forge](https://internals.rust-lang.org/t/forge-rust-lang-org/3261)
+* [Published cargotest pr](https://github.com/rust-lang/rust/pull/32348)
+
+# 2016-03-17
+
+* [Updated a multirust fix pr](https://github.com/rust-lang-nursery/multirust-rs/pull/118)
+* [Posted pr to make list-targets nicer](https://github.com/rust-lang-nursery/multirust-rs/pull/120)
+* [More rustup fixes](https://github.com/rust-lang-nursery/multirust-rs/pull/121)
+* [Posted pr to use jobs on windows](https://github.com/rust-lang-nursery/multirust-rs/pull/122)
+* [Commented on msi msvc warnings](https://github.com/rust-lang/rust-packaging/issues/50#issuecomment-198070600)
+* [More multirust-rs](https://github.com/rust-lang-nursery/multirust-rs/pull/124)
+* [Wrote response to platfom dev about packaging](https://gist.github.com/brson/0c7b1459a445074bcdfc)
+* [Responded to multirust issue](https://github.com/brson/multirust/issues/144)
+* [Filed rustup issue about corrupted failed installs](https://github.com/rust-lang-nursery/multirust-rs/issues/127)
+* [Filed bug about rustup sort order](https://github.com/rust-lang-nursery/multirust-rs/issues/128)
+
+# 2016-03-16
+
+* [Merged multirust self-update](https://github.com/rust-lang-nursery/multirust-rs/pull/106)
+* [Fixed buildbot bug](https://github.com/rust-lang/rust-buildbot/pull/76)
+* [Updated rustflags patch again](https://github.com/rust-lang/cargo/pull/2241)
+* Lots of multirust-rs firefighting
+* [Merged basic-http-server pr](https://github.com/brson/basic-http-server/pull/3)
+* [Reviewed rustbuild dist patch](https://github.com/rust-lang/rust/pull/32237)
+* [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/2480)
+* [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/2484)
+
+# 2016-03-15
+
+* [Reviewed patch](https://github.com/rust-lang/rust/pull/32266)
+* Replied on hn abut wasm+rust
+* [Replied to gomez about rustdoc bs](https://github.com/rust-lang/rust/pull/32230#issuecomment-197039897)
+* [Merged multirust-rs pr](https://github.com/rust-lang-nursery/multirust-rs/pull/108)
+* [Merged multirust-rs doc pr](https://github.com/rust-lang-nursery/multirust-rs/pull/108)
+* [Reviewed cargo flock patch](https://github.com/rust-lang/cargo/pull/2486)
+* [Submitted minor doc pr](https://github.com/rust-lang/rust/pull/32276)
+* [Reviewed rustdoc --extra-css patch](https://github.com/rust-lang/rust/pull/32230)
+
+# 2016-03-14
+
+* [Merged gitignore multirust-rs pr](https://github.com/Diggsey/multirust-rs/pull/96)
+* [Merged multirust-rs doc pr](https://github.com/Diggsey/multirust-rs/pull/92)
+* Sent Diggsey email suggesting moving multirust-rs to rust-lang-nursery
+* [Filed winapi regression](https://github.com/rust-lang/rust/issues/32247)
+* [Pinned multirust-rs to avoid winapi regression](https://github.com/Diggsey/multirust-rs/pull/91)
+* [Reviewed rustbuild patch](https://github.com/rust-lang/rust/pull/32206)
+* Transferred multirust-rs to nursery
+* [Reviewed rustbuild patch](https://github.com/rust-lang/rust/pull/32239)
+* [Filed bug about stdin inheritance](https://github.com/rust-lang/rust/issues/32254)
+* [Triaged a bug](https://github.com/rust-lang/rust/issues/32249#issuecomment-196625349)
+* [Posted self-update PR](https://github.com/rust-lang-nursery/multirust-rs/pull/106)
+
+# 2016-03-13
+
+* [Filed capped lints bug](https://github.com/rust-lang/rust/issues/32234)
+* [Commented on new term crate](https://users.rust-lang.org/t/introducing-colored-the-most-simple-way-to-add-colors-in-your-term/4968/6)
+* [Merged multirust fix](https://github.com/brson/multirust/pull/145)
+* Merged multirust-rs fix
+* Worked on rustup.rs website
+
+# 2016-03-12
+
+* [Posted spew testcase](https://github.com/rust-lang/rust/issues/31994#issuecomment-195817144)
+* Worked on rustup self-install
+* [Worked on renamed_and_removed_lints lint](https://github.com/rust-lang/rust/pull/32219)
+
+# 2016-03-11
+
+* [Commented on multirust bug](https://github.com/brson/multirust/issues/143)
+* [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/2470#issuecomment-195526348)
+* [Reviewed cargo fix](https://github.com/rust-lang/cargo/pull/2471)
+* [Reviewed cargo fix](https://github.com/rust-lang/cargo/pull/2454)
+* [Commented on rustup plan](https://github.com/Diggsey/multirust-rs/issues/88)
+
+# 2016-03-10
+
+* Fixed buildbot fire
+* [Merged multirust fix](https://github.com/brson/multirust/pull/141)
+* [Merged crusader patch](https://github.com/brson/cargo-crusader/pull/7)
+* [Tagged 0.8.0](https://github.com/brson/multirust/issues/140)
+* [Merged buildbot fix](https://github.com/rust-lang/rust-buildbot/pull/71)
+* [Commented on multirust-rs doc patch](https://github.com/Diggsey/multirust-rs/pull/92#issuecomment-195081839)
+
+# 2016-03-09
+
+* [Merged rustup bashism fix](https://github.com/rust-lang/rustup/pull/44)
+* [Fixed rustup breakage](https://github.com/rust-lang/rustup/pull/46)
+* [Reviewed cargo thing](https://github.com/rust-lang/cargo/pull/2420)
+* [Filed overflow rfc](https://github.com/rust-lang/rfcs/pull/1535)
+* [Responded to multirust q](https://github.com/brson/multirust/issues/139)
+* [Merged multirust doc fix](https://github.com/brson/multirust/pull/138)
+* [Reviewed cargo bulid](https://github.com/rust-lang/cargo/pull/2448#event-581275119)
+* [Posted multirust issue to turn on v2 manifests](https://github.com/Diggsey/multirust-rs/pull/91)
+* Did a bit of work on multirust-rs setup
+* [Reviewed multirust-rs doc patch](https://github.com/Diggsey/multirust-rs/pull/92)
+
+# 2016-03-08
+
+* [Posted stable manifest pr](https://github.com/rust-lang/rust-buildbot/pull/68)
+* [Posted rustup braindump](https://github.com/Diggsey/multirust-rs/issues/88)
+* Reverted multirust.sh blastoff.sh name change
+* [Reviewed rustup pr](https://github.com/rust-lang/rustup/pull/41)
+* Reviewed another rustup pr
+* Worked getting multirust.sh working
+* [Reviewed rustup pr](https://github.com/rust-lang/rustup/pull/40)
+* Merged rustup.sh and multirust.sh manifest v2 support
+* [Published multirust 0.8](https://users.rust-lang.org/t/multirust-0-8-with-cross-std-installation/4901/1)
+* [Reviewed rustbuild patch](https://github.com/rust-lang/rust/pull/32133)
+
+# 2016-03-07
+
+* Fixed beta build in dev
+* Responded to florian about conferences
+* Sent stickers to germany
+* Merged some twir prs
+* [Reviewed some rustbuild pr](https://github.com/rust-lang/rust/pull/31995)
+* [Filed resolve regression](https://github.com/rust-lang/rust/issues/32106)
+* Put v2 manifest generator into prod
+* [Reviewed error fixes](https://github.com/rust-lang/rust/pull/31957)
+* [Unbroke CI](https://github.com/rust-lang/rust-buildbot/pull/67)
+* Worked on rustup UI
+* [Merged twir pr](https://github.com/cmr/this-week-in-rust/pull/179)
+
+# 2016-03-06
+
+* Refactoring multirust-rs
+
+# 2016-03-05
+
+* Worked on v2 manifests for rust-buildbot
+* Worked on frob-rtinst
+* [Filed issue about Duration max](https://github.com/rust-lang/rust/issues/32070)
+
+# 2016-03-04
+
+* [Reviewed diagnostic patch](https://github.com/rust-lang/rust/pull/31957#issuecomment-192441200)
+* Worked on v2 manifest scripts in dev
+
+# 2016-03-03
+
+* Made release
+* [Revewied website cleanup](https://github.com/rust-lang/rust-www/pull/314)
+* [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/2434)
+* [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/2423#issuecomment-190801827)
+* Worked on rustflags
+* [Reviewed rust-std reduction](https://github.com/rust-lang/rust/pull/32009)
+* [Reviewed into_ascii](https://github.com/rust-lang/rust/pull/32020)
+* [Posted rustflags update](https://github.com/rust-lang/cargo/pull/2241#issuecomment-192068623)
+
+# 2016-03-02
+
+* Worked on rtinst
+* Refactored rustup
+* Did 1.7 prerelease work
+* [Posted 1.7 bins](https://internals.rust-lang.org/t/rust-1-7-prerelease-testing/3214)
+* [Closed issue about blastoff breakage](https://github.com/brson/multirust/issues/134#issuecomment-191468941)
+* [Merged basic-http-server fixes](https://github.com/brson/basic-http-server/pull/2)
+* Published basic-http-server
+* [Commented on emscripten test runner](https://github.com/rust-lang/rust/pull/31623#issuecomment-191505021)
+* [Fixed beta](https://github.com/rust-lang/rust/pull/32017)
+* [Filed issue on beta tests](https://github.com/rust-lang/rust/issues/32019)
+
+# 2016-03-01
+
+* [Posted 1.9 pr](https://github.com/rust-lang/rust/pull/31992)
+* Commented on type_name
+* Started 1.7 build
+
+# 2016-02-28
+
+* [Closed multirust ticket](https://github.com/brson/multirust/issues/36#issuecomment-189832876)
+* [Commented on multirust attack](https://github.com/brson/multirust/issues/131)
+* [Merged multirust patch](https://github.com/brson/multirust/pull/130)
+* [Merged multirust patch](https://github.com/brson/multirust/pull/128)
+* [Responded to multirust XDG](https://github.com/brson/multirust/issues/104#issuecomment-189616811)
+* [Commented on multirust bug](https://github.com/brson/multirust/issues/127#issuecomment-189948965)
+* Updated stdx
+* [Reviewed an error patch](https://github.com/rust-lang/rust/pull/31957)
+* [Put together another beta release notes pr](https://github.com/rust-lang/rust/pull/31971)
+* [Another beta pr](https://github.com/rust-lang/rust/pull/31974)
+* [Reviewed rustuild cross pr](https://github.com/rust-lang/rust/pull/31884)
+* [Reviewed lazily downloaded packages](https://github.com/rust-lang/cargo/pull/2406)
+* [Commented about fallible collections](https://internals.rust-lang.org/t/adding-methods-that-returns-errors-when-out-of-memory-for-collections/3202/4)
+* [Closed multirust doc question](https://github.com/brson/multirust/issues/132)
+* [Helped with error handling](https://github.com/rust-lang/rust/pull/31957#issuecomment-190373855)
+* [Reviewed derive optimization](https://github.com/rust-lang/rust/pull/31977)
+* [Investigated multirust uninstall bug](https://github.com/brson/multirust/issues/133)
+* Posted Manishe's curated bugs to twir thread
+* Wored on rustup component installation
+* [Reviewed rustbuild pr](https://github.com/rust-lang/rust/pull/31713)
+* [Reviewed process improvements](https://github.com/rust-lang/rust/pull/31618)
+
+# 2016-02-26
+
+* More rustup.rs
+* [Posted release note thread](https://internals.rust-lang.org/t/last-chance-to-review-1-7-release-notes/3207)
+* [Posted beta backports](https://github.com/rust-lang/rust/pull/31917)
+* [Reviewed cargo env var patch](https://github.com/rust-lang/cargo/pull/2398)
+* [Reviewed cargo config pr](https://github.com/rust-lang/cargo/pull/2397)
+* [Commented on nounwind](https://github.com/rust-lang/rfcs/pull/1513#issuecomment-189506307)
+* [Posted multirust-rs fixes](https://github.com/Diggsey/multirust-rs/pull/79)
+
+# 2016-02-24
+
+* [Reviewed multirust-rs patch](https://github.com/Diggsey/multirust-rs/pull/73)
+* [Merged some beta PR](https://github.com/rust-lang/rust/pull/31851)
+* [Replied to multirust issue](https://github.com/brson/multirust/issues/126)
+* [Merged rust-buildbot cargo build date patch](https://github.com/rust-lang/rust-buildbot/pull/62)
+* [Reviewed cargo patch](https://github.com/rust-lang/rust-buildbot/pull/62)
+* [Responded to some multirust issue](https://github.com/brson/multirust/issues/124#issuecomment-187189997)
+* [Fixed multirust-rs test flakiness](https://github.com/Diggsey/multirust-rs/pull/74)
+* [Reviewed jemalloc makefile fixes](https://github.com/rust-lang/rust/pull/31846)
+* [Reviewed arm patch](https://github.com/rust-lang/rust/pull/31800)
+* [Commented on CLICOLOR](https://github.com/rust-lang/rust/pull/27867)
+* [Commented on search index tests](https://github.com/rust-lang/rust/pull/31483)
+* [Reviewed error fix](https://github.com/rust-lang/rust/pull/31818)
+* [Reviewed networking fixes](https://github.com/rust-lang/rust/pull/31858)
+* [Commented on small strings](https://internals.rust-lang.org/t/small-string-optimization-remove-as-mut-vec/1320/71?u=brson)
+* [Reviewed a thing](https://github.com/rust-lang/rust/pull/31827)
+
+# 2016-02-22
+
+* Updating downstreams for 1.7 breakage
+
+# 2016-02-20
+
+* [Commented on multirust cargo request](https://github.com/brson/multirust/issues/125#issuecomment-186682390)
+
+# 2016-02-19
+
+* [Clarify README multirust-rs](https://github.com/Diggsey/multirust-rs/pull/68)
+* [Commented on pr](https://github.com/rust-lang/rust/pull/31689)
+* [Posted multirust-rs Pr](https://github.com/Diggsey/multirust-rs/pull/69)
+* [Reviewed PR](https://github.com/rust-lang/rust/pull/31620)
+* Commented on local registries
+* [Filed issue about jemalloc breakage](https://github.com/rust-lang/rust/issues/31780)
+* [Commented about global cargo installation in multirust](https://github.com/brson/multirust/issues/124#issuecomment-186470542)
+* [Commented about remove_dir_all](https://github.com/rust-lang/rust/issues/29497#issuecomment-186471145)
+
+# 2016-02-17
+
+* [1.7 downstream PR](https://github.com/dherman/esprit/pull/9)
+
+# 2016-02-17
+
+* Working on v1 manifests for multirust-rs
+* [Commented on unstable rustc flags](https://github.com/rust-lang/rust/pull/31731#issuecomment-185367815)
+* [Replied to local registries](https://github.com/rust-lang/cargo/pull/2361#issuecomment-184933621)
+* [Updated rustflags pr](https://github.com/rust-lang/cargo/pull/2241#issuecomment-166692934)
+
+# 2016-02-16
+
+* [Reviewed cargo cfg patch](https://github.com/rust-lang/cargo/pull/2328)
+* [Reviewed cargo local registries](https://github.com/rust-lang/cargo/pull/2361)
+* Ordered pizza for meetup
+* Filed expenses
+* [Updated RUSTFLAGS patch](https://github.com/rust-lang/cargo/pull/2241)
+* [Reviewed llvm update](https://github.com/rust-lang/rust/pull/31717)
+
+# 2016-02-12
+
+* [Posted PR to rust-learning](https://github.com/ctjhoa/rust-learning/pull/36)
+* [Reviewed rustdoc compile-fail again](https://github.com/rust-lang/rust/pull/30726)
+* [Reviewed doc pr](https://github.com/rust-lang/rust/pull/31607)
+* [Reviewed sanitizers](https://github.com/rust-lang/rust/pull/31605)
+* [Reviewed rustbuild pr](https://github.com/rust-lang/rust/pull/31591)
+* [Reviewed minor doc pr](https://github.com/rust-lang/rust/pull/31585)
+* [Reviewed emscripten thread pr](https://github.com/rust-lang/rust/pull/31571#issuecomment-183451243)
 
 # 2016-02-11
 
@@ -25,6 +400,8 @@ layout: basic
 * [Filed but about error index tests not running on make check](https://github.com/rust-lang/rust/issues/31587)
 * [Reviewed error index tests](https://github.com/rust-lang/rust/pull/30726)
 * [Reviewed doc pr](https://github.com/rust-lang/rust/pull/31585)
+* [Reviewed rustbuild rust-buildbot patch](https://github.com/rust-lang/rust-buildbot/pull/61)
+* Continued work on multirust-rs
 
 # 2016-02-10
 
