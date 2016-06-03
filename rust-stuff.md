@@ -4,9 +4,8 @@ layout: basic
 
 I've been [doing Rust](http://www.rust-lang.org/team.html) for
 [a while now](https://github.com/rust-lang/rust/commit/0633c7ae6e54edebde8421cef14267ad1ba1e30c).
-This is where I remind myself of the good things I've made.
 
-* Converted Rust from a statement language to an expression
+* I converted Rust from a statement language to an expression
   language.
 
 * Introduced multithreading to the original (C++-based)
@@ -59,9 +58,7 @@ This is where I remind myself of the good things I've made.
 
 * Maintained [This Week in Rust](http://this-week-in-rust.org), the
   Rust newsletter, along with [cmr](http://github.com/cmr/) and
-  others. I believe the success of TWiR influenced the [proliferation
-  of similar development
-  newsletters](http://lwn.net/Articles/650527/).
+  others.
 
 * Created the [Friend of the
   Tree](https://github.com/rust-lang/rust-wiki-backup/blob/master/Doc-friends-of-the-tree.md)
@@ -95,4 +92,3 @@ This is where I remind myself of the good things I've made.
   'good failure' from 'bad failure'.
 
 * [Added `transmute`](https://github.com/rust-lang/rust/commit/f12adcbf930122ef6d98790b53d80d511dc62406), the legendary waraxe of unsafety.
-
