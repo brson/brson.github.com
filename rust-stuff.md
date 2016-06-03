@@ -31,7 +31,7 @@ This is where I remind myself of the good things I've made.
   support](https://github.com/rust-lang/rust/commit/09982784c6ad1c78f9480c3c2c0c3a2b2bf7f969)
   along with
   [compiletest](https://github.com/rust-lang/rust/commit/2573fe7026eb696841acbba8f3d1c09e2224acf0),
-  the first parallel Rust program.
+  the rustc test driver, and the first parallel Rust program.
 
 * Wrote a lot of documentation.
 
