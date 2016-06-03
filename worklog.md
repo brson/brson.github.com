@@ -2,6 +2,277 @@
 layout: basic
 ---
 
+# 2016-06-02
+
+* [Posted ideas about visualizations](https://internals.rust-lang.org/t/the-rust-project-needs-much-better-visibility-into-important-metrics/3367/34?u=brson)
+* [Opened cmake issue](https://github.com/rust-lang/rust/issues/34040)
+* [Opened rustup test issue](https://github.com/rust-lang-nursery/rustup.rs/issues/508)
+* [Filed perf regression](https://github.com/rust-lang/rust/issues/34042)
+* [Reviewed dockerfile](https://github.com/rust-lang/rust/pull/34016)
+* [Reviewed rustdoc fix](https://github.com/rust-lang/rust/pull/34045)
+* [Commented on error code tests](https://github.com/rust-lang/rust/pull/34051)
+* [Posted release cycle triage](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544)
+* Invited Tigran to lunch on 22nd.
+* [Added some bots to rust-forge](https://github.com/rust-lang-nursery/rust-forge/blob/master/infrastructure.md)
+* [Reviewed a PR](https://github.com/rust-lang/rust/pull/34052)
+* [Responded to rustup thread](https://users.rust-lang.org/t/rustup-rs-cannot-install-toolchains-with-version-1-8-0/6077/4)
+* [Opened cmake PR](https://github.com/rust-lang/rust/pull/34055)
+
+# 2016-06-01
+
+* Fixed a fire on crates.io
+* [Reviewed rustdoc fix](https://github.com/rust-lang/rust/pull/34026)
+* [Reviwed faqs](https://github.com/rust-lang/rust-www/pull/394)
+
+# 2016-05-31
+
+* Responded to rustup.rs thread
+* Responded to other threads
+* Renewed crates.io
+* [Reviewed configuration changes](https://github.com/rust-lang/rust/pull/33971)
+* [Reviewed stable lint reporting](https://github.com/rust-lang/rust/pull/33973)
+* [Reviewed copyright pr](https://github.com/rust-lang/rust/pull/33385)
+* [Reviewed rust-buildbot source tarball](https://github.com/rust-lang/rust-buildbot/pull/102)
+* [Updated multirust deprecation](https://github.com/brson/multirust/issues/162)
+* [Commented on cargo aliases](https://github.com/rust-lang/cargo/pull/2679#issuecomment-222777908)
+* [Commented on log indention](https://github.com/rust-lang-nursery/log/pull/80#issuecomment-222779672)
+* [Reviewed parking lot RFC](https://github.com/rust-lang/rfcs/pull/1632#issuecomment-222812212)
+* [Commented on siphash 1-3](https://github.com/rust-lang/rust/pull/33940#issuecomment-222814632)
+* [Merged some backports](https://github.com/rust-lang/rust/pull/33996)
+* [Reviewed doc patch](https://github.com/rust-lang/rust/pull/33606)
+* [Reviewed minor python patch](https://github.com/rust-lang/rust/pull/33141)
+
+# 2016-05-16
+
+* Filed bug against cargo-clippy
+* [Filed bug against cargo-clippy](https://github.com/Manishearth/rust-clippy/issues/937)
+* [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/2701)
+* [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/472)
+* [Fixed toolchain add synonym](https://github.com/rust-lang-nursery/rustup.rs/pull/477)
+
+# 2016-05-13
+
+* [Rustup blog post]{https://github.com/rust-lang/blog.rust-lang.org/pull/96)
+* [Fixed rustup multirust defenses](https://github.com/rust-lang-nursery/rustup.rs/pull/456)
+* [Fixed a twir issue](https://github.com/cmr/this-week-in-rust/issues/218)
+* [Reviewed a doc patch](https://github.com/rust-lang/rust/pull/33606#issuecomment-218925337)
+
+# 2016-05-12
+
+* Up most of night trying to get rustup deployed
+* Reviewed derive optimization
+
+# 2016-05-11
+
+* Sent infoworld reporter heads up about rust birthday
+* Submitted rustconf to lwn calendar
+* [Commented on extended error RFC](https://github.com/rust-lang/rfcs/pull/1567)
+* [Reviewed PR](https://github.com/rust-lang/cargo/pull/2674)
+* [Submitted PR to fix rustup install](https://github.com/rust-lang-nursery/rustup.rs/pull/444)
+* [Added www disclaimer about curl | sh](https://github.com/rust-lang-nursery/rustup.rs/pull/447)
+
+# 2016-05-10
+
+* Started build of rustup 0.1.10
+* [Added another friend](https://github.com/rust-lang/rust-www/pull/375)
+* [Merged rustup pr](https://github.com/rust-lang-nursery/rustup.rs/pull/428)
+
+# 2016-05-09
+
+* [Posted comment on current_exe](https://github.com/rust-lang/rust/issues/21889#issuecomment-217992545)
+* [Merged blog fix](https://github.com/rust-lang/blog.rust-lang.org/pull/95)
+* Updated AWS stuff with Gene Wood
+* [Updated synonym pr](https://github.com/rust-lang-nursery/rustup.rs/pull/419)
+* Edited rustup blog post
+* [Posted winapi patch](https://github.com/retep998/winapi-rs/pull/280)
+* Added deprecation notice to rustup readme
+* [Posted schannel fixes](https://github.com/sfackler/schannel-rs/pull/1)
+
+# 2016-05-08
+
+* [Reviewed settings.toml](https://github.com/rust-lang-nursery/rustup.rs/pull/420)
+* [Fixed `rustup update` bug](https://github.com/rust-lang-nursery/rustup.rs/pull/425)
+
+# 2016-05-07
+
+* Merged rustup openssl PR
+* [Merged rustup readme](https://github.com/rust-lang-nursery/rustup.rs/pull/409)
+* [Commented on installer improvements](https://github.com/rust-lang-nursery/rustup.rs/issues/386#issuecomment-217655713)
+* Various rustup work
+* [Posted rustup 0.1.9 release announcement](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/113?u=brson)
+* [Reviewed Diggsey's installer patch](https://github.com/rust-lang-nursery/rustup.rs/pull/418)
+* [rustup cli cleanup](https://github.com/rust-lang-nursery/rustup.rs/pull/419)
+* [Reviewed a trivial libsyntax change](https://github.com/rust-lang/rust/pull/33484)
+
+# 2016-05-06
+
+* [Commented on running cargo from the tarball](https://users.rust-lang.org/t/does-rust-on-linux-need-to-be-installed-on-the-system-to-be-used/5722/7?u=brson)
+* Commented on ncollide
+* Commented on dyon
+* [Commented on cargotest](https://internals.rust-lang.org/t/new-lint-and-cargotest/3405/7?u=brson)
+* [Commented on rustup path pr](https://github.com/rust-lang-nursery/rustup.rs/pull/402)
+* [Merged rustup doc](https://github.com/rust-lang-nursery/rustup.rs/pull/403)
+* [Reviewed distcheck fix](https://github.com/rust-lang/rust/pull/33472)
+* [Published sha2](https://users.rust-lang.org/t/announcing-the-pure-rust-sha2-crate/5723)
+* [Responded to friends pr](https://github.com/rust-lang/rust-www/pull/371#issuecomment-217559649)
+* [Reviewed minor pr](https://github.com/rust-lang/rust/pull/33466#issuecomment-217560313)
+* [Reviwed minor pr](https://github.com/rust-lang/rust/pull/33453)
+* [rustup show](https://github.com/rust-lang-nursery/rustup.rs/pull/406)
+* [Fixed OpenSSL cert issue in rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/405)
+* [Congratted eddyb](https://users.rust-lang.org/t/please-welcome-eddyb-to-the-lang-team/5712/8)
+* [Merged another friend](https://github.com/rust-lang/rust-www/pull/371#issuecomment-217581381)
+* [Added rustup upgrade defense](https://github.com/rust-lang-nursery/rustup.rs/pull/408)
+* [rustup readme fixes](https://github.com/rust-lang-nursery/rustup.rs/pull/409)
+
+# 2016-05-05
+
+* [Reviewed rustup tty fixes](https://github.com/rust-lang-nursery/rustup.rs/pull/394)
+* [Updated target_env desc](https://github.com/rust-lang/rust/pull/33437)
+* [Filed dev-dependencies bug](https://github.com/rust-lang/cargo/issues/2651)
+* Worked on rustup TLS
+* [Added beget.com to friends page](https://github.com/rust-lang/rust-www/pull/370)
+* [Responded to sven](https://github.com/rust-lang/rust-www/issues/351#issuecomment-217316089)
+* [Posted rustup TLS overhaul](https://github.com/rust-lang-nursery/rustup.rs/pull/400)
+* [Updated debuggers PR](https://github.com/rust-lang/rust/pull/32835)
+* [Responded to rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/397)
+
+# 2016-05-04
+
+* [Merged beta prs](https://github.com/rust-lang/rust/pull/33407)
+* [Filed servo tls issue](https://github.com/servo/servo/issues/11016)
+* [Merged rustup pr](https://github.com/rust-lang-nursery/rustup.rs/pull/372)
+* [Updated FreeBSD platform detection](https://github.com/rust-lang-nursery/rustup.rs/pull/399)
+* Worked on rustup blog post
+
+# 2016-05-03
+
+* [Responded to rustup.rs thread](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/111?u=brson)
+* [Friends page cleanup](https://github.com/rust-lang/rust-www/pull/364)
+* [Added another friend](https://github.com/rust-lang/rust-www/pull/365)
+* Responded to bvsvvni about production use of piston
+* [Merged rustup.sh PR](https://github.com/rust-lang/rustup/pull/54)
+* [Merged rustup.sh PR](https://github.com/rust-lang/rustup/pull/52)
+* [Transferred rustup to rustup.sh](https://github.com/rust-lang/rustup.sh)
+* [Reviewed build system docs](https://github.com/rust-lang/rust/pull/33360)
+* [Commented on random seeding](https://github.com/rust-lang/rust/pull/33086#issuecomment-216651181)
+* [Commented on multirust bug](https://github.com/brson/multirust/issues/160)
+* [Commented on lld patch](https://github.com/rust-lang/rust/pull/33327)
+* [Responded to q](https://github.com/rust-lang/rust/pull/30629#issuecomment-216657216)
+
+# 2016-05-02
+
+* [Merged www relnotes pr](https://github.com/rust-lang/rust-www/pull/356)
+* [Worked on friends page](https://github.com/rust-lang/rust-www/pull/359)
+* [Commented on piston friendss](https://github.com/rust-lang/rust-www/issues/351)
+* Praised a few contributors
+* [Reviewed mem::forget inlining](https://github.com/rust-lang/rust/pull/33357)
+* Wrote more rustup blog post
+* [Commented on blanket from conversions for ()](https://github.com/rust-lang/rust/pull/33108#issuecomment-216419874)
+
+# 2016-05-01
+
+* [Praised tomaka's vulkano](https://users.rust-lang.org/t/presentation-of-the-vulkano-library/5642/6?u=brson)
+* [Merged prod user pr](https://github.com/rust-lang/rust-www/pull/350)
+* [Commented on test fixtures](https://users.rust-lang.org/t/why-does-rust-test-framework-lack-fixtures-and-mocking/5622/12?u=brson)
+* Working on rustup blog post
+* Responded to a rustup.rs issue
+
+# 2016-04-30
+
+* Working on rustup blog post
+
+# 2016-04-29
+
+* Minor fixes to rustup
+* [Posted changelog](https://users.rust-lang.org/t/rust-project-changelog-for-2016-04-29/5613)
+* [Posted changelog to twir](https://github.com/cmr/this-week-in-rust/pull/207)
+* Helped investigate a build issue
+* [Tarball sanity check](https://github.com/rust-lang/rust/pull/33279)
+* Posted production users thread
+* [Reviewed cargo PR](https://github.com/rust-lang/cargo/pull/2629)
+* [Responded to metrics thread](https://internals.rust-lang.org/t/the-rust-project-needs-much-better-visibility-into-important-metrics/3367/20)
+* [Filed rustup infinite hang issue](https://github.com/rust-lang-nursery/rustup.rs/issues/384)
+
+# 2016-04-28
+
+* [Reviewed PR](https://github.com/rust-lang/rust/pull/33258)
+* [Posted prod page](https://github.com/rust-lang/rust-www/pull/346)
+* [Updated dbg patch](https://github.com/rust-lang/rust/pull/32835)
+* Merged some rustup prs
+* Released rustup 0.1.8
+
+# 2016-04-27
+
+* [Commented on community awards](https://github.com/rust-community/team/issues/22)
+* [Merged rustup Pr](https://github.com/rust-lang-nursery/rustup.rs/pull/359)
+* [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/360)
+* [Merged rustup website PR](https://github.com/rust-lang-nursery/rustup.rs/pull/361)
+* [Fixeb rustup backtrace bug](https://github.com/rust-lang-nursery/rustup.rs/pull/367)
+
+# 2016-04-26
+
+* [Responded to cargotest breakage](https://internals.rust-lang.org/t/new-lint-and-cargotest/3405/2)
+* [Again](https://github.com/rust-lang/rust/pull/33091#issuecomment-214845797)
+* [Updated rustup website](https://github.com/rust-lang-nursery/rustup.rs/pull/363)
+
+# 2016-04-25
+
+* [Responded to rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/357)
+* Merged rustup PR
+* [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/353)
+* [Created wasm issue](https://github.com/rust-lang/rust/issues/33205)
+* Ordered pizza for meetup
+* Tweaked some rustup error stuff
+
+# 2016-04-21
+
+* Created new rustup timeline
+* Sent email to alon about emscripten
+* [Filed rustup toolchain abbreviation issue](https://github.com/rust-lang-nursery/rustup.rs/issues/351)
+* [Fixed CARGO_HOME in cargo](https://github.com/rust-lang/cargo/pull/2604)
+
+# 2016-04-15
+
+* [Posted weekly changelog](https://users.rust-lang.org/t/rust-project-changelog-for-2016-04-15/5431)
+* [Merged rustup-setup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/325)
+* [Merged rustup badge fixes](https://github.com/rust-lang-nursery/rustup.rs/pull/324)
+* [Reviewed telemetry again](https://github.com/rust-lang-nursery/rustup.rs/pull/289)
+
+# 2016-04-14
+
+* [Posted quotes](https://users.rust-lang.org/t/rust-quotes-and-press/5405)
+
+# 2016-04-13
+
+* Updated multirust prs
+* [Fixed aarch64 rustup bug](https://github.com/rust-lang-nursery/multirust-rs/issues/291)
+* [Reviewed bootstrap key patch](https://github.com/rust-lang/rust/pull/32942)
+
+# 2016-04-12
+
+* Started another beta
+* [Posted prerelease thread](https://internals.rust-lang.org/t/1-8-prerelease-testing/3365)
+* [Posted message about metrics](https://internals.rust-lang.org/t/the-rust-project-needs-much-better-visibility-into-important-metrics/3367)
+* Sent jntrnr an email about www user's page
+* Updated 1.9 relnotes PR
+* [1.9 website update](https://github.com/rust-lang/rust-www/pull/339)
+* Created "friends of rust" page
+* [rustup-init](https://github.com/rust-lang-nursery/multirust-rs/pull/303)
+
+# 2016-04-11
+
+* [Promoted build targets](https://github.com/rust-lang/rust-buildbot/pull/91)
+* [Bumped version](https://github.com/rust-lang/rust/pull/32884)
+* Started 1.8 build
+* [Merged multirust pr](https://github.com/rust-lang-nursery/multirust-rs/pull/290)
+* [Reviewed telemetry patch again](https://github.com/rust-lang-nursery/multirust-rs/pull/289)
+* [1.9 relnotes](https://github.com/rust-lang/rust/pull/32892)
+
+# 2016-04-09
+
+* [Posted interactive install PR](https://github.com/rust-lang-nursery/multirust-rs/pull/293)
+* Book review
+
 # 2016-04-08
 
 * [Funnel aborts through rtabort](https://github.com/rust-lang/rust/pull/32832)
