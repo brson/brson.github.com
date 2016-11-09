@@ -83,6 +83,7 @@ I've been [doing Rust](http://www.rust-lang.org/team.html) for
 
 * Managed the release process [since the original 0.1
   release in January 2012](https://mail.mozilla.org/pipermail/rust-dev/2012-January/001256.html).
+  Maintained the [release notes](https://github.com/brson/rust/blob/relnotes/RELEASES.md).
 
 * I am responsible for [demanding Rust switch from an 80 character limit to 100](https://github.com/rust-lang/rust/pull/5340).
 

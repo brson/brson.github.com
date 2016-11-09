@@ -2,6 +2,2321 @@
 layout: basic
 ---
 
+# 2016-11-09
+
+- Edited my release announcement notes
+- [Requested review of my relnotes patch](https://github.com/rust-lang/rust/pull/37600#issuecomment-259471829)
+- [Fixed rust-packaging for 1.14](https://github.com/rust-lang/rust-packaging/pull/65)
+- Restarted beta rust-packaging build
+- [Posted 1.13 prerelease announcement](https://internals.rust-lang.org/t/1-13-prerelease-testing/4362)
+- [Filed bug about `?` error handling](https://github.com/rust-lang/rust/issues/37671)
+- [Made edits to 1.13 announce](https://github.com/rust-lang/blog.rust-lang.org/pull/136#issuecomment-259506180)
+- [Reviewed MSP430 port](https://github.com/rust-lang/rust/pull/37672)
+- [Commented on llvm 4 port](https://github.com/rust-lang/rust/issues/37609#issuecomment-259508943)
+- [Filed an issue about UnwindSafe atomics](https://github.com/rust-lang/rust/issues/37674)
+
+# 2016-11-08
+
+- Triaged todo list
+- [Checked an fcp](https://github.com/rust-lang/rust/pull/37192#issuecomment-259231140)
+- [Triaged beta regression](https://github.com/rust-lang/rust/issues/37630)
+- [Re-reviewed vendoring](https://github.com/rust-lang/rust/pull/37524#issuecomment-259239991)
+- [Updated release process](https://github.com/rust-lang-nursery/rust-forge/commit/5caf01b444f99d3559aba8c3614061845b7ce5e7)
+- [Updated beta bootstrap compiler](https://github.com/rust-lang/rust/pull/37656)
+- Started build of 1.14.0-beta.1
+- [Commented on openssl bug](https://github.com/rust-lang/rust/pull/37602#issuecomment-259114908)
+- [Triaged](https://github.com/rust-lang/rust/pull/37602)
+- [Wrote text for 1.13 release announcement](https://gist.github.com/brson/1beda7c9eef6c6d1d33e3ba587da21af)
+- [Reviewed vendor patch](https://github.com/rust-lang/rust/pull/37524#issuecomment-259239991)
+- [Closed old pr](https://github.com/rust-lang/rust/pull/33801)
+- [Triaged old pr](https://github.com/rust-lang/rust/pull/33840#issuecomment-259311417)
+- [Triaged old pr](https://github.com/rust-lang/rust/pull/34140#issuecomment-259311588)
+- [Triaged old pr](https://github.com/rust-lang/rust/pull/34420#issuecomment-259312009)
+- [Triaged old pr](https://github.com/rust-lang/rust/pull/35712#issuecomment-259312611)
+- [Thanked niko](https://github.com/rust-lang/rust/pull/36340#issuecomment-259312897)
+- [Reviewed a diagnostic pr](https://github.com/rust-lang/rust/pull/36409#issuecomment-259313564)
+- [Asked for updates on an old pr](https://github.com/rust-lang/rust/pull/36449#issuecomment-259314464)
+- [Commented on old pr](https://github.com/rust-lang/rust/pull/36320#issuecomment-259315327)
+- [Reviewed old pr](https://github.com/rust-lang/rust/pull/36520#issuecomment-259316355)
+- [Commented on old pr](https://github.com/rust-lang/rust/pull/36593#issuecomment-259316558)
+- [Reviewed removal of macro_escape](https://github.com/rust-lang/rust/pull/36603#issuecomment-259318803)
+- [Commented on stalled PR](https://github.com/rust-lang/rust/pull/36615#issuecomment-259319611)
+- [Triaged an old PR](https://github.com/rust-lang/rust/pull/37242#issuecomment-259320613)
+- [Fixed question_mark stabilization data](https://github.com/rust-lang/rust/pull/37661)
+- [Reviewed an old PR](https://github.com/rust-lang/rust/pull/37424#issuecomment-259321769)
+- [Reviewed an old PR](https://github.com/rust-lang/rust/pull/37186#issuecomment-259322104)
+- [Reviewed an old PR](https://github.com/rust-lang/rust/pull/37472)
+- [Triaged an old PR](https://github.com/rust-lang/rust/pull/37432#issuecomment-259322455)
+
+# 2016-11-07
+
+- Triaged todo list
+- Smoke tested 1.13.0-beta.3
+- Tested optional rust-docs in 1.13 beta
+- [Updated master bootstrap cargo](https://github.com/rust-lang/rust/pull/37635)
+- Made SIMD notes for libs meeting
+- [Commented on removing tiers from book](https://github.com/rust-lang/rust/pull/37601#issuecomment-258967001)
+- Attended libs meeting
+- Helped troubleshoot crates.io outage
+- [Backported relnotes](https://github.com/rust-lang/rust/pull/37641)
+- [Filed bug about cargo openssl-sys regression](https://github.com/rust-lang/cargo/issues/3268)
+- [Filed bug about doc.crates.io](https://github.com/rust-lang/cargo/issues/3269)
+- [Fixed doc.crates.io bug](https://github.com/rust-lang/cargo/pull/3270)
+- [Reviewed a cargo patch](https://github.com/rust-lang/cargo/pull/3259)
+- Starteda stable build
+- [Commented on beta release notes](https://github.com/rust-lang/rust/pull/37600#issuecomment-259034906)
+- Updated participation metrics
+- Collected interesting PRs for twir
+
+# 2016-11-05
+
+- Hacked on cargobomb
+- [Filed cargo issue](https://github.com/rust-lang/cargo/issues/3256)
+
+# 2016-11-04
+
+- [Fixed long lines in beta](https://github.com/rust-lang/rust/pull/37582)
+- [Postetd a list of features](https://internals.rust-lang.org/t/all-the-rust-features/4322)
+- [Submitted book patch](https://github.com/rust-lang/book/pull/320)
+- [Merged rustup curl fixes](https://github.com/rust-lang-nursery/rustup.rs/pull/790)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/782)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/788)
+- [Bumped rustup version](https://github.com/rust-lang-nursery/rustup.rs/pull/795)
+- Responded to wpr ticket
+- Started a rustup build
+- Worked on 1.13 changelog
+- [Commented on crate vendoring](https://github.com/rust-lang/rust/pull/37524#issuecomment-258540117)
+- [Backported compiler-rt fix to beta](https://github.com/rust-lang/rust/pull/37595)
+- [Added notes about rustup release process](https://github.com/rust-lang-nursery/rustup.rs/pull/796)
+- [Released rustup 0.6.5](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/197)
+- [Posted rustup update to /r/rust](https://www.reddit.com/r/rust/comments/5b7bma/rustup_065_is_out_with_a_security_fix/)
+- [Volunteered for embedded novemb.rs](https://users.rust-lang.org/t/lets-work-on-embedded-stuff-during-the-novemb-rs-code-sprint/7895/2)
+- [Added mips and s390x rustup builders](https://github.com/rust-lang-nursery/rustup.rs/pull/797)
+- [Posted release notes](https://github.com/rust-lang/rust/pull/37600)
+- [Posted fix for mips, etc packaging](https://github.com/rust-lang/rust-buildbot/pull/136)
+- [Merged a rust-forge PR](https://github.com/rust-lang-nursery/rust-forge/pull/16)
+- [Removed plattform compatibility tables from the book](https://github.com/rust-lang/rust/pull/37601)
+- [Updated platform campatibility on the forge](https://github.com/rust-lang-nursery/rust-forge/pull/18)
+
+# 2016-11-03
+
+- Conducted triage
+- Restarted perf script
+- [Posted triage minutes](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/35)
+- Triaged todos
+- Rebased beta backports
+- [Merged backports](https://github.com/rust-lang/rust/pull/37549)
+- [Updated buildbot not to produce docs](https://github.com/rust-lang/rust-buildbot/pull/135)
+- Started beta build
+- [Commented on roadmap RFC](https://github.com/rust-lang/rfcs/pull/1774#issuecomment-258256221)
+- [Merged www pr](https://github.com/rust-lang/rust-www/pull/602)
+- [Closed www pr that moves to rustup.rs](https://github.com/rust-lang/rust-www/pull/600)
+- [Merged www translations](https://github.com/rust-lang/rust-www/pull/604)
+- [Reviewed www pr](https://github.com/rust-lang/rust-www/pull/599#issuecomment-258259351)
+- [Reviewed www translation](https://github.com/rust-lang/rust-www/pull/598)
+- [Reviewed www translation](https://github.com/rust-lang/rust-www/pull/591)
+- [Reviewed www friend](https://github.com/rust-lang/rust-www/pull/587)
+- [Reviewed www translation](https://github.com/rust-lang/rust-www/pull/561)
+- [Reviewed www pr](https://github.com/rust-lang/rust-www/pull/584)
+- [Reviewed www pr](https://github.com/rust-lang/rust-www/pull/579#issuecomment-258262490)
+- [Triaged a www issue](https://github.com/rust-lang/rust-www/issues/592#issuecomment-258263323)
+- [Commented on pal](https://internals.rust-lang.org/t/refactoring-std-for-ultimate-portability/4301/22)
+- [Closed www gitter pr](https://github.com/rust-lang/rust-www/pull/529)
+- [Commented on vendoring](https://github.com/rust-lang/rust/pull/37524#issuecomment-258273975)
+- [Commented on doc rfc](https://github.com/rust-lang/rfcs/pull/1636#issuecomment-258280094)
+- [Sheriffed](https://github.com/rust-lang/rfcs/pull/1636#issuecomment-258280438)
+- [Sheriffed](https://github.com/rust-lang/rfcs/pull/1651#issuecomment-258282239)
+- [Fixed bootstrapping on windows](https://github.com/rust-lang/rust/pull/37566)
+- [Backported bootstrap fix to beta](https://github.com/rust-lang/rust/pull/37566)
+- Started another beta
+- [Commented on replace_with](https://github.com/rust-lang/rfcs/pull/1736#issuecomment-258296776)
+- Attempted to restart perf testing again
+- [Commented on into_inner_raw](https://github.com/rust-lang/rust/pull/37192#issuecomment-258298799)
+- [Sheriffed](https://github.com/rust-lang/rust/pull/37306#issuecomment-258302813)
+- [Approved an FCP](https://github.com/rust-lang/rust/issues/23755#issuecomment-257733198)
+- [Hoorayd a PR](https://github.com/rust-lang/libc/pull/439)
+- [Commented on IpAddr methods](https://github.com/rust-lang/rust/issues/27709#issuecomment-258308525)
+- [Approved an FCP](https://github.com/rust-lang/rust/issues/27733#issuecomment-257733203)
+- [Reviewed an fcp](https://github.com/rust-lang/rust/issues/27784#issuecomment-258314547)
+- [Approved an fcp](https://github.com/rust-lang/rust/issues/35428#issuecomment-257733213)
+- [Approved an fcp](https://github.com/rust-lang/rust/issues/35603#issuecomment-257733219)
+- [Approved an fcp](https://github.com/rust-lang/rust/issues/35918#issuecomment-257733221)
+- [Approved an fcp](https://github.com/rust-lang/rust/issues/36105#issuecomment-257733223)
+- [Started an RFC fcp](https://github.com/rust-lang/rfcs/pull/1725#issuecomment-258320582)
+- Sent an email to libs team about outstanding FCPs
+- Gave 2 people access to community calendar
+- [Merged rustup zsh removal](https://github.com/rust-lang-nursery/rustup.rs/pull/779)
+
+# 2016-11-02
+
+- Edited pal writeup
+- [Posted pal writeup](https://internals.rust-lang.org/t/refactoring-std-for-ultimate-portability/4301)
+- [Commented on sgx port](https://github.com/rust-lang/rust/pull/37133#issuecomment-257939688)
+- Triaged todo list
+- Helped fabrice with freertos testing
+- [Reviewed a cargo pr](https://github.com/rust-lang/cargo/pull/3175)
+- [Reviewed a cargo pr](https://github.com/rust-lang/cargo/pull/3220)
+- [Triaged](https://github.com/rust-lang/cargo/pull/3221)
+- [Reviewed a cargo pr](https://github.com/rust-lang/cargo/pull/3239)
+- [Reviewed a cargo pr](https://github.com/rust-lang/cargo/pull/3243)
+- [Reviewed a cargo pr](https://github.com/rust-lang/cargo/pull/3248)
+- [Reviewed windows subsystem pr](https://github.com/rust-lang/rust/pull/37501)
+- [Approved a pr bors missed](https://github.com/rust-lang/rust/pull/37317)
+- [Reviewed vendoring patch](https://github.com/rust-lang/rust/pull/37524#issuecomment-258041973)
+- [Backported patches](https://github.com/rust-lang/rust/pull/37549)
+
+# 2016-11-01
+
+- [Commented on emcc linking on windows](https://www.reddit.com/r/rust/comments/5aigsr/webassembly_and_asmjs_compiling_error/d9gxrdl/)
+- [Commented on RUSTC_LOG](https://internals.rust-lang.org/t/rust-log-vs-rustc-log/4297/2)
+- Wrote about pal
+- [Reviewed an fcp](https://github.com/rust-lang/rust/pull/37306#issuecomment-255924386)
+- [Reviewed an fcp](https://github.com/rust-lang/rust/pull/37356#issuecomment-255924382)
+- [Reviewed an fcp](https://github.com/rust-lang/rust/pull/37054#issuecomment-257686708)
+- [Reviewed security advisory rfc](https://github.com/rust-lang/rfcs/pull/1752#issuecomment-257709513)
+- [Reviewed rustbuild patch](https://github.com/rust-lang/rust/pull/37521#issuecomment-257713131)
+- Scheduled meetups
+- [Updated 1.13 bootstrap compiler](https://github.com/rust-lang/rust/pull/37526)
+
+# 2016-10-31
+
+- [Reviewed an fcp PR](https://github.com/rust-lang/rust/pull/37422#issuecomment-256666054)
+- [Reviewed an fcp PR](https://github.com/rust-lang/rust/pull/37037#issuecomment-257403305)
+- [Reviewed an fcp RFC](https://github.com/rust-lang/rfcs/pull/1636#issuecomment-257408299)
+- [Reviewed an fcp PR](https://github.com/rust-lang/rust/pull/37351#issuecomment-255643795)
+- [Reviewed an fcp PR](https://github.com/rust-lang/rust/pull/37470#issuecomment-257412179)
+- [Reviewed an fcp PR](https://github.com/rust-lang/rust/pull/37299#issuecomment-255560459)
+- [Commented on an fcp PR](https://github.com/rust-lang/rust/pull/37192#issuecomment-257418735)
+- [Reviewed an fcp PR](https://github.com/rust-lang/rust/pull/37178#issuecomment-254102598)
+- [Reviewed an fcp PR](https://github.com/rust-lang/rfcs/pull/1736#issuecomment-257423797)
+- [Reviewed an fcp RFC](https://github.com/rust-lang/rfcs/pull/1659#issuecomment-252774790)
+- [Commented on portier](https://www.reddit.com/r/rust/comments/5advi4/show_rrust_portier_a_passwordless_authentication/d9g2v5i/)
+- [Encouraged a crate author](https://www.reddit.com/r/rust/comments/5ae25g/simple_rust_microservices/d9g3etw/)
+- Updated participation metrics
+- Responded to some community emails
+- [Commented on insta-stable feature landing](https://github.com/rust-lang/rust/pull/37389#issuecomment-257455877)
+- Reviewed PRs for twir
+- [Thanked felix for following up on bug](https://github.com/rust-lang/rust/issues/36673#issuecomment-257462297)
+- [Commented on regressions](https://internals.rust-lang.org/t/regression-report-stable-2016-10-20-vs-nightly-2016-10-21/4255/5)
+
+# 2016-10-29
+
+- [Commented on cretonne](https://internals.rust-lang.org/t/possible-alternative-compiler-backend-cretonne/4275/24)
+
+# 2016-10-27
+
+- [Commented on cretonne](https://internals.rust-lang.org/t/possible-alternative-compiler-backend-cretonne/4275/7)
+- [Reviewed tidy fixes](https://github.com/rust-lang/rust/pull/37196#issuecomment-256668828)
+- [Reviewed jemalloc removal](https://github.com/rust-lang/rust/pull/37392)
+- [Reviewed tidy patch](https://github.com/rust-lang/rust/pull/37196)
+- Copyedited production user survey results
+
+# 2016-10-26
+
+- Hacked on cargobomb
+
+# 2016-10-25
+
+- Hacked on cargobomb
+
+# 2016-10-24
+
+- [Reviewed rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/773)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/772)
+- [Updated rustup changelog](https://github.com/rust-lang-nursery/rustup.rs/pull/775)
+- [Modified rustup to deploy from stable](https://github.com/rust-lang-nursery/rustup.rs/pull/776)
+- Added newpavlov as sha2 owner
+- Updated rust participation metrics
+- [Commented on replacing sha with blake](https://github.com/rust-lang/rust/pull/37233#issuecomment-255776088)
+- Sent vikrant interesting rust prs
+- [Reviewed pr](https://github.com/rust-lang/rust/pull/37365)
+- Attended libs meeting
+- [Fixed RUSTUP_UPDATE_ROOT definition](https://github.com/rust-lang-nursery/rustup.rs/pull/778)
+- [Praised kbknapp](https://www.reddit.com/r/rust/comments/597f3s/blog_complete_me_shell_completions_with_clap/d969ls2/)
+- [Removed old zsh completions from rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/779)
+- [Released rustup 0.6.4](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/196)
+- [Filed bug about rustup fish completions](https://github.com/rust-lang-nursery/rustup.rs/issues/781)
+- [Merged rustup readme fix](https://github.com/rust-lang-nursery/rustup.rs/pull/780)
+
+# 2016-10-23
+
+- Hacked on cargobomb
+
+# 2016-10-22
+
+- Hacked on cargobomb
+
+# 2016-10-21
+
+- [Encouraged fuzz testing](https://internals.rust-lang.org/t/testing-the-compiler/3836/14)
+- Wrote about std pal
+- [Commented on rfc process](https://internals.rust-lang.org/t/two-stage-rfcs-motivation-overview-then-details/4252/8)
+- [Commented on TUF](https://github.com/rust-lang-nursery/rustup.rs/issues/241#issuecomment-255487917)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/759)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/767)
+- [Bumped rustup version](https://github.com/rust-lang-nursery/rustup.rs/pull/768)
+- [Posted regression report](https://internals.rust-lang.org/t/regression-report-stable-2016-10-20-vs-beta-2016-10-20/4254/1)
+- [Posted regression report](https://internals.rust-lang.org/t/regression-report-stable-2016-10-20-vs-nightly-2016-10-21/4255/1)
+- [Attempted to fix intermittent rustup failure](https://github.com/rust-lang-nursery/rustup.rs/pull/770)
+
+# 2016-10-20
+
+- Fixed buildbot config on stable
+- Restarted 1.12.1 build
+- Conducted triage
+- [Posted triage minutes](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/34)
+- Discussed pal on #rust-libs
+- [Created patch to bootstrap 1.12.1 form 1.12.0](https://gist.github.com/brson/ff61fef70ac30ed4a33672e2b230e7e1)
+- [Fixed rust-packaging for 1.12.1](https://github.com/rust-lang/rust-packaging/pull/63)
+- Updated 2017 infra budget
+- [Edited 1.12.1 announcement](https://github.com/rust-lang/blog.rust-lang.org/pull/132#issuecomment-255222249)
+- [Updated www for 1.12.1](https://github.com/rust-lang/rust-www/pull/593)
+- Poked buildbot
+- [Released 1.12.1](https://www.reddit.com/r/rust/comments/58jo6a/announcing_rust_1121/)
+- [Reviewed cargo bug](https://github.com/rust-lang/cargo/pull/3217)
+- [Posted 1.12.1 bootstrap patch](https://users.rust-lang.org/t/bootstrapping-1-12-1-from-1-12-0/7715)
+- [Fixed typo in blog](https://github.com/rust-lang/blog.rust-lang.org/pull/133)
+- [Wrote 1.12.1 release notes](https://github.com/rust-lang/rust/pull/37317)
+
+# 2016-10-19
+
+- Hacked on cargobomb
+- [Reviewed debuginfo release pr](https://github.com/rust-lang/rust/pull/37280)
+- [Merged stable branch](https://github.com/rust-lang/rust/pull/37173#issuecomment-254379006)
+- [Filed issue about nuklear-sys](https://github.com/rust-lang/cargo/issues/3214)
+- [Posted beta fix](https://github.com/rust-lang/rust/pull/37284)
+- [Commented on ARM Android support](https://www.reddit.com/r/rust/comments/58bnkl/android_arm_support_for_rust/d8z9xto)
+- Estimated 2017 infra budget
+- [Praised rq](https://users.rust-lang.org/t/what-stable-rust-applications-do-you-use-frequently/7618/17)
+- Created patch to bootstrap 1.12.1 from 1.12.0
+
+# 2016-10-18
+
+- [Commented on scenarios](https://internals.rust-lang.org/t/fleshing-out-libstd-scenarios/4206/13?u=brson)
+- [Commented on beta backports](https://github.com/rust-lang/rust/pull/37239#issuecomment-254580976)
+- [Fixed stable-next build](https://github.com/rust-lang/rust/pull/37173#issuecomment-254582336)
+- [Fixed beta build](https://github.com/rust-lang/rust-buildbot/pull/133)
+- [Merged beta backports](https://github.com/rust-lang/rust/pull/37239)
+- Started beta build
+- [Backported a patch to beta](https://github.com/rust-lang/rust/pull/37256)
+- [Reviewed appveyor patch](https://github.com/rust-lang/rust/pull/37182)
+- [Reviewed a patch](https://github.com/rust-lang/rust/pull/37176)
+- [Merged beta backport](https://github.com/rust-lang/rust/pull/37256)
+- Fixed a test case on stable
+- Started beta build
+- Started testing stable-next in dev
+- Started testing stable-next in crater
+- [Commented on debuginfo release builds](https://github.com/rust-lang/rust/issues/36452#issuecomment-254666870)
+- Wrote recommendation for cmr
+- Started crater run for stable-next
+- [Backported a mips fix to beta](https://github.com/rust-lang/rust/pull/37264)
+- [Posted bootstrap key changes](https://github.com/rust-lang/rust/pull/37265)
+- [Backported patches to beta](https://github.com/rust-lang/rust/pull/37266)
+- Transferred rust-sha2 to newpavlov
+- Responded to email about rust-crypto
+
+# 2016-10-17
+
+- [Commented on rust-src failure](https://users.rust-lang.org/t/rustup-downloading-rust-src-fails/7689/2)
+- Reported participation metrics
+- [Commented on forward-compatibility lints](https://internals.rust-lang.org/t/moving-forward-on-forward-compatibility-lints/4204/4)
+- [Backported PRs to beta](https://github.com/rust-lang/rust/pull/37239)
+- Backported more PRs to stable
+- [Fixed beta/stable build in rust-buildbot](https://github.com/rust-lang/rust-buildbot/pull/132)
+- Started 1.13.2 beta
+
+# 2016-10-16
+
+- Worked on cargobomb
+
+# 2016-10-15
+
+- Worked on cargobomb
+
+# 2016-10-14
+
+- [Merged beta backport](https://github.com/rust-lang/rust/pull/37078)
+- [Made beta backport](https://github.com/rust-lang/rust/pull/37168)
+- [Bumped beta prerelease](https://github.com/rust-lang/rust/pull/37169)
+- Started 1.13.0-beta.2 build
+- [Filed issue about bors against beta](https://github.com/rust-lang/rust/issues/37171)
+- [Filed stable backports](https://github.com/rust-lang/rust/pull/37173)
+- Run tests of stable-next in dev
+
+# 2016-10-13
+
+- [Triaged website issue](https://github.com/rust-lang/rust-www/issues/562#issuecomment-253561371)
+- [Merged friend pr](https://github.com/rust-lang/rust-www/pull/566)
+- [Added a friend to www](https://github.com/rust-lang/rust-www/pull/577)
+- [Merged a frend](https://github.com/rust-lang/rust-www/pull/576)
+- [Merged friend www translation](https://github.com/rust-lang/rust-www/pull/568)
+- [Commented on TUF implementation](https://github.com/rust-lang-nursery/rustup.rs/issues/241#issuecomment-253582724)
+- [Updated someday list](https://internals.rust-lang.org/t/brsons-someday-list/3948/22)
+- [Posted rustup proposal](https://internals.rust-lang.org/t/future-updates-to-the-rustup-distribution-format/4196)
+- [Posted irlo thread to rustup sig thread](https://github.com/rust-lang-nursery/rustup.rs/issues/241#issuecomment-253631752)
+- [Started crater for some pr](https://github.com/rust-lang/rust/pull/37143)
+- [Reviewed read_unaligned RFC](https://github.com/rust-lang/rfcs/pull/1725)
+- [Implemented rustup checksum fix](https://github.com/rust-lang-nursery/rustup.rs/pull/759)
+- [Reviewed rustup pr](https://github.com/rust-lang-nursery/rustup.rs/pull/752)
+- [Reviewed rustup pr](https://github.com/rust-lang-nursery/rustup.rs/pull/753)
+- [Finished crater run](https://github.com/rust-lang/rust/pull/37143#issuecomment-253678517)
+
+# 2016-10-12
+
+- [Commented on small string optimization](https://www.reddit.com/r/rust/comments/5732kh/the_strange_details_of_stdstring_at_facebook/d8ouf1p)
+- [Filed bug about rustup issues](https://github.com/rust-lang-nursery/rustup.rs/issues/756)
+- [Posted emscripten instructions](https://users.rust-lang.org/t/compiling-to-the-web-with-rust-and-emscripten/7627)
+- Researched 1.12 regressions
+- [Updated compiler-builtins license](https://github.com/japaric/compiler-builtins/pull/98)
+- Attended google lunch
+- Attended core team meeting
+- [Filed bug about better missing std errors](https://github.com/rust-lang/rust/issues/37131)
+- [Praised a contributor](https://www.reddit.com/r/rust/comments/576jso/rusttodomvc_updated_to_use_rust_nightly_and/d8piznw)
+- [Commented on bors order](https://github.com/rust-lang/rust/issues/37107#issuecomment-253385136)
+
+# 2016-10-11
+
+- Continued trying to reproduce the syn failure
+- Sent Gerv a question about compiler-builtins licensing
+- [Reviewed a PR](https://github.com/rust-lang/rust/pull/37091)
+- [Reviewed a rust-buildbot PR](https://github.com/rust-lang/rust-buildbot/pull/131)
+- [Merged beta backports](https://github.com/rust-lang/rust/pull/37080)
+- [Checked FCP box](https://github.com/rust-lang/rfcs/pull/1684#issuecomment-251570902)
+- [Checked FCP box](https://github.com/rust-lang/rfcs/pull/1717)
+- [Checked FCP box](https://github.com/rust-lang/rfcs/pull/1665#issuecomment-251570898)
+- [Checked FCP box](https://github.com/rust-lang/rfcs/pull/1721#issuecomment-251570901)
+- [Checked FCP box](https://github.com/rust-lang/rfcs/pull/1651#issuecomment-252774788)
+- [Checked FCP box](https://github.com/rust-lang/rfcs/pull/1645#issuecomment-251723143)
+- [Commented on read_unaligned](https://github.com/rust-lang/rfcs/pull/1725#issuecomment-253048395)
+- [Filed dashboard bug](https://github.com/dikaiosune/rust-dashboard/issues/93)
+- [Commented on checksum fix](https://github.com/rust-lang-nursery/rustup.rs/issues/524#issuecomment-253062159)
+- [Commentod on syn reproduction](https://github.com/rust-lang/rust/issues/36875#issuecomment-253084406)
+
+# 2016-10-10
+
+- [Removed 'consider using an explicit lifetime' suggestions](https://github.com/rust-lang/rust/pull/37057)
+- [Reviewed PR](https://github.com/rust-lang/rust/pull/36983)
+- [Approved some FCP](https://github.com/rust-lang/rust/pull/36743#issuecomment-251260049)
+- [Approved some FCP](https://github.com/rust-lang/rust/pull/36699#issuecomment-251259231)
+- [Approved some FCP](https://github.com/rust-lang/rust/pull/36692#issuecomment-251260880)
+- [Triaged a PR](https://github.com/rust-lang/rust/pull/36692)
+- [Commented on mem::read_unaligned](https://github.com/rust-lang/rfcs/pull/1725#issuecomment-252752826)
+- Responded to email about powprppc64le
+- [Did more testing of sync segv](https://github.com/rust-lang/rust/issues/36875)
+- [Commented about Rust student engagement](https://github.com/rust-community/team/issues/94#issuecomment-252770453)
+- [Commented about Blandy's book](https://www.reddit.com/r/rust/comments/56s208/oreilly_are_giving_away_some_free_books_including/)
+- Submitted participation metrics
+
+# 2016-10-06
+
+- Conducted triage
+- [Posted triage minutes](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/33)
+- [Hearted a contributor](https://github.com/rust-lang/rust/issues/36924#issuecomment-252039797)
+- [Turned on jsbackend in makefiles](https://github.com/rust-lang/rust/pull/37006)
+- [Filed bug about broken featureck](https://github.com/rust-lang/rust/issues/37013)
+- [Commented on tidy script](https://github.com/rust-lang/rust/issues/37013#issuecomment-252307731)
+
+# 2016-10-05
+
+- [Started bisecting a stable regression](https://github.com/rust-lang/rust/issues/36875)
+- [Merged mir2wasm PR](https://github.com/brson/mir2wasm/pull/42)
+- [Nominated a beta backport](https://github.com/rust-lang/rust/pull/36958)
+- [Accepted a patch for beta](https://github.com/rust-lang/rust/pull/36971)
+- Testing --docdir fix
+- [Nominated a backport](https://github.com/rust-lang/rust/pull/36942)
+- [Nominated a backport](https://github.com/rust-lang/rust/pull/36866)
+- [Nominated a backport](https://github.com/rust-lang/rust/pull/36795)
+- [Accepted a backport](https://github.com/rust-lang/rust/pull/36609)
+- [Commented on hiding stable features](https://github.com/rust-lang/rust-www/pull/533)
+- [Checked initial style guide](https://github.com/rust-lang-nursery/fmt-rfcs/pull/27#issuecomment-251251419)
+- [Commented on server reliability](https://users.rust-lang.org/t/concerns-with-rust-on-the-server/7540/10)
+- [Posted about backporting process](https://internals.rust-lang.org/t/beta-backporting/4159)
+- Deployed buildbot emscripten patches
+- [Reviewed a cargo pr](https://github.com/rust-lang/cargo/pull/3144)
+- [Merged a rustup pr](https://github.com/rust-lang-nursery/rustup.rs/pull/744)
+- [Filed issue about mspdbserv on rustup](https://github.com/rust-lang-nursery/rustup.rs/issues/748)
+- [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/3162)
+- [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/3160)
+- [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/3146)
+- [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/3145)
+- [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/3137)
+- [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/3136)
+- Sent email about bors
+- [Filed make install bug](https://github.com/rust-lang/rust/issues/36989)
+- [Reviewed www menu patch](https://github.com/rust-lang/rust-www/pull/533#issuecomment-251852972)
+
+# 2016-10-04
+
+- Hacked on emscripten automation
+- Sent nasa42 and llogiq email about fmt-rfcs FCPs
+- [Filed issue on removing jemalloc](https://github.com/rust-lang/rust/issues/36963)
+- [Explained path forward to regain windows alloc perf](https://github.com/rust-lang/rust/issues/36328#issuecomment-251443383)
+- [Commented on std facade crates](https://github.com/rust-lang/rust/issues/27783#issuecomment-251444891)
+- [Commented on global allocator API](https://github.com/rust-lang/rust/issues/27389#issuecomment-251445256)
+- [Investigated sys refactoring regression](https://github.com/rust-lang/rust/issues/36947#issuecomment-251449892)
+- [Updated rustup readme for windows](https://github.com/rust-lang-nursery/rustup.rs/pull/744)
+- [Closed mystery regression](https://github.com/rust-lang/rust/issues/36947)
+- [Commented on finding cargo commit sha](https://github.com/rust-lang/rust-packaging/issues/59#issuecomment-251546635)
+- [Filed bug to make rust-docs optional](https://github.com/rust-lang/rust/issues/36970)
+- [Closed old docdir PR](https://github.com/rust-lang/rust-installer/pull/49#issuecomment-251549810)
+- [Updated rust-installer in rust](https://github.com/rust-lang/rust/pull/36971)
+- [Updated rust-installer in cargo](https://github.com/rust-lang/cargo/pull/3163)
+- [Updated rust-installer in rust-packaging](https://github.com/rust-lang/rust-packaging/pull/62)
+
+# 2016-10-03
+
+- Attended outreach call
+- Followed up about reactive programming
+- Followed up about control systems
+- [Closed ripgrep issue](https://github.com/BurntSushi/ripgrep/issues/140#issuecomment-251214915)
+- Started testing emscripten automation
+- [Fixed mod declarations on untested platforms](https://github.com/rust-lang/rust/pull/36944)
+- Sent email to parity about bustage
+- [Commented on abort by default RFC](https://github.com/rust-lang/rfcs/pull/1759#issuecomment-251256393)
+- [Posted emscripten automation patch](https://github.com/rust-lang/rust-buildbot/pull/129)
+- [Commentmed on perf regression](https://github.com/rust-lang/rust/issues/36947#issuecomment-251262698)
+- [Posted another platform abstraction PR](https://github.com/rust-lang/rust/pull/36948)
+- Submitted participation metrics
+- [Triaged](https://github.com/rust-lang/rust/pull/36917)
+- [Triaged](https://github.com/rust-lang/rust/pull/36931)
+
+# 2016-10-01
+
+- [Commented on asmjs](https://www.reddit.com/r/rust/comments/55c9el/working_asmjs_and_wasm_targets_merged_into_master/)
+- [Filed emscripten port bug](https://github.com/rust-lang/rust/issues/36899)
+- [Filed emscripten port bug](https://github.com/rust-lang/rust/issues/36900)
+- [Posted message about emscripten port improvements](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/127)
+- Updated pal pr
+- Hacked on pal
+
+# 2016-09-30
+
+- [Merged rustup.sh fix](https://github.com/rust-lang/rustup.sh/pull/73)
+- [Closed rustup.sh PR](https://github.com/rust-lang/rustup.sh/pull/74)
+- Deployed rustup.sh fix
+- [Commented on rustup.sh fix](https://github.com/travis-ci/travis-ci/issues/6654)
+- [Commented on rustup.sh fix](https://github.com/rust-lang/rustup.sh/issues/72)
+- [Updated pal PR](https://github.com/rust-lang/rust/pull/36807)
+- [Merged sublime-rust PR](https://github.com/rust-lang/sublime-rust/pull/91)
+- [Merged sublime-rust PR](https://github.com/rust-lang/sublime-rust/pull/90)
+- Made Jayflux a sublimu-rust collaborator
+- [Commented on optional argument pattern](https://www.reddit.com/r/rust/comments/556c0g/optional_arguments_in_rust_112/d88m93j)
+- Hacked on emscripten port
+- [Closed std_unicode PR](https://github.com/rust-lang/rust/pull/36806#issuecomment-250838160)
+- [Updated rustup toolchain](https://github.com/rust-lang-nursery/rustup.rs/pull/741)
+- [Merged rustup readme update](https://github.com/rust-lang-nursery/rustup.rs/pull/739)
+- [Made new fastcomp PR](https://github.com/rust-lang/llvm/pull/52)
+- [Triaged](https://github.com/rust-lang/rust/pull/36868)
+- [Reviewed](https://github.com/rust-lang/rust/pull/36865)
+- [Triaged](https://github.com/rust-lang/rust/pull/36815)
+- [Triaged](https://github.com/rust-lang/rust/pull/36825)
+- [Filed rg --nogroup feature request](https://github.com/BurntSushi/ripgrep/issues/140)
+- Discussed fixing --docdir
+- Hacked on std::sys
+
+# 2016-09-29
+
+- Did 1.12 release
+- [Commented on emscripten difficulties](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/124)
+- Tested emscripten patch on mingw
+- [Hacked on std::sys](https://github.com/rust-lang/rust/pull/36807#issuecomment-250606920)
+- [Reviewed a PR](https://github.com/rust-lang/rust/pull/36842)
+- [Commented on arm musl releases](https://github.com/rust-lang-nursery/rustup.rs/issues/736#issuecomment-250615558)
+- [Merged a rustup.sh PR](https://github.com/rust-lang/rustup.sh/pull/70)
+- [Merged a rustup.sh PR](https://github.com/rust-lang/rustup.sh/pull/71)
+- [Merged rustup openssl update](https://github.com/rust-lang-nursery/rustup.rs/pull/733)
+- [Merged rustup-init.sh fix](https://github.com/rust-lang-nursery/rustup.rs/pull/725)
+- [Fixed variable naming in rustup-init.sh](https://github.com/rust-lang-nursery/rustup.rs/pull/737)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/723)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/703)
+- [Closed old rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/675)
+- [Updated clap for rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/738)
+- [Commented on gluon](https://www.reddit.com/r/rust/comments/552l6s/gluon_02_released_now_with_rowpolymorphic_records/d87p9cb)
+- [Fixed botched rustup.sh upload](https://github.com/rust-lang/rust/issues/36845)
+- [Filed issue about lints](https://github.com/rust-lang/rust/issues/36846)
+- [Triaged](https://github.com/rust-lang/rust/pull/36843)
+
+# 2016-09-28
+
+- Hacked on pal tidy check
+- [Fixed bootstrap sanity check](https://github.com/rust-lang/rust/pull/36802)
+- [Fixed nodejs detection](https://github.com/rust-lang/rust/pull/36803)
+- [Renamed rustc_unicode](https://github.com/rust-lang/rust/pull/36806)
+- [Posted pal patch](https://github.com/rust-lang/rust/pull/36807)
+- [Posted 1.12 www update](https://github.com/rust-lang/rust-www/pull/549)
+- [Posted prerelease message](https://internals.rust-lang.org/t/rust-1-12-prerelease-testing/4137)
+- [Updated bootstrap compiler](https://github.com/rust-lang/rust/pull/36811)
+- [Commented on doc test ui](https://github.com/rust-lang/rust/pull/36320#issuecomment-250299234)
+- [Merged Rust style team](https://github.com/rust-lang/rust-www/pull/523)
+- Sent email about reactive Rust
+- Tested 1.12 benchmarks
+
+# 2016-09-27
+
+- [Commented on semver analysis](https://github.com/rust-lang/crates.io/issues/435#issuecomment-249909480)
+- [Commented on redox libstd](https://internals.rust-lang.org/t/redox-support-in-liblibc-and-libstd/3954/9)
+- [Updated release notes](https://github.com/rust-lang/rust/pull/36609)
+- [Commented on emscripten unwinding](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/118)
+- [Updated cargo-revs.txt for 1.13](https://github.com/rust-lang/rust-packaging/pull/61)
+- [Commented on compatible debs](https://github.com/rust-lang/rust/issues/28307#issuecomment-249967026)
+- [Nominated a backport](https://github.com/rust-lang/rust/pull/36609#issuecomment-249970002)
+- [Bumped version to 1.14](https://github.com/rust-lang/rust/pull/36780)
+- [Updated 1.13 bootstrap compiler](https://github.com/rust-lang/rust/pull/36781)
+- [Filed issue about rustbuild testing](https://github.com/rust-lang/rust/issues/36785)
+- [Reviewed --skip](https://github.com/rust-lang/rust/pull/36604#issuecomment-249986282)
+- Hacked on emscripten port
+
+# 2016-09-26
+
+- Took photograph
+- Drafted release announcement
+- Attended libs meeting
+- Sent email about automotive stuff
+- Filled out participation metrics
+
+# 2016-09-23
+
+- Praised burntsushi's ripgrep
+- Tested ripgrep
+- [Started crater run to test a patch revert](https://internals.rust-lang.org/t/regression-report-stable-2016-08-16-vs-beta-2016-09-21/4119/15)
+- Hacked on emscripten port
+- Talked with steve about strike teams
+- [Commented about strike teams on web site](https://github.com/rust-lang/rust-www/pull/523#issuecomment-249264522)
+- [Filed bug on rg](https://github.com/BurntSushi/ripgrep/issues/25)
+- [Filed bug on rg](https://github.com/BurntSushi/ripgrep/issues/27)
+- [Filed bug about native codegen](https://github.com/rust-lang/rust/issues/36677)
+- Responded to LinkedIn press department about thing
+- Responded to email about participation t-shirts
+- Responded to community thread about participation events
+- [Posted revert of libs breakage](https://github.com/rust-lang/rust/pull/36685)
+- [Backported revert to beta](https://github.com/rust-lang/rust/pull/36686)
+- Started a beta
+- [Removed reverted feature from relnotes](https://github.com/rust-lang/rust/pull/36687)
+- [Posted fst patch](https://github.com/BurntSushi/fst/pull/22)
+- [Reviewed nightly fixes](https://github.com/rust-lang/rust/pull/36678#issuecomment-249334587)
+- [Filed bug about tarball release channel](https://github.com/rust-lang/rust/issues/36690)
+- [Added friends link to www front page](https://github.com/rust-lang/rust-www/pull/536)
+- [Closed old friends PR](https://github.com/rust-lang/rust-www/pull/486#issuecomment-249338497)
+
+# 2016-09-22
+
+- Conducted triage
+- [Posted triage minutes](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/32)
+- [Investigated go crash](https://github.com/rust-lang/rust/issues/36650#issuecomment-248976955)
+- Started crater run against beta
+- Hacked on emscripten unwinder
+- [Pushed patch for emscripten unwinding](https://github.com/rust-lang/rust/pull/36339#issuecomment-249004729)
+- Responded to email about automotive industry
+- [Posted beta regression report](https://internals.rust-lang.org/t/regression-report-stable-2016-08-16-vs-beta-2016-09-21/4119)
+- Sent email about libs regression
+- [Added Canonical to friends](https://github.com/rust-lang/rust-www/pull/531)
+- [Merged www PR](https://github.com/rust-lang/rust-www/pull/521)
+- [Merged www friend](https://github.com/rust-lang/rust-www/pull/522)
+- [Merged www russian translation](https://github.com/rust-lang/rust-www/pull/524)
+- [Commented on www PR](https://github.com/rust-lang/rust-www/issues/180#issuecomment-249059307)
+- [Added docs.rs to www](https://github.com/rust-lang/rust-www/pull/532)
+- [Submitted PR for rustbuild verbose output](https://github.com/rust-lang/rust/pull/36663)
+
+# 2016-09-21
+
+- [Thanked pnkfelix for backporting](https://github.com/rust-lang/rust/pull/36620#issuecomment-248679130)
+- [Posted about rust-bindgen to /r/rust](https://www.reddit.com/r/rust/comments/53ucck/servorustbindgen_the_cc_bindings_generator_landed/)
+- [Updated 1.12 changelog](https://github.com/rust-lang/rust/pull/36609#issuecomment-248685581)
+- [Bumped beta version](https://github.com/rust-lang/rust/pull/36630)
+- [Commented on bootstrap key loosening](https://github.com/rust-lang/rust/issues/36548#issuecomment-248692502)
+- Hacked on std::sys refactor
+- Hacked on emscripten unwinding
+- [Merged beta backport](https://github.com/rust-lang/rust/pull/36628)
+- [Backported changelog](https://github.com/rust-lang/rust/pull/36633)
+- [Commented on gitter www pr](https://github.com/rust-lang/rust-www/pull/529#issuecomment-248727031)
+- [Backported a fix](https://github.com/rust-lang/rust/pull/36634)
+- Attended docs meeting
+- Attended core team meeting
+- [Posted triage alert](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/30)
+- Replied to an email about a china event
+- Replied to an email about control systems
+- Replied to an email about twir
+- Sent email about release announcement
+
+# 2016-09-20
+
+- Sent email about Rust hiring
+- [Bumped beta version](https://github.com/rust-lang/rust/pull/36602)
+- [Commented on gimli](https://www.reddit.com/r/rust/comments/53oawn/gimli_a_lazy_zerocopy_parser_for_dwarf_debugging/d7uwvdg)
+- Started 1.12.0-beta.4
+- [Fixed a build error on beta](https://github.com/rust-lang/rust/pull/36606)
+- [Closed fixed LLVM help issue](https://github.com/rust-lang/rust/issues/30961)
+- [Backported rust-installer fix](https://github.com/rust-lang/rust/pull/36608)
+- [Posted 1.12 changelog](https://github.com/rust-lang/rust/pull/36609)
+- Sent email about 1.12 blog post
+
+# 2016-09-19
+
+- [Thanked kbknapp for clap](https://www.reddit.com/r/rust/comments/53dkiw/clap_has_a_new_website_blog_and_videos/d7tgfn6)
+- [Updated emscripten unwind status](https://github.com/rust-lang/rust/issues/36514#issuecomment-248079755)
+- [Updated someday list](https://internals.rust-lang.org/t/brsons-someday-list/3948/21)
+- [Triaged](https://github.com/rust-lang/rust/pull/36565)
+- [Commented on HashMap docs](https://github.com/rust-lang/rust/pull/36557#issuecomment-248104197)
+- [Reviewed beta nominations](https://github.com/rust-lang/rust/pulls?q=is%3Apr+is%3Aclosed+label%3Abeta-nominated)
+- Responded on post to security@rust-lang.org
+- Caught up on emails
+- Updated Rust participation metrics
+- [Backported some PRs to beta](https://github.com/rust-lang/rust/pull/36591)
+- [Reviewed a PR](https://github.com/rust-lang/rust/pull/36442)
+- [Triaged](https://github.com/rust-lang/rust/issues/36443)
+- [Reviewed a PR](https://github.com/rust-lang/rust/pull/36445)
+- [Commented on regression fix pr](https://github.com/rust-lang/rust/pull/36496#issuecomment-248168955)
+- [Commented on bad permissions in rust-src tarball](https://github.com/rust-lang/rust/issues/36488#issuecomment-248169790)
+- [Merged forge update](https://github.com/rust-lang-nursery/rust-forge/pull/13)
+- [Merged forge update](https://github.com/rust-lang-nursery/rust-forge/pull/14)
+- [Merged forge update](https://github.com/rust-lang-nursery/rust-forge/pull/15)
+- [Commented on rustdoc testing patch](https://github.com/rust-lang/rust/pull/36320#issuecomment-248172862)
+
+# 2016-09-18
+
+- Hacked on anthology
+- Wrote anthology announcement
+- [Posted anthology announcement](https://users.rust-lang.org/t/rust-anthology-collecting-blog-posts-into-a-book-help-wanted/7328)
+
+# 2016-09-17
+
+- Responded to Adrien re aerospace stuff
+
+# 2016-09-16
+
+- Ordered a rustacean-two t-shirt / mug
+- [Rebased LLVM fork to incorporate some fix](https://github.com/rust-lang/llvm/pull/51#issuecomment-247660677)
+- [Commented on LLVM backport](https://github.com/rust-lang/rust/pull/36508#issuecomment-247662603)
+- [Backported some patches to beta](https://github.com/rust-lang/rust/pull/36538)
+- Started build of beta.3
+- [Filed emscripten intrinsic bug](https://github.com/kripken/emscripten/issues/4563)
+- Edited rust2wasm2native proposal
+- [Commented on redox libstd](https://internals.rust-lang.org/t/redox-support-in-liblibc-and-libstd/3954/7)
+- [Filed issue about rustc bootstrap mismatch errors](https://github.com/rust-lang/rust/issues/36544)
+- Collected rustc translation perf numbers
+- [Filed issue on bootstrapping from previous-previous release](https://github.com/rust-lang/rust/issues/36547)
+- [Fix bootstrap key logic](https://github.com/rust-lang/rust/issues/36548)
+- [Triaged](https://github.com/rust-lang/rust/issues/36518)
+- [Started emscripten unwinding patch](https://github.com/rust-lang/rust/issues/36514#issuecomment-247743671)
+- Fixed target-specific jemalloc control in the build system
+
+# 2016-09-15
+
+- Wrote opinion on Rust 2017 resourcing
+- Hacked on emscripten patch
+- [Reviewed rustdoc patch](https://github.com/rust-lang/rust/pull/36320#issuecomment-247482627)
+- [Commented on mir2wasm issue](https://github.com/rust-lang/rust/issues/33205#issuecomment-247483297)
+- [Reviewed std patch](https://github.com/rust-lang/rust/pull/36423#issuecomment-247484821)
+- [Reviewed rustup thread](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/195)
+- [Nominated a beta fix](https://github.com/rust-lang/rust/pull/36490#issuecomment-247491210)
+- [Reviewed cargo templates](https://github.com/rust-lang/cargo/pull/3004#issuecomment-247492789)
+- [Merged beta backports](https://github.com/rust-lang/rust/pull/36433)
+- [Nominated a beta PR](https://github.com/rust-lang/rust/pull/36508)
+- [Posted emscripten unwinding bug](https://github.com/rust-lang/rust/issues/36514)
+- [Posted emscripten undefined symbol bug](https://github.com/rust-lang/rust/issues/36515)
+- [Posted rpass json issue](https://github.com/rust-lang/rust/issues/36516)
+- [Bumped beta version](https://github.com/rust-lang/rust/pull/36517)
+- [Reviewed some patch](https://github.com/rust-lang/rust/pull/36441)
+- [Reviewed some patch](https://github.com/rust-lang/rust/pull/36213#issuecomment-245510778)
+- [Merged www patch](https://github.com/rust-lang/rust-www/pull/499#issuecomment-243891289)
+- [Nominated a PR for beta](https://github.com/rust-lang/rust/pull/36505)
+- [Investigated fixing rpass output](https://github.com/rust-lang/rust/issues/36516#issuecomment-247506612)
+- [Finished emscripten patch](https://github.com/rust-lang/rust/pull/36339#issuecomment-247506706)
+- [Commented on fastcomp patch](https://github.com/rust-lang/rust/issues/36356#issuecomment-247507075)
+- [Commented about LLVM upgrade process](https://internals.rust-lang.org/t/is-anyone-working-on-supporting-the-newest-llvm-version/3529/12)
+
+# 2016-09-14
+
+- Copyedited 'nice'
+- [Encouraged a contributor](https://github.com/rust-lang-nursery/tempdir/issues/15#issuecomment-247079523)
+- [Commented on debs](https://github.com/rust-lang/rust/issues/28307#issuecomment-247084319)
+- Hacked on emscripten patch
+- [Updated emscripten thread](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/111)
+- [Commented on rust trademark usage](https://users.rust-lang.org/t/are-modifications-to-the-rust-logo-allowed-for-special-cases/7274/5)
+- [Posted new ferris T-shirt](https://users.rust-lang.org/t/all-the-rust-swag/7036/21)
+- Updated participation metrics
+- Thanked Leah for RustConf
+- [Commented on require docs rfc](https://github.com/rust-lang/rfcs/pull/1636#issuecomment-247156400)
+
+# 2016-09-13
+
+- Conducted triage
+- [Posted triage minutes](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/29)
+- Hacked on emscripten port
+- [Posted fast hash maps help wanted](https://internals.rust-lang.org/t/help-wanted-fast-hash-maps-in-std/4066)
+- Tested email posting to urlo
+- Responded to emails
+- [Reviewed rust-installer patch](https://github.com/rust-lang/rust-installer/pull/49#issuecomment-246836711)
+- [Answered error-chain question](https://github.com/brson/error-chain/issues/37)
+- [Reviewed mir2wasm patch](https://github.com/brson/mir2wasm/pull/39#issuecomment-246839258)
+- [Closed stdx issue](https://github.com/brson/stdx/issues/8)
+- [Triaged libs pr](https://github.com/rust-lang/rust/pull/36395)
+- Responded to outreach email draft
+- [Merged rust-www PR](https://github.com/rust-lang/rust-www/pull/514)
+- [Filed issue about error-chain section order](https://github.com/brson/error-chain/issues/41)
+- [Commented on error-chain issue](https://github.com/brson/error-chain/issues/38#issuecomment-246848650)
+- [Triaged basic-http-server bug](https://github.com/brson/basic-http-server/issues/5)
+- [Triaged error-chain error](https://github.com/brson/error-chain/issues/39#issuecomment-246851070)
+- [Commented on cargo build bug with rustup](https://github.com/rust-lang-nursery/rustup.rs/issues/719#issuecomment-246853286)
+- [Reviewed mir2wasm patch](https://github.com/brson/mir2wasm/pull/39#issuecomment-246855685)
+- Sent email about os x -> linux cross
+- [Commented on font bleeding bug](https://github.com/rust-lang/rust/issues/24355#issuecomment-246859115)
+- [Commented on font bleeding bug](https://www.reddit.com/r/rust/comments/52lt51/font_is_bleeding_on_rust_doc_website/d7lpl8z)
+- [Thanked a contributor](https://internals.rust-lang.org/t/regression-report-stable-2016-08-16-vs-beta-2016-08-26/3930/19)
+- [Commented on rustup signature verification](https://github.com/rust-lang-nursery/rustup.rs/issues/241#issuecomment-246869318)
+- [Commented on rustup checksum solution](https://github.com/rust-lang-nursery/rustup.rs/issues/524#issuecomment-246869730)
+
+# 2016-09-09
+
+- Discussed about Rust TLS perspective
+
+# 2016-09-08
+
+- [Commented on neon publish workflow](https://github.com/rustbridge/neon/issues/117#issuecomment-245683875)
+- [Commented on xz compression](https://github.com/rust-lang/rust/issues/21724#issuecomment-245741319)
+- Wrote position document on Rust TLS perspective
+- Attended rustfmt mtg
+- [Commented on crates.io](https://github.com/rust-lang/crates.io/issues/223#issuecomment-245791377)
+
+# 2016-09-07
+
+- [Checked on blocked PR](https://github.com/rust-lang/rust-www/pull/486)
+- [Checked on blocked PR](https://github.com/rust-lang/rust-www/pull/486)
+- [Praised japaric's std testing](https://internals.rust-lang.org/t/brsons-someday-list/3948/20)
+- [Read most recent rustup comments](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/193)
+- [Fixed denver meetup date on twir and calendar](https://github.com/cmr/this-week-in-rust/pull/297)
+- [Reviewed patch](https://github.com/rust-lang/rust/pull/36048)
+- [Thanked kbnapp for clap fixes](https://github.com/rust-lang-nursery/rustup.rs/issues/657#issuecomment-245341968)
+- [Commented on rust pr](https://github.com/rust-lang/rust/pull/36213#issuecomment-245344034)
+- [Commented on emscripten progress](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/106)
+- Rebased emscripten patches
+- [Filed issue about stage0 without network access](https://github.com/rust-lang/rust/issues/36327)
+- [Commented on discourse forums](https://github.com/nrc/rustaceans.org/issues/176#issuecomment-245416008)
+- [Reverted some fastcomp changes](https://github.com/rust-lang/llvm/pull/50)
+- [Reviewed www pr](https://github.com/rust-lang/rust-www/pull/510#issuecomment-245429393)
+- [Merged www PR](https://github.com/rust-lang/rust-www/pull/510)
+- [Closed obsolete PR](https://github.com/rust-lang/rust-www/pull/506)
+- [Closed old www issue](https://github.com/rust-lang/rust-www/issues/459)
+- [Triaged](https://github.com/rust-lang/rust/issues/36329)
+- [Triaged](https://github.com/rust-lang/rust/issues/36328)
+- [Triaged](https://github.com/rust-lang/rust/issues/36319)
+- [Triaged](https://github.com/rust-lang/rust/issues/36318)
+- [Triaged](https://github.com/rust-lang/rust/issues/36309)
+- [Triaged](https://github.com/rust-lang/rust/issues/35546)
+- [Closed dupe](https://github.com/rust-lang/rust/issues/36297)
+- [Triaged](https://github.com/rust-lang/rust/issues/36295)
+- [Triaged](https://github.com/rust-lang/rust/issues/36294)
+- [Triaged](https://github.com/rust-lang/rust/issues/36284)
+- [Triaged](https://github.com/rust-lang/rust/issues/36279)
+- [Triaged](https://github.com/rust-lang/rust/issues/36235)
+- [Submitted asmjs/wasm32 patch](https://github.com/rust-lang/rust/pull/36339)
+- [Commented on 'why should mozilla continue developing rust'](https://www.reddit.com/r/rust/comments/51nsoc/the_abstract_factory_why_should_mozilla_continue/d7dsyg5)
+- [Commented on Ferris plushie](https://users.rust-lang.org/t/all-the-rust-swag/7036/19)
+
+# 2016-09-06
+
+- Hacked on single-threaded compiletest support for emscripten
+- Hacked on rustc wasm backend
+- [Commented on upenn training materials](https://www.reddit.com/r/rust/comments/51dute/cis_198_a_rust_programming_class_is_returning_for/d7bqlg6)
+- [Commented on japaric's cross-testing](https://internals.rust-lang.org/t/brsons-someday-list/3948/17)
+- [Posted new someday tasks](https://internals.rust-lang.org/t/brsons-someday-list/3948/18)
+- [Filed emscripten wasm+node bug](https://github.com/kripken/emscripten/issues/4542)
+- [Posted wasm32 libc patch](https://github.com/rust-lang/libc/pull/381)
+- [Posted llvm fastcomp squash](https://github.com/rust-lang/llvm/pull/50)
+- [Merged temple-of-rust css fixes](https://github.com/brson/temple-of-rust/pull/3)
+- [Reviewed www fixes](https://github.com/rust-lang/rust-www/pull/506#issuecomment-245116298)
+- [Reviewed s390x patches](https://github.com/rust-lang/rust/pull/36239)
+- [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/326)
+- [Commented on nodejs detection](https://github.com/rust-lang/rust/pull/36256#issuecomment-245119983)
+- [Merged rustup ring fixes](https://github.com/rust-lang-nursery/rustup.rs/pull/711)
+- [Commented on rustup sanity check fixes](https://github.com/rust-lang-nursery/rustup.rs/pull/705#issuecomment-245120852)
+- [Commented on stdx brokenness](https://internals.rust-lang.org/t/regression-report-stable-2016-08-16-vs-beta-2016-08-26/3930/16)
+- [Commented on rustup as a library](https://github.com/phildawes/racer/issues/595#issuecomment-245121984)
+- Commented about rust-crypto status
+- Sent email about fx packaging
+- Sent email about fx packaging
+- [Reviewed minor lib patch](https://github.com/rust-lang/rust/pull/36310#issuecomment-245145223)
+- [Filed emscripten numeric bug](https://github.com/kripken/emscripten/issues/4543)
+- [Filed emscripten ctlz bug](https://github.com/kripken/emscripten/issues/4545)
+
+# 2016-09-05
+
+- [Merged emscripten fixes](https://github.com/brson/rust/pull/35)
+- Worked on wasm32 target for rustc
+- Worked on wasm32 target for libc
+
+# 2016-09-03
+
+- Wrote another section of 'nice'
+- Responded to email about Rust in control systems
+- [Pinged rschulman about emscripten](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/95)
+
+# 2016-09-02
+
+- [Responded to rep](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/22)
+- Responded to nrc about fmt strike team
+- [Commented on rustfmt space rules](https://github.com/rust-lang-nursery/fmt-rfcs/pull/2#issuecomment-244434533)
+- Caught up on firefox+rust threads
+- Sent email about firefox+rust
+- [Reviewed a PR](https://github.com/rust-lang/rust/pull/36213)
+- [Commented on issue with short-circuiting the stage0 checksum](https://github.com/rust-lang/rust/pull/36069#issuecomment-244485676)
+- [Commented on "Rust reps"](https://internals.rust-lang.org/t/brsons-someday-list/3948/14)
+- [Commented on `?`](https://github.com/rust-lang/rust/issues/31436#issuecomment-244492973)
+- [Commented on rustup bug](https://github.com/rust-lang/rust-buildbot/issues/122)
+- [Commented on redox std](https://internals.rust-lang.org/t/redox-support-in-liblibc-and-libstd/3954/4)
+- [Reviewed min/max_by](https://github.com/rust-lang/rust/pull/35856)
+- [Nominated min/max_by](https://github.com/rust-lang/rust/issues/36105)
+- [Reviewed src version](https://github.com/rust-lang/rust/pull/36213#issuecomment-244505620)
+- [Reviewed rustup error-chain upgrade](https://github.com/rust-lang-nursery/rustup.rs/pull/703#issuecomment-244515791)
+- [Reviewed rustup sanity checks](https://github.com/rust-lang-nursery/rustup.rs/pull/705#issuecomment-244517556)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/706)
+- [Reviewed rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/707)
+- Brainstormed rustup ndk requirements
+- [Commented on rustup ndk support](https://github.com/rust-lang-nursery/rustup.rs/pull/655#issuecomment-244519676)
+
+# 2016-09-01
+
+- [Revised wasm issue](https://github.com/rust-lang/rust/issues/33205)
+- [Replied to 2017 roadmap thread](https://internals.rust-lang.org/t/setting-our-vision-for-the-2017-cycle/3958/2)
+- [Reviewed a patch](https://github.com/rust-lang/rust/pull/36198)
+- [Solicited more emscripten help](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/89)
+- [Posted new someday tasks](https://internals.rust-lang.org/t/brsons-someday-list/3948/12)
+- [Directed emscripten work](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/93)
+- Sent Rust_on_mobile link to potential user
+- [Amended north star RFC](https://github.com/rust-lang/rfcs/pull/1728#issuecomment-244235756)
+- Responded to email about aerospace Rust
+- [Commented on compiler-rt](https://github.com/rust-lang/rust/pull/35021#issuecomment-244248575)
+- Replied to email about thing
+- [Replied to activate thread](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/20)
+- [Filed bug to detect nodejs](https://github.com/rust-lang/rust/issues/36207)
+- Shared calendar with a rep organizer
+
+# 2016-08-31
+
+- [Posted emscripten next steps](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/76)
+- [Commented on rustup.rs v. rustup.sh](https://www.reddit.com/r/rust/comments/50ewhi/rustuprs_vs_rustupsh/d748qg9)
+- [Updated rust swag op](https://users.rust-lang.org/t/all-the-rust-swag/7036)
+- [Commenmted on skeptic bug](https://github.com/brson/rust-skeptic/issues/9#issuecomment-243845227)
+- [Reviewed PR](https://github.com/rust-lang/rust/pull/36118)
+- [Merged basic-http-server PR](https://github.com/brson/basic-http-server/pull/4)
+- [Merged error-chain PR](https://github.com/brson/error-chain/pull/35)
+- [Denied FCP for something](https://github.com/rust-lang/rust/issues/35070#issuecomment-243848088)
+- [Merged error-chain PR](https://github.com/brson/error-chain/pull/36)
+- [Commented on rust-www translation footer](https://github.com/rust-lang/rust-www/pull/499#issuecomment-243849173)
+- [Commented on liblld](https://github.com/rust-lang/rust/pull/36120#issuecomment-243853164)
+- [Commented on compiler-builtins](https://github.com/rust-lang/rust/pull/35021#issuecomment-243857484)
+- Responded to pings
+- [Commented on frlo improvements](https://internals.rust-lang.org/t/how-the-rust-issue-tracker-works/3951/22)
+- [Patched gcc-rs for emcc](https://github.com/alexcrichton/gcc-rs/pull/99)
+- [Closed old issue](https://github.com/rust-lang/rust/issues/36022)
+- [Commented on beta revert](https://internals.rust-lang.org/t/regression-report-stable-2016-08-16-vs-beta-2016-08-26/3930/9)
+- [Merged forge PR](https://github.com/rust-lang-nursery/rust-forge/pull/12)
+- [Merged forge PR](https://github.com/rust-lang-nursery/rust-forge/pull/10)
+- [Replied about issue tracker](https://internals.rust-lang.org/t/how-the-rust-issue-tracker-works/3951/22)
+- [Commented about cross-compile roadmap](https://internals.rust-lang.org/t/brsons-someday-list/3948/8)
+- [Commented on Redox in-tree support](https://internals.rust-lang.org/t/redox-support-in-liblibc-and-libstd/3954/2)
+- Gave aturon notes on problem statements
+
+# 2016-08-30
+
+- Built emscripten SDK
+- [Responded to someday thread](https://internals.rust-lang.org/t/brsons-someday-list/3948/7)
+- [Commented on issue tracker](https://internals.rust-lang.org/t/how-the-rust-issue-tracker-works/3951/11)
+- [Commented on rustup distro packaging](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/184)
+- [Replied on issue tracker](https://internals.rust-lang.org/t/how-the-rust-issue-tracker-works/3951/14)
+- Started rust+emscripten build
+- Made several responses on firefox packaging
+- [Commented on rustup --help wrapping](https://github.com/rust-lang-nursery/rustup.rs/issues/657#issuecomment-243586179)
+- [Commented on bad op](https://www.reddit.com/r/rust/comments/50deo9/does_rust_really_have_6_string_types_with_no/d739ptp)
+- [Commented on source packaging](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/189)
+- [Commented on north star rfc](https://github.com/rust-lang/rfcs/pull/1728#issuecomment-243617179)
+- Squashed fastcomp patches
+
+# 2016-08-29
+
+- [Deleted forum spam](https://internals.rust-lang.org/t/watch-riddick-online-full-free/3947)
+- [Deleted forum spam](https://internals.rust-lang.org/t/hallo-everyone-im-new-here/3943)
+- Triaged someday list
+- [Closed rustup dupe](https://github.com/rust-lang-nursery/rustup.rs/issues/480)
+- [Posted someday list](https://internals.rust-lang.org/t/brsons-someday-list/3948)
+- Started rustscripten build
+- [Filed tracking issue for iterator min/max_by](https://github.com/rust-lang/rust/issues/36105)
+- [Reviewed iter min/max_by PR](https://github.com/rust-lang/rust/pull/35856#issuecomment-243194587)
+- [Closed iter min/max_by RFC](https://github.com/rust-lang/rfcs/issues/1722)
+- [Triaged Duration::to_nanos](https://github.com/rust-lang/rust/pull/35868)
+- [Triaged sublime text issue](https://github.com/rust-lang/sublime-rust/pull/87#issuecomment-243196504)
+- [Merged error-chain PR](https://github.com/brson/error-chain/pull/33)
+- [Reviewed error-chain patch](https://github.com/brson/error-chain/pull/34#issuecomment-243197452)
+- [Commented on rustup msi](https://github.com/rust-lang-nursery/rustup.rs/issues/253#issuecomment-243198524)
+- [Reviewed channel rc overflow fix](https://github.com/rust-lang/rust/pull/36104)
+- [Reviewed regex 1.0 RFC](https://github.com/rust-lang/rfcs/pull/1620)
+- [Reviewed mem::discriminant RFC](https://github.com/rust-lang/rfcs/pull/1696#issuecomment-236982368)
+- [Reviewed checked type RFC](https://github.com/rust-lang/rfcs/pull/1534#issuecomment-241634890)
+- [Triaged carrier trait RFC](https://github.com/rust-lang/rfcs/issues/1718)
+- [Agreed to relicense some rustbridge stuff](https://github.com/rust-community/rustbridge/pull/39#issuecomment-243213021)
+- [Reviewed std refactor RFC](https://github.com/rust-lang/rfcs/pull/1502#issuecomment-241634604)
+- [Commented on skeptic PR](https://github.com/brson/rust-skeptic/pull/13#issuecomment-243214093)
+- [Commented on rustup.sh gpg warning](https://github.com/rust-lang/rustup.sh/issues/65#issuecomment-243215824)
+- [Commented on rustup aur thread](https://aur.archlinux.org/packages/rustup/#news)
+- [Commented on rustup distro packaging](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/171)
+- [Commented on ptr_eq](https://github.com/rust-lang/rust/pull/35992#issuecomment-243238508)
+- [Triaged](https://github.com/rust-lang/rust/issues/23157#issuecomment-243239217)
+- [Triaged](https://github.com/rust-lang/rust/issues/34427)
+- [Commented on compiler-rt PR](https://github.com/rust-lang/rust/pull/35021#issuecomment-243241201)
+- [Commented on cargo --all-features](https://github.com/rust-lang/cargo/pull/3038#issuecomment-243244219)
+- [Closed rpi rustup segfault](https://github.com/rust-lang-nursery/rustup.rs/issues/687)
+- [Commented on rustc semver version](https://github.com/rust-lang/cargo/issues/3046#issuecomment-243246242)
+- [Closed stalled RFC](https://github.com/rust-lang/rfcs/pull/1353#issuecomment-243248622)
+- [Commented on llvm assertions on buildbot](https://github.com/rust-lang/rust-buildbot/issues/120#issuecomment-243251163)
+- [Reviewed PR](https://github.com/rust-lang/rust/pull/36085)
+- [Posted opinion of issue tags](https://internals.rust-lang.org/t/how-the-rust-issue-tracker-works/3951)
+
+# 2016-08-27
+
+- [Commented on beta regressions](https://internals.rust-lang.org/t/regression-report-stable-2016-08-16-vs-beta-2016-08-26/3930/4)
+- [Fixed rustup CI toolchain](https://github.com/rust-lang-nursery/rustup.rs/pull/696)
+- [Bumped rustup version](https://github.com/rust-lang-nursery/rustup.rs/pull/697)
+- [Minimized rustup crash](https://github.com/rust-lang/rust/issues/36023#issuecomment-242954674)
+- [Disabled anti-sudo check](https://github.com/rust-lang-nursery/rustup.rs/pull/698)
+- [Filed bug to reenable anti-sudo check](https://github.com/rust-lang-nursery/rustup.rs/issues/699)
+- [Closed rustup crash bug](https://github.com/rust-lang-nursery/rustup.rs/issues/695)
+- [Released rustup 0.6.3](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/168)
+- [Posted rustup fix message to /r/rust](https://www.reddit.com/r/rust/comments/4zvwwx/segfault_when_running_rustup_062/d6zmiqy)
+- [Posted rustup fix message to urlo](https://users.rust-lang.org/t/rustup-segmentation-fault/7066)
+
+# 2016-08-26
+
+- Replied to servo TLS thread
+- [Filed bug for host builds of mipses](https://github.com/rust-lang/rust/issues/36015)
+- [Commented on s390, ppc64, pp64le builds](https://github.com/rust-lang/rust/issues/36006#issuecomment-242776885)
+- [Commented on Rust crypto](https://www.reddit.com/r/rust/comments/4znbw0/proposal_tls_library_for_servo/d6xphtj)
+- [Submited new friend to www](https://github.com/rust-lang/rust-www/pull/494)
+- [Thanked a friend](https://github.com/rust-lang/rust-www/issues/492#issuecomment-242826051)
+- Restarted the beta build
+- [Reviewed a rollup](https://github.com/rust-lang/rust/pull/36021)
+- Ran crater
+- [Filed linkage regression](https://github.com/rust-lang/rust/issues/36022)
+- [Suggested new friend text](https://github.com/rust-lang/rust-www/pull/486#issuecomment-242837005)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/688)
+- [Triaged rustup](https://github.com/rust-lang-nursery/rustup.rs/issues/692#issuecomment-242857970)
+- [Filed bugs about rustup crashes](https://github.com/rust-lang/rust/issues/36023)
+- Sent email about aerospace industry
+- [Tried to help a rep](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/15)
+- [Helped a contributor]((https://github.com/rust-lang/rust/issues/28419#issuecomment-242876064)
+- [Posted twir update](https://github.com/cmr/this-week-in-rust/pull/285)
+- [Bisected rustup miscompile](https://github.com/rust-lang/rust/issues/36023#issuecomment-242879509)
+- [Fixed some unsafe code in rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/693)
+- [Commented on msi pr](https://github.com/rust-lang-nursery/rustup.rs/pull/661#issuecomment-242883471)
+- [Bumped rustup version](https://github.com/rust-lang-nursery/rustup.rs/pull/694)
+- [Hunted rustup crash](https://github.com/rust-lang/rust/issues/36023)
+- Followed up on firefox packaging thread
+- [Posted beta regressions](https://internals.rust-lang.org/t/regression-report-stable-2016-08-16-vs-beta-2016-08-26/3930/1)
+- [Posted nightly regressions](https://internals.rust-lang.org/t/regression-report-stable-2016-08-16-vs-nightly-2016-08-26/3931/1)
+- Sent cmr suggestions for twir content
+- [Released rustup 0.6.2](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/163)
+- [Closed rustup crash bug](https://github.com/rust-lang-nursery/rustup.rs/issues/691)
+- [Commented on rustup crash bug](https://github.com/rust-lang-nursery/rustup.rs/issues/687)
+- [Commented on rustup armv7 bug](https://github.com/rust-lang-nursery/rustup.rs/issues/692#issuecomment-242892869)
+
+# 2016-08-25
+
+- Conducted triage
+- [Put together swag list](https://gist.github.com/brson/169768d19359fcac631c0bf7998acca8)
+- [Merged temple-of-rust PR](https://github.com/brson/temple-of-rust/pull/2)
+- Added license to temple-of-rust
+- [Posted rust swag thread](https://users.rust-lang.org/t/all-the-rust-swag/7036)
+- Responded to t-shirt email thread
+- [Posted triage minutes](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/26)
+- [Responded to arch rustup thread](https://aur.archlinux.org/packages/rustup/)
+- Fixed some crater bustage
+- [Reviewed rustup ndk support](https://github.com/rust-lang-nursery/rustup.rs/pull/655#issuecomment-242585194)
+- [Filed bug about rustup cross-compile testing](https://github.com/rust-lang-nursery/rustup.rs/issues/690)
+- [Filed s390, ppc64, ppc64le host bug](https://github.com/rust-lang/rust/issues/36006)
+- Responded to various fx linux packaging emails
+- [Responded to rustup thread](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/160)
+- [Triage](https://github.com/rust-lang/rust/issues/36001)
+- Reduced crash bug
+- [Triage](https://github.com/rust-lang/rust/issues/35987)
+- [Triage](https://github.com/rust-lang/rust/issues/36000)
+- [Triage](https://github.com/rust-lang/rust/issues/35999)
+- [Commented on armv7 crash](https://github.com/rust-lang/rust/issues/35982#issuecomment-242608913)
+- [Triage](https://github.com/rust-lang/rust/issues/35981)
+- [Triage](https://github.com/rust-lang/rust/issues/35956)
+- Added T-doc tag
+- [Triage](https://github.com/rust-lang/rust/issues/35942)
+
+# 2016-08-24
+
+- Attended community meeting
+- [Filed bitcode issue](https://github.com/rust-lang/rust/issues/35968)
+- [Responded to rustup q](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/153)
+- [Responded to triage thread](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/24)
+- Updated triage schedule for every 2 weeks
+- [Closed rustup crash issue](https://github.com/rust-lang-nursery/rustup.rs/issues/679)
+- [Commented on rustup crash](https://github.com/rust-lang-nursery/rustup.rs/pull/684#issuecomment-242158111)
+- [Posted release cycle milestones thread](https://internals.rust-lang.org/t/release-cycle-milestones-and-p-high/3920)
+- [Commented on Apple bitcode](https://github.com/rust-lang/rust/issues/35968#issuecomment-242228999)
+- Responded to email about Rust t-shirts
+- [Invited reps to next week's meeting](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/13)
+- Reviewed roadmap RFC details
+- [Triaged](https://github.com/rust-lang/rust/issues/35935)
+
+# 2016-08-23
+
+- [Filed bug about www example errors](https://github.com/rust-lang/rust-www/issues/490)
+- [Reviewed www front page friends](https://github.com/rust-lang/rust-www/pull/486#issuecomment-241814230)
+- [Merged skeptic PR](https://github.com/brson/rust-skeptic/pull/13)
+- [Commented about error downcasting](https://github.com/rust-lang/rust/issues/35943)
+- [Commented on anthology process](https://github.com/brson/rust-anthology/issues/5#issuecomment-241824008)
+- [Commented on anthology footnotes](https://github.com/brson/rust-anthology/issues/7)
+- [Filed rustup canonicalize bug on network drives](https://github.com/rust-lang-nursery/rustup.rs/issues/682)
+- [Commented on release + debuginfo bots](https://github.com/rust-lang/rust/issues/34434#issuecomment-241829848)
+- [Commented on C siphash](https://github.com/rust-lang/rust/issues/35735#issuecomment-241832409)
+- [Reviewed some debugging pr](https://github.com/rust-lang/rust/pull/35748)
+- [Commented on cargo json](https://github.com/rust-lang/cargo/pull/3000#issuecomment-240499637)
+- [Thanked a contributor](https://github.com/dikaiosune/rust-dashboard/issues/61#issuecomment-240634345)
+- [Commented on contributor being dumb](https://github.com/rust-lang/rust/issues/35619#issuecomment-241861261)
+- [Merged mir2wasm pr](https://github.com/brson/mir2wasm/pull/37)
+- [Merged mir2wasm pr](https://github.com/brson/mir2wasm/pull/38)
+- [Reviewed cargo patch](https://github.com/rust-lang/cargo/pull/3021)
+- [Responded to compiler-builtins objection](https://github.com/rust-lang/rust/pull/35021#issuecomment-241868760)
+- [Reviewed www stuff](https://github.com/rust-lang/rust-www/pull/486#issuecomment-241895028)
+- Fixed typos in north star RFC
+- [Merged rust-www PR](https://github.com/rust-lang/rust-www/pull/485)
+- [Commented on rustup crash](https://github.com/rust-lang-nursery/rustup.rs/issues/679#issuecomment-241921754)
+- [Commented on apple bitcode](https://users.rust-lang.org/t/ios-rust-integration/6928/3)
+- [Merged beta PR](https://github.com/rust-lang/rust/pull/35914)
+- [Reviewed arm PR](https://github.com/rust-lang/rust/pull/35814)
+- [Merged rustup fix](https://github.com/rust-lang-nursery/rustup.rs/pull/683)
+- [Reviewed rustup lint pr](https://github.com/rust-lang-nursery/rustup.rs/pull/675)
+- [Fixed rustup osx crash](https://github.com/rust-lang-nursery/rustup.rs/pull/684)
+- [Thanks stabalien for fixing xattrs](https://github.com/Stebalien/xattr/pull/8#issuecomment-241939369)
+- [Bumped rustup version](https://github.com/rust-lang-nursery/rustup.rs/pull/685)
+- [Publish rustup 0.6.1](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/152)
+
+# 2016-08-22
+
+- [Encouraged a contributor](https://www.reddit.com/r/rust/comments/4z0i75/this_week_in_tock_embedded_os_week_3/d6s5jui)
+- [Pinged people on rand bug](https://github.com/rust-lang-nursery/rand/pull/112#issuecomment-241502966)
+- [Commented on freebsd rand improvements](https://github.com/rust-lang/rust/pull/35884#issuecomment-241503905)
+- [Updated help wanted instructions on tempdir bug](https://github.com/rust-lang-nursery/tempdir/issues/15)
+- [Merged rust-packaging cargo bump](https://github.com/rust-lang/rust-packaging/pull/56)
+- [Fixed rust-packaging cargo rev](https://github.com/rust-lang/rust-packaging/pull/57)
+- [Updated rust bump](https://github.com/rust-lang/rust/pull/35766#issuecomment-241524281)
+- Updated team@ alias
+- [Commented on rustup manifest breakage](https://github.com/rust-lang-nursery/rustup.rs/issues/664#issuecomment-241537025)
+- [Reviewed friends of rust www front page](https://github.com/rust-lang/rust-www/pull/486#issuecomment-241542046)
+- [Merged roadmap rfc edits](https://github.com/brson/rfcs/pull/3)
+- [Triage](https://github.com/rust-lang/rust/issues/35847#issuecomment-241553783)
+- [Bumped rustup version](https://github.com/rust-lang-nursery/rustup.rs/pull/674)
+- [Reviewed rust-installer fix](https://github.com/rust-lang/rust-installer/pull/48)
+- [Filed rustup netbsd bug](https://github.com/Stebalien/xattr/issues/7)
+- [Filed tar bug](https://github.com/alexcrichton/tar-rs/issues/84)
+- [Fixed tar bug in rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/676)
+- [Merged rust-installer fix](https://github.com/rust-lang/rust-installer/pull/48)
+- [Updated rust-installer for rust](https://github.com/rust-lang/rust/pull/35912)
+- [Updated rust-installer for cargo](https://github.com/rust-lang/cargo/pull/3032)
+- [Updated rust-installer for rust-packaging](https://github.com/rust-lang/rust-packaging/pull/58)
+- [Released rustup 0.6.0](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/151)
+- [Closed rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/664)
+- [Posted north star RFC](https://github.com/rust-lang/rfcs/pull/1728)
+
+# 2016-08-21
+
+- Wrote about being effusive for 'minimally-nice'
+
+# 2016-08-20
+
+- Brainstormed about Rust outreach and domains
+- Subscribed to meetup groups relevant to Rust domains
+- Work on minimally-nice-maintainer
+- [Encouraged aelitabot](https://www.reddit.com/r/rust/comments/4yqyaa/aelitabotxyz_get_borslike_commit_checking_on_your/d6pthwq)
+
+# 2016-08-19
+
+- [Commented on manifest format](https://github.com/rust-lang-nursery/rustup.rs/issues/664#issuecomment-241064050)
+- [Edited crt-link RFC](https://github.com/alexcrichton/rfcs/pull/6)
+- [Commented on crt-link RFC](https://github.com/rust-lang/rfcs/pull/1721#issuecomment-241086522)
+- [Commented on compiler-rt](https://github.com/rust-lang/rust/pull/35021#issuecomment-241117035)
+- [Updated bump pr](https://github.com/rust-lang/rust/pull/35766)
+- [Approved cargo hack](https://github.com/rust-lang/cargo/pull/3022)
+- Revised north star RFC
+- [Reviewed msi deployment patch](https://github.com/rust-lang-nursery/rustup.rs/pull/661#issuecomment-241152262)
+- Investigated rustup problems with new manifest
+- Reviewed rustup component patch
+- [Fixed openssl download url](https://github.com/rust-lang-nursery/rustup.rs/pull/669)
+- [Triaged tempdir bug](https://github.com/rust-lang-nursery/tempdir/issues/14)
+- [Filed bug about tempdir remove_dir_all unreliability](https://github.com/rust-lang-nursery/tempdir/issues/15)
+- [Fixed flaky rustup tests](https://github.com/rust-lang-nursery/rustup.rs/pull/670)
+- [Merged rustup component command](https://github.com/rust-lang-nursery/rustup.rs/pull/659)
+- [Filed rust-src bug](https://github.com/rust-lang/rust/issues/35840)
+- [Posted warning about rustup bustage](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/149)
+
+# 2016-08-18
+
+- Updated stage0 for version bump
+- Continued testing new manifest generator in dev
+- Working on 1.11 release
+- [Responded to nightly q](https://users.rust-lang.org/t/rust-nightly-git-repo/6931/5)
+- [Responded to idiom q](https://users.rust-lang.org/t/platform-specific-use-statements/6923/3)
+- [Updated bump PR for stage0 compat](https://github.com/rust-lang/rust/pull/35766#issuecomment-240790652)
+- [Commented on rustc-builtins](https://github.com/rust-lang/rust/pull/35021#issuecomment-240792030)
+- Burned down inbox
+- [Fixed www invalidation script](https://github.com/rust-lang/rust-www/pull/483)
+- [Encouraged a contributor](https://github.com/rust-lang/rust-www/issues/477#issuecomment-240841585)
+- [Commented on rustup msi](https://github.com/rust-lang-nursery/rustup.rs/issues/253#issuecomment-240842740)
+- [Tested new manifest in dev](https://github.com/rust-lang/rust-buildbot/pull/102#issuecomment-240850787)
+- Updated crater to no longer hit crates.io / cloudfront
+- Responded to emails about participation stuff
+- [Merged rust-buildbot manifest updates](https://github.com/rust-lang/rust-buildbot/pull/102/commits/8e0139ac9b517219d0854cb055d2373bb0ab3ce2)
+- [Filed rustup hyper issue](https://github.com/rust-lang-nursery/rustup.rs/issues/663)
+- Deployed new-manifest buildbot
+- [Revised crt-link RFC](https://github.com/alexcrichton/rfcs/pull/5)
+
+# 2016-08-17
+
+- Worked on roadmap RFC
+- [Posted prerelease testing message](https://internals.rust-lang.org/t/rust-1-11-prelease-testing/3869)
+- [Merged rust-www PR](https://github.com/rust-lang/rust-www/pull/480)
+- [Bumped bootstrap compiler](https://github.com/rust-lang/rust/pull/35766)
+- [Updated 1.11 relnotes](https://github.com/rust-lang/rust/pull/35736)
+- [Responded to rfc relicensing thread](https://internals.rust-lang.org/t/relicense-the-rfcs-repo-under-the-cc-by-4-0-license/3870/2)
+- [Updated website for release](https://github.com/rust-lang/rust-www/pull/482)
+- [Commented on licensing](https://github.com/rust-lang/rust/issues/25664#issuecomment-240576313)
+- [Commented on workshop stuff](https://github.com/galois1/demo/pull/1#issuecomment-240576522)
+- [Reviewed lib stabilizations](https://github.com/rust-lang/rust/pull/35607#event-753332611)
+- [Triaged](https://github.com/rust-lang/rust/issues/35628)
+- [Merged rustup MSI PR](https://github.com/rust-lang-nursery/rustup.rs/pull/635)
+- [Outlined remaning rustup MSI work](https://github.com/rust-lang-nursery/rustup.rs/issues/253#issuecomment-240585921)
+- [Merged rustup override patches](https://github.com/rust-lang-nursery/rustup.rs/pull/650)
+- [Commented on error-chain proposal](https://github.com/brson/error-chain/issues/32#issuecomment-240589115)
+- [Commented on book2 building](https://github.com/rust-lang/book/issues/181#issuecomment-240591526)
+- [Started dev build for new manifest data](https://github.com/rust-lang/rust-buildbot/pull/102#issuecomment-240596799)
+- Worked on rfcs relicensing
+- [Commented on rfcs relicensing](https://internals.rust-lang.org/t/license-the-rfcs-repo-under-the-cc-by-4-0-license/3870/5)
+- [Commented on nightlies](https://users.rust-lang.org/t/rust-nightly-git-repo/6931)
+
+# 2016-08-16
+
+- [Updated cargo-revs for 1.12](https://github.com/rust-lang/rust-packaging/pull/55)
+- [Bumped boostrap compilers](https://github.com/rust-lang/rust/pull/35723)
+- [Commented on rust-src manifests](https://github.com/rust-lang/rust-buildbot/pull/102)
+- [Filed issue about bad linebreaks in rustup help](https://github.com/rust-lang-nursery/rustup.rs/issues/657)
+- [Filed rustup component issue](https://github.com/rust-lang-nursery/rustup.rs/issues/658)
+- [Posted release process clarifications](https://github.com/rust-lang-nursery/rust-forge/pull/11)
+- [Posted version bump](https://github.com/rust-lang/rust/pull/35725)
+- [Filed issue to optimize siphash further](https://github.com/rust-lang/rust/issues/35735)
+- [Posted 1.11 changelog](https://github.com/rust-lang/rust/pull/35736)
+- [Triaged](https://github.com/rust-lang/rust/issues/35737)
+- [Posted std variance testing thread](https://internals.rust-lang.org/t/std-variance-testing/3865)
+- [Closed old bug](https://github.com/rust-lang/rust/issues/2476)
+
+# 2016-08-15
+
+- [Commented on rustup.rs by default](https://github.com/rust-lang/rust-www/issues/478#issuecomment-239907577)
+- [Commented on platform support](https://bugzilla.mozilla.org/show_bug.cgi?id=1284816#c6)
+- Followed up on packaging threads
+- Pushed beta to stable
+- [Attempted to fix rust-src dupes](https://github.com/rust-lang/rust-buildbot/pull/117)
+- Started 1.11 build
+
+# 2016-08-14
+
+- [Complained about error handling](https://internals.rust-lang.org/t/why-cant-i-impl-e-from-e-for-ezerror-where-e-stderror-send/3857)
+
+# 2016-08-13
+
+- Worked on rust-anthology
+- Conducted workshop-workshop
+- [Posted workshop artifacts](https://github.com/galois1/demo/pull/1)
+- Sent email about rust-anthology
+- [Edited doc team on www](https://github.com/rust-lang/rust-www/pull/479)
+
+# 2016-08-12
+
+- [Posted dogetest to /r/rust](https://www.reddit.com/r/rust/comments/4xeajo/dogetestcom_soledad_penad%C3%A9s/)
+- Continued crater run
+- [Merged skeptic PR](https://github.com/brson/rust-skeptic/pull/11)
+- [Linked some issues](https://github.com/rust-lang/rust/issues/30693)
+- [Closed PR](https://github.com/rust-lang/rust/pull/35307#event-751861816)
+- Wrote more roadmap RFC
+- [Triaged](https://github.com/rust-lang/rust/issues/35619#issuecomment-239546575)
+- [Closed dupe](https://github.com/rust-lang/rust/issues/35551)
+- [Triaged](https://github.com/rust-lang/rust/issues/35548)
+- [Posted crater results for carrier trait](https://github.com/rust-lang/rust/pull/35056#issuecomment-239555017)
+- Ordered pizza for workshopathon
+- [Commented on rustup msi](https://github.com/rust-lang-nursery/rustup.rs/pull/635#issuecomment-239556286)
+- [Reviewed rustup patch](https://github.com/rust-lang-nursery/rustup.rs/pull/650#issuecomment-239558143)
+- [Bumped error-chain version](https://github.com/brson/error-chain/pull/31)
+- [Published error-chain 0.5.0](https://users.rust-lang.org/t/announcing-error-chain-a-library-for-consistent-and-reliable-rust-error-handling/6133/27)
+- [Bumped rust-skeptic version](https://github.com/brson/rust-skeptic/pull/12)
+- [Published rust-skeptic 0.6.1](https://users.rust-lang.org/t/rust-skeptic-test-your-rust-markdown-documentation-via-cargo/2163/3)
+- [Commented on https://rust-lang.org](https://github.com/rust-lang/rust-www/issues/471#issuecomment-239564552)
+- [Posted twir updates](https://github.com/cmr/this-week-in-rust/pull/274)
+- [Added www friends to front page bug](https://github.com/rust-lang/rust-www/issues/477)
+- [Merged rustup toolchain upgrade](https://github.com/rust-lang-nursery/rustup.rs/pull/651)
+- [Filed rustbridge installfest issue](https://github.com/rust-community/rustbridge/issues/26)
+
+# 2016-08-11
+
+- Edited futures blog post
+- [Merged error-chain PR](https://github.com/brson/error-chain/pull/27)
+- [Merged error-chain PR](https://github.com/brson/error-chain/pull/30)
+- [Commented on --test-threads](https://github.com/rust-lang/rust/pull/35414#issuecomment-239283435)
+- [Reviewed PR](https://github.com/rust-lang/rust/pull/35392)
+- [Closed issue](https://github.com/rust-lang/rust/issues/2873)
+- [Commented on an issue](https://github.com/rust-lang/rust/issues/35474#issuecomment-239290204)
+- [Fixed cargo-dist index](https://github.com/rust-lang/cargo/issues/2950#issuecomment-239292911)
+- [Investigated rust-installer bug](https://github.com/rust-lang/rust/issues/35367#issuecomment-239294110)
+- [Commented about deprecating anonymous trait params](https://github.com/rust-lang/rfcs/pull/1685#issuecomment-239297952)
+- [Responded to emscripten thread](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/74)
+- [Reviewed emscripten patch](https://github.com/rust-lang/rust/pull/35574)
+- [Commented on man page updating](https://github.com/rust-lang/rust/pull/34254#issuecomment-238804974)
+- [Upgraded rustup toolchain](https://github.com/rust-lang-nursery/rustup.rs/pull/651)
+- [Commented on powerpc upgrade](https://github.com/rust-lang-nursery/rustup.rs/issues/388#issuecomment-239319371)
+- [Filed rustup-init.sh --help bug](https://github.com/rust-lang-nursery/rustup.rs/issues/652)
+- [Commented on rustup-init.sh problems](https://github.com/rust-lang-nursery/rustup.rs/issues/648#issuecomment-239320842)
+- [Commented on arm crashes](https://github.com/rust-lang-nursery/rustup.rs/issues/439#issuecomment-239321773)
+- [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/640#issuecomment-239322274)
+- [Reviewed rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/650)
+- [Merged skeptic PR](https://github.com/brson/rust-skeptic/pull/10)
+- [Commented on cargo json support](https://github.com/rust-lang/cargo/issues/2982#issuecomment-239255921)
+- [Reviewed catch_panic optimization](https://github.com/rust-lang/rust/pull/35444)
+- [Closed unlikely enhancement](https://github.com/rust-lang/rust/issues/32650)
+- Started Firefox packaging email threads
+- [Encouraged a contributor](https://www.reddit.com/r/rust/comments/4xa55n/presenting_ralloc_100_an_alternative_purerust/d6dyfyu)
+- [Reviewed PR](https://github.com/rust-lang/rust/pull/35606)
+- [Reviewed PR](https://github.com/rust-lang/rust/pull/35591#issuecomment-239344653)
+- [Reviewed PR](https://github.com/rust-lang/rust/pull/35533)
+- [Triage](https://github.com/rust-lang/rust/issues/35612)
+- [Moved issue to rust-www](https://github.com/rust-lang/rust/issues/35568)
+
+# 2016-08-10
+
+- [Commented on futures](https://www.reddit.com/r/rust/comments/4x15mr/getting_started_with_futuresrs/d6bra7z)
+- [Encouraged a sandstorm](https://www.reddit.com/r/rust/comments/4wzf2o/sandstorms_collections_app_built_with_rust/)
+- [Encouraged tock](https://www.reddit.com/r/rust/comments/4wybwo/talking_tock_week_1_first_weekly_update_of_tock/d6bteo6)
+- [Commented on RFC process](https://internals.rust-lang.org/t/refining-rfcs-part-2-rfc-staging/3657/42)
+- [Opened issue about OO in the faq](https://github.com/rust-lang/rust/issues/35568)
+- [Commented on faq PR](https://github.com/rust-lang/rust-www/pull/467)
+- [Edited error blog](https://github.com/jonathandturner/blog.rust-lang.org/pull/1)
+- Responded to ppc64 email
+- Responded to hackathon stuff
+- Updated linux packaging draft and responded to planning thread
+- [Merged sandstorm friend](https://github.com/rust-lang/rust-www/pull/473)
+- [Merged rustup pr](https://github.com/rust-lang-nursery/rustup.rs/pull/645)
+- [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/644#issuecomment-238943475)
+- [Fixed some rustup.rs issues](https://github.com/rust-lang-nursery/rustup.rs/issues/638)
+- [Nominated a diagnostics issue](https://github.com/rust-lang/rust/issues/32650)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/643)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/634)
+- [Reviewed rustup MSI PR](https://github.com/rust-lang-nursery/rustup.rs/pull/635#issuecomment-239036712)
+- [Commented on rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/618)
+- [Commented on rustup NetBSD bug](https://github.com/rust-lang-nursery/rustup.rs/issues/388#issuecomment-239039108)
+- [Commented on rustup tty bug](https://github.com/rust-lang-nursery/rustup.rs/issues/631#issuecomment-239040747)
+- [Triaged a rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/632#issuecomment-239040980)
+- [Triaged a rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/633#issuecomment-239041265)
+- [Encouraged a contributor](https://github.com/rust-lang-nursery/rustup.rs/issues/253#issuecomment-239041455)
+- [Tried to fix rustup powerpc](https://github.com/rust-lang-nursery/rustup.rs/pull/647)
+- [Commented on panicking cargo man on win](https://github.com/rust-lang-nursery/rustup.rs/issues/637#issuecomment-239042685)
+- [Commented on rustup ubuntu tablet bug](https://github.com/rust-lang-nursery/rustup.rs/issues/640#issuecomment-239043337)
+- [Commented on rustup shell completions](https://github.com/rust-lang-nursery/rustup.rs/issues/387#issuecomment-239044077)
+- [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/641)
+- [Commented on rustup OS X cross-compile](https://github.com/rust-lang-nursery/rustup.rs/issues/463#issuecomment-239044786)
+- [Triaged a rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/642)
+
+# 2016-08-09
+
+- Worked on north star RFC
+- [Triaged](https://github.com/rust-lang/rust/issues/15838#issuecomment-238646065)
+- [Commented on on rustc testing](https://internals.rust-lang.org/t/testing-the-compiler/3836/5?u=brson)
+- [Reviewed rust-src PR](https://github.com/rust-lang/rust/pull/34366)
+- [Copyedit futures tutorial](https://github.com/alexcrichton/futures-rs/pull/26)
+- [Commented on emscripten port](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/69)
+
+# 2016-08-08
+
+- [Reviewed test harness timeout message](https://github.com/rust-lang/rust/pull/35405)
+- [Commented on uclibc support](https://github.com/rust-lang/rust/pull/35242#issuecomment-238331555)
+- [Encouraged a contributor](https://github.com/rust-lang/rust/issues/29053)
+- [Hearted a thread](https://users.rust-lang.org/t/approaching-1-0-byteorder-memchr-suffix-tabwriter-utf8-ranges-walkdir/6833/1)
+- [Responded to weekly thread](https://users.rust-lang.org/t/whats-everyone-working-on-this-week-32-2016/6824/6)
+- [Merged backport](https://github.com/rust-lang/rust/pull/35527)
+- [Reviewed doc patch](https://github.com/rust-lang/rust/pull/35279#issuecomment-237630481)
+- [Reviewed www PR](https://github.com/rust-lang/rust-www/pull/467)
+- [Commented on man page versions](https://github.com/rust-lang/rust/pull/34254#issuecomment-238422624)
+- [Reviewed libs pr](https://github.com/rust-lang/rust/pull/35354)
+- [Commented on beta rustdoc html root](https://github.com/rust-lang/rust/pull/35307)
+- [Commented on licensing](https://github.com/rust-lang/rust/issues/25664#issuecomment-238427873)
+- [Merged error-chain fix](https://github.com/brson/error-chain/pull/29)
+- [Commented on error-chain travis config](https://github.com/brson/error-chain/issues/18)
+- [Commented on error-chain backtrace PR](https://github.com/brson/error-chain/pull/27)
+- [Thanked a contributor](https://github.com/brson/error-chain/issues/12#issuecomment-238038334)
+- [Commented on error-chain travis config](https://github.com/brson/error-chain/issues/18#issuecomment-238429597)
+- [Commented on libc implementations](https://github.com/rust-lang/rust/pull/35242#issuecomment-238431064)
+- [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/2974)
+
+# 2016-08-07
+
+- Booked travel to rustconf
+- Booked travel to rbr
+- Booked travel to moz hawaii
+- Filed expense reports
+- [Wrote up motivation for north-star RFC](https://github.com/brson/rfcs/blob/north-star/text/0000-north-star.md)
+
+# 2016-08-06
+
+- [Merged error-chain fixes](https://github.com/brson/error-chain/pull/28)
+- [Reviewed error-chain PR](https://github.com/brson/error-chain/pull/27)
+- [Merged error-chain PR](https://github.com/brson/error-chain/pull/26)
+
+# 2016-08-05
+
+- [Commented about wasm](https://www.reddit.com/r/rust/comments/4w5ku4/running_a_d_game_in_the_browser_showing_a_way_to/d65gagl)
+- [Encouraged a contributor](https://users.rust-lang.org/t/std-library-inclusion-policy-and-a-data-point-of-compilation-times/5212/8?u=brson)
+- Forwarded som trapped spam to rust-community
+- [Reviewed cargo fix](https://github.com/rust-lang/cargo/pull/2962)
+- Introduced a coc researcher to Graydon and Dave
+- [Reviewed a cargo fix](https://github.com/rust-lang/cargo/pull/2954)
+- Asked for help propogating the participation events in the Rust community
+- [Commented on particpation thread](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/3)
+- [Commented on t-shirt](https://github.com/rust-community/team/issues/53#issuecomment-237900163)
+- [Commented on timeouts](https://github.com/rust-lang/rust/issues/2873#issuecomment-237943046)
+- [Commented on dom bindings](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/60)
+- [Commented on std-aware cargo](https://github.com/rust-lang/rfcs/pull/1133#issuecomment-237964206)
+- [Posted more emscripten ideas](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/61)
+- [Merged error-chain PR](https://github.com/brson/error-chain/pull/17)
+- [Merged error-chain PR](https://github.com/brson/error-chain/pull/16)
+- [Reviewed a patch](https://github.com/rust-lang/rust/pull/35405)
+- [Encouraged a contributor](https://github.com/brson/error-chain/issues/18)
+- [Closed error-chain issue](https://github.com/brson/error-chain/issues/15)
+- [Bumped error-chain version](https://github.com/brson/error-chain/pull/20)
+- [Encouraged contributor](https://github.com/rust-lang-nursery/rustup.rs/pull/635)
+- [Merged rustup patch](https://github.com/rust-lang-nursery/rustup.rs/pull/630)
+- [Upgraded rustup to error-chain 0.4](https://github.com/rust-lang-nursery/rustup.rs/pull/636)
+- [Released error-chain 0.4.2](https://users.rust-lang.org/t/announcing-error-chain-a-library-for-consistent-and-reliable-rust-error-handling/6133/26)
+- [Commented on rustup nightly yanking](https://www.reddit.com/r/rust/comments/4wb9tn/you_might_not_want_to_rustup_update_nightly_today/d668gqa)
+- [Added a quote of the week](https://users.rust-lang.org/t/twir-quote-of-the-week/328/276)
+
+# 2016-08-04
+
+- Posted reminders about triage
+- Conducted triage
+- [Commented on telemetry](https://github.com/rust-lang-nursery/rustup.rs/issues/639)
+- [Posted triage updates](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/20)
+- [Commented on wasm](https://www.reddit.com/r/rust/comments/4w5ku4/running_a_d_game_in_the_browser_showing_a_way_to/d6484qz)
+- [Suggested somebody begin webapi-rs](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/52)
+- [Commented on web apis](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/54)
+- [Commented on triage](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/21)
+- Sent email about Rust+wasm
+
+# 2016-08-03
+
+- Brought various issues to community team meeting
+- Sent email to llogic about community team participation
+- Sent email about firefox+rust packaging
+- [Responded to platform thread](https://internals.rust-lang.org/t/follow-up-the-rust-platform/3782/25?u=brson)
+- [Responded to rust starters](https://internals.rust-lang.org/t/help-wanted-rust-starters-a-website-to-aggregate-tasks-for-rust-newbies/3783/11?u=brson)
+- [Posted question about error-change breakage](https://users.rust-lang.org/t/announcing-error-chain-a-library-for-consistent-and-reliable-rust-error-handling/6133/22)
+- [Reviewed error-chain PR](https://github.com/brson/error-chain/pull/16#issuecomment-237417325)
+- [Reviewed PR](https://github.com/rust-lang/rust/pull/35279)
+
+# 2016-08-02
+
+- [Commented on compiler-rt](https://www.reddit.com/r/rust/comments/4vps1z/the_most_heinous_llvm_upgrade_ever_the_one_thats/d618pp4)
+- [Encouraged a contributor](https://www.reddit.com/r/rust/comments/4vscn5/imag_the_cli_pim_suite_written_in_rust_just_got_a/d6197lh)
+- [Triaged mem::discriminant RFC](https://github.com/rust-lang/rfcs/pull/1696)
+- [Commented about skeptic perf](https://github.com/brson/rust-skeptic/issues/8#issuecomment-236980924)
+- [Commented on cargo doc test perf](https://github.com/rust-lang/cargo/issues/2944#issuecomment-236982195)
+- [Hearted a futures pr](https://github.com/tomaka/cpal/pull/121)
+- [Hearted a futures pr](https://github.com/tomaka/rodio/pull/72)
+- [Filed cargo feature request](https://github.com/rust-lang/cargo/issues/2952)
+- [Suggested a fix for a skeptic bug](https://github.com/brson/rust-skeptic/issues/4#issuecomment-236988978)
+- [Suggested a fix for a skeptic bug](https://github.com/brson/rust-skeptic/issues/9#issuecomment-236989501)
+- [Merged backports](https://github.com/rust-lang/rust/pull/35172)
+- [Thankd a contributor](https://github.com/brson/mir2wasm/issues/17#issuecomment-236990861)
+- [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/2946)
+- [Commented on rustup fish problems](https://github.com/rust-lang-nursery/rustup.rs/issues/619#issuecomment-236993273)
+- [Merged old nano config](https://github.com/rust-lang/nano-config/pull/7)
+- [Commented on rustdoc URL naming](https://github.com/rust-lang/rust/pull/35020#issuecomment-236996660)
+- [Set up cargo-dist indexing](https://github.com/rust-lang/cargo/issues/2950#issuecomment-236953061)
+- [Commented on rustc-builtins](https://github.com/rust-lang/rust/pull/35021#issuecomment-236998983)
+- [Pointed nrc at a rustfmt contributor](https://github.com/rust-lang-nursery/rustfmt/issues/1049#issuecomment-236336380)
+- [Merged error-chain PR](https://github.com/brson/error-chain/pull/13)
+- [Bumped error-chain version](https://github.com/brson/error-chain/pull/14)
+- [Published error-chain 0.3](https://users.rust-lang.org/t/announcing-error-chain-a-library-for-consistent-and-reliable-rust-error-handling/6133/21)
+- [Upgraded error-chain in rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/636)
+- Pinged Jim Blandy about book status
+- [Filed error-chain error](https://github.com/brson/error-chain/issues/15)
+- [Merged mir2wasm assert patch](https://github.com/brson/mir2wasm/pull/36#issuecomment-237040188)
+- [Commented on packaging guidelines](https://github.com/rust-lang/rust/issues/29563#issuecomment-237081326)
+
+# 2016-08-01
+
+- [Commented on `--emit=metadata`](https://github.com/rust-lang/rust/pull/35122#issuecomment-236665043)
+- [Reviewed mir2wasm patch](https://github.com/brson/mir2wasm/pull/36)
+- [Thanked a contributor](https://github.com/rust-lang/rust/issues/27741#issuecomment-236668922)
+- [Commented on rustc-bulitins](https://github.com/rust-lang/rust/pull/35021#issuecomment-236670933)
+- [Thanked a contributor](https://github.com/rust-lang-nursery/rustup.rs/issues/619#issuecomment-236671145)
+- [Commented on skeptic slowness](https://github.com/brson/rust-skeptic/issues/8#issuecomment-236673874)
+- [Commented on skeptic slowness](https://github.com/brson/rust-skeptic/issues/8#issuecomment-236684282)
+- [Commented on perf testing](https://users.rust-lang.org/t/suggestion-for-a-helpful-rust-web-project/6720/9)
+- [Commented on rustc libs](https://internals.rust-lang.org/t/distribution-of-rustc-libraries/3791/2)
+- [Thanked a friend](https://github.com/rust-lang/rust-www/pull/464#issuecomment-236699508)
+- [Posted emscripten update](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/50)
+- [Commented on crate policy rfc](https://github.com/rust-lang/rfcs/pull/1619#issuecomment-236713669)
+- [Approved a PR](https://github.com/rust-lang/rust/pull/35054)
+- [Approved a PR](https://github.com/rust-lang/rust/pull/35084)
+- Updated crater image to 16.04
+- [Closed duplicate PR](https://github.com/rust-lang/rust/pull/35027)
+- [Reviewed a PR](https://github.com/rust-lang/rust/pull/35156#issuecomment-236728637)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/614)
+- [Commented on run-pass bogosity](https://github.com/rust-lang/rust/issues/35165)
+- [Commented on `--emit metadata`](https://github.com/rust-lang/rust/pull/35122#issuecomment-236731496)
+- Discussed Mozilla participation activities with brian king
+- [Thumbsed a PR](https://github.com/rust-lang/rust/pull/35174)
+- [Reviewed cargo local registries](https://github.com/rust-lang/cargo/pull/2857)
+- Responded to an email about WAVM
+- Responded to email thread about participation events
+- Sent email about training videos
+- Sent email about t-shirts
+
+# 2016-07-31
+
+- [Ranted about Rust compile-time performance](https://www.reddit.com/r/rust/comments/4vbmv4/can_we_talk_about_build_times/d5yhoa6)
+- [Commented on rustup checksum problem](https://github.com/rust-lang-nursery/rustup.rs/issues/524#issuecomment-236445229)
+- Sent Orbits&Rust photo to eddyb
+- [Commented on platform](https://internals.rust-lang.org/t/follow-up-the-rust-platform/3782/20?u=brson)
+- [Commented on error internationalization](https://internals.rust-lang.org/t/translations-for-rust/3126/28?u=brson)
+- Worked on rust-anthology
+- [Reviewed cargo local registries](https://github.com/rust-lang/cargo/pull/2857#issuecomment-236461126)
+- [Reviewed cargo PR](https://github.com/rust-lang/cargo/pull/2938)
+
+# 2016-07-29
+
+- [Commented on wasm target spec](https://github.com/brson/mir2wasm/issues/35#issuecomment-236207052)
+- [Merged rustup rustls pr](https://github.com/rust-lang-nursery/rustup.rs/pull/592)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/613)
+- [Reviewed rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/614#discussion_r72810125)
+- [Merged rustup proxy toolchain shortcut](https://github.com/rust-lang-nursery/rustup.rs/pull/615#issuecomment-236211195)
+- [Merged rustup man](https://github.com/rust-lang-nursery/rustup.rs/pull/616)
+- [Fixed rustup indentation](https://github.com/rust-lang-nursery/rustup.rs/pull/623)
+- [Merged rustup sudo checks](https://github.com/rust-lang-nursery/rustup.rs/pull/617#issuecomment-236217507)
+- [Reviewed rustup show fix](https://github.com/rust-lang-nursery/rustup.rs/pull/621)
+- [Refactored rustup sudo defense](https://github.com/rust-lang-nursery/rustup.rs/pull/624)
+- [Removed empty mod in rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/625)
+- [Commented on rustup backtrace disk thrashing](https://github.com/rust-lang-nursery/rustup.rs/issues/591#issuecomment-236230394)
+- [Commented on rustup global installation](https://github.com/rust-lang-nursery/rustup.rs/issues/313#issuecomment-236231071)
+- [Closed rustup man issue](https://github.com/rust-lang-nursery/rustup.rs/issues/490#issuecomment-236231219)
+- [Thanked a contributor](https://github.com/rust-lang-nursery/rustup.rs/issues/446#issuecomment-236231419)
+- [Commented on rustup installation dir](https://github.com/rust-lang-nursery/rustup.rs/issues/618#issuecomment-236232923)
+- [Conceeded on rustup backtrace obeying RUST_BACKTRACE](https://github.com/rust-lang-nursery/rustup.rs/issues/591#issuecomment-236235289)
+- [Commented on rustup fish shell hang](https://github.com/rust-lang-nursery/rustup.rs/issues/619#issuecomment-236237174)
+- [Commented on rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/599#issuecomment-236238919)
+- [Commented on rustup rust-mingw package](https://github.com/rust-lang-nursery/rustup.rs/issues/607#issuecomment-236239830)
+- [Encouraged someone to help with debugging rustup on NetBSD](https://github.com/rust-lang-nursery/rustup.rs/issues/388#issuecomment-236240464)
+- [Commented on rustup signing](https://github.com/rust-lang-nursery/rustup.rs/issues/241#issuecomment-236242764)
+- [Tried to fix appveyor CI](https://github.com/rust-lang-nursery/rustup.rs/pull/626)
+- [Approved cargo registry mirrors](https://github.com/rust-lang/cargo/pull/2857)
+- Hacked on rustup
+- Hacked on rust-www team alumni
+- [Alphabetized community team on website](https://github.com/rust-lang/rust-www/pull/462)
+- [Posted alumni teams](https://github.com/rust-lang/rust-www/pull/463)
+- [Commented about rustc-builtins crate](https://github.com/rust-lang/rust/pull/35021#issuecomment-236309681)
+- [Commented on mir2wasm target specs](https://github.com/brson/mir2wasm/issues/35#issuecomment-236311901)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/621)
+- [Bumped rustup version](https://github.com/rust-lang-nursery/rustup.rs/pull/627)
+- Edited Brian King's participation CTA
+- [Thanked aturon](https://internals.rust-lang.org/t/follow-up-the-rust-platform/3782/3?u=brson)
+- [Asked for help setting up 'rust starters'](https://internals.rust-lang.org/t/help-wanted-rust-starters-a-website-to-aggregate-tasks-for-rust-newbies/3783)
+- [Filed issue about cargo registry sync](https://github.com/rust-lang/cargo/issues/2931)
+- [Fixed rustup lockfile](https://github.com/rust-lang-nursery/rustup.rs/pull/628)
+- [Eulogized huon and alexis](https://internals.rust-lang.org/t/rust-team-alumni/3784)
+- [Commented on platform](https://internals.rust-lang.org/t/follow-up-the-rust-platform/3782/7?u=brson)
+- [Commented on some llvm patch](https://github.com/rust-lang/rust/pull/35113#issuecomment-236331049)
+- [Commented about doc-days](https://users.rust-lang.org/t/call-for-proposals-for-next-rust-doc-days-crates/6685/14?u=brson)
+- [Welcomed team member](https://users.rust-lang.org/t/please-welcome-jseyfried-to-the-compiler-team/6719/2?u=brson)
+- [Commented about --bin by default](https://internals.rust-lang.org/t/should-cargo-new-default-to-applications/3772/18?u=brson)
+- [Commented about cloudabi](https://internals.rust-lang.org/t/rust-cloudabi/3773/3)
+- [Commented about cargo api qs](https://internals.rust-lang.org/t/programmatic-access-use-of-cargo/3775/2)
+- [Updated rustup deployment instructions](https://github.com/rust-lang-nursery/rustup.rs/pull/629)
+- [Released rustup 0.5.0](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/149)
+- [Commented on a patch](https://github.com/rust-lang/rust/pull/35027#issuecomment-236336291)
+- [Asked for status update](https://github.com/rust-lang/rust/issues/27741#issuecomment-236336849)
+- [Asked for status update](https://github.com/rust-lang/rust/issues/34716#issuecomment-236336883)
+- [Triaged a rby pr](https://github.com/rust-lang/rust-by-example/pull/773#issuecomment-236337048)
+- [Merged rby fixes](https://github.com/rust-lang/rust-by-example/pull/781)
+- [Triaged an easy bug](https://github.com/rust-lang/rust/issues/21837)
+- [Closed fixed rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/599)
+- [Closed fixed rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/608#issuecomment-235128324)
+- [Closed fixed issue](https://github.com/rust-lang/rust/issues/34455)
+- [Posted twir update](https://github.com/cmr/this-week-in-rust/pull/263)
+
+# 2016-07-28
+
+- [Reviewed libs PR](https://github.com/rust-lang/rust/pull/35084#issuecomment-235940223)
+- [Gave advice for setting up pontoon for l10n](https://internals.rust-lang.org/t/translations-for-rust/3126/23?u=brson)
+- [Commented on cargo exec](https://github.com/rust-lang/cargo/pull/2818#issuecomment-235944629)
+- [Commented on libs motivations](https://internals.rust-lang.org/t/proposal-the-rust-platform/3745/41?u=brson)
+- Gave some mir2wasm feedback
+- [Commented on cargo C cross compilation](https://github.com/rust-lang/cargo/issues/2925#issuecomment-235965323)
+- [Commented on optimization](https://github.com/rust-lang/rust/issues/35093)
+- [Commented on some old bug](https://github.com/rust-lang/rust/issues/28229#issuecomment-236014520)
+- [Merged jseyfriend to compiler team](https://github.com/rust-lang/rust-www/pull/461)
+- [Merged mir2wasm fixes](https://github.com/brson/mir2wasm/pull/34)
+- [Encouraged some interns](https://internals.rust-lang.org/t/rustc-intern-presentations-summer-2016/3765)
+- [Responded kindly to a troll](https://internals.rust-lang.org/t/im-moving-away-heres-my-two-cents/3767/2?u=brson)
+- Responded to an old q about rustup
+- [Posted roadmap tool](https://internals.rust-lang.org/t/refining-rfcs-part-1-roadmap/3656/18)
+- [Encouraged redox](https://www.reddit.com/r/rust/comments/4v3r0a/the_internet_on_redox_a_rust_operating_system/d5vci6c)
+- [Submitted tock link to /r/rust](https://www.reddit.com/r/rust/comments/4v4jt2/github_helenaprojecttock_a_secure_embedded/)
+- [Merged rustup patch](https://github.com/rust-lang-nursery/rustup.rs/pull/622)
+
+# 2016-07-27
+
+- Worked on battleplan readme
+- [Commented on gpg impl](https://www.reddit.com/r/rust/comments/4uttb9/openpgp_in_rust/d5t4gh2)
+- [Commented on rustup signing](https://github.com/rust-lang-nursery/rustup.rs/issues/241#issuecomment-235640054)
+- [Merged backport](https://github.com/rust-lang/rust/pull/35071)
+- [Commented on fotf](https://github.com/rust-community/team/issues/51#issuecomment-235652607)
+- Started crate-build for crater run
+- [Responded about std-aware cargo RFC](https://github.com/rust-lang/rfcs/pull/1133#issuecomment-235657748)
+- [Commented on error-chain PR](https://github.com/brson/error-chain/pull/13#issuecomment-235661196)
+- [Commented on new from conversions](https://github.com/rust-lang/rust/pull/35054#issuecomment-235667907)
+- [Commented on cargo exec](https://github.com/rust-lang/cargo/pull/2818#issuecomment-235670212)
+- [Commented on error-chain PR](https://github.com/brson/error-chain/pull/13#issuecomment-235670982)
+- [Filed bors prioritize newbies bug](https://github.com/rust-community/bors/issues/3)
+- [Filed bors rustfmt bug](https://github.com/rust-community/bors/issues/4)
+- [Commented on mozfest participation](https://github.com/rust-community/team/issues/44#issuecomment-235679824)
+- [Commented on no-stack-check flag](https://github.com/rust-lang/rust/pull/35027#issuecomment-235682144)
+- [Triaged](https://github.com/rust-lang/rust/pull/34951)
+- [Commented on discriminant_intrinsic](https://github.com/rust-lang/rust/pull/34785#issuecomment-235682756)
+- [Approved debug escaping patch](https://github.com/rust-lang/rust/pull/34485)
+- Sent email about Rust alumni
+- [Asked for website translation help](https://internals.rust-lang.org/t/translations-for-rust/3126/21?u=brson)
+- [Minor website update](https://github.com/rust-lang/rust-www/pull/460)
+- [Commented on `cargo new` defaults](https://github.com/rust-lang/cargo/pull/2921#issuecomment-235744183)
+- [Fixed blog background color](https://github.com/rust-lang/blog.rust-lang.org/pull/113)
+- [Posted crater results](https://github.com/rust-lang/rust/pull/35056#issuecomment-235748153)
+- [Commented on wasm importing](https://github.com/brson/mir2wasm/issues/33#issuecomment-235748846)
+- [Commented on metapackages](https://news.ycombinator.com/item?id=12177193)
+- [Commented on platform](https://www.reddit.com/r/rust/comments/4uxdn8/the_rust_platform_aaron_turon/d5tqxs3)
+
+# 2016-07-26
+
+- Sent support request to GitHub about clone throttling
+- Tested AWS throttling
+- Updated support ticket for thursday meetup
+- Responded to Mozilla Rust Hackathon email
+- [Reviewed rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/614)
+- [Merged mir2wasm PR](https://github.com/brson/mir2wasm/pull/32)
+- [Commented about OS X mangling](https://users.rust-lang.org/t/completely-unmangled-symbol/6701/4)
+- [Commented on rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/576#issuecomment-235390836)
+- [Reviewed cargo PR](https://github.com/rust-lang/cargo/pull/2919)
+- [Reviewed cargo PR](https://github.com/rust-lang/cargo/pull/2920)
+- [Commented on OS X mangling](https://github.com/rust-lang/rust/issues/35052#issuecomment-235402949)
+- [Commented on std backtrace feature](https://github.com/rust-lang/rust/pull/35051#issuecomment-235403587)
+- [Thanked a contributor](https://github.com/brson/error-chain/issues/12#issuecomment-235421970)
+- [Reviewed lib PR](https://github.com/rust-lang/rust/pull/35054)
+- [Commented on rustup hash drift](https://github.com/rust-lang-nursery/rustup.rs/issues/346#issuecomment-235427170)
+- [Merged backport](https://github.com/rust-lang/rust/pull/35055)
+- Ordered pizza for meetup
+- Scheduled 8/13 hackathon
+- [Started a crater run for a PR](https://github.com/rust-lang/rust/pull/35056#issuecomment-235436432)
+- Reviewed aturon's platform post
+- [Commented on `escape`](https://github.com/rust-lang/rust/pull/34485#issuecomment-235444558)
+- Responded to email about things
+- [Commented on nano-config](https://github.com/rust-lang/nano-config/pull/7#issuecomment-235447386)
+
+# 2016-07-25
+
+- [Comented on rustc perf](https://github.com/rust-lang/rust/issues/34831#issuecomment-235041594)
+- [Posted some doc sprint ideas](https://users.rust-lang.org/t/call-for-proposals-for-next-rust-doc-days-crates/6685/4)
+- [Commented on grammar fixes](https://github.com/rust-lang/rust/pull/34994#issuecomment-235065581)
+- [Commented on weird discourse behavior](https://users.rust-lang.org/t/welcome-to-the-rust-programming-language-forum/6656/4?u=brson)
+- [Reviewed nano patch](https://github.com/rust-lang/nano-config/pull/7#issuecomment-235073316)
+- [Reviewed drain covariance](https://github.com/rust-lang/rust/pull/34951#issuecomment-235093731)
+- Investigated serde compile perf
+- [Encouraged a contributor](https://github.com/dikaiosune/rust-dashboard/pull/73#issuecomment-235105341)
+- [Commented on rustc-builtins](https://github.com/rust-lang/rust/pull/35021#issuecomment-235108660)
+- [Commented on no_stack_check](https://github.com/rust-lang/rust/pull/35027#issuecomment-235112909)
+- [Reviewed rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/614)
+- [Encouraged a contributor](https://github.com/rust-lang-nursery/rustup.rs/issues/542#issuecomment-235113889)
+- [Reviewed error-chain patch](https://github.com/brson/error-chain/pull/13#issuecomment-235116285)
+- [Commented on rustdoc titles](https://github.com/rust-lang/rust/pull/35003#issuecomment-235118752)
+- [Commented on some rustdoc PR](https://github.com/rust-lang/rust/pull/35012#issuecomment-235119678)
+- [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/2917)
+- [Commented about compiler-rt build script](https://github.com/rust-lang/rust/pull/35021#issuecomment-235121056)
+- [Reviewed mir2wasm patch](https://github.com/brson/mir2wasm/pull/31)
+- Responded to pings
+- [Encouraged a contributor](https://github.com/rust-lang-nursery/rustup.rs/issues/490#issuecomment-235126841)
+- [Thanked a contributor](https://github.com/rust-lang-nursery/rustup.rs/issues/253#issuecomment-235127021)
+- [Commented on installation of dynamically linked rust exes](https://github.com/rust-lang-nursery/rustup.rs/issues/350#issuecomment-235127970)
+- [Commented on rustup sudo](https://github.com/rust-lang-nursery/rustup.rs/issues/608#issuecomment-235128324)
+- [Commented on rustup backtraces](https://github.com/rust-lang-nursery/rustup.rs/issues/591#issuecomment-235129573)
+- [Commented on rustup stripping](https://github.com/rust-lang-nursery/rustup.rs/issues/595#issuecomment-235130960)
+- [Commented on missing rust-mingw](https://github.com/rust-lang-nursery/rustup.rs/issues/607#issuecomment-235133423)
+- [Commented on rustup path verification](https://github.com/rust-lang-nursery/rustup.rs/issues/576#issuecomment-235134244)
+- [Thanked a contributor](https://github.com/rust-lang-nursery/rustup.rs/issues/439#issuecomment-235134457)
+- [Commented on rustup global installation](https://github.com/rust-lang-nursery/rustup.rs/issues/313#issuecomment-235135378)
+- [Commented on rust-lldb](https://github.com/rust-lang-nursery/rustup.rs/issues/335#issuecomment-235136123)
+
+# 2016-07-22
+
+- Tried to reproduce https://github.com/rust-lang/rust/issues/34535
+- [Filed cargo network bug](https://github.com/rust-lang/cargo/issues/2906)
+- [Commented on target-detection PR](https://github.com/rust-lang/rust/pull/33363#issuecomment-234612409)
+- [Commented on rustc hang repro](https://github.com/rust-lang/rust/issues/34535#issuecomment-234614813)
+- [Reviewed crate-deps RFC](https://github.com/rust-lang/rfcs/pull/1622#issuecomment-234616279)
+- [Commented on ctrs](https://github.com/brson/ctrs/issues/2#issuecomment-234617885)
+- [Reviewed cargo PR](https://github.com/rust-lang/cargo/pull/2907)
+- Responded to pings
+- Tagged rustup 0.3.0
+- [Merged rustup HTTP proxy docs](https://github.com/rust-lang-nursery/rustup.rs/issues/610)
+- [Closed rustup HTTP proxy issue](https://github.com/rust-lang-nursery/rustup.rs/issues/401)
+- [Closed old rustup issue](https://github.com/rust-lang-nursery/rustup.rs/pull/565)
+- [Bumped rustup version](https://github.com/rust-lang-nursery/rustup.rs/pull/611)
+- [Commented on binary_search verification](https://users.rust-lang.org/t/blog-post-a-formal-verification-of-rusts-binary-search-implementation/6644/2?u=brson)
+- Gave vadim r+ again
+- [Filed error-chain bug](https://github.com/brson/error-chain/issues/12)
+- [Posted message about error-chain not working on stable](https://users.rust-lang.org/t/announcing-error-chain-a-library-for-consistent-and-reliable-rust-error-handling/6133/21?u=brson)
+- Set up meeting with optimizely
+- [Commemnted on rbe inline-examples](https://github.com/rust-lang/rust-by-example/issues/776#issuecomment-234656794)
+- Tried to help itsmealda with iOS linking issues
+- [Fixed some rustup docs](https://github.com/rust-lang-nursery/rustup.rs/pull/612)
+- [Released rustup 0.4.0](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/147?u=brson)
+- [Commented on return being an expression](https://github.com/rust-lang/rust/issues/28784#issuecomment-234669456)
+- [Asked for feedback on a closable diagnostics bug](https://github.com/rust-lang/rust/issues/22590#issuecomment-234670455)
+- [Closed rustup no-self-update bug](https://github.com/rust-lang-nursery/rustup.rs/issues/597#issuecomment-234671564)
+- [Encouraged a contributor](https://github.com/rust-lang/rust-by-example/issues/105#issuecomment-234671837)
+- [Closed fixed cargo bug](https://github.com/rust-lang/cargo/issues/2860)
+- [Updated compiler-rt bug](https://github.com/rust-lang/rust/issues/34400#issuecomment-234674196)
+- [Commented on rustup zsh completions](https://github.com/rust-lang-nursery/rustup.rs/issues/387#issuecomment-234675568)
+- [Posted twir updates](https://github.com/cmr/this-week-in-rust/pull/257)
+- [Reviewed PR](https://github.com/rust-lang/rust/pull/34983)
+- Sent email about distro outreach
+- [Commented on JSON target specs](https://github.com/rust-lang/rust/pull/34980#issuecomment-234683183)
+- [Filed regex perf regression](https://github.com/rust-lang/rust/issues/34998)
+
+# 2016-07-21
+
+- [Praised clippy docs](https://www.reddit.com/r/rust/comments/4twv8b/overview_and_documentation_of_all_clippy_lints/d5l4rlq)
+- [Updated rust-learning PR](https://github.com/ctjhoa/rust-learning/pull/55#issuecomment-234315559)
+- [Triaged error-chain backtrace windows bug](https://github.com/brson/error-chain/issues/7)
+- [Encouraged a community member](https://users.rust-lang.org/t/release-rustzx-0-9-2-zx-spectrum-emulator/6604/2?u=brson)
+- [Commented on checked range indexing](https://github.com/rust-lang/rfcs/pull/1679#issuecomment-234336464)
+- [Commented on rustup gui installer](https://github.com/rust-lang-nursery/rustup.rs/issues/253#issuecomment-234337929)
+- [Merged Windows installer artwork](https://github.com/rust-lang/rust-packaging/pull/54)
+- [Commented on rusty-dash github code](https://github.com/dikaiosune/rust-dashboard/issues/72#issuecomment-234340975)
+- [Commented on windows testing](https://github.com/rust-lang/rust/issues/34506#issuecomment-234343094)
+- [Commented on horrible rust patch](https://github.com/rust-lang/rust/pull/34743#issuecomment-234343910)
+- [Triaged a libs PR](https://github.com/rust-lang/rust/pull/34951)
+- [Reviewed error-chain PR](https://github.com/brson/error-chain/pull/8#issuecomment-234365547)
+- Responded to a contributor question via email
+- Sent list of links for new contributors for PR purposes
+- Responded to person needing help via email
+- [Commented about error-chain pr](https://github.com/brson/error-chain/pull/8#issuecomment-234381615)
+- [Filed rustup sudo bug](https://github.com/rust-lang-nursery/rustup.rs/issues/608)
+- [Commented on rustup sudo bug](https://github.com/rust-lang/cargo/issues/2892#issuecomment-234385975)
+- [Thanked a contributor](https://github.com/rust-lang/rust/pull/34785#issuecomment-234387040)
+- [Triaged](https://github.com/rust-lang/rust/pull/34771)
+- [Updated a PR](https://github.com/rust-lang/rust/pull/33363#issuecomment-234387993)
+- [Triaged RFC](https://github.com/rust-lang/rfcs/pull/1678)
+- [Commented about std refactor](https://github.com/rust-lang/rfcs/pull/1502#issuecomment-234388994)
+- [Unassigned myself from windows tracking bug](https://github.com/rust-lang/rfcs/issues/1061)
+- [Commented on doc team RFC](https://github.com/rust-lang/rfcs/pull/1683#issuecomment-234389796)
+- [Merged error-chain PR](https://github.com/brson/error-chain/pull/8)
+- [Added error-chain quickstart](https://github.com/brson/error-chain/pull/9)
+- [Bumped error-chain version](https://github.com/brson/error-chain/pull/10)
+- [Fixed error-chain bugs](https://github.com/brson/error-chain/pull/11)
+- [Published error-chain 0.2.2](https://users.rust-lang.org/t/announcing-error-chain-a-library-for-consistent-and-reliable-rust-error-handling/6133/20?u=brson)
+- [Updated rustup to error-chain 0.2.2](https://github.com/rust-lang-nursery/rustup.rs/pull/609)
+- [Commented on error-chain issue](https://github.com/brson/error-chain/issues/6#issuecomment-234412266)
+- [Merged rustup proxy PR](https://github.com/rust-lang-nursery/rustup.rs/pull/598#issuecomment-234413167)
+- [Updated rustup proxy issue](https://github.com/rust-lang-nursery/rustup.rs/issues/401#issuecomment-234413375)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/600)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/601)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/602)
+- Emailed arch rustup maintainer about no-self-update
+- Edited rust-anthology
+
+# 2016-07-20
+
+- Sketched full TOC for anthology
+- [Encouraged a contributor](https://github.com/rust-lang/rust/issues/28784#issuecomment-234039262)
+- [Filed rustup show bug](https://github.com/rust-lang-nursery/rustup.rs/issues/599)
+- [Responded to SO q about rustup](http://stackoverflow.com/a/38488361/1204536)
+- [Responded to SO q about iOS bitcode](http://stackoverflow.com/a/38488617/1204536)
+- Responded to emergency inquiry
+- Worked on removing multirust bin from rustup
+- Increased crater timeout from 300s to 600s
+- [Commented on rustup backtraces on windows](https://github.com/rust-lang-nursery/rustup.rs/issues/591#issuecomment-234077144)
+- [Updated rustup backtrace dep](https://github.com/rust-lang-nursery/rustup.rs/pull/604)
+- [Updated rustup gcc dep](https://github.com/rust-lang-nursery/rustup.rs/pull/605)
+- Unbooked SFO commons for 7/30 workshop that is not happening
+- [Created next community team agenda](https://github.com/rust-community/team/issues/49)
+- Welcomed community team members
+- [Posted PR to remove multirust bin from rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/606)
+- [Reviewed a PR](https://github.com/rust-lang/rust/pull/34946)
+- [Updated rust-learning](https://github.com/ctjhoa/rust-learning/pull/55)
+
+# 2016-07-19
+
+- [Commented on ip6 filtering](https://github.com/rust-lang/rust/pull/34440#issuecomment-233697608)
+- [Reviewed cargo --freeze](https://github.com/rust-lang/cargo/pull/2811#issuecomment-233701919)
+- [Filed cargo registry bug](https://github.com/rust-lang/cargo/issues/2895)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/586)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/590)
+- [Reviewed rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/592)
+- [Commented on rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/596)
+- [Triaged rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/595)
+- [Triaged rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/591#issuecomment-233719483)
+- [Triaged rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/588)
+- [Triaged rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/581#issuecomment-233720837)
+- [Triaged rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/576#issuecomment-233721054)
+- [Triaged rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/537#issuecomment-233721780)
+- [Triaged rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/486#issuecomment-233722548)
+- [Triaged rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/471#issuecomment-233723331)
+- [Triaged rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/460#issuecomment-233724228)
+- [Triaged rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/453#issuecomment-233725127)
+- [Triaged rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/439#issuecomment-233725538)
+- [Triaged rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/437)
+- [Triaged rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/401#issuecomment-233726932)
+- Triaged rustup issues
+- [Commented on discriminant_value PR](https://github.com/rust-lang/rust/pull/34785#issuecomment-233728728)
+- [Encouraged a contributor](https://github.com/rust-lang/rust/issues/23286#issuecomment-233730675)
+- [Triaged error-chain issue](https://github.com/brson/error-chain/issues/4#issuecomment-233740596)
+- [Closed old issue](https://github.com/rust-lang/rust/issues/26902)
+- [Triaged bug](https://github.com/rust-lang/rust/issues/24106#issuecomment-233742670
+- [Triaged bug](https://github.com/rust-lang/rust/issues/21837#issuecomment-233743515)
+- [Triaged bug](https://github.com/rust-lang/rust/issues/21837#issuecomment-233743515)
+- [Closed old bug](https://github.com/rust-lang/rust/issues/21528)
+- Helped someone in #rust-beginners with error-chain
+- [Filed error-chain feature request](https://github.com/brson/error-chain/issues/6)
+- [Filed error-chain feature request](https://github.com/brson/error-chain/issues/5)
+- [Triaged bug](https://github.com/rust-lang/rust/issues/18579#issuecomment-233748125)
+- [Triaged bug](https://github.com/rust-lang/rust/issues/2873#issuecomment-233750230)
+- [Commented on rustup HTTP proxy](https://github.com/rust-lang-nursery/rustup.rs/issues/401#issuecomment-233751177)
+- [Commented on rustup win installer progress](https://github.com/rust-lang-nursery/rustup.rs/issues/253#issuecomment-233755050)
+- [Encouraged a contributor](https://github.com/rust-lang/rust-by-example/issues/105#issuecomment-233757491)
+- Booked SFO commons for 7/30 workshop
+- Responded to a candidate
+- [Encourarged a contributor](https://github.com/rust-lang/llvm/pull/45#issuecomment-233761580)
+- [Commented on std refactoring](https://github.com/rust-lang/rfcs/pull/1502#issuecomment-233764285)
+- [Assigned myself an rfc](https://github.com/rust-lang/rfcs/pull/1678)
+- [Reviewed checked_abs RFC](https://github.com/rust-lang/rfcs/pull/1678#issuecomment-233766931)
+- [Commented on rustup self updates for distros](https://github.com/rust-lang-nursery/rustup.rs/issues/471#issuecomment-233768443)
+- [Filed a bug about disabling rustup self updates](https://github.com/rust-lang-nursery/rustup.rs/issues/597)
+- [Experimented with rustup backtraces](https://github.com/rust-lang-nursery/rustup.rs/issues/591#issuecomment-233775482)
+- [Merged backport of jemalloc fix](https://github.com/rust-lang/rust/pull/34927)
+- [Commented on rustup extensibility](https://github.com/rust-lang-nursery/rustup.rs/issues/486#issuecomment-233776354)
+- [Commented about rustup foreign links](https://github.com/brson/error-chain/issues/4#issuecomment-233776580)
+- [Commented about cargo UI improvements](https://github.com/rust-lang/cargo/pull/2896#issuecomment-233778159)
+- [Thanked eholk for reviewing mir2wasm patch](https://github.com/brson/mir2wasm/pull/27#event-728142347)
+- [Commented on rustup win32 installer](https://github.com/rust-lang-nursery/rustup.rs/issues/253#issuecomment-233781099)
+- [Commented on rustup backtraces](https://github.com/rust-lang-nursery/rustup.rs/issues/591#issuecomment-233782276)
+- [Commented on deprecating anonymous arguments](https://internals.rust-lang.org/t/pre-rfc-deprecating-anonymous-parameters/3710/5?u=brson)
+- [Reviewed rustfmting](https://github.com/rust-lang/rust/pull/34113#issuecomment-233804998)
+- [Posted testing build of rustup for backtrace fix](https://github.com/rust-lang-nursery/rustup.rs/issues/591#issuecomment-233810063)
+
+# 2016-07-18
+
+- [Responded to cargo config rfc](https://github.com/rust-lang/rfcs/pull/1615#issuecomment-233421553)
+- [Approved is_empty for ExactSizeIterator](https://github.com/rust-lang/rust/pull/34357)
+- Pinged lqd about mir2wasm
+- [Commented on rustfmting](https://github.com/rust-lang/rust/pull/34113#issuecomment-233449968)
+- [Commented on unwrap macro](https://github.com/rust-lang/rfcs/pull/1669#issuecomment-233450385)
+- [Commented `fs::read_to_string`](https://github.com/rust-lang/rust/issues/34857#issuecomment-233462034)
+- [Commented on `assert_ne`](https://github.com/rust-lang/rfcs/pull/1662#issuecomment-233472703)
+- Send email to Jamey Sharp about using corrode to translite compiler-rt
+- [Commented on rustup completions](https://github.com/rust-lang-nursery/rustup.rs/issues/387#issuecomment-233475587)
+- [Filed rustup telemetry bug](https://github.com/rust-lang-nursery/rustup.rs/issues/594)
+- [Commented on unstable feature query](https://internals.rust-lang.org/t/idea-using-bigquerys-public-github-data-for-the-change-impact-analysis/3681/12?u=brson)
+- [Commented on LLVM cpu-features patch](https://github.com/rust-lang/llvm/pull/45#issuecomment-233480531)
+- [Commented on LLVM upgrade](https://github.com/rust-lang/rust/pull/34743#issuecomment-233482616)
+- [Encouraged a contributor](https://github.com/rust-lang/rust/issues/20130#issuecomment-233482795)
+- [Reviewed AddAssign for String](https://github.com/rust-lang/rust/pull/34890#issuecomment-233483379)
+- Compiled windows-orbit test results
+- [Commented on httptest issue](https://github.com/brson/httptest/issues/6#issuecomment-233489742)
+- [Reviewed new friend](https://github.com/rust-lang/rust-www/pull/450)
+- [Posted windows mir results](https://internals.rust-lang.org/t/enabling-mir-by-default/3555/48?u=brson)
+- [Reviewed mips soft-float remove](https://github.com/rust-lang/rust/pull/34910)
+- [Commented on xdg](https://github.com/rust-lang/rfcs/pull/1615#issuecomment-233495228)
+- [Commented on rustup arm fix](https://github.com/rust-lang-nursery/rustup.rs/pull/593#issuecomment-233495562)
+- [Commented on zsh completions](https://github.com/rust-lang-nursery/rustup.rs/issues/387#issuecomment-233496113)
+- Responded to pings
+- [Commented on alt-play](https://www.reddit.com/r/rust/comments/4tf0kj/qa_on_the_alternate_playground_implementation_now/d5hiihe)
+- Responded to emails
+- [Merged rustup armv7-neon fixes](https://github.com/rust-lang-nursery/rustup.rs/pull/593#issuecomment-233496788)
+- [Reviewed MachineArith RFC](https://github.com/rust-lang/rfcs/pull/1676#issuecomment-233515263)
+- [Reviewed on panic-safe indexing RFC](https://github.com/rust-lang/rfcs/pull/1679#issuecomment-233516193)
+
+# 2016-07-17
+
+- [Filed rustup extra line bug](https://github.com/rust-lang-nursery/rustup.rs/issues/589)
+- Worked on battleplan crawling
+- [Commented on rustup completions](https://github.com/rust-lang-nursery/rustup.rs/issues/387#issuecomment-233477991)
+
+# 2016-07-16
+
+- Hacking on rust-z
+- Continued windows mir testing
+- [Asked for update on ?](https://github.com/rust-lang/rust/issues/31436#issuecomment-233144528)
+- [Filed fs::read_to_string feature request](https://github.com/rust-lang/rust/issues/34857)
+- [Updated cargo-apply](https://github.com/alexcrichton/cargo-apply/pull/1)
+
+# 2016-07-15
+
+- Started crater run
+- [Reviewed mips fix](https://github.com/rust-lang/rust/pull/34841)
+- [Posted changelog](https://users.rust-lang.org/t/rust-project-changelog-for-2016-07-15/6555)
+- [Added Stratum to friends](https://github.com/rust-lang/rust-www/pull/448)
+- [Responded to contributor q](https://github.com/rust-lang-nursery/rustup.rs/issues/490#issuecomment-233084325)
+- [Encouraged a contributor](https://github.com/rust-lang/rust/issues/20130#issuecomment-233084659)
+- [Encouraged a contributor](https://github.com/rust-lang/rust/issues/30961#issuecomment-233085355)
+- [Encouraged a contributor](https://github.com/rust-lang-nursery/rustup.rs/issues/542#issuecomment-233085507)
+- [Merged rustls cert loader](https://github.com/rust-lang-nursery/rustup.rs/pull/585)
+- [Reviewed rustup patch](https://github.com/rust-lang-nursery/rustup.rs/pull/586)
+- [Reviewed diagnostic fix](https://github.com/rust-lang/rust/pull/34676#issuecomment-233088050)
+- [Wrote guidance on rustup GUI](https://github.com/rust-lang-nursery/rustup.rs/issues/253#issuecomment-233089196)
+- [Posted easy bug instructions](https://github.com/rust-lang/rust/issues/28784#issuecomment-233089990)
+- [Updated twir](https://github.com/cmr/this-week-in-rust/pull/255)
+- [Commented on rustls](https://github.com/rust-lang-nursery/rustup.rs/issues/568#issuecomment-233099937)
+- [Posted regression report](https://internals.rust-lang.org/t/regression-report-stable-2016-07-05-vs-nightly-2016-07-15/3699/2)
+- Responded to email about tessel
+
+# 2016-07-14
+
+- [Updated release triage thread](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544)
+- Updated release cycle triage process
+- Daily triage
+- [Merged rustup version bump](https://github.com/rust-lang-nursery/rustup.rs/pull/580)
+- [Finished crater run for PR](https://github.com/rust-lang/rust/pull/34357#issuecomment-232699470)
+- More release cycly treage tweaks
+- [Encouraged LLVM upgrade](https://github.com/rust-lang/rust/pull/34743#issuecomment-232703492)
+- [Commemnted on rust-src package PR](https://github.com/rust-lang/rust/pull/34366#issuecomment-232709400)
+- Release triage
+- [Reviewed build system patch](https://github.com/rust-lang/rust/pull/34824)
+- [Filed bug on rustup release process](https://github.com/rust-lang-nursery/rustup.rs/issues/582)
+- [Posted triage summary](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/16?u=brson)
+- [Updated gcc for rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/583)
+- [Commented on rustup manifest fallback](https://github.com/rust-lang-nursery/rustup.rs/pull/573#issuecomment-232773484)
+- [Merged error-chain PR](https://github.com/brson/error-chain/pull/3)
+- [Merged rust-skeptic fix](https://github.com/brson/rust-skeptic/pull/7)
+- [Published rust-skeptic 0.6](https://users.rust-lang.org/t/rust-skeptic-test-your-rust-markdown-documentation-via-cargo/2163/3?u=brson)
+- [Bumped rustup version](https://github.com/rust-lang-nursery/rustup.rs/pull/584)
+- [Merged www ide fix](https://github.com/rust-lang/rust-www/pull/441)
+- [Responded to rustup cert problem](https://github.com/rust-lang-nursery/rustup.rs/issues/581#issuecomment-232778799)
+- [Merged mir2wasm docs](https://github.com/brson/mir2wasm/pull/28)
+- [Commented on rust-src package](https://github.com/rust-lang/rust/pull/34366#issuecomment-232779849)
+- [Commented on local rust rebuild](https://github.com/rust-lang/rust/pull/34779#issuecomment-232780959)
+- [Commented on xdg](https://github.com/rust-lang/rfcs/pull/1615#issuecomment-232781635)
+- Responded to pings
+- Responded to tessel owner
+- Responded to emails
+- [Encouraged a contributor](https://github.com/rust-lang-nursery/rustup.rs/issues/568#issuecomment-232813813)
+- [Published rustup 0.3](https://internals.rust-lang.org/t/beta-testing-rustup-rs/3316/144?u=brson)
+- Tested mir stuff on windows
+
+# 2016-07-13
+
+- [Commented on Rust vs Go](https://www.reddit.com/r/rust/comments/4sm6ag/was_rust_ever_designed_to_be_a_go_competitor/d5ap0y1)
+- [Posted linux perf patch to /r/rust](https://www.reddit.com/r/rust/comments/4snw3k/linux_perf_gets_rust_symbol_demangling_support/)
+- [Responded to rustup windows SSL bug](https://users.rust-lang.org/t/problem-with-installing-rustup-rs-on-windows/6515)
+- [Fixed rustup staging bug](https://github.com/rust-lang-nursery/rustup.rs/pull/579)
+- [Merged rustup winapi fix](https://github.com/rust-lang-nursery/rustup.rs/pull/577)
+- [Merged rustup PR](https://github.com/rust-lang-nursery/rustup.rs/pull/578)
+- [Bumped rustup version](https://github.com/rust-lang-nursery/rustup.rs/pull/580)
+- Discussed roadmaps
+- [Reminded about triage](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/15?u=brson)
+
+# 2016-07-12
+
+- Biked
+- Meditated
+- Planned day
+- [Assigned self to std-aware cargo](https://github.com/rust-lang/rfcs/pull/1133)
+- [Reviewed std-aware cargo](https://github.com/rust-lang/rfcs/pull/1133)
+- [Reviewed mir2wasm patch](https://github.com/brson/mir2wasm/pull/27)
+- [Commented on crater q](https://github.com/rust-lang/rust/pull/34357#issuecomment-232160177)
+- [Reviewed bootstrapping patch](https://github.com/rust-lang/rust/pull/34779)
+- [Reviewed error message fix](https://github.com/rust-lang/rust/pull/34676)
+- [Reviewed discriminant_value patch](https://github.com/rust-lang/rust/pull/34785)
+- [Commented on error code rfc](https://github.com/rust-lang/rfcs/pull/1644#issuecomment-232168539)
+- [Commented on some old RFC](https://github.com/rust-lang/rfcs/pull/1489#issuecomment-232170519)
+- [Commented on platform-specific configuration schemes](https://github.com/rust-lang/rfcs/pull/1615#issuecomment-232173160)
+- [Commented on contex rfc](https://github.com/rust-lang/rfcs/pull/1645#issuecomment-232175709)
+- [Commented on rustdoc extensions](https://github.com/rust-lang/rfcs/pull/1661#issuecomment-232176718)
+- [Commented on std-aware cargo RFC](https://github.com/rust-lang/rfcs/pull/1133#issuecomment-232211012)
+- [Commented on strike teams](https://github.com/rust-lang/rfcs/pull/1607#issuecomment-232217646)
+- [Commented about www](https://github.com/rust-lang/rust/issues/34790)
+- [Commented on error RFC](https://github.com/rust-lang/rfcs/pull/1644#issuecomment-232219280)
+- [Commented on unicode upgrade](https://github.com/rust-lang/rust/pull/34599#issuecomment-232219716)
+- Continued a crater run
+- [Encouraged rust-blueprint](https://users.rust-lang.org/t/rust-blueprint-project/6500/3)
+- [Commented about BigQuery](https://internals.rust-lang.org/t/idea-using-bigquerys-public-github-data-for-the-change-impact-analysis/3681/2)
+- [Commented on rustup error handling](https://github.com/rust-lang-nursery/rustup.rs/pull/573)
+- [Removed rustup winapi replacement](https://github.com/rust-lang-nursery/rustup.rs/pull/577)
+- [Commented on cargo issue](https://github.com/rust-lang/cargo/issues/2856#issuecomment-232224408)
+
+# 2016-07-11
+
+- Biked
+- Meditated
+- [Commented on cargo registry sync times](https://users.rust-lang.org/t/why-does-cargo-download-the-entire-registry/6479/6)
+- [Commented on discourse](https://users.rust-lang.org/t/what-are-rusts-discourse-hosting-plans-and-time-requirement/6462/4?u=brson)
+- Dialy plan
+- [Commented on mpsq try_iter](https://github.com/rust-lang/rust/pull/34724#issuecomment-231828042)
+- [Triage](https://github.com/rust-lang/rust/pull/34733)
+- [Triage](https://github.com/rust-lang/rust/pull/34739)
+- [Commented on emscripten status](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/47)
+- [Merged emscripten updates](https://github.com/brson/rust/pull/34)
+- [Commented on --dry-run](https://github.com/rust-lang/cargo/pull/2849#issuecomment-231786193)
+- [Hearted a friend PR](https://github.com/rust-lang/cargo/pull/2811#issuecomment-229823129)
+- [Merged some clippy bs](https://github.com/rust-lang-nursery/rustup.rs/pull/567)
+- [Merged my rustls patch](https://github.com/rust-lang-nursery/rustup.rs/pull/572)
+- [Triage](https://github.com/rust-lang/rust/issues/27787#issuecomment-231859875)
+- [Triage](https://github.com/rust-lang/rust/pull/34771)
+- [Triage](https://github.com/rust-lang/rust/issues/34759#issuecomment-231883721)
+- [Triage](https://github.com/rust-lang/rust/issues/34727)
+- [Closed issue](https://github.com/rust-lang/rust/issues/34040)
+- [Triage](https://github.com/rust-lang/rust/issues/34040)
+- [Commented on discriminant_value](https://github.com/rust-lang/rust/issues/24263)
+- [Triage](https://github.com/rust-lang/rust/issues/21905)
+- [Triage](https://github.com/rust-lang/rust/pull/33363)
+- [Triage](https://github.com/rust-lang/rust/pull/33971)
+- [Commented an old PR](https://github.com/rust-lang/rust/pull/34087#issuecomment-231886336)
+- [Triage](https://github.com/rust-lang/rust/pull/34113)
+- [Triage](https://github.com/rust-lang/rust/pull/34254)
+- [Triage](https://github.com/rust-lang/rust/pull/34366)
+- [Triage](https://github.com/rust-lang/rust/pull/34485)
+- [Triage](https://github.com/rust-lang/rust/pull/34733)
+- [Reviewed PR](https://github.com/rust-lang/rust/pull/34705)
+- [Replaced StaticMutex in pkg-config-rs](https://github.com/alexcrichton/pkg-config-rs/pull/27)
+- [Commented on unwrap macro](https://github.com/rust-lang/rfcs/pull/1669#issuecomment-231895584)
+- [Commented on cdn speed](https://github.com/rust-lang-nursery/rustup.rs/issues/571)
+- [Triage](https://github.com/rust-lang-nursery/rustup.rs/issues/566)
+- [Praised carol's rust consultancy](https://www.reddit.com/r/rust/comments/4sdncw/why_were_starting_a_rust_consultancy/d58le2b)
+- Worked on rustup v1 fallback
+- [Fixed rustup manifest fallback](https://github.com/rust-lang-nursery/rustup.rs/pull/573)
+- [Fixed rustup installation bug](https://github.com/rust-lang-nursery/rustup.rs/pull/574)
+- [Filed bug about rustup I/O testing](https://github.com/rust-lang-nursery/rustup.rs/issues/575)
+- [Filed cargo bug](https://github.com/rust-lang/cargo/issues/2856)
+
+# 2016-07-10
+
+- Worked on rustls for rustup
+- [Fixed some concurrency in rustls](https://github.com/ctz/rustls/pull/4)
+- [Filed rustls issue](https://github.com/ctz/rustls/pull/4)
+- [Triage](https://github.com/rust-lang/rust/pull/34756)
+- [Posted rustls patch to rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/572)
+- [Commented on rustup + rustls](https://github.com/rust-lang-nursery/rustup.rs/issues/568#issuecomment-231615284)
+- [Commented on rustup + rustls](https://www.reddit.com/r/rust/comments/4s2n9q/rustls_a_modern_tls_stack_for_rust/d576h6s)
+- [Filed error-chain feature request](https://github.com/brson/error-chain/issues/1)
+
+# 2016-07-09
+
+- [Commented on static.rlo changing](https://www.reddit.com/r/rust/comments/4s050r/httpsstaticrustlangorgdist_disappeared/d55svw3)
+- [Commented on Rust+AVR](https://www.reddit.com/r/rust/comments/4s1duv/anyone_successfully_compiled_rust_for_avr/d55t4t6)
+- [Filed rustup + rustls bug](https://github.com/rust-lang-nursery/rustup.rs/issues/568)
+- [Commented about rustls](https://www.reddit.com/r/rust/comments/4s2n9q/rustls_a_modern_tls_stack_for_rust/d564p7l)
+- Refactored rustup downloading
+- [Reviewed doc patch](https://github.com/rust-lang/rust/pull/34745)
+- [Posted rustup download refactoring](https://github.com/rust-lang-nursery/rustup.rs/pull/569)
+- [Moved rustup downloading to its own crate](https://github.com/rust-lang-nursery/rustup.rs/pull/570)
+
+# 2016-07-08
+
+- [Commented about roadmap](https://internals.rust-lang.org/t/refining-rfcs-part-1-roadmap/3656/16?u=brson)
+- [Reviewed cargo fix](https://github.com/rust-lang/cargo/pull/2839#issuecomment-231283144)
+- [Reviewed www i18n](https://github.com/rust-lang/rust-www/pull/296#issuecomment-231285353)
+- Responded to pings
+- Started crater run
+- [Replied about static unsafe ptrs](https://users.rust-lang.org/t/how-to-mark-const-foo-as-sync/6450/2?u=brson)
+- [Commented on jemalloc](https://internals.rust-lang.org/t/disabling-jemalloc/3650/16)
+- [Merged rustup hack](https://github.com/rust-lang-nursery/rustup.rs/pull/562)
+- [Commented on rustup hack](https://github.com/rust-lang-nursery/rustup.rs/issues/524#issuecomment-231413339)
+- [Reviewed rustup rustfmting](https://github.com/rust-lang-nursery/rustup.rs/pull/565)
+- [Encouraged a contributor](https://github.com/rust-lang-nursery/rustup.rs/issues/542#issuecomment-231414742)
+- [Commented on rustup version handling](https://github.com/rust-lang-nursery/rustup.rs/issues/554#issuecomment-231415458)
+- [Commented on rustup PATH handling](https://github.com/rust-lang-nursery/rustup.rs/issues/556#issuecomment-231416429)
+- [Closed rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/466)
+- [Commented on rustup default toolchain expansion](https://github.com/rust-lang-nursery/rustup.rs/issues/559#issuecomment-231418088)
+- Triaged rustup PRs and issues
+- [Encouraged a contributor](https://github.com/rust-lang/rust/issues/34683#issuecomment-231418917)
+- [Encouraged a contributor](https://github.com/rust-lang/rust/issues/20130#issuecomment-231419295)
+- [Triaged easy bug](https://github.com/rust-lang/rust/issues/7493#issuecomment-231419840)
+- Triaged rust-lang/rust E-easy
+- [Suggested changes to error wording](https://github.com/rust-lang/rust/pull/34676#discussion_r70111009)
+- [Encouraged a contributor](https://github.com/rust-lang/rust/issues/24263#issuecomment-231424583)
+- Triaged rust-lang/rust E-help-wanted
+- [Commented on issue](https://github.com/rust-lang/rust/issues/34710#issuecomment-231427296)
+- [Triage](https://github.com/rust-lang/rust/issues/34698)
+- [Triage](https://github.com/rust-lang/rust/issues/34650)
+- [Triage](https://github.com/rust-lang/rust/issues/34633)
+- [Triage](https://github.com/rust-lang/rust/issues/34634)
+- [Triage](https://github.com/rust-lang/rust/issues/34624)
+- [Triage](https://github.com/rust-lang/rust/issues/34622)
+- [Replied to rustup bugzilla thread](https://bugzilla.mozilla.org/show_bug.cgi?id=1177128#add_comment)
+- [Triage](https://github.com/rust-lang/cargo/issues/2800#issuecomment-231446565)
+- [Triage](https://github.com/rust-lang/rust/issues/32796#issuecomment-231449669)
+- [Commented on std-cargo](https://github.com/rust-lang/rfcs/pull/1133#issuecomment-231438919)
+- [Posted regression report](https://internals.rust-lang.org/t/regression-report-stable-2016-07-05-vs-beta-2016-07-06/3672)
+- [Commented on source package](https://github.com/rust-lang/rust/pull/34366#issuecomment-231484534)
+- [Commented on some error message](https://github.com/rust-lang/rust/pull/34676#discussion_r70158984)
+- [Posted twir pr](https://github.com/cmr/this-week-in-rust/pull/250)
+
+# 2016-07-07
+
+- [Reviewed www win detection pr](https://github.com/rust-lang/rust-www/pull/431)
+- Tagged rust and cargo releases
+- [Commented on blog.rlo https](https://github.com/rust-lang/blog.rust-lang.org/issues/81#issuecomment-231164607)
+- [Commented on std-aware cargo](https://github.com/rust-lang/rfcs/pull/1133#issuecomment-231172635)
+- [Commented on surprise symbols](https://github.com/servo/servo/pull/12297#issuecomment-231177077)
+- [Reviewed removal of deprecated sync types](https://github.com/rust-lang/rust/pull/34705)
+- [Reviewed IpAddr methods](https://github.com/rust-lang/rust/pull/34694#issuecomment-231178892)
+- [Commented about cargo --version](https://github.com/rust-lang/cargo/issues/2833#issuecomment-231191238)
+- [Commented on servo codegen units](https://github.com/servo/servo/pull/12297#issuecomment-231193732)
+- [Commented on mir2wasm monomorphization](https://github.com/brson/mir2wasm/pull/26/files/96963a88f518c27c5be9e816b67c641f14b5625b#r69978806)
+- [Reviewed blog update](https://github.com/rust-lang/blog.rust-lang.org/pull/110)
+- [Commented about ide page duplication](https://github.com/rust-lang-nursery/rust-forge/issues/9#issuecomment-231204114)
+- [Posted bug about bad diagnostics](https://github.com/rust-lang/rust/issues/34710)
+- [Attempted to get a P-high bug assigned](https://github.com/rust-lang/rust/issues/24263#issuecomment-231217224)
+- [Triage](https://github.com/rust-lang/rust/issues/34708#issuecomment-231218043)
+- [Commented on hash table random numbers](https://github.com/rust-lang/rust/pull/33086#issuecomment-231219341)
+- [Merged www edits](https://github.com/rust-lang/rust-www/pull/433)
+- [Merged release note edits](https://github.com/rust-lang/rust/pull/34712)
+- [Encouraged a user](https://www.reddit.com/r/rust/comments/4rq2hy/i_just_ran_rustupsh_on_a_first_generation/d53iku3)
+- 2fa admin
+- Meeting with japaric about xcomp
+- [Commented about unwrap!](https://github.com/rust-lang/rfcs/pull/1669#issuecomment-231240182)
+- [Posted summary of ideas to std-aware cargo rfc](https://github.com/rust-lang/rfcs/pull/1133#issuecomment-231241160)
+- Turned on more master branch protection for rust-lang/rust
+
+# 2016-07-06
+
+- [Commented on rust starters](https://www.reddit.com/r/rust/comments/4rhex3/this_week_in_rust_137/d51k17o)
+- [Commented on a cargo easy bug](https://github.com/rust-lang/cargo/issues/2529#issuecomment-230834759)
+- [Reviewed error message fix](https://github.com/rust-lang/rust/pull/34676#issuecomment-230840884)
+- [Reviewed rustbuild reorg](https://github.com/rust-lang/rust/pull/34677)
+- Responded to pings
+- [Reviewed rustup patch](https://github.com/rust-lang-nursery/rustup.rs/pull/553)
+- [Reviewed rustup patch](https://github.com/rust-lang-nursery/rustup.rs/pull/563)
+- [Closed rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/299)
+- [Reviewed rustup patch](https://github.com/rust-lang-nursery/rustup.rs/pull/560)
+- [Reviewed rustup patch](https://github.com/rust-lang-nursery/rustup.rs/pull/562)
+- [Tagged an easy bug](https://github.com/rust-lang/rust/issues/34683)
+- Triaged mir2wasm
+- [Asked about cargo+std RFC](https://github.com/rust-lang/rfcs/pull/1133)
+- [Smoke-tested 1.10](https://internals.rust-lang.org/t/rust-1-10-prerelease-testing/3660/2?u=brson)
+- Moved error-chain to its own repo
+- [Reviewed some pr](https://github.com/rust-lang/rust/pull/34690)
+- [Created cross-compile agenda](https://public.etherpad-mozilla.org/p/rust-cross)
+- [Closed rustup error-chain migration issue](https://github.com/rust-lang-nursery/rustup.rs/issues/533#issuecomment-230887227)
+- [Removed error-chain from rustup tree](https://github.com/rust-lang-nursery/rustup.rs/pull/564)
+- [Announced movement of error-chain](https://users.rust-lang.org/t/announcing-error-chain-a-library-for-consistent-and-reliable-rust-error-handling/6133/17?u=brson)
+- [Posted crater report for some RFC](https://github.com/rust-lang/rfcs/pull/1216#issuecomment-230896117)
+- [Commented on error-chain](https://users.rust-lang.org/t/announcing-error-chain-a-library-for-consistent-and-reliable-rust-error-handling/6133/19?u=brson)
+- [Commented on Fedora disabling jemalloc](https://internals.rust-lang.org/t/disabling-jemalloc/3650/7?u=brson)
+- [Commented on cargo+std](https://github.com/rust-lang/rfcs/pull/1133#issuecomment-230942027)
+
+# 2016-07-05
+
+- Biked
+- Meditated
+- Exercised
+- Read news
+- Listened to Down - NOLA
+- Talked to manish about rustup signing
+- Triaged daily todos
+- Talked to Aaron about roadmaps
+- [Commented on switching to msvc abi](https://github.com/rust-lang/rust-www/issues/341)
+- [Filed issue about rustup msvc detection](https://github.com/rust-lang-nursery/rustup.rs/issues/561)
+- [Commented on #[preserve] RFC](https://github.com/rust-lang/rfcs/pull/1459#issuecomment-230556979)
+- [Commented on -C link-arg RFC](https://github.com/rust-lang/rfcs/pull/1509#issuecomment-230557336)
+- [Closed macOS PR](https://github.com/rust-lang/rust/pull/34555)
+- [Commented on rustup tab completions](https://github.com/rust-lang-nursery/rustup.rs/issues/278#issuecomment-230561828)
+- [Merged mir2wasm patch](https://github.com/brson/mir2wasm/pull/26)
+- [Commented adding compiler image to rust-forge](https://users.rust-lang.org/t/the-big-picture-of-compilation-in-rust/6380/11)
+- [Reviewed nightly fix](https://github.com/rust-lang/rust/pull/34663)
+- [Reviewed version bump](https://github.com/rust-lang/rust/pull/34664)
+- [Commented on yet another UTF-8 decoder](https://github.com/rust-lang/rust/pull/33907#issuecomment-230566791)
+- [Commented on string precision fix](https://github.com/rust-lang/rust/pull/34544)
+- [Commented on cargo aliases](https://github.com/rust-lang/cargo/pull/2679#issuecomment-223101815)
+- Lunch
+- Invited huon to dinner
+- [Started a crater run for !](https://github.com/rust-lang/rfcs/pull/1216#issuecomment-230589471)
+- [Encouraged badboy's llvm port](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/47?u=brson)
+- Responded to florian about rustfest
+- Emailed about experimental compiler features
+- Wrote ideas about roadmap
+- [Encouraged a contributor](https://github.com/rust-lang/rust/issues/34516#issuecomment-230626406)
+- Triaged rust-lang/rust E-easy
+- Triaged rust-lang/rust E-help-wanted
+- [Responded to rustup checksum thread](https://github.com/rust-lang-nursery/rustup.rs/issues/524#issuecomment-230627477)
+- Triaged rustup.rs help wanted
+- [Responded to rustup checksum thread](https://github.com/rust-lang-nursery/rustup.rs/issues/524#issuecomment-230633114)
+- [Reviewed cargo docs](https://github.com/rust-lang/cargo/pull/2815)
+- [Fixed cargo doc headers](https://github.com/rust-lang/cargo/pull/2829)
+- [Reviewed RUSTDOCFLAGS](https://github.com/rust-lang/cargo/pull/2794#issuecomment-230637818)
+- [Responded to rustup checksum thread](https://github.com/rust-lang-nursery/rustup.rs/issues/524#issuecomment-230638118)
+- [Filed taskcluster bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1284713)
+- [Commented on roadmaps](https://internals.rust-lang.org/t/refining-rfcs-part-1-roadmap/3656/5?u=brson)
+- [Commented on decisions](https://internals.rust-lang.org/t/refining-rfcs-part-3-async-decisions/3658/4?u=brson)
+
+# 2016-07-01
+
+- Biked
+- Meditated
+- Read news
+- Outlined books
+- Gave lqd some mir2wasm feedback
+- [Asked about rust ssh](https://www.reddit.com/r/rust/comments/4qrk1n/a_100_rust_ssh_library_doing_both_client_and/d4vl3mv)
+- [Updated relnotes](https://github.com/rust-lang/rust/pull/34591#issuecomment-229811180)
+- [Merged mir2wasm test runner fixes](https://github.com/brson/mir2wasm/pull/25)
+- [Hyped up hot issues dash](http://rusty-dash.com/hot-issues)
+- Started crater run
+- [Commented on code signing](https://github.com/rust-lang/rust/issues/27694#issuecomment-230012623)
+- [Reviewed cargo workspaces](https://github.com/rust-lang/cargo/pull/2759#issuecomment-227330223)
+- [Offered to crater some thing](https://github.com/rust-lang/rfcs/pull/1216#issuecomment-230015255)
+- [Commented on meaning of P-high](https://github.com/rust-lang/rust/issues/29859#issuecomment-230015776)
+- [Commented on cargo run not forking](https://github.com/rust-lang/cargo/pull/2818#issuecomment-230016934)
+- [Commented on strike teams](https://github.com/rust-lang/rfcs/pull/1643#issuecomment-230019129)
+- Responded to pings
+- Send two sticker shipments
+- [Commented on unicode upgrade](https://github.com/rust-lang/rust/pull/34599#issuecomment-230037822)
+- [Hearted a contributor](https://github.com/rust-lang/rust/issues/34600#issuecomment-230034687)
+- Triaged rust-lang/rust E-easy
+- Triaged rust-lang/rust E-help-wanted
+- [Closed rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/528)
+- Triaged rust-lang-nursery/rustup.rs help wanted
+- [Updated 1.10 relnotes](https://github.com/rust-lang/rust/pull/34591)
+- [Reviewed rustup fix](https://github.com/rust-lang-nursery/rustup.rs/pull/553)
+- [Added postmates to friends](https://github.com/rust-lang/rust-www/pull/426)
+- [Fixed website punctuation](https://github.com/rust-lang/rust-www/pull/427)
+- [Thanked a contributor](https://github.com/rust-lang/nano-config/pull/6#issuecomment-230049723)
+- [Posted changelog](https://users.rust-lang.org/t/rust-project-changelog-for-2016-07-01/6396)
+- [Reviewed backport](https://github.com/rust-lang/rust/pull/34604#issuecomment-230055731)
+- [Commented about searching for keywords](https://github.com/rust-lang/rust/issues/34601#issuecomment-230056492)
+- [Merged www fix](https://github.com/rust-lang/rust-www/pull/428)
+- [Encouraged a contributor](https://github.com/rust-lang/rust/issues/34596#issuecomment-230056878)
+- [Triage](https://github.com/rust-lang/rust/issues/34537)
+- [Triage](https://github.com/rust-lang/rust/issues/34535)
+- [Triage](https://github.com/rust-lang/rust/issues/34523)
+- [Updated rustup ppc pr](https://github.com/rust-lang-nursery/rustup.rs/pull/534)
+- [Triage](https://github.com/rust-lang/rust/issues/34400#issuecomment-230059689)
+- [Hearted an explanation](https://github.com/rust-lang-nursery/rustfmt/issues/1049#issuecomment-228641089)
+- [Triage](https://github.com/rust-lang-nursery/rustfmt/issues/1048#issuecomment-230060489)
+- [Triage](https://github.com/rust-lang/rust-by-example/issues/104#issuecomment-230060808)
+- [Posted twir updates](https://github.com/cmr/this-week-in-rust/pull/244)
+- [Posted regression report](https://internals.rust-lang.org/t/regression-report-stable-2016-05-24-vs-beta-2016-07-01/3644)
+- [Merged www pr](https://github.com/rust-lang/rust-www/pull/429)
+- [Triaged ninja support](https://github.com/rust-lang/rust/pull/34606)
+- [Clarified rustup windows support in README](https://github.com/rust-lang-nursery/rustup.rs/pull/558)
+- [Commented about rustup man pages](https://github.com/rust-lang/cargo/issues/2789#issuecomment-230075543)
+- [Filed issue to create HTML man pages](https://github.com/rust-lang/rust/issues/34607)
+- [Updated rustup powerpc support](https://github.com/rust-lang-nursery/rustup.rs/pull/534)
+- [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/557)
+- [Posted an rust job thread](https://www.reddit.com/r/rust/comments/4quzlc/rust_jobs_thread_july_2016/d4w5e7o)
+
+# 2016-06-30
+
+- [Thumbsed up blog post](https://github.com/rust-lang/blog.rust-lang.org/pull/105)
+- [Commented on buildbot passwords](https://github.com/rust-lang/rust/issues/20629#issuecomment-229722859)
+- [Commented on mir2wasm start fn](https://github.com/brson/mir2wasm/pull/23#issuecomment-229723208)
+- [Commented on beta fix](https://github.com/rust-lang/rust/pull/34573#issuecomment-229723968)
+- Responded to pings
+- Pressed people for beta backports
+- [Merged rustup help fix](https://github.com/rust-lang-nursery/rustup.rs/pull/552)
+- [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/549#issuecomment-229729138)
+- [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/546)
+- [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/542#issuecomment-229731453)
+- [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/488#issuecomment-229732466)
+- [Reviewed nightly fix](https://github.com/rust-lang/rust/pull/34578)
+- Worked on 1.10 release notes
+- [Commented on rustup.rs mitm](https://github.com/rust-lang-nursery/rustup.rs/issues/549#issuecomment-229748151)
+- Tested servo msis
+- [Filed issue to produce more android bins](https://github.com/rust-lang/rust/issues/34581)
+- [Commented on strike teams](https://github.com/rust-lang/rfcs/pull/1643#issuecomment-229770428)
+- [Closed dupe](https://github.com/rust-lang-nursery/rustup.rs/issues/270)
+- [Responded to cargo man pages](https://github.com/rust-lang/cargo/issues/2789#issuecomment-229772283)
+- Responded to pings
+- [Merged backport](https://github.com/rust-lang/rust/pull/34589)
+- [Posted release notes](https://github.com/rust-lang/rust/pull/34591)
+- [Replied to ubsan about some pedantry](https://github.com/rust-lang/rfcs/pull/1643#issuecomment-229812143)
+- [Praised game in Rust](https://www.reddit.com/r/rust/comments/4qnval/video_demonstration_of_an_fps_video_game_written/d4uvi7b)
+
+# 2016-06-29
+
+- Discussed new community team members
+- [Reviwed nightly fix](https://github.com/rust-lang/rust/pull/34553)
+- Did PR interview
+- [Commented on mir opt tests](https://internals.rust-lang.org/t/testing-mir-optimizations/3630/8?u=brson)
+- [Encouraged llvm upgrader](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/45?u=brson)
+- [Triage](https://github.com/rust-lang/rust/issues/34534)
+- [Filed E-easy request on dashboard](https://github.com/dikaiosune/rust-dashboard/issues/63)
+- [Commented on deny(feature) testing](https://github.com/rust-lang/rust/issues/22820#issuecomment-229450234)
+- Triaged rust-lang/rust E-easy
+- [Triaged unicode errors](https://github.com/rust-lang/rust/issues/24387)
+- [Triage](https://github.com/rust-lang/rust/issues/24263)
+- Triaged rust-lang/rust help wanted
+- [Commented on rustup man](https://github.com/rust-lang-nursery/rustup.rs/issues/490#issuecomment-229455358)
+- Triaged rust-lang-nursery/rustup.rs help wanted
+- [Reviewed build fixes](https://github.com/rust-lang/rust/pull/34563)
+- [Reviewed unsafe strike team RFC](https://github.com/rust-lang/rfcs/pull/1643#issuecomment-229493353)
+- [Reviewed rustfmt strike](https://github.com/rust-lang/rfcs/pull/1607)
+- [Asked for feedback on beta regression](https://github.com/rust-lang/rust/issues/34503)
+- [Asked for feedback on beta regression](https://github.com/rust-lang/rust/issues/33364#issuecomment-229496823)
+- [Asked for feedback on beta regression](https://github.com/rust-lang/rust/issues/33723#issuecomment-229497073)
+- Responded to someone looking for stickers
+- [Merged mir2wasm fixes](https://github.com/brson/mir2wasm/pull/24)
+- [Merged mir2wasm progress](https://github.com/brson/mir2wasm/pull/23)
+- [Reviewed doc PR](https://github.com/rust-lang/rust/pull/34555)
+- [Thumbsed up debuginfo evolution issue](https://github.com/rust-lang/rust/issues/34560)
+- [Reviewed backport](https://github.com/rust-lang/rust/pull/34561)
+- Responded to pings
+- [Reviwed android testing fixes for rustbuild](https://github.com/rust-lang/rust/pull/34567)
+- [Booked room for july meetup](https://github.com/rust-community/talks/issues/13#issuecomment-229268768)
+- Worked on build-tests crate for rustup upgrade testing
+
+# 2016-06-28
+
+- Wrote some edits to rust-www
+- [Feedback on discourse, want to ping github teams](https://users.rust-lang.org/t/feedback-on-discourse-u-rlo-and-i-rlo/6166/16)
+- [Hearted doc PR](https://github.com/rust-lang-nursery/uuid/pull/64)
+- Wrote q2 self evaluation
+- Updated rust-anthology readme
+- [Posted rust-www edits](https://github.com/rust-lang/rust-www/pull/423)
+- [Hoorayed eddyb's servo return_address PR](https://github.com/servo/servo/pull/11872)
+- [Commented on detecting unused suffixes in clippy](https://github.com/rust-lang/rust/issues/22501#issuecomment-229118651)
+- [Merged rust-packaging README fix](https://github.com/rust-lang/rust-packaging/pull/53)
+- [Closed rust-pacakging README bug](https://github.com/rust-lang/rust/issues/33356)
+- [Easy-triaged featureck improvement](https://github.com/rust-lang/rust/issues/22820#issuecomment-229122041)
+- [Commented on linker issue](https://github.com/rust-lang/rust/issues/20342#issuecomment-229122908)
+- Synced github and irlo team definitions with web page
+- [Commented on ARM jemalloc](https://github.com/rust-lang/rust/issues/34476#issuecomment-229131565)
+- [Commented on lib stabilizations](https://github.com/rust-lang/rust/pull/34530#issuecomment-229132964)
+- [Commented on UnsafeCell](https://github.com/rust-lang/rust/issues/34496#issuecomment-229133685)
+- Responded to pings
+- [Commented on another playground impl](https://www.reddit.com/r/rust/comments/4qacht/show_rrust_a_reimplementation_of_the_rust/)
+- [Commented on discourse moderator group](https://users.rust-lang.org/t/feedback-on-discourse-u-rlo-and-i-rlo/6166/22?u=brson)
+- [Triag](https://github.com/rust-lang/rust/issues/20962)
+- Triaged rust-lang/rust E-easy issues
+- Triaged rust-lang/rust E-help-wanted issues
+- [Merged beta backport](https://github.com/rust-lang/rust/pull/34533)
+- [Commented on checksum drift](https://github.com/rust-lang-nursery/rustup.rs/issues/524#issuecomment-229143496)
+- [Encouraged a contributor](https://github.com/rust-lang-nursery/rustup.rs/issues/490#issuecomment-229143734)
+- Triaged rust-lang-nursery/rustup.rs help wanted issues
+- [Reviewed rustup doc patch](https://github.com/rust-lang-nursery/rustup.rs/pull/545)
+- [Reviewed rustup patch](https://github.com/rust-lang-nursery/rustup.rs/pull/550)
+- [Closed rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/548)
+- [Reviewed rustup issue](https://github.com/rust-lang-nursery/rustup.rs/pull/552)
+- Triaged rustup PRs
+- [Merged msi packaging fixes](https://github.com/rust-lang/rust-packaging/pull/52#issuecomment-227294814)
+- Started finally working on rustup upgrade tests
+- [Merged binaryen upgrade](https://github.com/brson/binaryen/pull/1)
+- Worked on rust-anthology
+
 # 2016-06-27
 
 - [Reviewed doc PR](https://github.com/rust-lang/rust/pull/34467)
@@ -72,6 +2387,7 @@ layout: basic
 - [Triage](https://github.com/rust-lang/rust/issues/32777)
 - [Triage](https://github.com/rust-lang/rust/issues/34267)
 - [Commented on weekly thread](https://users.rust-lang.org/t/whats-everyone-working-on-this-week-26-2016/6343/4?u=brson)
+- [Reviewed fix for nightlies](https://github.com/rust-lang/rust/pull/34519)
 
 # 2016-06-26
 
