@@ -12,6 +12,7 @@ layout: basic
 - [Upgraded error-chain in rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/841)
 - [Published blog post on error-chain](http://brson.github.io/2016/11/30/starting-with-error-chain)
 - [Posted error-chain blog post to reddit](https://www.reddit.com/r/rust/comments/5ftgv5/starting_a_new_rust_project_right_with_errorchain/)
+- [Linked error-chain docs to my blog](https://github.com/brson/error-chain/pull/77)
 
 # 2016-11-29
 
