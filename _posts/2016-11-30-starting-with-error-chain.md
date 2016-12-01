@@ -7,7 +7,7 @@ tags: [rust]
 While I was preparing the [most recent release][r] of [error-chain], it dawned on
 me that not everyone knows the magic of error-chain. Error handling is
 front-and-center in Rust, and it's important for the health of a project, and
-the sanity of its maintainers that error handling is done right. Right from the
+the sanity of its maintainers, that error handling is done right. Right from the
 start.
 
 The first thing I do - really, the very first - when starting any project in
