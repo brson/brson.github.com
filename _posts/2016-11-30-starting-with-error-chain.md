@@ -164,8 +164,8 @@ it scales with the needs of your code.
 
 Do put your `error_chain!` invocation inside an `errors` module and import the
 entire contents with `use errors::*`. Glob imports aren't something you want to
-do a lot, but in this case the pattern is worth it: you really just want these
-four types to be at hand in every module of a crate.
+do a lot, but in this case the pattern is worth it: you really want these four
+types to be at hand in every module of a crate.
 
 I try not to rely too heavily on the automatic conversions from `foreign_links {
 }`. Foreign links are automatically converted to the local error type. They are
