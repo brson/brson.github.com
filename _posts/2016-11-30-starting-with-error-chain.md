@@ -4,9 +4,10 @@ title: "Starting a new Rust project right, with error-chain"
 tags: [rust]
 ---
 
-While I was preparing the [most recent release][r] of [error-chain], it dawned on
-me that not everyone knows the magic of error-chain. Error handling is
-front-and-center in Rust, and it's important for the health of a project, and
+While I was preparing the [most recent release][r] of [error-chain], it dawned
+on me that not everyone knows the magic of error-chain, the little Rust library
+for simple and correct error handling. Error handling is front-and-center in
+Rust, it's subtly complex, and it's important for the health of a project, and
 the sanity of its maintainers, that error handling is done right. Right from the
 start.
 
@@ -104,13 +105,13 @@ fn main() {
 ```
 
 This is typical of the main functions I write lately. The whole purpose is to
-immediately delegate to a function that participates in error handling, and then
-to handle those errors. This error handling routine demonstrates the three
-pieces of information that error-chain delivers from an error: the proximate
-error, here the `e` binding; the causal _chain_ of errors that led to that
-error; and the backtrace of the original error. Depending on your use case you
-may not bother with the backtraces, or you may add in a call to `catch_unwind`
-to deal with panicks.
+immediately delegate to a function that participates in error handling (returns
+our custom `Result` and `Error` types), and then to handle those errors. This
+error handling routine demonstrates the three pieces of information that
+error-chain delivers from an error: the proximate error, here the `e` binding;
+the causal _chain_ of errors that led to that error; and the backtrace of the
+original error. Depending on your use case you may not bother with the
+backtraces, or you may add in a call to `catch_unwind` to deal with panicks.
 
 If you run this example you'll see the following output:
 
@@ -120,8 +121,9 @@ caused by: The system cannot find the file specified. (os error 2)
 ```
 
 This demonstrates the raison d'être for error-chain: capturing and reporting the
-multiple errors that led to the program failing. The reason we see both the
-final error and its cause is because in our `run` function we _chained_ two errors together:
+chain of multiple errors that led to the program failing. The reason we see both
+the final error and its cause is because in our `run` function we _chained_ two
+errors together:
 
 ```rust
 fn run() -> Result<()> {
