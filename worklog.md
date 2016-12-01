@@ -11,6 +11,7 @@ layout: basic
 - [Released error-chain 0.7.1](https://users.rust-lang.org/t/announcing-error-chain-a-library-for-consistent-and-reliable-rust-error-handling/6133/30?u=brson)
 - [Upgraded error-chain in rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/841)
 - [Published blog post on error-chain](http://brson.github.io/2016/11/30/starting-with-error-chain)
+- [Posted error-chain blog post to reddit](https://www.reddit.com/r/rust/comments/5ftgv5/starting_a_new_rust_project_right_with_errorchain/)
 
 # 2016-11-29
 

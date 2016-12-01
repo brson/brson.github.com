@@ -167,7 +167,7 @@ I try to avoid using `foreign_links { }` blocks and consider them a code smell.
 They are easy to set up and make errors outside your control easy to
 interoperate with, but by taking the automatic conversion you lose the
 opportunity to add additional error semantics appropriate for your local
-application domain. That is, instead of return an error of "the system cannot
+application domain. That is, instead of returning an error of "the system cannot
 find the file specified", I want to return an error "failed to open contacts
 file" that is _caused by_ "the system cannot find the file specified". Every
 link in the error chain adds more-specific semantic information as it gets
@@ -175,7 +175,7 @@ closer to the root of the call stack.
 
 error-chain really shines once you start building up a constellation of crates
 all using the error-chain strategy, all linked together via the `error_chain!`
-`links { }` blocks. Linked error-chain errors are able to propogate backtraces
+`links { }` blocks. Linked error-chain errors are able to propagate backtraces
 and have a structural shape that is easy to deeply match, so that e.g.
 your error that originated in your `utils` crate, bubbled through your `net`
 crate, then up through your `app` crate is easy to pinpoint through pattern
