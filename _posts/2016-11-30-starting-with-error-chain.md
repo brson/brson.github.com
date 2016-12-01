@@ -24,7 +24,7 @@ application set up with error-chain. It's suitable for using as a template -
 just literally copy that fail to your main.rs and you will have an application
 set up for robust error handling.
 
-I'll reproduce it here in its entirity:
+I'll reproduce it here in its entirety:
 
 ```rust
 // Simple and robust error handling with error-chain!
