@@ -13,6 +13,8 @@ layout: basic
 - [Published blog post on error-chain](http://brson.github.io/2016/11/30/starting-with-error-chain)
 - [Posted error-chain blog post to reddit](https://www.reddit.com/r/rust/comments/5ftgv5/starting_a_new_rust_project_right_with_errorchain/)
 - [Linked error-chain docs to my blog](https://github.com/brson/error-chain/pull/77)
+- [Explained why error-chain](https://www.reddit.com/r/rust/comments/5ftgv5/starting_a_new_rust_project_right_with_errorchain/dan5g1o/)
+- [Posted triage reminder](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/37)
 
 # 2016-11-29
 

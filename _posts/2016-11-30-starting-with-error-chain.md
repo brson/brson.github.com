@@ -170,14 +170,12 @@ types to be at hand in every module of a crate.
 I try not to rely too heavily on the automatic conversions from `foreign_links {
 }`. Foreign links are automatically converted to the local error type. They are
 easy to set up and make errors outside your control easy to interoperate with,
-but by taking the automatic conversion you lose the opportunity to add
-additional error semantics appropriate for your local application domain. That
-is, instead of returning an error of "the system cannot find the file
-specified", I want to return an error "failed to open contacts file" that is
-_caused by_ "the system cannot find the file specified". Every link in the error
-chain adds more-specific semantic information as it gets closer to the root of
-the call stack. So instead of using `?` on a foreign error, use `chain_err` to
-give more context.
+but by taking the automatic conversion you lose the opportunity to return an
+error more relevant to your application. That is, instead of returning an error
+of "the system cannot find the file specified", I want to return an error
+"failed to open contacts file" that is _caused by_ "the system cannot find the
+file specified". Every link in the error clarifies what went wrong. So instead
+of using `?` on a foreign error, use `chain_err` to give more context.
 
 error-chain really shines once you start building up a constellation of crates
 all using the error-chain strategy, all linked together via the `error_chain!`
