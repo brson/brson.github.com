@@ -21,7 +21,7 @@ setting up error handling in Rust. If you follow these simple instructions right
 from the start you will have all your error scaffolding set up in a way that
 will scale as your project grows across many crates, no thinking required.
 
-The error-chain [quickstart.rs] file demonstrates a simple, but powerful
+The error-chain [quickstart.rs] file demonstrates a simple, but powerful,
 application set up with error-chain. It's suitable for using as a template -
 just literally copy that file to your main.rs and you will have an application
 set up for robust error handling.
