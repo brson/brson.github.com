@@ -2,6 +2,53 @@
 layout: basic
 ---
 
+# 2016-11-30
+
+- [Asked for feature gating](https://github.com/rust-lang/rust/pull/38061#issuecomment-263995874)
+- Attended tools triage
+- [Commented on t-shirt design](https://github.com/mozilla/activate.mozilla.community/issues/48#issuecomment-264028821)
+- [Added `bail!` to error-chain](https://github.com/brson/error-chain/pull/76)
+- [Released error-chain 0.7.1](https://users.rust-lang.org/t/announcing-error-chain-a-library-for-consistent-and-reliable-rust-error-handling/6133/30?u=brson)
+- [Upgraded error-chain in rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/841)
+
+# 2016-11-29
+
+- [Posted link to www rustup pr](https://github.com/rust-lang/rust-www/issues/605#issuecomment-263646891)
+- [Updated www rustup pr](https://github.com/rust-lang/rust-www/pull/621#issuecomment-263694422)
+- [Reviewed fuchsia pr](https://github.com/rust-lang/rust/pull/37936#issuecomment-263701282)
+- [Reviewed rustbuild-by-default pr](https://github.com/rust-lang/rust/pull/37817#issuecomment-263719006)
+- [Rebased patch to rename ~/.multirust to ~/.rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/830)
+- [Reviewed book update for rustup](https://github.com/rust-lang/rust/pull/37934#issuecomment-263731574)
+- [Reviewed redox std patch](https://github.com/rust-lang/rust/pull/37702#issuecomment-263770818)
+- Investigated error-chain problems
+- [Commented on error-chain problems](https://github.com/brson/error-chain/issues/68#issuecomment-263772297)
+- [Fixed error-chain regressions](https://github.com/brson/error-chain/pull/75)
+- Improved error-chain docs
+- [Submitted servo story to /r/rust](https://www.reddit.com/r/rust/comments/5fontv/webvr_coming_to_servo_architecture_and_latency/)
+- Fixed a typo on servo wiki
+
+# 2016-11-28
+
+- [Reviewed std redox patch](https://github.com/rust-lang/rust/pull/37702#issuecomment-263406045)
+- Updated perf bot software
+- [Commented on cargo TLS problem](https://github.com/rust-lang/cargo/issues/3340#issuecomment-263426478)
+- Chatted with jackpot51 about redox std
+- [Praised phone testing tool](https://www.reddit.com/r/rust/comments/5fc43p/dinghy_painless_rust_tests_and_benches_on_ios_and/dajsf6g/)
+- [Commented on cargo beta bug](https://github.com/rust-lang/rust/issues/37969#issuecomment-263440746)
+- Responded to email about Hackillinois
+- Responded to email about Debian + Firefox
+- [Responded to participation t-shirt thread](https://github.com/mozilla/activate.mozilla.community/issues/48#issuecomment-263452562)
+- Booked hawaii travel
+- [Praised rustfix](https://www.reddit.com/r/rust/comments/5f4sel/rustfix_automatically_apply_the_suggestions_made/dajyt6k/)
+- [Commented on cargo templates](https://github.com/rust-lang/cargo/pull/3004#issuecomment-263464431)
+- [Commented on cargo+docker](https://users.rust-lang.org/t/feedbackwanted-idea-cargo-wrapper-for-zero-setup-cross-compilation/8141/7)
+- Submitted Rust metrics
+
+# 2016-11-25
+
+- [Commented on Rust platform support](https://www.reddit.com/r/rust/comments/5esynw/rust_portability/daf5dzk/)
+- [Commented on nom](https://www.reddit.com/r/rust/comments/5espfm/this_year_in_nom_20_is_here/daf5nyc/)
+
 # 2016-11-22
 
 - [Filed bug about rustup + Invoke-WebRequest](https://github.com/rust-lang-nursery/rustup.rs/issues/829)
