@@ -145,7 +145,7 @@ applications the error chain can get quite detailed.
 That's how you get started with error-chain, but that's not everything it
 does. For more read the [docs].
 
-## error-chain best practices
+## Effective error-chaining
 
 Just a few quick notes about how I use error-chain.
 
