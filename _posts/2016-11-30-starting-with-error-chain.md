@@ -156,7 +156,7 @@ by the `error_chain!` macro.
 
 For applications, strings are often perfectly fine as the error type. When you
 are designing an API for public consumption though, that's when defining your
-error types (using the `error_chain!` `errors { }` block) becomes important.
+error kinds (using the `error_chain!` `errors { }` block) becomes important.
 Having typed error variants gives consumers of your library something to match
 on. error-chain gives you the option of doing the easy thing or the hard thing,
 it scales with the needs of your code.
