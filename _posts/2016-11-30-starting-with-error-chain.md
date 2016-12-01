@@ -171,7 +171,8 @@ application domain. That is, instead of returning an error of "the system cannot
 find the file specified", I want to return an error "failed to open contacts
 file" that is _caused by_ "the system cannot find the file specified". Every
 link in the error chain adds more-specific semantic information as it gets
-closer to the root of the call stack.
+closer to the root of the call stack. So instead of using `?` on a foreign
+error, use `chain_err` to give more context.
 
 error-chain really shines once you start building up a constellation of crates
 all using the error-chain strategy, all linked together via the `error_chain!`
