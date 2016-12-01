@@ -14,6 +14,7 @@ right. Right from the start.
 The first thing I do - really, the very first - when starting any project in
 Rust is deciding the error handling strategy. And with error-chain, I know up
 front exactly what I'm going to do, and that it's going to work reasonably well.
+That gives me peace of mind.
 
 So this post is to demonstrate what I consider the basic best practice for
 setting up error handling in Rust. If you follow these simple instructions right
