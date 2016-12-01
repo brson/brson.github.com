@@ -22,7 +22,7 @@ will scale as your project grows across many crates, no thinking required.
 
 The error-chain [quickstart.rs] file demonstrates a simple, but powerful
 application set up with error-chain. It's suitable for using as a template -
-just literally copy that fail to your main.rs and you will have an application
+just literally copy that file to your main.rs and you will have an application
 set up for robust error handling.
 
 I'll reproduce it here in its entirety:
