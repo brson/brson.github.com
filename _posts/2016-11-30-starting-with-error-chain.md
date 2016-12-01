@@ -166,8 +166,9 @@ entire contents with `use errors::*`. Glob imports aren't something you want to
 do a lot, but in this case the pattern is worth it: you really just want these
 four types to be at hand in every module of a crate.
 
-I try to avoid using `foreign_links { }` blocks and consider them a code smell.
-They are easy to set up and make errors outside your control easy to
+I try to not to rely too heavily on the automatic conversions from
+`foreigne_links { }`. Foreign links are automatically converted to the local
+error type. They are easy to set up and make errors outside your control easy to
 interoperate with, but by taking the automatic conversion you lose the
 opportunity to add additional error semantics appropriate for your local
 application domain. That is, instead of returning an error of "the system cannot
