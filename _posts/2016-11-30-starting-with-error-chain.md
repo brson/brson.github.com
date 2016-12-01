@@ -83,7 +83,7 @@ fn run() -> Result<()> {
 It's fairly self-explanatory, but I do want to point out a few things about it.
 First, that main function:
 
-```
+```rust
 fn main() {
     if let Err(ref e) = run() {
         println!("error: {}", e);
@@ -176,7 +176,7 @@ your error that originated in your `utils` crate, bubbled through your `net`
 crate, then up through your `app` crate is easy to pinpoint through pattern
 matching like so:
 
-```
+```rust
 // Imagine these are crates, not mods
 mod utils {
     error_chain! {
