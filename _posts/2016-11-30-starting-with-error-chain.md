@@ -158,6 +158,11 @@ Having typed error variants gives consumers of your library something to match
 on. error-chain gives you the option of doing the easy thing or the hard thing,
 it scales with the needs of your code.
 
+Do put your `error_chain!` invocation inside an `errors` module and import the
+entire contents with `use errors::*`. Glob imports aren't something you want to
+do a lot, but in this case the pattern is worth it: you really just want these
+four types to be at hand in every module of a crate.
+
 I try to avoid using `foreign_links { }` blocks and consider them a code smell.
 They are easy to set up and make errors outside your control easy to
 interoperate with, but by taking the automatic conversion you lose the
