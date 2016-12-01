@@ -6,19 +6,19 @@ tags: [rust]
 
 While I was preparing the [most recent release][r] of [error-chain], it dawned
 on me that not everyone knows the magic of error-chain, the little Rust library
-for simple and correct error handling. Error handling is front-and-center in
-Rust, it's subtly complex, and it's important for the health of a project, and
-the sanity of its maintainers, that error handling is done right. Right from the
-start.
+that makes it easy to handle errors correctly. Error handling is
+front-and-center in Rust, it's subtly complex, and it's important for the health
+of a project, and the sanity of its maintainers, that error handling is done
+right. Right from the start.
 
 The first thing I do - really, the very first - when starting any project in
 Rust is deciding the error handling strategy. And with error-chain, I know up
 front exactly what I'm going to do, and that it's going to work reasonably well.
 
-So this post is to demonstrate what I consider the best practice for error
-handling in Rust. If you follow these simple instructions right from the start
-you will have all your error scaffolding set up in a way that will scale as your
-project grows across many crates, no thinking required.
+So this post is to demonstrate what I consider the basic best practice for
+setting up error handling in Rust. If you follow these simple instructions right
+from the start you will have all your error scaffolding set up in a way that
+will scale as your project grows across many crates, no thinking required.
 
 The error-chain [quickstart.rs] file demonstrates a simple, but powerful
 application set up with error-chain. It's suitable for using as a template -
