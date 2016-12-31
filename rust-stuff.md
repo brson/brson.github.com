@@ -30,7 +30,8 @@ I've been [doing Rust](http://www.rust-lang.org/team.html) for
   support](https://github.com/rust-lang/rust/commit/09982784c6ad1c78f9480c3c2c0c3a2b2bf7f969)
   along with
   [compiletest](https://github.com/rust-lang/rust/commit/2573fe7026eb696841acbba8f3d1c09e2224acf0),
-  the rustc test driver, and the first parallel Rust program.
+  the rustc test driver. Compiletest was the the first "real" parallel Rust program
+  and barely worked.
 
 * Wrote a lot of documentation.
 
