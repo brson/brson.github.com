@@ -1,5 +1,6 @@
 ---
 layout: basic
+title: brson's work log
 ---
 
 # 2017-01-24
