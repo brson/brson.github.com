@@ -3,6 +3,1444 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-03-16
+
+- 9:15 AM
+- Started 1.16 release
+- 9:26 AM
+- Hearted a nagisa comment
+- 9:26 AM
+- [Filed rustup update bug](https://github.com/rust-lang-nursery/rustup.rs/issues/989)
+- 9:55 AM
+- [Filed rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/990)
+- 9:57 AM
+- [Filed rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/991)
+- 10:03 AM
+- [Checked a windows fcp](https://github.com/rust-lang/rust/issues/37499#issuecomment-277089437)
+- 10:08 AM
+- [Updated milestone predictions for windows subsystems](https://internals.rust-lang.org/t/rust-release-milestone-predictions/4591)
+- 10:10 AM
+- Released Rust 1.16
+- 10:37 AM
+- Attended Rust standup
+- 1:00 PM
+- Sent email to candidate
+- 1:57 PM
+- Triaged todos
+- 1:57 PM
+- 0/0:0/50
+- [Commented on tier 1 FreeBSD](https://news.ycombinator.com/item?id=13889359)
+- 2:46 PM
+- [Commented on release schedule](https://news.ycombinator.com/item?id=13889426)
+- 2:46 PM
+- Triaged rustup issues
+- 5:01 PM
+- Assembled notes on travis failures
+- 5:01 PM
+- [Commented on next steps for pwrabs](https://github.com/brson/pwrabs/issues/1#issuecomment-287238562)
+- 6:10 PM
+- [Commented on buildbot](https://news.ycombinator.com/item?id=13890491)
+- 6:20 PM
+- Responded to gsoc applicant via irc
+- 6:28 PM
+- 0/20:0/10
+- [Reviewed rustup pr](https://github.com/rust-lang-nursery/rustup.rs/pull/972)
+- 6:43 PM
+- [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/806#issuecomment-287243797)
+- 6:44 PM
+- [Reviewed rustup pr](https://github.com/rust-lang-nursery/rustup.rs/pull/958#issuecomment-287244902)
+- 6:52 PM
+- [Closed rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/974)
+- 7:00 PM
+- [Closed rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/973)
+- 7:02 PM
+- [Commented on rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/961#issuecomment-287246583)
+- 7:05 PM
+- [Closed rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/956)
+- 7:09 PM
+- [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/955#issuecomment-287247337)
+- 7:10 PM
+- [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/953#issuecomment-287248953)
+- 7:22 PM
+- [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/945)
+- 7:28 PM
+- [Closed rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/942#issuecomment-287250137)
+- 7:31 PM
+- [Triaged rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/940)
+- 7:32 PM
+- [Commented on rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/932#issuecomment-287250911)
+- 7:37 PM
+- [Commented on rustup issue](https://github.com/rust-lang-nursery/rustup.rs/issues/926#issuecomment-287251575)
+- 7:44 PM
+- [Triaged issue](https://github.com/rust-lang-nursery/rustup.rs/issues/925#issuecomment-287251993)
+- 7:46
+- [Posted rustup bugs for twir](https://users.rust-lang.org/t/twir-call-for-participation/4821/29)
+- 7:48 PM
+- [Reviewed rustup pr](https://github.com/rust-lang-nursery/rustup.rs/pull/986#issuecomment-287253304)
+- 7:54 PM
+- Sent email to outreachy candidate
+- 8:05 PM
+
+# 2017-03-15
+
+- Conducted gsoc interview
+- 11:20 AM
+- [Filed easy rustup bug](https://github.com/rust-lang-nursery/rustup.rs/issues/987)
+- 11:20 AM
+- [Posted easy bug to twir](https://users.rust-lang.org/t/twir-call-for-participation/4821/28)
+- 11:23 AM
+- [Posted solicitation for react-accelerator](https://users.rust-lang.org/t/rust-wasm-project-idea-accelerate-react/9944)
+- 11:32 AM
+- Responded to Martin about wasm
+- 11:41 AM
+- [Posted emscripten llvm upgrade info](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/142)
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/40548)
+- 12:57 PM
+- Attended core team mtg
+- 2:00 PM
+- [Testing 1.16 release](https://internals.rust-lang.org/t/rust-1-16-0-prerelease-testing/4953/5)
+- 2:57 PM
+- 0/30:0/0
+- Triaged todo list
+- 0/10:0/10
+- 3:05 PM
+- [Updated release process](https://github.com/rust-lang-nursery/rust-forge/commit/78a1bd122ac504ff3bfb07f158b90c0cf2f44b2b#diff-12257e3523e2ce22fccd80687597e7cd)
+- 3:09 PM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/40541)
+- 3:15 PM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/40524)
+- 3:16 PM
+- [Updated www for release](https://github.com/rust-lang/rust-www/pull/761)
+- 3:24 PM
+- 0/0:0/0
+- [Reviewed www example pr](https://github.com/rust-lang/rust-www/pull/756)
+- 3:32 PM
+- [Reviewed www example pr](https://github.com/rust-lang/rust-www/pull/740#issuecomment-286901878)
+- 3:38 PM
+- [Reviewed www pr](https://github.com/rust-lang/rust-www/pull/709#issuecomment-286904632)
+- 3:52 PM
+- [Posted emscripten pwrabs idea](https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154/143)
+- 4:51 PM
+- [Created bitflags libs tracking issue](https://github.com/rust-lang-nursery/bitflags/issues/80)
+- 5:52 PM
+- 20/0:0/0
+
+# 2017-03-14
+
+- Triaged todo list
+- 10:50 AM
+- 10/10:0/0
+- Generated nightly cargobomb report
+- 10:50 AM
+- 0/0:0/0
+- Sent chocolate to aturon
+- 11:05 AM
+- 30/10:20/0
+- [Posted cargobomb nightly report](https://internals.rust-lang.org/t/cargobomb-report-stable-v-nightly-2017-03-14/4957)
+- 0/0:0/0
+- [Posted tempdir/remove_dir_all call for participation](https://users.rust-lang.org/t/twir-call-for-participation/4821/27)
+- 11:21 AM
+- [Alerted nasa42 to a job posting](https://users.rust-lang.org/t/jobs-in-rust-development/3628/4)
+- 11:23 AM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/40507)
+- 12:27 PM
+- [Made docs required again](https://github.com/rust-lang/rust/pull/40526)
+- 12:34 PM
+- [Commented on incorrect home_dir definition](https://github.com/rust-lang/rust/issues/28940)
+- 1:20 PM
+- [Triaged](https://github.com/rust-lang/rust/pull/40526)
+- 3:03 PM
+- Added libs team mtg video to libz blitz page
+- 3:05 PM
+- [Merged style guidelines reformatting](https://github.com/brson/rust-api-guidelines/pull/1)
+- 3:08 PM
+- Sent japaric email re embedded
+- 6:59 PM
+- 20/20:30/20
+- Booked flight to china
+- 0/30:0/60
+
+# 2017-03-13
+
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/40488)
+- 12:51 PM
+- [Thanked rillian for testing 1.16 beta w/ firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=1337955)
+- 1:33 PM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/40484)
+- 3:58 PM
+- Responded to outreachy applicant
+- 6:16 PM
+
+# 2017-03-12
+
+- [Filed bug about incorrect beta version](https://github.com/rust-lang/rust/issues/40464)
+- 7:57 PM
+- Started new beta cargobomb run prep
+- 8:01 PM
+
+# 2017-03-10
+
+- Conducted outreachy interview
+- 10:07 AM
+- [Thanked jseyfried for backport](https://github.com/rust-lang/rust/pull/40411#issuecomment-285741513)
+- 10:07 AM
+- [Tried to get beta to test properly](https://github.com/rust-lang/rust/pull/40401#issuecomment-285744651)
+- 10:20 AM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/40424)
+- 10:28 AM
+- [Commented on build system bug](https://www.reddit.com/r/rust/comments/5ymf5j/rust_make_install_doesnt_install_targets_rustlibs/derknvq/)
+- 11:27 AM
+- [Merged beta backports](https://github.com/rust-lang/rust/pull/40401)
+- 2:17 PM
+- Started beta build
+- Started stable build
+- 2:24 PM
+- [Followed up on discourse report](https://meta.discourse.org/t/report-of-another-users-credentials-preventing-login-to-users-rust-lang-org/58793/4)
+- 3:03 PM
+- Sent email about storing Rust secrets
+- 3:25 PM
+- Triaged todo list
+- 3:40 PM
+- 0/0:0/30
+- Responded to hackfest email
+- 3:58 PM
+- Sent bio to qcon organizer
+- 4:22 PM
+- 0/30:0/10
+- Responded to email about mac isolation
+- 0/0:0/10
+- [Closed old bitflags pr](https://github.com/rust-lang-nursery/bitflags/pull/17)
+- 6:29 PM
+- [Followed up on old tempdir pr](https://github.com/rust-lang-nursery/tempdir/pull/17#issuecomment-285835625)
+- 6:39 PM
+- Responded to outreachy applicant
+- 20/30:20/0
+- 7:03 PM
+- Sent a letter to a gsoc applicant
+- 0/30:0/30
+- 7:11 PM
+- Sent a letter to gsoc applicant
+- 10/10:0/10
+- Sent a letter to gsoc applicant
+- 10/10:0/10
+- 7:37 PM
+
+# 2017-03-09
+
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/40382)
+- 8:00 AM
+- [Conducted release triage](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/48)
+- 9:58 AM
+- Triaged todos
+- 0/0:0/10
+- 11:04 AM
+- Updated cookbook invite with libz blitz pad
+- 0/0:0/0
+- 11:06 PM
+- [Copied bitflags eval to etherpad](https://public.etherpad-mozilla.org/p/rust-crate-eval-bitflags)
+- 0/0:0/0
+- 11:27 AM
+- Thanked BurntSushi for helping with libz blitz
+- 11:31 PM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/39770)
+- 12:33 PM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/40347)
+- 12:26 PM
+- Attended standup meeting
+- Triaged emails
+- 1:12 PM
+- 10/30:0/10
+- Started nightly cargobomb run
+- 1:13 PM
+- 0/0:0/0
+- Sent email to outreachy candidate
+- 1:21 PM
+- [Made beta backports](https://github.com/rust-lang/rust/pull/40401)
+- 1:44 PM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/40379)
+- 1:53 PM
+- Prepared for cookbook mtg
+- 2:08 PM
+- 0/20:10/0
+- Updated discourse cc
+- 2:11 PM
+- Conducted cookbook mtg
+- 3:53 PM
+- [Filed cookbook polish issue](https://github.com/brson/rust-cookbook/issues/23)
+- 3:53 PM
+- [Filed cookbook brainstorm issue](https://github.com/brson/rust-cookbook/issues/24)
+- 4:00 PM
+- Responded to nrc re style team
+- 5:07 PM
+- 0/40:0/40
+- Responded to contact from hackillinois
+- 5:24 PM
+- 20/10:20/10
+- Responded to swag request
+- 5:34 PM
+- 0/0:0/10
+- [Filed discourse bug report for a user](https://meta.discourse.org/t/report-of-another-users-credentials-preventing-login-to-users-rust-lang-org/58793)
+- 5:45 PM
+- 0/0:?/?
+- Sent starter bugs to contributor
+- 6:48 PM
+- 0/10:10/20
+- Responded to applicant
+- 7:14 PM
+- Triaged student emails
+- 0/40:0/50
+- 7:18 PM
+
+# 2017-03-08
+
+- Interviewed research intern candidate
+- 11:03 PM
+- [Reviewed pr](https://github.com/rust-lang/rust/pull/40360)
+- 1:20 PM
+- [Responded to a pr](https://github.com/rust-lang/rust/pull/39325#issuecomment-285220631)
+- 4:59 PM
+- [Gave KiChjang kudos](https://users.rust-lang.org/t/twir-friends-of-the-forest/7295/21)
+- 5:23 PM
+- 20/10:30/20
+- Triaged todo list
+- 5:24 PM
+- 0/10:0/10
+- Sent t-shirts to students
+- 5:48 PM
+- 0/10:0/0
+- Invited students to cookbook mtg
+- 6:05 PM
+- [Read semver proposal](https://internals.rust-lang.org/t/semver-compatibility-tool-gsoc-proposal-draft-and-discussion/4926)
+- 7:17 PM
+- 10/20:30/20
+- [Commented on semver proposal](https://internals.rust-lang.org/t/semver-compatibility-tool-gsoc-proposal-draft-and-discussion/4926/17)
+- 7:17 PM
+- 0/50:30/10
+- [Filed beta regression](https://github.com/rust-lang/rust/issues/40381)
+- 7:30 PM
+- [Updated blocker bug pr](https://github.com/rust-lang/rust/pull/39518#issuecomment-285282296)
+- 12:09 PM
+
+# 2017-03-07
+
+- 7:00 AM
+- Interviewed *soc candidates
+- 9:15 AM
+- Chatted with acrichto about blockers
+- Investigated crater fail
+- 10:42 AM
+- [Reviewed patch](https://github.com/rust-lang/rust/pull/40297#pullrequestreview-25608268)
+- 11:32 AM
+- Chatted with Dan about wasm
+- Conducted libs mtg
+- [Reviewed a rustbuild fix](https://github.com/rust-lang/rust/pull/40337)
+- 3:32 PM
+- [Tested unhardlinking files to fix release blocker](https://github.com/rust-lang/rust/pull/40339)
+- 4:28 PM
+- [Added new book to release milestones](https://internals.rust-lang.org/t/rust-release-milestone-predictions/4591)
+- 5:16 PM
+- Responded to graydon re rust-lang.org registration
+- 5:23 PM
+- Responded to Andrew about a crate review
+- Responded to an intern candidate
+- [Reviewed stable sort rfc](https://github.com/rust-lang/rfcs/pull/1884#issuecomment-284929869)
+- 6:46 PM
+- Rejected some intern candidates
+- 0:60:10/30
+- Responded to intern candidates
+- 7:32 PM
+- Responded to community teaching thread
+- 7:44 PM
+
+# 2017-03-06
+
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/40297)
+- Scheduled rust cookbook mtg
+- 0/0:0/0
+- 5:50 PM
+- [Announced skeptic 0.7.1](https://users.rust-lang.org/t/rust-skeptic-test-your-rust-markdown-documentation-via-cargo/2163/5)
+- 5:55 PM
+- Sent nrc email about leaving the style team
+- 5:58 PM
+- [Closed bitflags issue](https://github.com/rust-lang-nursery/bitflags/issues/44)
+- 6:00 PM
+- [Finished bitflags evaluation](https://public.etherpad-mozilla.org/p/rust-crate-eval-bitflags)
+- 6:43 PM
+- 20/40:30/0
+- Asked burntsushi if he could do tempdir eval
+- 6:49 PM
+- 0/0:0/10
+- [Commented on beta bumping](https://github.com/rust-lang/rust/pull/40256#issuecomment-284608535)
+- 7:11 PM
+
+# 2017-03-05
+
+- Responded to a gsoc applicant
+- Sent hackillinois receipts
+- 7:07 PM
+- Responded to email thread about survey data
+- 7:12 PM
+- Responded to a gsoc applicant
+- 7:17 PM
+- Responded to outreachy applicant
+- 7:55 PM
+
+# 2017-03-04
+
+- [Updated libz blitz process](https://public.etherpad-mozilla.org/p/rust-libz-blitz)
+- 12:42 PM
+- [Pushed new api guidelines to repo](https://github.com/brson/rust-api-guidelines)
+- 1:02 PM
+- [Submitted fixes for byteorder](https://github.com/BurntSushi/byteorder/pull/78)
+- 1:09 PM
+
+# 2017-03-03
+
+- [Praised yamakaky](https://internals.rust-lang.org/t/rust-release-milestone-predictions/4591)
+- 10:41 AM
+- Attended mtgs about a/v stuff
+- [Commented on libc 1.0](https://github.com/rust-lang/libc/issues/547#issuecomment-284053676)
+- 11:54 AM
+- Talked to japaric about embedded Rust
+- 2:15 PM
+- [Filed regression](https://github.com/rust-lang/rust/issues/40250)
+- 5:27 PM
+- Triaged a beta cargobomb report
+- 5:29 PM
+- [Attempted to fix rustbuild cargo problem](https://github.com/rust-lang/rust/pull/39518#issuecomment-284118261)
+- 6:05 PM
+- Sent video links out to guests
+- 6:11 PM
+- 0/0:0/0
+- Scheduled libs mtg recording
+- 0/20:0/0
+- 6:18 PM
+- Responded to a student email
+- 6:57 PM
+- Started beta cargobomb run
+- 0/0:0/0
+- [Filed byteorder issues](https://github.com/BurntSushi/byteorder/issues/76)
+- 7:52 PM
+- 0/0:0/20
+- Hacked on some byteorder remediations
+- 8:53 PM
+
+# 2017-03-02
+
+- Talked to Jan-Erik about wasm project
+- Emailed quasar author about wasm projects
+- 10/0:0/10
+- Forwarded Alex's Hackillinois receipts to Radhir
+- 11:04
+- Sent my Hackillinois expenses to Radhir
+- 11:09
+- Organized info about *soc candidates
+- 0/20:0/0
+- 11:50 AM
+- Sent updates about *soc progress
+- 11:50 AM
+- Filled out culture survey
+- 12:12 PM
+- Attended standup
+- 1:00 PM
+- Sent japaric mtg invite
+- 1:37 PM
+- 10/0:0/30
+- Added personal contact links to mozilla gsoc wiki
+- 1:48 PM
+- Scheduled interviews with gsoc candidates
+- 0/40:0/30
+- 5:22 PM
+- [Commented on modifying toml files](https://github.com/rust-lang/cargo/issues/3732#issuecomment-283853847)
+- 7:17 PM
+- [Updated milestone predictions](https://internals.rust-lang.org/t/rust-release-milestone-predictions/4591/16)
+- 8:26 PM
+
+# 2017-03-01
+
+- 9:34 AM
+- Triaged todos
+- 10/20:0/10
+- 9:44 AM
+- [Commented about tokio](https://www.reddit.com/r/rust/comments/5wt2vq/this_week_in_rust_171/dedl9ka/)
+- 10:18 AM
+- [Closed old issue](https://github.com/rust-lang/rust/issues/32826)
+- Added unstable tags to issues
+- 10:40 AM
+- [Closed beta regression](https://github.com/rust-lang/rust/issues/40083)
+- 11:03 AM
+- [Filed nightly regression](https://github.com/rust-lang/rust/issues/40183)
+- 11:08 AM
+- [Filed nightly regression](https://github.com/rust-lang/rust/issues/40185)
+- 11:20 AM
+- Attended core team mtg
+- [Commented on proprietary testing](https://internals.rust-lang.org/t/brsons-someday-list/3948/35)
+- 2:17 PM
+- [Filed nightly regression](https://github.com/rust-lang/rust/issues/40192)
+- 2:44 PM
+- [Filed nightly regression](https://github.com/rust-lang/rust/issues/40193)
+- 3:02 PM
+- [Filed beta regression](https://github.com/rust-lang/rust/issues/40195)
+- 3:24 PM
+- [Reviewed doc fix](https://github.com/rust-lang/rust/pull/40199)
+- 3:49 PM
+- Ordered pizza for meetup
+- Sent thank you message to Radhir at Hackillinois
+- 20/0:20/0
+- 4:34 PM
+- [Triaged](https://github.com/rust-lang/rust/issues/39808)
+- 5:03 PM
+- [Commented on thanks changes for 1.16](https://github.com/rust-lang/rust/issues/39731#issuecomment-283523757)
+- 5:08 PM
+- Triaged beta cargobomb run
+- [Posted 1.16 release status](https://internals.rust-lang.org/t/rust-1-16-release-status/4802/6)
+- 5:20 PM
+- [Posted update to xdg thread](https://github.com/rust-lang/rfcs/pull/1615#issuecomment-283543238)
+- 0/70:0/10
+- 7:09 PM
+- Responded to Simon about tooling
+- 7:48 PM
+
+# 2017-02-28
+
+- [Reviewed a pr](https://github.com/rust-lang/cargo/pull/3699)
+- 10:48 AM
+- [Updated someday list](https://internals.rust-lang.org/t/brsons-someday-list/3948/32)
+- Triaged todo list
+- 11:37 AM
+- 10/30:20/10
+- [Merged forge page](https://github.com/rust-lang-nursery/rust-forge/pull/39)
+- 3:05 PM
+- [Merged platform update](https://github.com/rust-lang-nursery/rust-forge/pull/38)
+- 3:05 PM
+- Triaged emails
+- 3:25 PM
+- 20/40:0/10
+- [Filed bug to track beta cargo regression](https://github.com/rust-lang/rust/issues/40162)
+- 3:28 PM
+- Thanked igouy for benchmarks game
+- 3:44 PM
+- 20/0:10/10
+- Pinged aturon about rust-lang.org renewal reimbursement
+- 3:47 PM
+- 0/0:0/0
+- [Merged forge pr](https://github.com/rust-lang-nursery/rust-forge/pull/40)
+- 4:27
+- Sent Lucy a Hackillinois report
+- 30/10:30/0
+- 4:27 PM
+- [Thanked a contributor](https://internals.rust-lang.org/t/rfc-mentoring-opportunity-permit-in-main/4600/97)
+- 5:55 PM
+- Responded to outreachy email
+- 6:28 PM
+- 30/30:0/20
+- Sent email to gsoc applicant
+- 7:03 PM
+- Sent email to gsoc applicant
+- 7:04 PM
+- Dealt with wasm threads
+- 10/40:10/40
+- Sent email to Mike Hoye about gsoc process
+- 7:11 PM
+- Sent email to researcher working on wasm
+
+# 2017-02-27
+
+- Hacked on program to compare servo vs firefox crash rates
+- 12:48 PM
+
+# 2017-02-26
+
+- [Commented on cargobomb](https://internals.rust-lang.org/t/cargobomb-report-stable-v-nightly-2017-02-17/4829/14)
+- [Commented on cargobomb](https://internals.rust-lang.org/t/run-crater-cargobomb-on-github-projects-not-published-on-crates-io/4843/3)
+- 1:45 AM
+- [Wikified rust swag thread](https://users.rust-lang.org/t/all-the-rust-swag/7036/31)
+- 2:18 AM
+- Sent email to student to get t-shirt sizes
+- 12:45 PM
+- [Praised a student](https://www.reddit.com/r/rust/comments/5wayou/announcing_hyproxy_01_a_rust_reverse_proxy_using/de965za/)
+- 3:44 PM
+- Drafted Rust performance blog
+- 8:53 PM
+- [Posted what I'm doing this week](https://www.reddit.com/r/rust/comments/5weiwg/whats_everyone_working_on_this_week_92017/de9kshm/)
+- 9:37 PM
+- [Commented about Rust malloc](https://www.reddit.com/r/rust/comments/5weidf/no_stable_mallocfree_in_rust_stdlib/de9kzfv/)
+- 9:44 PM
+
+# 2017-02-25
+
+- [Filed fs2 advisory locking bug](https://github.com/danburkert/fs2-rs/issues/15)
+- 12:48 AM
+- [Commented on build integration](https://github.com/rust-lang/rust-roadmap/issues/12#issuecomment-282500898)
+- 10:06 AM
+- Mentored Hackillinois
+
+# 2017-02-24
+
+- Responded to two emails about rust on wasm
+- 12:46 PM
+- [Encouraged a contributor](https://github.com/rust-lang/rust/issues/38865#issuecomment-282405937)
+- 3:13 PM
+- [Triaged](https://github.com/rust-lang/rust/issues/37811#issuecomment-282406148)
+- 1:14 PM
+- [Closed a bug](https://github.com/rust-lang/rust/issues/36110#issuecomment-282406677)
+- 1:16 PM
+- [Triaged](https://github.com/rust-lang/rust/issues/22766)
+- 1:27 PM
+- Mentored Hackillinois
+
+# 2017-02-23
+
+- Hacked on rust-cookbook
+- 12:31 PM
+- Hacked on rustup rls support
+- 12:31 PM
+- Hacked on rustup rls support
+- 5:50 PM
+
+# 2017-02-22
+
+- 8:45 AM
+- [Posted cargobomb beta report](https://internals.rust-lang.org/t/cargobomb-report-stable-v-beta-2017-02-21/4836)
+- 10/10:0/10
+- 9:46 AM
+- [Commented on pr](https://github.com/rust-lang/rust/pull/39835#issuecomment-281746603)
+- 9:49 AM
+- [Reviewed build system pr](https://github.com/rust-lang/rust/pull/39917#issuecomment-281747946)
+- 9:54 AM
+- 20/10:10/0
+- [Thanked people for triaging](https://internals.rust-lang.org/t/cargobomb-report-stable-v-nightly-2017-02-17/4829/5)
+- 10:09 AM
+- Triaged todo list
+- 10:10 AM
+- [Praised rillian's work on rust](https://www.reddit.com/r/rust/comments/5vg5x1/deploying_rust_in_a_large_codebase/de2q4c7/)
+- 10:25 AM
+- [Reviewed cargo serde pr](https://github.com/rust-lang/cargo/pull/3682)
+- 10:35 AM
+- Conducted intern interview
+- 11:50 AM
+- Submitted Outreachy proposals
+- 12:03 PM
+- Triaged some emails
+- 12:55 PM
+- Attended core team mtg
+- Attended tools team mtg
+- [Commented on some bug](https://github.com/rust-lang/rust/issues/33147#issuecomment-281824722)
+- [Posted comments about simple crates to write](https://internals.rust-lang.org/t/brsons-someday-list/3948/32)
+- 4:38 PM
+- Helped jntrnr / nrc with sysroot paths
+- 4:55 PM
+- Thanked a wpr rep
+- 5:06 PM
+- Triaged emails
+- 5:28 PM
+- [Backported PRs](https://github.com/rust-lang/rust/pull/40046)
+- 7:03 PM
+- Sent woboats email about mentorship
+- 7:17 PM
+- Responded to email about rust teaching meetup
+- 7:30 PM
+- Filled out hackillinois form
+- 8:06 PM
+
+# 2017-02-21
+
+- 9:00 AM
+- Attended d&i meeting
+- 10:00 AM
+- Discussed cross-compile sow
+- 11:00 AM
+- Attended intern debrief
+- 11:30 AM
+- Interviewed intern candidate
+- 12:15 PM
+- Attended libs meeting
+- 2:00 PM
+- Discussed signing with manish
+- 2:30 PM
+- [Reviewed pr](https://github.com/rust-lang/rust/pull/40019)
+- [Posted cargobomb run](https://internals.rust-lang.org/t/cargobomb-report-stable-v-nightly-2017-02-17/4829)
+- 3:58 PM
+- Thanked dtolnay for attending mtg
+- 9:57 AM
+
+# 2017-02-20
+
+- [Merged skeptic pr](https://github.com/brson/rust-skeptic/pull/14)
+- 11:14 AM
+- [Merged skeptic pr](https://github.com/brson/rust-skeptic/pull/15)
+- 11:14 AM
+- Drafted rust-cookbook
+- 11:38 AM
+
+# 2017-02-19
+
+- Worked on byteorder review for libz blitz
+- 2:02 PM
+- [Praised gnome builder rustup integration](https://www.reddit.com/r/rust/comments/5uxz1a/rustup_support_coming_to_gnome_builder/)
+- 2:02 PM
+- Updated quotes and press
+- [Posted kudos for frewsxcv](https://users.rust-lang.org/t/twir-friends-of-the-forest/7295/18)
+- 8:30 PM
+- Scheduled libz blitz
+- Sent dtolnay invite to libs meeting
+- Sent email about libz blitz schedule
+- 9:25 PM
+
+# 2017-02-18
+
+- Evaluated byteorder crate
+- Hacked on rustup rls support
+- 7:44 PM
+- Updated milestone predictions
+- 8:55 PM
+
+# 2017-02-17
+
+- Replied to libz blitz guests
+- Started cargobomb run
+- 10:01 AM
+- [Commented on stack probes](https://github.com/rust-lang/rust/issues/16012#issuecomment-280726406)
+- 10:19 AM
+- Drafted hackillinois plan
+- [Thanked alex for triaging beta bugs](https://internals.rust-lang.org/t/rust-1-16-release-status/4802)
+- 11:46 AM
+- Started cargobomb run
+- 0/0:0/0
+- 11:49 AM
+- Forwarded libz blitz email to bluss
+- 12:03 PM
+- Responded to liz about wasm
+- 12:12 PM
+- Drafted hackillinois plan
+- 40/10:40/10
+- 2:10 PM
+- Send hackillinois contact updates
+- 2:13 PM
+- Uploaded new cargobomb nightly report
+- 2:31 PM
+- 0/10:0/0
+- Scheduled cross-compile sow mtg
+- 2:50 PM
+- [Commented on 1.16 relnotes](https://internals.rust-lang.org/t/rust-1-16-release-status/4802/5)
+- 3:35 PM
+- Responded to some forum posts
+- [Commented on rustup homebrew breakage](https://github.com/Linuxbrew/homebrew-core/pull/1762#issuecomment-280802130)
+- 4:19 PM
+- [Reviewed a rustup pr](https://github.com/rust-lang-nursery/rustup.rs/pull/948#issuecomment-280803355)
+- 4:29 PM
+
+# 2017-02-16
+
+- Attended Rust standup
+- 1:06 PM
+- [Updated milestone predictions](https://internals.rust-lang.org/t/rust-release-milestone-predictions/4591)
+- 1:06 PM
+- [Commented on rust participation metrics](https://github.com/mozilla/activate.mozilla.community/issues/134#issuecomment-280462505)
+- 1:14 PM
+- Responded to rep on community list
+- 1:20 PM
+- Sent reps manager feedback on Vigneshwar
+- 2:24 PM
+- Triaged emails
+- 0:30:0/70
+- 2:24 PM
+- Shipped stickers to organizer
+- 2:41 PM
+- [Posted kudos to stephenbuys](https://users.rust-lang.org/t/twir-friends-of-the-forest/7295/17)
+- 5:10 PM
+- Booked room for Rust events
+- 5:42
+- 0/40:0/10
+- Followed up on rust-lang.org renewal
+- 5:51 PM
+- 0/20:0/10
+- [Filed issue to remove COMPILER_TESTS.md](https://github.com/rust-lang/rust/issues/39896)
+- 5:56 PM
+- [Filed issue to rewrite COPYRIGHT](https://github.com/rust-lang/rust/issues/39897)
+- 5:59 PM
+- [Triaged](https://github.com/rust-lang/rust/issues/39889)
+- 6:01 PM
+- [Posted 1.16 release status](https://internals.rust-lang.org/t/rust-1-16-release-status/4802)
+- 6:38 PM
+- Sent email to libz blitz guests
+
+# 2017-02-15
+
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/39851)
+- 9:12 AM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/39852)
+- 9:45 PM
+- Unbanned a user
+- 11:00 AM
+- Triaged todo
+- 11:30 AM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/39843#issuecomment-280114472)
+- 11:34 AM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/39837)
+- 11:35 AM
+- [Updated relnotes](https://github.com/rust-lang/rust/pull/39835)
+- 12:01 PM
+- [Updated milestone predictions](https://internals.rust-lang.org/t/rust-release-milestone-predictions/4591/8)
+- 12:03 PM
+- [Commented on Rc::into_raw](https://github.com/rust-lang/rust/issues/37197)
+- 2:28 PM
+- [Updated -fPIC pr](https://github.com/rust-lang/rust/pull/39803#issuecomment-280169965)
+- 3:04 PM
+- 20/10:5/0
+- Triaged irlo posts
+- 20/20:10/20
+- 5:39 PM
+- Filled tools team poll
+- 5:54 PM
+- [Posted about new nightlies](https://internals.rust-lang.org/t/new-nightlies-coming-soon-help-out-and-test/4789/6)
+- 5:57 PM
+- Responded to email about swag
+- 6:15 PM
+- Responded to email about inda reps
+- 6:33 PM
+- Triaged email
+- 10/20:20/10
+- [Commented on lib deduplication](https://github.com/rust-lang/rust/issues/39875#issuecomment-280222400)
+- 7:41 PM
+- Sent email about outreachy
+- 7:43 PM
+- Sent email to Julia about rgsoc
+- 30/0:10/10
+- 7:52 PM
+
+# 2017-02-14
+
+- [Filed ICE](https://github.com/rust-lang/rust/issues/39823)
+- 11:27 AM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/39824)
+- 11:40 AM
+- Conducted intern interview
+- 1:54 PM
+- [Fineshed cargobomb triage](https://internals.rust-lang.org/t/cargobomb-report-stable-v-nightly-2017-02-03/4792/5)
+- 3:08 PM
+- [Pinged people affected by regression](https://github.com/rust-lang/rust/issues/39806#issuecomment-279866637)
+- 3:12 PM
+- [Triaged](https://github.com/rust-lang/rust/issues/39796#issuecomment-279867542)
+- 3:16 PM
+- [Added SPARC to platform-support.md](https://github.com/rust-lang-nursery/rust-forge/pull/36)
+- 5:29 PM
+- [Nominated an fcp](https://github.com/rust-lang/rust/issues/39041)
+- 6:06 PM
+- [Wrote 1.16 relnotes](https://github.com/rust-lang/rust/pull/39835)
+- 6:54 PM
+- [Reopened a bug to wait for backport](https://github.com/rust-lang/rust/issues/35897#issuecomment-279903914)
+- [Updated milestone predictions](https://internals.rust-lang.org/t/rust-release-milestone-predictions/4591)
+- 7:08 PM
+
+# 2017-02-13
+
+- Triaged todos
+- 11:27 AM
+- Started nightly cargobomb run
+- 11:28 AM
+- Reordered cancelled sticker order
+- 11:38 AM
+- 0/10:0/0
+- [Reviewed servo-specific builders](https://github.com/rust-lang/rust/pull/39754#issuecomment-279514870)
+- 12:39 PM
+- [Reviewed backports](https://github.com/rust-lang/rust/pull/39750)
+- 12:46 PM
+- Replied to sparc email
+- 12:53 PM
+- [Praised an RFC](https://github.com/rust-lang/rfcs/pull/1845#issuecomment-279551769)
+- 3:02 PM
+- Responded
+- Sent email about SUSE support
+- 3:32 PM
+- Booked tickets to gnome hackfest
+- 4:12 PM
+- Triaged email
+- 20/40:20/10
+- Reviewed Alon's proposal
+- 5:49 PM
+- 20/20:10/20
+- Sent email about ndk support
+- 6:23 PM
+- [Posted about rgsoc](https://www.reddit.com/r/rust/comments/5txfyo/rust_at_rails_girls_summer_of_code/)
+- 6:29 PM
+- [Triaged](https://github.com/rust-lang/rust/issues/39802)
+- Debugged cargobomb problems
+- Restarted cargobomb nightly run
+- [Posted -fPIC test](https://github.com/rust-lang/rust/pull/39803)
+- 8:24 PM
+- [Filed beta regression](https://github.com/rust-lang/rust/issues/39806)
+- [Filed beta regression](https://github.com/rust-lang/rust/issues/39806)
+- 8:53 PM
+- Triaged half a cargobomb report
+- 9:06 PM
+
+# 2017-02-11
+
+- [Thanked a poster](https://www.reddit.com/r/rust/comments/5tc78t/rustcratesindexgraph_utility_to_generate_a_dot/ddmngj5/)
+- Wrote about the rust test suite
+
+# 2017-02-10
+
+- [Updated on homebrew source overwrite](https://github.com/Homebrew/homebrew-core/pull/9582#issuecomment-279080766)
+- 2:13 PM
+- [Posted 1.15.1 postmortem](https://internals.rust-lang.org/t/rust-1-15-1-release-postmortem/4766)
+- 3:39 PM
+- [Filed tagging issue](https://github.com/rust-lang/rust/issues/39731)
+- 4:26 PM
+- [Created release milestone](https://internals.rust-lang.org/t/new-release-milestones/4767)
+- 4:33 PM
+- 30/0:20/0
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/39676)
+- 5:38 PM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/39660)
+- 5:39 PM
+- [Commented on split stacks](https://internals.rust-lang.org/t/pre-rfc-split-stack-codegen-option/4768/4)
+- 6:19 PM
+- [Thanked packagers](https://internals.rust-lang.org/t/seeking-contact-info-for-rust-packagers/4764/6)
+- 6:42 PM
+- Responded to email about Rust on Solaris
+- 7:03 PM
+- [Reviewed backports](https://github.com/rust-lang/rust/pull/39734)
+- 7:05 PM
+- Swapped cargobomb disks
+- Started cargobomb nightly run
+- [Thanked](https://www.reddit.com/r/rust/comments/5tbozx/the_integer32_playground_now_supports_serde/ddlocsf/)
+- 7:43 PM
+- [Thanked dylanmckay for avr port](https://www.reddit.com/r/rust/comments/5tbedq/safer_microcontrollers_almost_here_rust_on_avr/ddlot26/)
+- 7:54 PM
+
+# 2017-02-09
+
+- Conducted triage
+- 9:23 AM
+- [Posted triage minutes](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/47)
+- 9:26 AM
+- Triaged release steps
+- 9:36 AM
+- Uploaded 1.15.1 to archives
+- Tested 1.15.1 -fPIC fix
+- Fixed 1.15.1 tag
+- 10:13 AM
+- Updated www release date for 1.15.1
+- 10:31 AM
+- Updated blog for 1.15.1
+- 10:56 AM
+- Sent email about tagging issue
+- 12:35 PM
+- [Posted about packaging contacts](https://internals.rust-lang.org/t/seeking-contact-info-for-rust-packagers/4764)
+- 12:45 PM
+- [Thanked cuviper](https://internals.rust-lang.org/t/seeking-contact-info-for-rust-packagers/4764/2)
+- 3:34 PM
+- [Reviewed patch](https://github.com/rust-lang/rust/pull/39518)
+- 3:52 PM
+- Helped pcwalton test pathfinder
+- 4:19 PM
+- [Updated master relnotes](https://github.com/rust-lang/rust/pull/39710)
+- 4:30 PM
+- [Updated beta bootstrap compiler](https://github.com/rust-lang/rust/pull/39711)
+- 4:33 PM
+- Emailed graydon re rust-lang.org renewal
+- 4:43 PM
+- Investigated github tag verification
+- 5:05 PM
+- Worked on 1.15.1 postmortem
+- [Praised raph's fancy-regex](https://www.reddit.com/r/rust/comments/5t48yo/fancyregex/ddkgp7l/)
+- 1:20 AM
+
+# 2017-02-08
+
+- Didn't sleep. Office early
+- 7:00 AM
+- Emailed henri about debian
+- 11:13 AM
+- Emailed suse packagers
+- 11:40 AM
+- 10/0:0/10
+- Attended core team mtg
+- Attended tools mtg
+- Talked to acrichto about new 1.15.1 build
+- Commented on mdbook license
+- 3:36 PM
+- [Posted about triage](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/46)
+- 3:43 PM
+- [Reviewed beta fix](https://github.com/rust-lang/rust/pull/39667)
+- 5:01 PM
+- [Reviewed a patch](https://github.com/rust-lang/rust/pull/39671)
+- 5:23 PM
+- [Commented on rustbuild](https://www.reddit.com/r/rust/comments/5stcgf/the_makefiles_are_dead_long_live_rustbuild/ddikjjs/)
+- 7:00 PM
+- [Reviewed mdbook patch](https://github.com/rust-lang/rust/pull/39633#issuecomment-278543737)
+- 8:33 PM
+
+# 2017-02-07
+
+- [Complimented lifthrasiir on chrono](https://users.rust-lang.org/t/chrono-0-3-released-and-the-future/9340/2)
+- 10:14 AM
+- Sent email to Lucy about Mozilla swag
+- 10:42 AM
+- Conducted intern interview
+- 11:26 AM
+- Asked potch about mozilla swag
+- [Reviewed build system fix](https://github.com/rust-lang/rust/pull/39622)
+- 11:47 AM
+- [Bumped stable release date on master](https://github.com/rust-lang/rust/pull/39624)
+- [Bumped stable release date on stable](https://github.com/rust-lang/rust/pull/39623)
+- 11:52 AM
+- [Closed rust-buildbot issue](https://github.com/rust-lang/rust-buildbot/issues/154)
+- 11:53 AM
+- Started beta cargobomb run
+- 0/0:0/0
+- Talked to acrichto and steve about bookshelf
+- Talked to acrichto about tools team
+- Talked to somebody about wpr process
+- 2:28 PM
+- Talked to acrichto about dev team and release infra
+- 3:37 PM
+- [Asked for update on pal pr](https://github.com/rust-lang/rust/pull/39325#issuecomment-278181392)
+- 3:41 PM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/39630)
+- 3:59 PM
+- Responded to ubuntu email
+- 4:43 PM
+- Send email about libz blitz to doc team
+- 4:50 PM
+- [Reviewed cargo pr](https://github.com/rust-lang/cargo/pull/3583)
+- 5:03 PM
+- [Commented on sparc support](https://internals.rust-lang.org/t/adding-sparc64-linux-gnu-as-an-additional-target-architecture/4749/2)
+- 6:11 PM
+- [Encouraged ehiggs' cargo templates](https://internals.rust-lang.org/t/brsons-someday-list/3948/30)
+- 6:21 PM
+- [Responded to ci](https://internals.rust-lang.org/t/rust-ci-release-infrastructure-changes/4489/14)
+- 6:26 PM
+- [Filed --version precision bug](https://github.com/rust-lang/rust/issues/39635)
+- 6:36 PM
+- [Updated www for 1.15.1](https://github.com/rust-lang/rust-www/pull/722)
+- 6:40 PM
+- [Updated blog for 1.15.1](https://github.com/rust-lang/blog.rust-lang.org/pull/148)
+- 7:45 PM
+
+# 2017-02-06
+
+- Restarted stable build
+- 10:51 AM
+- [Reviewed 128 bit atomics revert](https://github.com/rust-lang/rust/pull/39591)
+- 10:51 AM
+- [Reviewed qemu patch](https://github.com/rust-lang/rust/pull/39400#issuecomment-277778308)
+- 11:00 AM
+- [Reviewed some pr](https://github.com/rust-lang/rust/pull/38764#issuecomment-277798942)
+- 12:12 PM
+- [Reviewed a patch](https://github.com/rust-lang/rust/pull/39599)
+- 1:35 PM
+- Hacked on api guidelines
+- 1:50 PM
+- Attended libs mtg
+- Attended style mtg
+- [Reviewed pr](https://github.com/rust-lang/rust/pull/39578#issuecomment-277847696)
+- 3:25 PM
+- Sent emails to sandstorm folks
+- 3:51 PM
+- Ordered Rust t-shirts
+- 5:52 PM
+- [Created bors.svg](https://users.rust-lang.org/t/all-the-rust-swag/7036/30)
+- 7:08 PM
+- Ordered Rust stickers
+- 7:12 PM
+- 30:20:40/0
+
+# 2017-02-05
+
+- Pulled together info for libz blitz
+- 7:26 PM
+
+# 2017-02-04
+
+- Wrote some XDG thoughts
+- 2:39 PM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/39546)
+- 6:54 PM
+- [Posted kudos for xen0n](https://users.rust-lang.org/t/twir-friends-of-the-forest/7295/16)
+- 20/0:20/10
+- 7:14 PM
+
+# 2017-02-03
+
+- Attended intern debrief
+- [Commented on linux support](https://bugzilla.mozilla.org/show_bug.cgi?id=1284816#c38)
+- Sent email to Ubuntu Firefox packager
+- 2:19 PM
+- Sent email updated about Ubuntu packaging status
+- [Thanked mw for incremental writeup](https://internals.rust-lang.org/t/incremental-compilation-beta/4721/4)
+- 3:06 PM
+- [cc fitzgen re libbacktrace](https://github.com/rust-lang/rust/issues/39468#issuecomment-277390301)
+- 3:24 PM
+- [Merged buildbot fix](https://github.com/rust-lang/rust-buildbot/pull/153)
+- 4:41 PM
+- [Backported fix to beta](https://github.com/rust-lang/rust/pull/39515)
+- 5:04 PM
+- [Submitted readme update for 1.15.1](https://github.com/rust-lang/rust/pull/39517)
+- 5:13 PM
+- Thanked cuviper for his xdg opinion
+- Sent xdg email to tools team
+- 7:55 PM
+
+# 2017-02-02
+
+- [Commented on C-ABI](https://internals.rust-lang.org/t/cross-language-safer-abi-based-on-rust/4691/6)
+- 9:19 AM
+- Started releasing 1.15
+- 9:21 AM
+- Finished releasing 1.15
+- 10:20:20/10
+- 10:34 AM
+- Tagged release
+- 10:51 AM
+- [Triaged](https://github.com/rust-lang/rust/issues/39465)
+- 11:21 AM
+- [Investigated soundness bug](https://github.com/rust-lang/rust/issues/39465)
+- 11:36 AM
+- [Filed issue about www fonts](https://github.com/rust-lang/rust-www/issues/713)
+- 11:41 AM
+- Made list of weekly accomplishments for standup
+- 10/0:0/0
+- Attended standup meeting
+- 1:00 PM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/39463#issuecomment-277089545)
+- 1:28 PM
+- Deployed rust-buildbot fixes for cuviper
+- [Reviewed makefile removal pr](https://github.com/rust-lang/rust/pull/39431#issuecomment-277094676)
+- 1:47 PM
+- [Updated stdx](https://users.rust-lang.org/t/stdx-the-missing-batteries-of-rust/2015/58)
+- 1:52 PM
+- 20/0:10/0
+- Conducted intern interview
+- 4:22 PM
+- Sent email update on Firefox packaging
+- Sent email to RHEL Firefox packager
+- 8:05 PM
+- [Nominated Yamakaky for FOTF](https://users.rust-lang.org/t/twir-friends-of-the-forest/7295/12)
+- 10/0:30/10
+- 8:18 PM
+- [Commented on point release](https://github.com/rust-lang/rust/pull/39466#issuecomment-277164381)
+- 8:52 PM
+- Sent email to sylvestre about Debian packaging
+- 9:07 PM
+- Responded to an email
+
+# 2017-02-01
+
+- [Improved install browser detection](https://github.com/rust-lang/rust-www/pull/711)
+- [Improved install browser detection](https://github.com/rust-lang-nursery/rustup.rs/pull/936)
+- 11:35 AM
+- Investigated journals related to validation
+- Started nightly cargobomb run
+- 12:09 PM
+- 0/0:0/0
+- [Reviewed redox patch](https://github.com/rust-lang/rust/pull/39418)
+- 1:09 PM
+- Attended core team mtg
+- [Commented on nightlies](https://internals.rust-lang.org/t/rust-1-15-prerelease-testing/4708/10)
+- 2:46 PM
+- Tagged 1.15 w/o signing
+- 0/0:0/0
+- 2:48 PM
+- [Updated release process for tagging](https://github.com/rust-lang-nursery/rust-forge/pull/34)
+- 2:50 PM
+- 0/0:0/0
+- [Reviewed 1.15 relnotes](https://github.com/rust-lang/blog.rust-lang.org/pull/145)
+- 5:07 PM
+- 10/0:?/?
+- [Updated www for 1.15](https://github.com/rust-lang/rust-www/pull/712)
+- 5:38 PM
+- 0/0:?/?
+- Sent email to cuviper about XDG
+- 6:11 PM
+- 20/0:?/?
+- [Commented on xdg rfc](https://github.com/rust-lang/rfcs/pull/1615#issuecomment-276846712)
+- 6:14 PM
+- 0/10:?/?
+- [Merged rustup www update](https://github.com/rust-lang-nursery/rustup.rs/pull/936)
+- [Merged www update](https://github.com/rust-lang/rust-www/pull/711)
+- 6:16 PM
+- Emailed Larissa about Outreachy
+- 7:02 PM
+- 10/0:10/0
+- Sent email to doc team about the libz blitz
+- 7:43 PM
+- 20/20:30/0
+- [Filed issue about missing x.py](https://github.com/rust-lang/rust/issues/39476)
+- Thankd jistone for helping suse packager
+- Sent email about linux outreach
+- 6:00 PM
+- [Triaged](https://github.com/rust-lang/rust/issues/33147#issuecomment-277146871)
+- 6:21 PM
+- Sent email about internals blog
+- 6:49 PM
+
+# 2017-01-31
+
+- Conducted intern interview
+- 10:52 AM
+- [Commented on graydon at apple](https://news.ycombinator.com/item?id=13534029)
+- 11:06 AM
+- [Commented on llvm upgrade](https://users.rust-lang.org/t/is-36646-fixed/8981/5)
+- 11:29 AM
+- [Coordinated llvm upgrade](https://github.com/rust-lang/rust/issues/37609#issuecomment-276467894)
+- 11:37 AM
+- [Published 1.15 RC](https://internals.rust-lang.org/t/rust-1-15-prerelease-testing/4708)
+- 1:14 PM
+- [Updated beta bootstrap](https://github.com/rust-lang/rust/pull/39429)
+- 1:16 PM
+- [Updated master bootstrap](https://github.com/rust-lang/rust/pull/39430)
+- [Updated release process](https://github.com/rust-lang-nursery/rust-forge/pull/33)
+- 1:23 PM
+- Started a beta
+- 1:29 PM
+- [Fixed cargo bug](https://github.com/rust-lang/cargo/pull/3625)
+- 1:51 PM
+- [Merged forge changes](https://github.com/rust-lang-nursery/rust-forge/pull/29)
+- 1:58 PM
+- [Merged forge pages](https://github.com/rust-lang-nursery/rust-forge/pull/30)
+- 2:00 PM
+- Completed release steps
+- 0/0:0/10
+- [Reviewed makefile removal](https://github.com/rust-lang/rust/pull/39431#issuecomment-276533795)
+- 4:05 PM
+- 20/0:10/10
+- [Reviewed some pr](https://github.com/rust-lang/rust/pull/39397#issuecomment-276536196)
+- 4:18 PM
+- Started beta
+- 4:48 PM
+- [Merged a friend](https://github.com/rust-lang/rust-www/pull/710)
+- 4:51 PM
+- [Triaged a www issue](https://github.com/rust-lang/rust-www/issues/686#issuecomment-276541964)
+- 4:53 PM
+- [Responded to stdx suggestion](https://github.com/brson/stdx/issues/21)
+- 5:00 PM
+- [Commented on stdx issue](https://github.com/brson/stdx/issues/20#issuecomment-276543612)
+- 5:03 PM
+- [Commented on wasm issue](https://github.com/rust-lang/rust/issues/39406#issuecomment-276546034)
+- 5:18 PM
+- [Reviewed a rustdoc patch](https://github.com/rust-lang/rust/issues/39406#issuecomment-276546034)
+- 5:19 PM
+- [Followed up on 1.15 testing](https://internals.rust-lang.org/t/rust-1-15-prerelease-testing/4708/8)
+- 5:22 PM
+- [Commented on core bloat](https://github.com/rust-lang/rust/pull/39422#issuecomment-276547829)
+- 5:31 PM
+- Sent emails about xdg rfc
+- 6:23 PM
+- [Triaged](https://github.com/rust-lang/rust/issues/39171#issuecomment-273895945)
+- 6:23 PM
+- Triaged pings
+- 6:51 PM
+- 0/40:?/?
+- Sent yet another email about xdg rfc
+- 9:07 PM
+- Sent more emails about some crap
+- 10:12 PM
+- Go to bed
+
+# 2017-01-30
+
+- Restarted stable build
+- 11:17 AM
+- [Commented on syntax index discoverability](https://www.reddit.com/r/rust/comments/5qveb5/syntax_index_list_of_keywords_operators_symbols/dd3yuze/)
+- 11:22 AM
+- [Updated inter opportunities](https://users.rust-lang.org/t/yet-more-opportunities-for-rust-internships-and-grants/9023)
+- 11:24 AM
+- [Reviewed a pr](https://github.com/rust-lang/rust-buildbot/pull/150)
+- 1:05 PM
+- Triaged todo
+- 1:11 PM
+- Triaged email
+- 1:18 PM
+- Attended libs mtg
+- [Reviewed pr](https://github.com/rust-lang/rust/pull/39415)
+- 3:26 PM
+- Wrote a *soc proposal
+- 5:36 PM
+- Responded to gnome hackfest email
+- 5:36 PM
+- Submitted RGSoC proposals
+- 6:49 PM
+
+# 2017-01-29
+
+- [Hacked on worklog scanner](https://github.com/brson/worklog-scan)
+
+# 2017-01-27
+
+- [Updated quotes-and-press for new lwn articles](https://public.etherpad-mozilla.org/p/rust-quotes-and-press)
+- 10:14 AM
+- [Posted og_fmt](https://users.rust-lang.org/t/announcing-og-fmt-will-the-real-format-please-stand-up/9155)
+- 10:23 AM
+- Talked with acrichto about release process
+- [Posted heart logo](https://users.rust-lang.org/t/all-the-rust-swag/7036/28)
+- 11:27 AM
+- Started 1.15 build
+- [Updated release process](https://github.com/rust-lang-nursery/rust-forge/pull/31)
+- 12:03 PM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/39346)
+- 12:41 PM
+- [Reviewed api stablization](https://github.com/rust-lang/rust/pull/39307)
+- 12:45 PM
+- [Reviewed doc pr](https://github.com/rust-lang/rust/pull/39314)
+- 12:47 PM
+- [Updated release milestones](https://internals.rust-lang.org/t/rust-release-milestone-predictions/4591)
+- 12:53 PM
+- [Praised llogiq's stdx-dev](https://users.rust-lang.org/t/stdx-dev-the-missing-development-batteries-of-rust/9156/2)
+- 1:27 PM
+- [Commented on stdx serde issue](https://github.com/brson/stdx/issues/17#issuecomment-275781799)
+- 1:40 PM
+- [Opened stdx candidates issue](https://github.com/brson/stdx/issues/19)
+- 1:41 PM
+- [Reviewed rust-central-station](https://github.com/alexcrichton/rust-central-station/blob/master/promote-release/src/main.rs)
+- 2:18 PM
+- [Commented on fastcomp upgrade](https://github.com/rust-lang/rust/issues/38805#issuecomment-275792029)
+- 2:30 PM
+- [Thanked kripken and dylanmckay for porting fastcomp](https://github.com/kripken/emscripten-fastcomp/pull/165#issuecomment-275793349)
+- 2:34 PM
+- [Asked a question about wasm simd bustage](https://github.com/WebAssembly/binaryen/issues/855#issuecomment-275795276)
+- 2:44 PM
+- [Closed wasm issue](https://github.com/rust-lang/rust/issues/37555#issuecomment-275796114)
+- 2:48 PM
+- [Triaged wasm issue](https://github.com/rust-lang/rust/issues/38558#issuecomment-275796494)
+- 2:50 PM
+- [Triaged wasm issue](https://github.com/rust-lang/rust/issues/38801#issuecomment-275797163)
+- 2:54 PM
+- [Triaged wasm issue](https://github.com/rust-lang/rust/issues/39171#issuecomment-275797843)
+- 3:00 PM
+- [Finished wasm triage](https://github.com/rust-lang/rust/issues/38805#issuecomment-275799537)
+- 3:09 PM
+- [Triaged](https://github.com/rust-lang/rust/issues/39352#issuecomment-275800022)
+- 3:13 PM
+- Investigated buildbot missing slaves
+- 3:33 PM
+- [Thanked matklad for cargo fixes](https://github.com/rust-lang/cargo/pull/3562#issuecomment-275804552)
+- 3:44 PM
+- [Reviewed a cargo pr](https://github.com/rust-lang/cargo/pull/3604#issuecomment-275804948)
+- 3:47 PM
+- [Triaged](https://github.com/rust-lang/cargo/pull/3606#event-939674657)
+- 3:49 PM
+- [Commented on i128 cfgs](https://github.com/rust-lang/rust/issues/35118#issuecomment-275806576)
+- 4:01 PM
+- Triaged pings
+- 4:04 PM
+- Triaged email
+- 4:30 PM
+- [Commented on rust rtos](https://www.reddit.com/r/rust/comments/5qjct0/would_an_rtos_for_embedded_systems_be_practical/dd01pax/)
+- 4:43 PM
+
+# 2017-01-26
+
+- 8:30 AM
+- [Conducted triage](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/45)
+- 10:00 AM
+- [Commented on bench stabilization](https://internals.rust-lang.org/t/pre-rfc-stabilize-bench-bencher-and-black-box/4565/28)
+- 11:20 AM
+- Investigated a crater problem
+- 1:11 PM
+- Registered rustup.rs with easydns
+- Expensed rustup.rs registration
+- 0/20:0/0
+- 1:35 PM
+- [Reviewed niko's blog post](http://smallcultfollowing.com/babysteps/blog/2017/01/26/lowering-rust-traits-to-logic/#conclusion-and-future-vision)
+- [Submitted niko's blog post to /r/rust](http://smallcultfollowing.com/babysteps/blog/2017/01/26/lowering-rust-traits-to-logic/#conclusion-and-future-vision)
+- 1:50 PM
+- [Rebased removal of bogus lifetime errors](https://github.com/rust-lang/rust/pull/37057#issuecomment-275527329)
+- 1:59 PM
+- 10:10:0/0
+- Purged ping inbox
+- 2:09 PM
+- [Reviewed pal refactor](https://github.com/rust-lang/rust/pull/39325#issuecomment-275531259)
+- 2:16 PM
+- Helped a newbie
+- 2:38 PM
+- Triaged todo list
+- [Answered a question about cfg](https://www.reddit.com/r/rust/comments/5qcirw/am_i_doing_this_conditional_compiling_correctly/dcycd1m/)
+- 2:59 PM
+- [Praised cargo-outdated](https://www.reddit.com/r/rust/comments/5qdco4/how_do_you_know_major_upgrades_of_dependencies/dcycw63/)
+- 3:04 PM
+- [Commented on python lldb bug](https://github.com/rust-lang/rust/issues/39274#issuecomment-275543517)
+- 3:12 PM
+- [Investigated prelude resolution bug](https://github.com/rust-lang/rust/issues/39279#issuecomment-275545608)
+- 3:25 PM
+- [Finished testing diagnostics patch](https://github.com/rust-lang/rust/pull/37057#issuecomment-275546192)
+- 3:26 PM
+- 0/0:0/0
+- [Merged rustup patch](https://github.com/rust-lang-nursery/rustup.rs/pull/917)
+- 3:34 PM
+- Responded to bking email
+- 3:42 PM
+- [Passed around links to participation team changes](https://discourse.mozilla-community.org/t/changes-in-community-support-in-2017/13206)
+- 3:49 PM
+- [Reviewed cargo openssl fix](https://github.com/rust-lang/cargo/pull/3601)
+- 4:09 PM
+- [Reviewed cargo openssl backport](https://github.com/rust-lang/cargo/pull/3602)
+- [Upgraded rustup openssl](https://github.com/rust-lang-nursery/rustup.rs/pull/934)
+- 4:12 PM
+- [Reviewed pal patch](https://github.com/rust-lang/rust/pull/39325#issuecomment-275556976)
+- 4:29 PM
+- [Commented on some i128 patch](https://github.com/rust-lang/rust/pull/39324#issuecomment-275557435)
+- 4:31 PM
+- [Commented on fixed issue](https://github.com/rust-lang/rust/issues/27433#issuecomment-275557569)
+- Investigated openssl security advisory
+- 5:15 PM
+- 0/20:10/0
+- Triaged email
+- 10/10:20/0
+- Booked flights and hotels for hackillinois
+- 6:50 PM
+- 0/10:0/50
+- Confirmed hackillinois attendence
+- 0/10:0/10
+- [Publish og_fmt](https://github.com/brson/og_fmt)
+- 11:25 PM
+
+# 2017-01-25
+
+- [Added InfoWorld award to quotes and press](http://www.infoworld.com/article/3160526/application-development/infoworlds-2017-technology-of-the-year-award-winners.html#slide12)
+- 9:01 AM
+- [Praised a contributor for the prelude crate](https://users.rust-lang.org/t/the-prelude-crate/9108/4)
+- 9:38 AM
+- Called Hackillinois organizer
+- [Commented on rustw dylib issue](https://github.com/nrc/rustw/issues/121#issuecomment-275204998)
+- [Filed issue about rustup proxy create](https://github.com/rust-lang-nursery/rustup.rs/issues/933)
+- 11:23 AM
+- Investigated rustw issue
+- 12:09 PM
+- [Reviewed pr](https://github.com/rust-lang/rust/pull/39302)
+- 12:10 PM
+- Attended core team meeting
+- Attended tools team meeting
+- Attended one-on-one
+- Pinged ntrnr about metrics
+- Pinged mw about internships
+- 4:19 PM
+- Triaged cargobomb results
+- 10/0:0/0
+- [Triaged wierd bug](https://github.com/rust-lang/rust/issues/39308)
+- 6:30 PM
+- [Posted triage reminder](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/44)
+- 6:36 PM
+- Thanked jntrnr for setting up standup mtg
+- [Filed bug re rustdoc --help](https://github.com/rust-lang/rust/issues/39310)
+- 7:03 PM
+- Accepted LinkedIn invites
+- Triaged email
+- 0/20:0/5
+- 7:04 PM
+- Responded to RGSoC contact
+- 7:12 PM
+- Added a Paris event to calendar
+- 7:23 PM
+- Responded to all emails
+- 7:31 PM
+- 10/30:10/10
+- [Reviewed manifest generator](https://github.com/rust-lang/rust/pull/39284)
+- 10/30:30/0
+- 7:55 PM
+
 # 2017-01-24
 
 - [Commented on rand platform](https://github.com/rust-lang/rust/pull/38561#issuecomment-274859705)
@@ -48,6 +1486,8 @@ title: brson's work log
 - [Finished a crater run](https://github.com/rust-lang/rust/pull/39075#issuecomment-275006429)
 - 0/0:0/0
 - 7:00 PM
+- Sent email to Sean about Outreachy internships
+- 7:36 PM
 
 # 2017-01-23
 
