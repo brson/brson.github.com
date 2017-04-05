@@ -69,6 +69,10 @@ a code, a:visited code, a:hover code, a:focus code {
     text-decoration: none;
 }
 
+blockquote code {
+    color: rgb(119, 119, 119);
+}
+
 /* Layout */
 
 body {
