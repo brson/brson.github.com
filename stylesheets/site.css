@@ -129,3 +129,7 @@ li {
     list-style-type: circle;
     margin-left: 2em;
 }
+
+blockquote p {
+    margin-top: 0;
+}
