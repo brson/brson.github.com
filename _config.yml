@@ -3,7 +3,7 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version"]
-highlighter: pygments
+highlighter: rouge
 markdown: redcarpet
 paginate: 1000
 paginate_path: "/blog/page:num/"
