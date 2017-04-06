@@ -607,13 +607,13 @@ In summary, do these things if you want to _appear to be_ nice, and
 also if you want to _actually be_ an effective open source software
 maintainer:
 
-- [Respond quickly](#respond-quickly).
-- [Give thanks](#give-thanks).
-- [Pay a compliment](#pay-a-compliment).
-- [Say "yes"](#say-yes).
-- [Be clear about what you expect](#be-clear-about-what-you-expect).
-- [Admit your mistakes](#admit-your-mistakes).
-- [Be effusive](#be-effusive).
+- [Respond quickly](#respond-quickly)
+- [Give thanks](#give-thanks)
+- [Pay a compliment](#pay-a-compliment)
+- [Say "yes"](#say-yes)
+- [Be clear about what you expect](#be-clear-about-what-you-expect)
+- [Admit your mistakes](#admit-your-mistakes)
+- [Be effusive](#be-effusive)
 
 By consistently exhibiting a few simple behaviors, one can at least
 look like a kind and decent person. Maybe someday we all actually will
