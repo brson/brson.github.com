@@ -73,6 +73,10 @@ blockquote code {
     color: rgb(119, 119, 119);
 }
 
+blockquote em {
+    font-weight: bold;
+}
+
 /* Layout */
 
 body {
