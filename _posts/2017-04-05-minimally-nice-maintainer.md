@@ -491,7 +491,7 @@ it's beneficial to look for situations where we can let go of our own
 ideas, our own dogma. It's a hard thing to do: it's so tempting to
 stick to what is comfortable; to force those difficult decisions that
 have already been decided to stay in the past; to never let go of our
-pride and admit we were wrong, or made mistakes
+pride and admit we were wrong, or made mistakes.
 
 But it gets easier with practice, and you might even come to find that
 admitting your mistakes brings relief - it feels liberating to let
