@@ -348,7 +348,7 @@ look for to indicate quality, as specific to your project. Make note
 of them as you read the patch, _and say them first thing in your
 response_. Myself, I always appreciate when a contributor writes _any
 tests at all_, and I adore contributors who write excellent tests. And
-I say so. To take this technique to the next level, be on the look out
+I say so. To take this technique to the next level, be on the lookout
 for indicators of the contributor's own values, and compliment them on
 things they are likely to take special pride in.
 
