@@ -141,3 +141,7 @@ li {
 blockquote p {
     margin-top: 0;
 }
+
+ul {
+    font-size: 120%;
+}
