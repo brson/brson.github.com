@@ -102,9 +102,7 @@ I've emphasized the part that haunted me most.
 
 I wrote this at the end of the day, in a hurry, between meetings. This
 was a proposal that I had opinions about, and I wanted to make sure
-they were heard (one must continually reassert themselves to have a
-lasting impact on the project). But it has to be done in the right
-way.
+they were heard. But it has to be done in the right way.
 
 Really, this comment wasn't horrible. You've seen much worse I
 hope. But it bothered me. A lot. I didn't follow my gameplan. I knew I
