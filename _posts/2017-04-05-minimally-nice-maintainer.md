@@ -488,10 +488,10 @@ want to prevent it from happening as early as we can.
 
 Just like we want to say "yes", and acknowledge others' great ideas,
 it's beneficial to look for situations where we can let go of our own
-ideas, our own dogma. It's a hard thing to do: it's so tempting to
-stick to what is comfortable; to force those difficult decisions that
-have already been decided to stay in the past; to let go of our pride
-and admit we were wrong, or made mistakes.
+ideas, our own dogma. It's a hard thing to do, to let go of our pride
+and admit we were wrong, or made mistakes: it's so tempting to stick
+to what is comfortable; to force those difficult decisions that have
+already been decided to stay in the past.
 
 But it gets easier with practice, and you might even come to find that
 admitting your mistakes brings relief - it feels liberating to let
