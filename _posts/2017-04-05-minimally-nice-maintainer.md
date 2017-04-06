@@ -216,9 +216,9 @@ appears a bit defensive of my dumb position. I wish I could do it
 again. I'll never be happy. I'll never, ever be happy.
 
 But the point is that it's best to admit your mistakes, to yourself
-and others: Dale Carnegie says that "if you're wrong, admit it quickly
-and emphatically". People love to be right, so if you can admit that
-you are wrong and they are right, that can inspire great
+and others: Dale Carnegie recommends that "if you're wrong, admit it
+quickly and emphatically". People love to be right, so if you can
+admit that you are wrong and they are right, that can inspire great
 cooperation. And it usually doesn't require any sacrifice at all to
 admit you are wrong besides getting over your own pride.
 
