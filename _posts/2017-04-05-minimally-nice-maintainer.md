@@ -460,13 +460,13 @@ the opportunity to clear the way for contributors.
 
 On any bug where there is an acceptable solution, make it crystal
 clear what that solution is, and that _help is wanted_. Contributors
-are often desperate for a signal indicating how they can help. The
-more detail you can provide the better. Bugs with clear direction have
-100% better chance of drawing contributions than those without. The
-larger your project, and the larger your contributor base, the more
-important it is that you consistently provide direction, and that
-contributors have a way to find the bugs that have reached this
-inflection point.
+are sometimes just waiting for a signal indicating how they can
+help. The more detail you can provide the better. Bugs with clear
+direction have 100% better chance of drawing contributions than those
+without. The larger your project, and the larger your contributor
+base, the more important it is that you consistently provide
+direction, and that contributors have a way to find the bugs that have
+reached this inflection point.
 
 <a name="admit-your-mistakes"></a>
 ## Admit your mistakes
