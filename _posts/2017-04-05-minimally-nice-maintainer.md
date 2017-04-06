@@ -383,7 +383,7 @@ right now.
 
 But before you fly off the chain, prove your undeniable superiority,
 and prove that _they are wrong_, let me suggest instead that you do
-something crazy, that you do the opposite: that you _prove they are
+something better, that you do the opposite: that you _prove they are
 right_.
 
 Imagine the most exciting brainstorming session you ever had: you spit
