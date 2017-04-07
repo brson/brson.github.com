@@ -557,7 +557,7 @@ technical communication in open source software communities:
 - <3 <3 <3 (triple-heart!)
 - :-D (big-ol' grin)
 - 😁 (grinning face with smiling eyes)
-- 😍 (smilling face with heart-shaped eyes)
+- 😍 (smiling face with heart-shaped eyes)
 - 💖 (sparkling heart)
 
 These are just the ones in my own toolbag. There are so many others,
