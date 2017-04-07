@@ -26,7 +26,7 @@ to productively engage with their users and contributors.
 Any day where I am actively maintaining my software I might respond to
 dozens of messages online. It's so much effort. But amidst all that
 work, it actually only takes a small amount of consistent effort to
-nurture a coorperative environment, one that makes participants feel
+nurture a cooperative environment, one that makes participants feel
 appreciated, builds support from your userbase, encourages
 contributions, and reinforces a positive culture. Still, even though
 it's quite simple to treat others right, it's not simple to do it
@@ -267,7 +267,7 @@ have so many of my own. It's impossible to follow everything going on
 in Rust, so in practice I tend to restrict the threads I follow to
 specific areas, and to those people who are pinging me directly. There
 are long stretches where I just can't face the endless tide of other
-people needing assistence, where I will just willfully ignore my
+people needing assistance, where I will just willfully ignore my
 inbox. I don't recommend that. Better to be responsive.
 
 How quick is quick enough? 3 days. How scientific is this number? It's
@@ -303,9 +303,9 @@ patch. This looks lovely!"
 
 Of course, not every encounter demands laying it on thick, but do say
 "thanks". Even trivial patches that can merge without any feedback
-deserve some comment: just hit the merge button and and write,
-"thanks!", and they'll feel good about the small part they played in
-your project's ongoing success.
+deserve some comment: just hit the merge button and write, "thanks!",
+and they'll feel good about the small part they played in your
+project's ongoing success.
 
 <a name="pay-a-compliment"></a>
 ## Pay a compliment
@@ -358,7 +358,7 @@ incomplete information. Often I've not considered a work as a whole
 and left a comment, then moments later realized that comment was
 mistaken and had to correct myself. Likewise, I find it frustrating
 when reading inline comments about my own work based on incorrect
-assumptions, and which I felt I had made clear if the respondant had
+assumptions, and which I felt I had made clear if the respondent had
 only read further.
 
 So after I've done the first pass in a spirit of expansive generosity,
@@ -367,7 +367,7 @@ second pass and do the detailed review. Even here though I try to note
 positive things as well as things that need to be changed, etc.
 
 I've focused on reviews here, but the same applies to all
-correspondance. Bug report includes a reduced test case?
+correspondence. Bug report includes a reduced test case?
 Awesome. Forum post is well thought out and polite? Halleluja. Always
 be looking out for nice things to say about your peers and their work.
 
@@ -394,7 +394,7 @@ same wavelength. By the end up the night you feel thrilled and
 intoxicated. That's the power of positivity.
 
 It's so rare. When it happens we want to capture that moment and save
-its precious essense forever. That's the kind of magic you want your
+its precious essence forever. That's the kind of magic you want your
 contributors to feel every time they file an issue.
 
 The opposite though is far more common, and it's the death of useful
@@ -406,7 +406,7 @@ the time. It's shocking how tactless smart people can be. Such direct
 negativity erects a brick wall fortified with turrets and kettles of
 boiling oil in the middle of a conversation.
 
-"No" is a cardinal sin of pursuasive argumentation. Don't do
+"No" is a cardinal sin of persuasive argumentation. Don't do
 it. Don't do it. Don't do it. No, no, no!
 
 Instead, say "yes" as fast as you can, and in every way you
@@ -448,7 +448,7 @@ leaves potential precious manpower on the table.
 Your issue tracker, if it's like Rust's, is filled with bugs and
 feature requests that you would love to fulfill; but you will never,
 ever get to them yourself, not even if you live forever. These
-bugs frequently persist in a state of unknowning, where the solution
+bugs frequently persist in a state of unknowing, where the solution
 is unclear, for weeks, months, years, accumulating debate and
 discussion about how to move forward. But eventually something clicks
 into place, and an acceptable solution becomes known to you. For
@@ -524,7 +524,7 @@ Don't hesitate to go overboard with superlatives and punctuation:
 exclamation marks where they shouldn't be, over-the-top adjectives,
 cute emoticon and emoji. I know that it took me a long time to come
 around to this point of view. It's just bad writing to throw in
-exclamation marks and superflous words, right? And emoji aren't even
+exclamation marks and superfluous words, right? And emoji aren't even
 words...
 
 "Oh, wow, thank you so much! 💖"
