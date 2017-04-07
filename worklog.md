@@ -3,6 +3,14 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-04-06
+
+- [Merged fix to my blog](https://github.com/brson/brson.github.com/pull/4)
+- 6:16 PM
+- [Merged fix to my blog](https://github.com/brson/brson.github.com/pull/5)
+- 6:18 PM
+- Started cargobomb run
+
 # 2017-03-16
 
 - 9:15 AM
