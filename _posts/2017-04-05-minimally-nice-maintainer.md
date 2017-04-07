@@ -469,7 +469,7 @@ reached this inflection point.
 <a name="admit-your-mistakes"></a>
 ## Admit your mistakes
 
-Like variable bindings in many lesser programming languages, our
+Like variable bindings in a great many programming languages, our
 reality is supremely mutable. Conditions change, facts change, and so
 does our perception and understanding. Being wedded to past
 understanding and past resolutions is dogma. On the other hand,
