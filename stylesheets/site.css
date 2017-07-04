@@ -127,6 +127,10 @@ pre {
     margin: 1.7em;
 }
 
+pre.highlight {
+    border: 0px;
+}
+
 pre code {
     white-space: pre;
     margin-left: 0em;
