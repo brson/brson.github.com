@@ -75,7 +75,8 @@ interesting Rust works.
   January 2012][0.1]. Maintained the [release notes].
 
 * I am responsible for [demanding Rust switch from an 80 character
-  limit to 100][100chars].
+  limit to 100][100chars], a subject of much consternation over the
+  years.
 
 * I both added and removed the ternary operator from Rust.
 
