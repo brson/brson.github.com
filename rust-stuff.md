@@ -61,7 +61,7 @@ interesting Rust works.
 * Created the Unix distribution tooling including [rustup.sh],
   [rust-installer] and [multirust].
 
-* Created, with Diggory Blake, the unified [rustup] installer, the current
+* Created, with [Diggory Blake], the unified [rustup] installer, the current
   preferred installation method on all supported platforms.
 
 * Created [Servo], the web browser written in Rust, along with
@@ -141,3 +141,4 @@ interesting Rust works.
 [port Rust to WebAssembly]: https://internals.rust-lang.org/t/need-help-with-emscripten-port/3154
 [rust-skeptic]: https://github.com/brson/rust-skeptic
 [blitz]: https://blog.rust-lang.org/2017/05/05/libz-blitz.html
+[Diggory Blake]: https://github.com/Diggsey
