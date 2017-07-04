@@ -11,6 +11,8 @@ title: brson's work log
 - 11:01 AM
 - Triaged my own project organization
 - 11:56 AM
+- [Merged a httptest PR](https://github.com/brson/httptest/pull/8)
+- 2:03 PM
 
 # 2017-07-03
 

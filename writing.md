@@ -35,6 +35,11 @@ of the pieces of written.
   attention to detail in the deck, particularly the animated ["balloon
   borrowing" demonstration][bb].
 
+* [An annotation of the Rust standard library][std]. This was a small
+  project to illustrate some of the neat little mysteries and hacks
+  employed by the standard library. I like it mostly because it uses
+  the GitHub pull request review as the medium.
+
 * [The "North Star" RFC][ns]. I mostly stay away from the RFC process
   because the open debate is unpleasant to me, but this is one of the
   better I've written. It lays out a process for establishing the Rust
@@ -45,6 +50,10 @@ of the pieces of written.
   project][blitz2] I was responsible for. I was extremely unsatisfied
   with how this came out, and basically gave up and had others edit it
   to completion.
+
+* [Let's make a web service and client in Rust][httptest]. This uses
+  the awesomely powerful technique of doing a thing, and writing it
+  down as you go so that others can learn from it.
 
 * [Perfecting Rust Packaging][prp]. Not amazing writing, but this was
   the announcement of a major cross-project coordination effort. I
@@ -86,4 +95,6 @@ of the pieces of written.
 [bb]: https://brson.github.io/the-end-of-unsafety/#/BAL
 [ff]: https://brson.github.io/fireflowers
 [0.1]: https://mail.mozilla.org/pipermail/rust-dev/2012-January/001256.html
+[std]: https://github.com/brson/annotated-std-rs/commit/e50c2b16455ceff29488bf1f058b6c10906ef990
+[httptest]: https://github.com/brson/httptest
 
