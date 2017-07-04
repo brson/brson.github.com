@@ -92,7 +92,7 @@ of the pieces of written.
   language that runs blazingly fast, prevents segfaults, and
   guarantees thread safety". I also am largely responsible for the
   visual design, which admittedly is highly-derivitive of stock
-  bootstrap, but I'm quite proud of my aesthitic sense, and ability to
+  bootstrap, but I'm quite proud of my aesthetic sense, and ability to
   work within my own limitations. Plenty of people have criticised the
   Rust website over the years, but it does what it needs to pretty
   well.
