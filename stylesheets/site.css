@@ -16,7 +16,7 @@ code {
 
 body, h1, h2, h3 {
     background-color: white;
-    color: #505050;
+    color: #404040;
 }
 
 h1 span {
@@ -49,28 +49,24 @@ code .n {
 
 /* Punctuation, ops, strings, comments */
 div .highlight code, code .p, code .o, code .s, code .c1 {
-    color: #505050;
+    color: #404040;
 }
 
 a, a:visited, a:hover, a:focus {
-    color: #26ADE4;
+    color: #1F97C8;
     text-decoration: none;
 }
 
 /* [**Foo**](link) */
 a strong, a:visited strong, a:hover strong, a:focus strong {
-    color: #26ADE4;
+    color: #1F97C8;
     text-decoration: none;
 }
 
 /* [`Foo`](link) */
 a code, a:visited code, a:hover code, a:focus code {
-    color: #26ADE4;
+    color: #1F97C8;
     text-decoration: none;
-}
-
-blockquote code {
-    color: rgb(119, 119, 119);
 }
 
 blockquote em {
