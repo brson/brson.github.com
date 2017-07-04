@@ -60,6 +60,7 @@ open source software maintainer, then [jump straight to the
 summary](#summary).
 
 <a name="a-case-study"></a>
+
 # A case study
 
 The impetus for writing this was [a comment I made][c1] on a recent
@@ -222,6 +223,7 @@ cooperation. And it usually doesn't require any sacrifice at all to
 admit you are wrong besides getting over your own pride.
 
 <a name="the-techniques"></a>
+
 # The techniques
 
 So this relatively minor episode caused me to reevaluate how I
@@ -237,6 +239,7 @@ The techniques here apply to any open source venues, like pull
 requests, issue trackers, mailing lists and forums.
 
 <a name="respond-quickly"></a>
+
 ## Respond quickly
 
 Immediately after users and contributors reach out to you is when they
@@ -275,6 +278,7 @@ not. You should respond as quick as you can, but reasonable people
 will give you a weekend without getting bent about it.
 
 <a name="give-thanks"></a>
+
 ## Give thanks
 
 People like to feel appreciated. It's a universal desire. And
@@ -308,6 +312,7 @@ and they'll feel good about the small part they played in your
 project's ongoing success.
 
 <a name="pay-a-compliment"></a>
+
 ## Pay a compliment
 
 One of the primary duties of a software maintainer is to review
@@ -372,6 +377,7 @@ Awesome. Forum post is well thought out and polite? Halleluja. Always
 be looking out for nice things to say about your peers and their work.
 
 <a name="say-yes"></a>
+
 ## Say "yes"
 
 In the midst of an internet argument it's easy to lose sight of the
@@ -428,6 +434,7 @@ discovered than by those which have come into the mind of others."
 Affirmation: it's the secret weapon against belligerent jerkwads.
 
 <a name="be-clear-about-what-you-expect"></a>
+
 ## Be clear about what you expect
 
 For contributors to stay engaged they need to know what's next, what
@@ -467,6 +474,7 @@ direction, and that contributors have a way to find the bugs that have
 reached this inflection point.
 
 <a name="admit-your-mistakes"></a>
+
 ## Admit your mistakes
 
 Like variable bindings in a great many programming languages, our
@@ -515,6 +523,7 @@ it's more useful to focus on your own thoughts and feelings instead of
 mindreading others'.
 
 <a name="be-effusive"></a>
+
 ## Be effusive
 
 This is another trick that is super-effective! A unique technique of
@@ -578,6 +587,7 @@ Just as a big smile can brighten someone's day in the physical world,
 a little bit of 😍 goes a long way in the virtual world.
 
 <a name="summary"></a>
+
 # Summary
 
 So that's all you need to make everybody happy, and make everybody
