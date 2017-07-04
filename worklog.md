@@ -3,6 +3,15 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-07-04
+
+- Sent japaric email about embedded vendor outreach
+- 11:01 AM
+- Update my project list
+- 11:01 AM
+- Triaged my own project organization
+- 11:56 AM
+
 # 2017-07-03
 
 - Triaged todos
@@ -18,6 +27,16 @@ title: brson's work log
 - [Reviewed a patch](https://github.com/rust-lang/rust/pull/42998#issuecomment-312755377)
 - 5:46 PM
 - [Reviewed a pr](https://github.com/rust-lang/rust/pull/42993)
+- [Reviewed log pr](https://github.com/rust-lang-nursery/log/pull/187)
+- 7:43 PM
+- [Merged stdx pr](https://github.com/brson/stdx/pull/40#issuecomment-312767326)
+- 7:44 PM
+- [Merged stdx pr](https://github.com/brson/stdx/pull/38#issuecomment-312767659)
+- 7:44 PM
+- [Posted some guidelines issues to twir](https://users.rust-lang.org/t/twir-call-for-participation/4821/80)
+- 7:49 PM
+- Sent email to alisha about stdx testing
+- 8:38 PM
 
 # 2017-06-30
 
