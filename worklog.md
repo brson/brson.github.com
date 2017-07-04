@@ -3,10 +3,91 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-07-03
+
+- Triaged todos
+- 11:26 AM
+- Triaged emails
+- 11:56 AM
+- 10/20:0/10
+- [Posted parity panic_hook PR](https://github.com/paritytech/parity/pull/5980)
+- 12:11
+- 20/0:20/0
+- [Fixed crusader build](https://github.com/brson/cargo-crusader/pull/8)
+- 12:37 PM
+- [Reviewed a patch](https://github.com/rust-lang/rust/pull/42998#issuecomment-312755377)
+- 5:46 PM
+- [Reviewed a pr](https://github.com/rust-lang/rust/pull/42993)
+
+# 2017-06-30
+
+- [Posted libz blitz update](https://internals.rust-lang.org/t/rust-libz-blitz/5184/94)
+- 3:21 PM
+- Updated 'how rust is tested' blog
+- 5:03 PM
+
+# 2017-06-29
+
+- Responded to Paige re zcash
+- 9:37 AM
+- [Responded to tlively re emscripten upgrade](https://internals.rust-lang.org/t/moving-webassembly-support-forward/5460/15)
+- 10:49 AM
+- Sent an email on llvm upgrade coordination
+- 10:52 AM
+- [Hearted a rayon pr](https://github.com/nikomatsakis/rayon/pull/389)
+- [Hearted a rayon pr](https://github.com/nikomatsakis/rayon/pull/387)
+- 12:09 AM
+
+# 2017-06-28
+
+- [Commented about gcc backend](https://users.rust-lang.org/t/rust-front-end-to-gcc/11601/3)
+- 3:02 PM
+- [Commented about San Jose meetup](https://www.reddit.com/r/rust/comments/6k5umg/san_josearea_not_san_francisco_meetups/djjpbci/)
+- 11:22 PM
+
+# 2017-06-27
+
+- Sent email to japaric about no_std
+- 10:08 AM
+
+# 2017-06-26
+
+- [Commented on rustup](https://users.rust-lang.org/t/rustup-1-5-0-released/11529/4)
+- 10:17 AM
+- [Bumped tuf thread](https://users.rust-lang.org/t/help-with-rustup-signature-verification-tuf/11540/3)
+- 12:53 PM
+- [Reviewed rls pull](https://github.com/rust-lang/rust/pull/42911)
+- 1:06 PM
+- Sent bascule email about error-chain
+- 1:46 PM
+- [Responded to libz blitz thread](https://internals.rust-lang.org/t/rust-libz-blitz/5184/86)
+- 2:27 PM
+- [Followed up on error-chain review](https://internals.rust-lang.org/t/crate-evaluation-for-2017-06-27-error-chain/5362/23)
+- 3:51 PM
+- [Commented on tikv update](https://www.reddit.com/r/rust/comments/6jkfa6/this_week_in_tikv_june_19_to_june_25/djg8dwo/)
+- 9:28 PM
+
+# 2017-06-25
+
+- Sent email to Raph re Rust on Fuchsia
+- 11:30 AM
+- Wrote more 'intro to rust on fuchsia'
+- 11:53 PM
+- [Responded to rustup q](https://users.rust-lang.org/t/error-toolchain-nightly-x86-64-pc-windows-msvc-does-not-support-components/11535/2)
+- 11:53 AM
+
 # 2017-06-24
 
 - [Merged rustup bump](https://github.com/rust-lang-nursery/rustup.rs/pull/1180)
 - 2:09 PM
+- [Released rustup 1.5.0](https://users.rust-lang.org/t/rustup-1-5-0-released/11529)
+- 6:54 PM
+- [Commented on Rust novelty](https://www.reddit.com/r/rust/comments/6japs8/question_about_ideas_from_the_past_to_save_the/djd4r56/)
+- 7:41 PM
+- [Praised Redox gsoc student](https://www.reddit.com/r/rust/comments/6jba6n/gsoc_project_making_redox_selfhosting_status/djd57nu/)
+- 7:53 PM
+- Responded to japaric email
+- 8:13 PM
 
 # 2017-06-23
 
