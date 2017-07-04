@@ -16,7 +16,7 @@ interesting Rust works.
 * Wrote the [segmented stack] implementation of the green threading
   runtime.
 
-* [Created the `Result` type], an alternative to Haskell's `Either`
+* [Created the Result type], an alternative to Haskell's Either
   (which I *also* added to Rust, and later removed). Result was also
   [adopted by the Elm language].
 
@@ -82,7 +82,7 @@ interesting Rust works.
 * Defined Rust's characteristic 101 exit code, so that the test runner
   could distinguish 'good failure' from 'bad failure'.
 
-* [Added `transmute`], the legendary waraxe of unsafety.
+* [Added the `transmute` function], the legendary waraxe of unsafety.
 
 * Pioneered Rust's practice of ecosystem-wide regression testing
   with [crater] and [cargobomb].
@@ -109,7 +109,7 @@ interesting Rust works.
 [a while now]: https://github.com/rust-lang/rust/commit/0633c7ae6e54edebde8421cef14267ad1ba1e30c
 [rewrote the runtime in Rust]: https://mail.mozilla.org/pipermail/rust-dev/2013-August/005158.html
 [segmented stack]: https://mail.mozilla.org/pipermail/rust-dev/2013-November/006314.html
-[Created the `Result` type]: https://github.com/rust-lang/rust/commit/c1092fb6d88efe51e42df3aae2a321cc669e12a0
+[Created the Result type]: https://github.com/rust-lang/rust/commit/c1092fb6d88efe51e42df3aae2a321cc669e12a0
 [adopted by the Elm language]: https://github.com/rust-lang/rust/commit/c1092fb6d88efe51e42df3aae2a321cc669e12a0
 [unwrap]: https://github.com/rust-lang/rust/commit/910a32c7c777296be0992bf0d6f2d66261c407d6
 [Wrote the standard testing support]: https://github.com/rust-lang/rust/commit/09982784c6ad1c78f9480c3c2c0c3a2b2bf7f969
@@ -132,7 +132,7 @@ interesting Rust works.
 [0.1]: https://mail.mozilla.org/pipermail/rust-dev/2012-January/001256.html
 [release notes]: https://github.com/brson/rust/blob/relnotes/RELEASES.md
 [100chars]: https://github.com/rust-lang/rust/pull/5340
-[Added `transmute`]: https://github.com/rust-lang/rust/commit/f12adcbf930122ef6d98790b53d80d511dc62406
+[Added the `transmute` function]: https://github.com/rust-lang/rust/commit/f12adcbf930122ef6d98790b53d80d511dc62406
 [crater]: https://github.com/brson/taskcluster-crater
 [cargobomb]: https://github.com/brson/cargobomb
 [error-chain]: https://github.com/brson/error-chain
