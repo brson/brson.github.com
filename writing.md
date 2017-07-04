@@ -16,8 +16,8 @@ of the pieces of written.
   practitioners][ff]. A project to capture a particular moment in time
   for the purpose of marketing, while celebrating the Rust community.
   I was proud that I was able to put this simple concept together in a
-  single weekend. I also remain satisfied with the design, though some
-  felt the colors were eyeball-searing.
+  single weekend. I also remain satisfied with the visual design,
+  though some felt the colors were eyeball-searing.
 
 * [Refactoring `std` for Ultimate Portability][r]. A proposal for how
   to refactor the standard library into portable components. I like
