@@ -5,7 +5,7 @@ layout: basic
 I enjoy writing, and sometimes think I'm pretty ok at it. Like my
 code, I like my words to be a mixture of engineering and art. It tends
 to be an arduous process, so I don't produce much, but here are some
-of the pieces of written.
+of the pieces I've written.
 
 * [The Minimally-nice Open Source Software Maintainer][nice]. This is
   the most fully-realized thing I've written, a piece about how to
