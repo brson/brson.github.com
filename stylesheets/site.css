@@ -138,6 +138,11 @@ li {
     margin-left: 2em;
 }
 
+li,
+li p {
+    line-height: 2rem;
+}
+
 blockquote p {
     margin-top: 0;
 }
