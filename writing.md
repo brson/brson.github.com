@@ -61,7 +61,7 @@ of the pieces I've written.
   like the title.
 
 * [Announcing Rust 1.15.1][151]. This is mostly interesting because of
-  the community aspect management. The 1.15 release had a glaring
+  the community management aspect. The 1.15 release had a glaring
   soundness bug, and this is the mea culpa. The resulting 1.15.1
   release _itself_ was difficult, and resulted in a [post mortem].
 
