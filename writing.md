@@ -1,3 +1,7 @@
+---
+layout: basic
+---
+
 I enjoy writing, and sometimes think I'm pretty ok at it. Like my
 code, I like my words to be a mixture of engineering and art. It tends
 to be an arduous process, so I don't produce much, but here are some
