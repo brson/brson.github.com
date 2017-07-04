@@ -8,9 +8,10 @@ to be an arduous process, so I don't produce much, but here are some
 of the pieces of written.
 
 * [The Minimally-nice Open Source Software Maintainer][nice]. This is
-  the most fully-realized thing I've written. I like it because it a
-  mix of personal and professional subject matter, and in a unique
-  voice.
+  the most fully-realized thing I've written, a piece about how to
+  treat your contributors with respect, in a format inspired by "How
+  to Win Friends and Influence People". I like it because it a mix of
+  personal and professional subject matter, and in a unique voice.
 
 * [Fireflowers: The Rust programming language in the words of its
   practitioners][ff]. A project to capture a particular moment in time
