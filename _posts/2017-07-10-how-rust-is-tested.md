@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Rust is Tested
+title: How Rust is tested
 tags: [rust]
 ---
 

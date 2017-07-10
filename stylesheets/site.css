@@ -24,7 +24,6 @@ h1 span {
 }
 
 p {
-    font-size: 1.2rem;
     line-height: 2em;
 }
 
@@ -80,13 +79,13 @@ body {
     padding-right: 3.4em;
     padding-top: 5.8em;
     padding-bottom: 5.8em;
-    max-width: 70em;
+    max-width: 60em;
     margin-left: auto;
     margin-right: auto;
 }
 
 h1 {
-    font-size: 200%;
+    font-size: 2rem;
     font-weight: bold;
 }
 
@@ -97,14 +96,14 @@ h1 span {
 
 h2 {
     margin-top: 2.2em;
-    font-size: 140%;
+    font-size: 1.4rem;
     font-weight: bold;
 }
 
 
 h3 {
     margin-top: 2.2em;
-    font-size: 100%;
+    font-size: 1.2rem;
     font-weight: bold;
 }
 
@@ -140,13 +139,14 @@ li {
 
 li,
 li p {
-    line-height: 2rem;
+    line-height: 1.2rem;
 }
 
 blockquote p {
     margin-top: 0;
 }
 
-ul {
-    font-size: 120%;
+ul ul {
+    margin-top: 1em;
+    margin-left: 1em;
 }
