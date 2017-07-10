@@ -26,7 +26,7 @@ language, a hint at the wide variety of techniques employed in
 software validation, and that it reinforces your confidence in Rust's
 reliability.
 
-## Summary (2017/06/30)
+## Summary (2017/07/10)
 
 - All patches built in 58 configurations before landing
 - All patches tested in 20 configurations before landing
@@ -131,7 +131,7 @@ approved for landing. It proceeds through this queue, one at a time:
 for each pull request it merges the pull request branch with the
 master branch, but into a temporary branch (which we call "auto");
 then it runs the entire test suite on that branch, in many
-configurations (as of 2017/06/30 there are 59 configurations built,
+configurations (as of 2017/07/10 there are 59 configurations built,
 and 20 tested). If all tests pass in all configurations only then does
 that commit become the master branch. Then bors moves onto the next
 PR.
@@ -232,7 +232,7 @@ cover specific classes of bugs relevant to Rust.
 The tests are all ultimately run by [libtest], the standard test
 crate, and many of them are coordinated by the [compiletest] tool.
 
-As of 2017/06/30 there are a little over 6k tests in the Rust test
+As of 2017/07/10 there are a little over 6k tests in the Rust test
 suite. This may seem surprisingly few, but keep in mind that Rust's
 strong static typing prevents many errors at compile-time, so Rust
 projects in general are believed to require fewer test cases than
@@ -613,7 +613,7 @@ Tests of optimizations on MIR, rustc's internal Rust
 representation. These tests check that the MIR looks as expected
 before and after given optimization passes.
 
-Note that as of 2017/06/30 MIR optimizations are not enabled by
+Note that as of 2017/07/10 MIR optimizations are not enabled by
 default.
 
 ```rust
@@ -769,7 +769,7 @@ These factors allow us to treat the entire world of open source Rust
 code as our test suite.
 
 As new nightlies and betas are published, we use the [cargobomb] tool
-to test this corpus of Rust code (as of 2017/06/30 over 13,000 crates)
+to test this corpus of Rust code (as of 2017/07/10 over 13,000 crates)
 against both the stable release and a nightly or beta release,
 comparing the results for regressions.
 
@@ -788,7 +788,7 @@ crates regressed; and 3985 crates failed to even build (this can be
 for many reasons, but is often simply because the cargobomb
 environment is not set up appropriately for the crate).
 
-As of 2017/06/30, each run of cargobomb runs over 222,000 tests, twice
+As of 2017/07/10, each run of cargobomb runs over 222,000 tests, twice
 over, across more than 13,000 projects.
 
 When cargbomb detects regressions, they are filed against
@@ -957,7 +957,7 @@ capacity, or because it would take too long (often due to emulation).
 The [smoke] project is an independent CI project to run tests against
 some of these platforms using emulators.
 
-Note that as of 2017/06/30 the smoke project is bitrotted and needs to
+Note that as of 2017/07/10 the smoke project is bitrotted and needs to
 be refreshed.
 
 <a name="s-ru"></a>
