@@ -3,6 +3,13 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-07-09
+
+- Responded to jlal
+- 6:53 PM
+- [Praised dtolnay's semver trick](https://www.reddit.com/r/rust/comments/6mairz/the_semver_trick_how_to_avoid_complicated/dk0ehbd/)
+- 7:48 PM
+
 # 2017-07-04
 
 - Sent japaric email about embedded vendor outreach
