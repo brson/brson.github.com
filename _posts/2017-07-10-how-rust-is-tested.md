@@ -266,7 +266,7 @@ then interpreting the results.
 Most tests are represented by a Rust source file that may have
 annotations in comments directing compiletest in how to run the test,
 as in the following run-fail test, `test-panic.rs`, that tells
-compiletest that the string "thread 'test_foo' packicked at" must be
+compiletest that the string "thread 'test_foo' panicked at" must be
 printed to stdout, to compile with the `--test` flag, and to ignore
 the test on emscripten.
 
