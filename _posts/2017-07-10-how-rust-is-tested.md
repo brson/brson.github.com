@@ -890,7 +890,7 @@ There are two major fuzzers for Rust: [afl.rs], which uses the
 Authority][rust-fuzz] to improve the Rust crate ecosystem. They
 maintain a [trophy case] of bugs discovered through their tools.
 Although an important part of the Rust toolset, fuzzing Rust tends to
-find fewer and less sever bugs than fuzzing software written in
+find fewer and less severe bugs than fuzzing software written in
 memory-unsafe languages.
 
 <a name="s-icci"></a>
