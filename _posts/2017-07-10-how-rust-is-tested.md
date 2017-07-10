@@ -1007,8 +1007,8 @@ expect them to be employed extensively. They are not though.
 Valgrind was a crucial tool in Rust's original development, back when
 Rust barely worked. There were several years where the entire test
 suite was required to be valgrind-clean, and it's hard to imagine
-bringing up Rust without it. At some point though LLVM began doing a
-valid optimization that valgrind was unable to recognize as valid, and
+bringing up Rust without it. At some point though [LLVM began doing a
+valid optimization][vgopt] that valgrind was unable to recognize as valid, and
 that made its application useless for us, or at least too difficult to
 maintain. By that point Rust was mature and memory safe, so valgrind
 testing was disabled, and eventually it bitrotted and was removed from
@@ -1165,3 +1165,4 @@ release.
 [valgrind]: http://valgrind.org/
 [Patina]: https://www.cs.washington.edu/tr/2015/03/UW-CSE-15-03-02.pdf
 [CRUST]: http://ieeexplore.ieee.org/document/7371997/
+[vgopt]: https://github.com/rust-lang/rust/issues/11710
