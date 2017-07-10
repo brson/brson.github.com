@@ -168,7 +168,7 @@ key projects, including [cargo] and [rustup].
 
 bors's implementation has gone through several iterations, and today
 it is implemented by a script called [homu], which is shared
-with Rust's sister project, [servo]. It has also inspired other
+with Rust's sister project, [Servo]. It has also inspired other
 ther integration bots used in the Rust ecosystem and beyond,
 including [bors-ng].
 
@@ -1153,7 +1153,7 @@ release.
 [rust-lang/rust]: https://github.com/rust-lang/rust
 [rustup]: https://github.com/rust-lang/rustup.rs
 [science]: http://graydon2.dreamwidth.org/1597.html
-[servo]: http://github.com/servo
+[Servo]: http://github.com/servo
 [smoke]: https://github.com/japaric/smoke
 [sndb]: https://www.ralfj.de/blog/2017/06/09/mutexguard-sync.html
 [snd]: https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf
