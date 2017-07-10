@@ -454,7 +454,7 @@ printer for displaying error messages.
 pretty testing is done by asking the compiler to pretty-print source
 code, then asking it to pretty-print _that_ source code, and testing
 that it reaches a steady state, where further pretty-printing produces
-the same soruce, and that it still works.
+the same source, and that it still works.
 
 Historically, rustc has run pretty testing over the entire codebase,
 but as the pretty-printer matured, pretty testing was reduced to a
