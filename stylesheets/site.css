@@ -1,7 +1,7 @@
 /* Fonts */
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
-@import url(http://fonts.googleapis.com/css?family=Droid+Sans+Mono);
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+@import url(//fonts.googleapis.com/css?family=Droid+Sans+Mono);
 
 body, h1, h2, h3 {
     font-family: 'Open Sans', sans-serif;
