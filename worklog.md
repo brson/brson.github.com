@@ -3,6 +3,26 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-07-10
+
+- [Posted 'How Rust is tested'](https://brson.github.io/2017/07/10/how-rust-is-tested)
+- [Posted to HN](https://news.ycombinator.com/item?id=14737756)
+- [Posted to /r/programming](https://www.reddit.com/r/programming/comments/6mftj9/how_rust_is_tested/)
+- [Posted to /r/rust](https://www.reddit.com/r/rust/comments/6mftju/how_rust_is_tested/)
+- 10:10 AM
+- [Merged fix to my blog](https://github.com/brson/brson.github.com/pull/8)
+- 10:52 AM
+- [Merged fix to my blog](https://github.com/brson/brson.github.com/pull/9)
+- 10:52 AM
+- [Fotted imperio](https://users.rust-lang.org/t/twir-friends-of-the-forest/7295/23)
+- 11:35 AM
+- Emailed alisha re rustfest
+- 11:41 AM
+- Attended diesel meeting
+- 3:14 PM
+- Triaged todos
+- 4:49 PM
+
 # 2017-07-09
 
 - Responded to jlal
