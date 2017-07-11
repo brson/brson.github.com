@@ -25,6 +25,9 @@ of the pieces I've written.
   how complete the argument is here and that I took the time to make
   illustrations.
 
+* [How Rust is Tested][t]. A comprehensive report on one of my
+  favorite subjects.
+
 * [Starting a new Rust project right, with error-chain][ec]. A simple
   instruction on using the error-chain crate. I like this one because
   I wrote it in an afternoon, where most of my writing takes much
@@ -97,26 +100,27 @@ of the pieces I've written.
   Rust website over the years, but it does what it needs to pretty
   well.
 
-[install pages]: https://www.rust-lang.org/en-US/install.html
-[contribution guides]: https://www.rust-lang.org/en-US/contribute.html
-[nice]: http://brson.github.io/2017/04/05/minimally-nice-maintainer
-[r]: https://internals.rust-lang.org/t/refactoring-std-for-ultimate-portability/4301
-[i]: https://internals.rust-lang.org/t/how-the-rust-issue-tracker-works/3951
-[ns]: https://github.com/rust-lang/rfcs/blob/master/text/1728-north-star.md
-[ec]: http://brson.github.io/2016/11/30/starting-with-error-chain
-[tls]: https://groups.google.com/d/msg/mozilla.dev.servo/3mfkRehXAo4/MXTzpqsFAQAJ
-[ci]: https://internals.rust-lang.org/t/rust-ci-release-infrastructure-changes/4489
+[0.1]: https://mail.mozilla.org/pipermail/rust-dev/2012-January/001256.html
 [151]: https://internals.rust-lang.org/t/rust-ci-release-infrastructure-changes/4489
-[post mortem]: https://internals.rust-lang.org/t/rust-1-15-1-release-postmortem/4766
+[astd]: https://github.com/brson/annotated-std-rs/commit/e50c2b16455ceff29488bf1f058b6c10906ef990
+[bb]: https://brson.github.io/the-end-of-unsafety/#/BAL
 [blitz1]: https://blog.rust-lang.org/2017/05/05/libz-blitz.html
 [blitz2]: https://internals.rust-lang.org/t/rust-libz-blitz/5184
-[prp]: https://internals.rust-lang.org/t/perfecting-rust-packaging/2623
-[unsafety]: https://brson.github.io/the-end-of-unsafety/#/INTRO
-[script]: https://github.com/brson/the-end-of-unsafety/blob/master/script.md
-[bb]: https://brson.github.io/the-end-of-unsafety/#/BAL
+[ci]: https://internals.rust-lang.org/t/rust-ci-release-infrastructure-changes/4489
+[contribution guides]: https://www.rust-lang.org/en-US/contribute.html
+[ec]: http://brson.github.io/2016/11/30/starting-with-error-chain
 [ff]: https://brson.github.io/fireflowers
-[0.1]: https://mail.mozilla.org/pipermail/rust-dev/2012-January/001256.html
-[astd]: https://github.com/brson/annotated-std-rs/commit/e50c2b16455ceff29488bf1f058b6c10906ef990
 [httptest]: https://github.com/brson/httptest
+[i]: https://internals.rust-lang.org/t/how-the-rust-issue-tracker-works/3951
+[install pages]: https://www.rust-lang.org/en-US/install.html
+[nice]: http://brson.github.io/2017/04/05/minimally-nice-maintainer
+[ns]: https://github.com/rust-lang/rfcs/blob/master/text/1728-north-star.md
+[post mortem]: https://internals.rust-lang.org/t/rust-1-15-1-release-postmortem/4766
+[prp]: https://internals.rust-lang.org/t/perfecting-rust-packaging/2623
+[r]: https://internals.rust-lang.org/t/refactoring-std-for-ultimate-portability/4301
+[script]: https://github.com/brson/the-end-of-unsafety/blob/master/script.md
 [std]: https://doc.rust-lang.org/1.18.0/std/
+[t]: https://brson.github.io/2017/07/10/how-rust-is-tested
+[tls]: https://groups.google.com/d/msg/mozilla.dev.servo/3mfkRehXAo4/MXTzpqsFAQAJ
+[unsafety]: https://brson.github.io/the-end-of-unsafety/#/INTRO
 [www.rust-lang.org]: https://www.rust-lang.org
