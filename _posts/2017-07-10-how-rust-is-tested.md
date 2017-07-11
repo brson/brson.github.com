@@ -202,7 +202,7 @@ at the beginning of a cycle).
 During the 6 week release cycle, regression triage meetings are held
 every 2 weeks to keep ahead of breakage and ensure the release stays
 on track. Again, the Rust release schedule is incredibly aggressive
-and it takes constant vigilence to maintain.
+and it takes constant vigilance to maintain.
 
 To make releases as simple as possible we tie it directly to the CI
 system. Since we are already testing Rust in the same configurations
