@@ -94,7 +94,7 @@ more. Rust will one day run on any machine with a microprocessor.
 And Rust moves fast, with [releases every 6 weeks], and a growing
 ecosystem of software depending on it. Rust makes [strong guarantees]
 about compatibility and stability, what will, won't, and might break
-as the plattform evolves, and ensuring that we fulfill those
+as the platform evolves, and ensuring that we fulfill those
 guarantees is crucial to maintaining the trust of Rust's users.
 
 It's a big challenge to keep it all from falling apart. This is how we
