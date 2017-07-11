@@ -25,7 +25,7 @@ of the pieces I've written.
   how complete the argument is here and that I took the time to make
   illustrations.
 
-* [How Rust is Tested][t]. A comprehensive report on one of my
+* [How Rust is tested][t]. A comprehensive report on one of my
   favorite subjects.
 
 * [Starting a new Rust project right, with error-chain][ec]. A simple
