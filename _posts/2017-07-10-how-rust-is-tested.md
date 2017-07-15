@@ -1151,7 +1151,7 @@ release.
 [rust-fuzz]: https://github.com/rust-fuzz
 [rust-icci]: https://github.com/rust-icci
 [rust-lang/rust]: https://github.com/rust-lang/rust
-[rustup]: https://github.com/rust-lang/rustup.rs
+[rustup]: https://github.com/rust-lang-nursery/rustup.rs
 [science]: http://graydon2.dreamwidth.org/1597.html
 [Servo]: http://github.com/servo
 [smoke]: https://github.com/japaric/smoke
