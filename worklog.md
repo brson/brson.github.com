@@ -3,6 +3,163 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-07-15
+
+- Worked on anthology outline
+- 5:22 PM
+
+# 2017-07-14
+
+- [Filed issue about cookbook visual design](https://github.com/brson/rust-cookbook/issues/167)
+- Sent email to blake winton re cookbook ux
+- Sent email to budziq re cookbook updates
+- 1:13 PM
+- [Posted semver VersionReq serialization issue to twir](https://github.com/steveklabnik/semver/issues/119#issuecomment-315457001)
+- 1:18 PM
+- Scheduled meeting with sebastian
+- 1:32 PM
+- [Asked for confirmation of a beta fix](https://github.com/rust-lang/rust/issues/42851#issuecomment-315460868)
+- 1:34 PM
+- [Asked for confirmation of a beta fix](https://github.com/rust-lang/rust/issues/42719#issuecomment-315461056)
+- 1:35 PM
+- [Asked for confirmation of a beta fix](https://github.com/rust-lang/rust/issues/42635#issuecomment-315461195)
+- 1:35 PM
+- [Commented on 1.19 relnotes](https://github.com/rust-lang/rust/pull/42503#issuecomment-315461761)
+- 1:40 PM
+- Prepared cargobomb beta.4
+- Praised florob's inline asm presentation
+- [Responded to tlively on wasm thread](https://internals.rust-lang.org/t/moving-webassembly-support-forward/5460/35)
+- 2:33 PM
+- [Commented on cargobomb run](https://internals.rust-lang.org/t/cargobomb-nightly-report-for-2017-07-07/5541/8)
+- 2:42 PM
+- [Commented on cargo jobserver](https://internals.rust-lang.org/t/crate-evaluation-for-2017-07-11-gcc/5450/23)
+- 2:44 PM
+- [Praised rustdoc redux](https://internals.rust-lang.org/t/crate-evaluation-for-2017-07-11-gcc/5450/23)
+- 2:47 PM
+- Attended infra meeting
+- [Merged cargobomb patch](https://github.com/brson/cargobomb/pull/117)
+- 3:38 PM
+- [Commented on rand crate](https://internals.rust-lang.org/t/crate-evaluation-for-2017-07-25-rand/5505/8)
+- 4:32 PM
+- Invited bsmith to 7/25 rand meeting
+- Sent email to burntsushi about rand evaluation
+- [Reviewed log patch](https://github.com/rust-lang-nursery/log/pull/200#issuecomment-315497464)
+- 5:47 PM
+- [Posted blitz update](https://internals.rust-lang.org/t/rust-libz-blitz/5184/120)
+- 8:09 PM
+- Sent emails to top libz blitz contributors
+- 8:41 PM
+
+# 2017-07-13
+
+- Conducted release triage
+- [Posted triage minutes](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544/59)
+- 9:56 AM
+- Responded to email re log pr
+- 10:27 AM
+- Worked on cargo-index-tool
+- 11:14 AM
+- [Posted an issue to twir](https://users.rust-lang.org/t/twir-call-for-participation/4821/91)
+- 11:16 AM
+- Booked taipei hotel
+- 11:24 AM
+- Booked rustconf hotel
+- 11:31 PM
+- Published cargobomb nightly
+- 11:33 AM
+- [Bumped beta to .4](https://github.com/rust-lang/rust/pull/43223)
+- 11:52 AM
+- [Posted release status update](https://internals.rust-lang.org/t/rust-1-19-release-status/5504/12)
+- 11:53 AM
+- Responded to someday thread
+- 12:06 PM
+- [Checked an fcp](https://github.com/rust-lang/rfcs/pull/1946#issuecomment-309887989)
+- 12:30 PM
+- [Checked an fcp](https://github.com/rust-lang/rust/issues/41119#issuecomment-312692637)
+- 12:36 PM
+- [Checked an fcp](https://github.com/rust-lang/rust/issues/39932#issuecomment-309912183)
+- 12:40 PM
+- [Posted a cargobomb nightly](https://internals.rust-lang.org/t/cargobomb-nightly-report-for-2017-07-07/5541)
+- 12:43 PM
+- Did FCPS
+- 0/50:0/0
+- Worked on cargo-index-tool
+- 4:00 PM
+
+# 2017-07-12
+
+- [Praised shepmaster's play update](https://users.rust-lang.org/t/the-official-rust-playground-now-has-the-top-100-crates-available/11817/13)
+- 9:47 AM
+- Organized anthology master list
+- 9:59 AM
+- Triaged todos
+- Hearted lots of comments
+- 10:59 AM
+- 40/0:20/0
+- Replied to community team email
+- 11:00 AM
+- [Merged skeptic pr](https://github.com/brson/rust-skeptic/pull/36)
+- 1:39 PM
+- [Published skeptic 0.11](https://users.rust-lang.org/t/rust-skeptic-test-your-rust-markdown-documentation-via-cargo/2163/13)
+- 1:44 PM
+- Responded to budziq re skeptic
+- 1:45 PM
+- Responded to hunter re maidsafe meetup
+- 1:52 PM
+- [Updated backports](https://github.com/rust-lang/rust/pull/42503#issuecomment-314938816)
+- 5:55 PM
+- [Updated release notes](https://github.com/rust-lang/rust/pull/42503#issuecomment-314938816)
+- 5:59 PM
+- [Updated release status](https://internals.rust-lang.org/t/rust-1-19-release-status/5504/11)
+- 5:59 PM
+- [Merged log pr](https://github.com/rust-lang-nursery/log/pull/207)
+- 6:10 PM
+- [Closed log issue](https://github.com/rust-lang-nursery/log/issues/121)
+- 6:10 PM
+- Updated anthology master list
+- 6:12 PM
+- Responded to heartsucker re meeting timing
+- 6:16 PM
+- Triaged email
+- 6:25 PM
+- 30/30:0/30
+- [Commented on fuchsia](https://internals.rust-lang.org/t/brsons-someday-list/3948/44)
+- 6:44 PM
+- [Followed up on someday list](https://internals.rust-lang.org/t/brsons-someday-list/3948/45)
+- 6:54 PM
+- [Posted about uutils](https://users.rust-lang.org/t/uutils-a-really-neat-project-that-deserves-more-love/11824)
+- 7:18 PM
+- [Posted another regression to release status](https://internals.rust-lang.org/t/rust-1-19-release-status/5504/12)
+- 7:21 PM
+- [Commented on gcc review](https://internals.rust-lang.org/t/crate-evaluation-for-2017-07-11-gcc/5450/20)
+- 7:47 PM
+- [Commented about doc redirects](https://github.com/rust-lang/book/issues/760#issuecomment-314957045)
+- 8:03 PM
+- [Merged guidelines pr](https://github.com/brson/rust-api-guidelines/pull/103)
+- 9:02 PM
+- [Posted gcc issues](https://github.com/alexcrichton/gcc-rs/issues/198)
+- [Posted gcc update to evaluation thread](https://internals.rust-lang.org/t/crate-evaluation-for-2017-07-11-gcc/5450/21)
+- 9:16 PM
+- [Posted gcc issues to twir](https://users.rust-lang.org/t/twir-call-for-participation/4821/91)
+- 9:23 PM
+- [Hearted mbrubeck's regression fix](https://github.com/rust-lang/cargo/pull/4278)
+- 9:30 PM
+
+# 2017-07-11
+
+- [Commented on how rust is tested](https://www.reddit.com/r/rust/comments/6mftju/how_rust_is_tested/dk2xxly/)
+- 10:49 AM
+- [Commented on how rust is tested](https://www.reddit.com/r/rust/comments/6mftju/how_rust_is_tested/dk2y883/)
+- 10:50 AM
+- Attended libs meeting
+- 2:56 PM
+- [Commented on guidelines issue](https://github.com/brson/rust-api-guidelines/issues/55#issuecomment-314583882)
+- 2:56 PM
+- [Posted comment to parity panic hook patch](https://github.com/paritytech/parity/pull/5980#issuecomment-314590034)
+- 3:27 PM
+- [Commented on cargobomb](https://github.com/rust-lang/rust/pull/43020#issuecomment-314595228)
+- 3:58 PM
+
 # 2017-07-10
 
 - [Posted 'How Rust is tested'](https://brson.github.io/2017/07/10/how-rust-is-tested)
@@ -22,6 +179,28 @@ title: brson's work log
 - 3:14 PM
 - Triaged todos
 - 4:49 PM
+- [Posted link to Rust gamedev talk](https://www.reddit.com/r/rust/comments/6mg02o/ggez_a_rust_library_to_create_good_games_easily/dk1wvsb/)
+- 6:11 PM
+- [Merged skeptic pr](https://github.com/brson/rust-skeptic/pull/32)
+- 7:03 PM
+- [Merged skeptic pr](https://github.com/brson/rust-skeptic/pull/35)
+- 7:04 PM
+- [Released skeptic 0.10.1](https://users.rust-lang.org/t/rust-skeptic-test-your-rust-markdown-documentation-via-cargo/2163/12)
+- 7:14 PM
+- Responded to packt
+- 7:17 PM
+- Responded to 1aim libz blitz applicants
+- 7:39 PM
+- Responded to heartsucker re tuf
+- 8:38 PM
+- [Helped with gcc evaluation](https://internals.rust-lang.org/t/crate-evaluation-for-2017-07-11-gcc/5450/14)
+- 9:17 PM
+- 0/20:20/0
+- Updated libz blitz thread
+- [Bumped threadpool evaluation](https://internals.rust-lang.org/t/out-of-band-crate-evaluation-for-2017-07-06-threadpool/5495/2)
+- 9:28 PM
+- [Praised ggez](https://www.reddit.com/r/rust/comments/6mg02o/ggez_a_rust_library_to_create_good_games_easily/dk281d3/)
+- 10:49 PM
 
 # 2017-07-09
 
