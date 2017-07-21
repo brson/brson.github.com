@@ -3,6 +3,110 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-07-19
+
+- [Commented on merged collections / alloc](https://github.com/rust-lang/rust/issues/43112#issuecomment-316435415)
+- 9:06 AM
+- [Filed parity resolution issue](https://github.com/paritytech/parity/issues/6101)
+- 10:29 AM
+- [Updated parity pr](https://github.com/paritytech/parity/pull/5980#issuecomment-316463893)
+- 10:52 AM
+- [Updated 1.19 relnotes](https://github.com/rust-lang/rust/pull/42503#issuecomment-316467347)
+- 10:58 AM
+- [Responded to stdx thread](https://users.rust-lang.org/t/stdx-updated-for-rust-1-19/11890/7)
+- 11:34 AM
+- Started cargobomb nightly
+- 11:41 AM
+- [Reviewed some rfc](https://github.com/rust-lang/rfcs/pull/2059#issuecomment-316502904)
+- 1:13 PM
+- Triaged cargobomb beta
+- 2:36 PM
+
+# 2017-07-18
+
+- Met with heartsucker re tuf / rustup integration
+- [Copied tuf notes into rustup issue tracker](https://github.com/rust-lang-nursery/rustup.rs/issues/241#issuecomment-316146077)
+- 11:01 AM
+- [Filed issue about rustup remove_dir_all module](https://github.com/rust-lang-nursery/rustup.rs/issues/1204)
+- 11:24 AM
+- [Posted rustup issue to twir](https://users.rust-lang.org/t/twir-call-for-participation/4821/98)
+- 11:26 AM
+- [Filed home_dir issue](https://github.com/rust-lang/rust/issues/43321)
+- 4:34 PM
+- [Created home crate](https://github.com/brson/home)
+- 5:11 PM
+- [Used home crate in rustup](https://github.com/rust-lang-nursery/rustup.rs/pull/1205)
+- 5:12 PM
+- [Reopened a guidelines pr](https://github.com/brson/rust-api-guidelines/issues/108)
+- 5:34 PM
+- [Reviewed a cookbook pr](https://github.com/brson/rust-cookbook/pull/250#issuecomment-316244585)
+- 6:21 PM
+- [Reviewed a cookbook pr](https://github.com/brson/rust-cookbook/pull/237#issuecomment-316245612)
+- Responded to alisha
+- 6:33 PM
+- Responded to travis email
+- 6:50 PM
+
+# 2017-07-17
+
+- [Commented about the original ocaml compiler](https://www.reddit.com/r/rust/comments/6nt2j1/is_there_any_existing_literature_on_the_old_ocaml/dkcesua/)
+- 11:46 AM
+- [Welcomed Ashley and Sebastian to community team](https://users.rust-lang.org/t/announcing-ashley-and-sebastian-joining-the-community-team/11883)
+- 11:58 AM
+- Started 1.19-beta.4 cargobomb
+- 1:16 PM
+- Triaged todos
+- [Published stdx 0.119.0-rc](https://users.rust-lang.org/t/stdx-updated-for-rust-1-19/11890)
+- 2:29 PM
+- 30/0:40/10
+- [Posted a guideline issue](https://github.com/brson/rust-api-guidelines/issues/106)
+- [Posted a guideline issue](https://github.com/brson/rust-api-guidelines/issues/107)
+- 3:29 PM
+- [Closed a guidelines issue](https://github.com/brson/rust-api-guidelines/issues/100)
+- 3:46 PM
+- [Commented on close conventions](https://github.com/brson/rust-api-guidelines/issues/61#issuecomment-315912117)
+- 4:16 PM
+- [Updated API guidelines](https://github.com/brson/rust-api-guidelines/pull/109)
+- 6:31 PM
+- 30/0:40/0
+- Pinged dtolnay about guidelines updates
+- 6:33 PM
+- [Commented on ? in main rfc](https://www.reddit.com/r/rust/comments/6nxg6t/the_rfc_using_in_main_just_got_merged/dkd3mpl/)
+- 7:42 PM
+- [Praised PingCAP](https://www.reddit.com/r/rust/comments/6nsfkm/this_week_in_tikv_july_10_to_july_16/dkd3q88/)
+- 7:44 PM
+- [Praised Ralf's unsafe code validation strategy](https://www.reddit.com/r/rust/comments/6nxv2w/types_as_contracts/dkd44vd/)
+- 7:53 PM
+
+# 2017-07-16
+
+- [Merged stdx fix](https://github.com/brson/stdx/pull/52)
+- 10:01 AM
+- Sent tshepang a friendly email
+- 10:21 AM
+- [Merged stdx pr](https://github.com/brson/stdx/pull/55)
+- 10:24 AM
+- [Merged stdx pr](https://github.com/brson/stdx/pull/54)
+- 10:24 AM
+- [Commented on stdx issue](https://github.com/brson/stdx/issues/53#issuecomment-315623979)
+- 10:30 AM
+- [Closed old stdx issue](https://github.com/brson/stdx/issues/19)
+- 10:31 AM
+- [Added build / test to stdx travis config](https://github.com/brson/stdx/pull/56)
+- 10:39 AM
+- [Bumped stdx deps](https://github.com/brson/stdx/pull/56)
+- 10:55 AM
+- [Reviewed skeptic PR](https://github.com/brson/rust-skeptic/pull/31#issuecomment-315626269)
+- 11:08 AM
+- [Filed skeptic bug to produce better test names](https://github.com/brson/rust-skeptic/issues/38)
+- 11:12 AM
+- [Posted skeptic issue to twir](https://users.rust-lang.org/t/twir-call-for-participation/4821/94)
+- 11:12 AM
+- [Added skeptic tests to stdx](https://github.com/brson/stdx/pull/58)
+- 11:22 AM
+- [Filed skeptic hash bug](https://github.com/brson/rust-skeptic/issues/new)
+- 11:43 AM
+
 # 2017-07-15
 
 - Worked on anthology outline
