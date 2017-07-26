@@ -3,6 +3,64 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-07-25
+
+- [Posted issue to add more external links to guidelines](https://github.com/brson/rust-api-guidelines/issues/114)
+- 1:53 PM
+- [Converted guidelines to mdbook](https://github.com/brson/rust-api-guidelines/pull/115)
+- 2:16 PM
+
+# 2017-07-24
+
+- [Comment on error-chain backtrace performance](https://internals.rust-lang.org/t/crate-evaluation-for-2017-06-27-error-chain/5362/32)
+- 10:56 AM
+- [Filed error-chain issues](https://internals.rust-lang.org/t/crate-evaluation-for-2017-06-27-error-chain/5362/35)
+- 12:07 PM
+- [Updated libz blitz op with same-file and error-chain](https://internals.rust-lang.org/t/rust-libz-blitz/5184/127)
+- 12:12 PM
+- Asked acrichto to take over discourse billing
+- 1:34 PM
+- [Merged basic-http-server pr](https://github.com/brson/basic-http-server/pull/6)
+- 1:43 PM
+- [Published basic-http-server 0.2](https://users.rust-lang.org/t/basic-http-server-0-2-0/12021)
+- 1:54 PM
+- Gave acrichto access to my projects
+- Emailed Jack about moving to servo team
+- Emailed Joanne about taking leave of absence
+- 2:22 PM
+- Rescheduled cookbook ux chat
+- 2:53 PM
+- Responded to hunter re maidsafe meetup
+- [Follewed up on env_logger](https://internals.rust-lang.org/t/out-of-band-crate-evaluation-for-2017-07-06-env-logger/5488/16)
+- 3:30 PM
+- [Merged cookbook pr](https://github.com/brson/rust-cookbook/pull/250)
+- 5:16 PM
+- [Merged cookbook pr](https://github.com/brson/rust-cookbook/pull/251)
+- 5:16 PM
+- [Merged cookbook pr](https://github.com/brson/rust-cookbook/pull/256)
+- [Merged cookbook pr](https://github.com/brson/rust-cookbook/pull/237)
+- 5:32 PM
+- [Merged cookbook pr](https://github.com/brson/rust-cookbook/pull/235)
+- 5:42 PM
+- [Merged cookbook pr](https://github.com/brson/rust-cookbook/pull/247)
+- 5:45 PM
+- [Closed cargobomb issue](https://github.com/brson/cargobomb/issues/114)
+- 5:49 PM
+- [Merged cookbook pr](https://github.com/brson/rust-cookbook/pull/255)
+- 6:07 PM
+- [Merged cookbook pr](https://github.com/brson/rust-cookbook/pull/254)
+- 6:11 PM
+- Scheduled meeting with alisha
+- 6:14 PM
+
+# 2017-07-21
+
+- Updated resume
+- Replied to imperio re rustdoc
+- 1:42 PM
+- Replied to susy research email
+- 1:59 PM
+
 # 2017-07-19
 
 - [Commented on merged collections / alloc](https://github.com/rust-lang/rust/issues/43112#issuecomment-316435415)
