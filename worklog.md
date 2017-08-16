@@ -3,6 +3,57 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-08-16
+
+- Up at 4:40 AM
+- Exercised
+- Threw away apartment junk
+- Laundered clothes
+- 2:07 PM
+- Added to master plan
+- 2:35 PM
+- Ordered gym trial membership
+- 3:27 PM
+
+# 2017-08-15
+
+- Attended physical therapy
+- Attended dentist appointment
+- Purchased laptop from work
+- Copied movies to USB
+- Copied contacts from Mozilla email
+- Installed maschine
+- Added "3 obstacles" to master plan
+- 2:24 PM
+- Wrote readme for accessing secrets
+- 2:32 PM
+
+# 2017-08-13
+
+- Updated farewell draft
+- 4:59 PM
+- Requested cobra info from Mozilla HR
+- 5:00 PM
+- Responded to aturon
+- 5:00 PM
+- Filled out new medical claims
+- 6:34 PM
+- Weekly accounting
+- 6:34 PM
+
+# 2017-08-04
+
+- Emailed graydon
+- 3:44 PM
+- Emailed alisha
+- 4:04 PM
+- Emailed Bjorn at Parity
+
+# 2017-08-03
+
+- Sent email to Andy Grover re Stratis
+- 12:08 PM
+
 # 2017-07-25
 
 - [Posted issue to add more external links to guidelines](https://github.com/brson/rust-api-guidelines/issues/114)
