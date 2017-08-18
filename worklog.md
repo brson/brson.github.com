@@ -3,6 +3,14 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-08-17
+
+- Worked on intro to cbt
+- 12:00 PM
+- Worked on cognitive cheat sheet
+- Responded to Felix
+- 8:40 PM
+
 # 2017-08-16
 
 - Up at 4:40 AM
@@ -14,6 +22,9 @@ title: brson's work log
 - 2:35 PM
 - Ordered gym trial membership
 - 3:27 PM
+- Purchased combo lock for gym
+- Emailed Alex
+- 5:00 PM
 
 # 2017-08-15
 
