@@ -3,6 +3,14 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-08-18
+
+- Resigned from Mozilla
+- Posted public farewell message
+- Attended rustconf hallway track
+- Worked on blog
+- 11:18 AM
+
 # 2017-08-17
 
 - Worked on intro to cbt
