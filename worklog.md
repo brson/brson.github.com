@@ -3,6 +3,26 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-08-21
+
+- Exited bed
+- 4:00 AM
+- Exercised at gym
+- 7:00 AM
+- Attended physical therapy
+- 9:30 AM
+- Watch eclipse-watchers
+- 11:00 AM
+- Transcribed more 'intro to cbt'
+- 11:36 AM
+
+# 2017-08-20
+
+- Breakfasted with Niko
+- Brainstormed 'ThoughtLink Assistant'
+- Thanked parents for dried fruit basket
+- 6:26 PM
+
 # 2017-08-18
 
 - Resigned from Mozilla
