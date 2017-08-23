@@ -3,6 +3,23 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-08-22
+
+- Exited bed
+- 4:20 AM
+- Exercised at gym
+- 7:30 AM
+- Brainstormed in park
+- 10:00 AM
+- Backed up secrets
+- 1:10 PM
+- Practiced spanish
+- 1:45 PM
+- Practiced spanish
+- 4:29 PM
+- Researched spanish verbs
+- 4:57 PM
+
 # 2017-08-21
 
 - Exited bed
@@ -15,6 +32,28 @@ title: brson's work log
 - 11:00 AM
 - Transcribed more 'intro to cbt'
 - 11:36 AM
+- Responded to budziq re skeptic
+- 12:30 PM
+- Responded to mw
+- 12:30 PM
+- Responded to mom
+- 12:33 PM
+- Accepted a linkedin invite
+- 12:33 PM
+- Reviewed felton airbnb host
+- 12:41 PM
+- Responded to _
+- 1:10 PM
+- Responded to Tim Kuehn
+- 1:34 PM
+- Attended dentist appointment for cavity filling
+- Purchased groceries
+- 5:07 PM
+- Sent emails to Dan and Alon
+- 5:45 PM
+- Emailed cmr
+- Emailed vikrant
+- 6:20 PM
 
 # 2017-08-20
 
