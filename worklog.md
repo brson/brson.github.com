@@ -3,6 +3,33 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-08-24
+
+- Transcribed cba for 'having an inferiority complex'
+- 11:20 AM
+- Wrote email re SSRI efficacy
+- 11:53 AM
+- Poked at master plan
+- 12:05 PM
+- Transcribed a journal entry
+- 12:22 PM
+- Set up meeting with Tim Kuehn
+- 12:30 PM
+- Worked on thoughtlink
+- Wrote about getting started with Foundation
+- 4:43 PM
+
+# 2017-05-23
+
+- Attended physical therapy
+- 9:00 AM
+- Submitted laptop for reimaging
+- 11:00 AM
+- Wrote CBA for 'having an inferiority complex'
+- 1:20 PM
+- Read some '10 days to self esteem'
+- 1:00 PM
+
 # 2017-08-22
 
 - Exited bed
