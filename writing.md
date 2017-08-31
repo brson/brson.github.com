@@ -101,7 +101,7 @@ of the pieces I've written.
   well.
 
 [0.1]: https://mail.mozilla.org/pipermail/rust-dev/2012-January/001256.html
-[151]: https://internals.rust-lang.org/t/rust-ci-release-infrastructure-changes/4489
+[151]: https://blog.rust-lang.org/2017/02/09/Rust-1.15.1.html
 [astd]: https://github.com/brson/annotated-std-rs/commit/e50c2b16455ceff29488bf1f058b6c10906ef990
 [bb]: https://brson.github.io/the-end-of-unsafety/#/BAL
 [blitz1]: https://blog.rust-lang.org/2017/05/05/libz-blitz.html

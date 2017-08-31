@@ -3,6 +3,114 @@ layout: basic
 title: brson's work log
 ---
 
+# 2017-08-29
+
+- Attended physical therapy
+- 9:00 AM
+- Triaged todos
+- 12:08 PM
+- Triaged personal emails
+- 12:50 PM
+- 0/40:0/30
+- Responded to aturon re rustfest
+- 12:57 PM
+- 0/30:0/10
+- Confirmed medical claims
+- 1:04 PM
+- 0/40:0/10
+- Confirmed dental claims
+- 1:09 PM
+- 0/10:0/0
+- Triaged mozilla emails
+- 1:09 PM
+- 0/70:0/40
+- Filled out intake form
+- 2:31 PM
+- Created new recovery email account
+- 2:54 PM
+- 0/20:0/10
+- Responded to spanish tutor
+- 3:09 PM
+- Responded to recruiter
+- 3:09 PM
+- Read mozilla departure email
+- 3:41 PM
+- 0/60:0/10
+- Investigated Mozilla 401k contact info
+- 3:49 PM
+- 0/50:0/0
+- Wrote shopping list
+- 3:49 PM
+- Planned tomorrow's hike
+- Researched camping sites
+- 4:17 PM
+
+# 2017-08-28
+
+- Exited bed
+- 4:10 AM
+- Exited house
+- 4:33 AM
+- Gymmed 3 hours
+- 8:00 AM
+- Meditated 38 minutes
+- 10:25
+- Read some pride and prejudice
+
+# 2017-08-26
+
+- Exited bed
+- 4:20 AM
+- Exited house
+- 4:36 AM
+- Gymmed
+- 8:00 AM
+- Responded to an email
+- 9:54 AM
+- Responded to spanish tutor
+- 10:18 AM
+- Transcribed some journals
+- 3:09 PM
+- 0/0:0/0
+- Emailed sister
+- 3:10 PM
+- Ordered second water bottle
+- 3:21 PM
+- 50/0:0/0
+- Practiced spanish
+- 4:16 PM
+- 30/0:30/0
+- Responded to spanish tutor
+- 4:18 PM
+- 10/30:0/20
+- Responded to graydon
+- Responded to spanish tutor
+- Responded to mom
+- 6:00 PM
+- Responded to Federico
+- 6:01 PM
+
+# 2017-08-25
+
+- Exited bed
+- 4:18 AM
+- Exited house
+- 4:34 AM
+- Gymmed
+- 7:20 AM
+- Meditated in park
+- 9:40 AM
+- Read some pride and prejudice
+- 11:00 AM
+- Sketched 'who I want to be'
+- 1:34 PM
+- Drew a picture
+- 3:10 PM
+- Cooked dinner
+- 5:25
+- Transcibed daily notes
+- 5:27 PM
+
 # 2017-08-24
 
 - Transcribed cba for 'having an inferiority complex'
@@ -18,6 +126,16 @@ title: brson's work log
 - Worked on thoughtlink
 - Wrote about getting started with Foundation
 - 4:43 PM
+- 50/0:40/30
+- Laundered clothes
+- 4:44 PM
+- 0/0:0/0
+- Practiced spanish
+- 5:07 PM
+- 30/:20/0
+- Contacted a spanish tutor
+- 5:39 PM
+- 0/30:10/0
 
 # 2017-05-23
 
