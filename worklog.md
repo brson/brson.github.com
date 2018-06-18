@@ -3,6 +3,55 @@ layout: basic
 title: brson's work log
 ---
 
+# 2018-06-17
+
+- [Posted installer updates to rust-www](https://github.com/rust-lang/rust-www/pull/1128)
+- [Posted installer updates to rustup.rs](https://github.com/rust-lang-nursery/rustup.rs/pull/1437)
+- [Posted PR to add armv7 to rust installers](https://github.com/rust-lang/rust-www/pull/1129)
+
+# 2018-02-18
+
+- [Merged fixe for cargo-crusader](https://github.com/brson/cargo-crusader/pull/9)
+- 8:56 PM
+- Followed up on security@
+- 9:21 PM
+
+# 2018-02-16
+
+- [Commented on xdg rfc](https://github.com/rust-lang/rfcs/pull/1615#issuecomment-381733174)
+- 1:14 PM
+
+# 2018-02-15
+
+- Reportetd $security-bug to security@rust-lang.org
+- 12:00 PM
+- Followed up on security bug
+- 1:15 PM
+- [Posted massive screed about supporting rustup with platform-aware cargo](https://github.com/rust-lang/cargo/pull/5183#issuecomment-381449546)
+- 7:40 PM
+- [Proposed deprecating env::home_dir](https://internals.rust-lang.org/t/deprecate-or-break-fix-std-env-home-dir/7315)
+- 6:56 PM
+- [Commented on platform-specific dir RFC](https://github.com/rust-lang/rfcs/pull/1615#issuecomment-381465191)
+- 7:48 PM
+- [Commented on cargo platform-dirs bug](https://github.com/rust-lang/cargo/pull/5183#issuecomment-381484184)
+- 10:32 PM
+- [Commented on home_dir suckage](https://internals.rust-lang.org/t/deprecate-or-break-fix-std-env-home-dir/7315/8?u=brson)
+- 10:37 PM
+
+# 2018-02-11
+
+- [Commented on TiDB blog post](https://www.reddit.com/r/rust/comments/89boun/blitzscaling_the_largest_dockless_bikesharing/dwr6erl/)
+- 2:11 PM
+- [Commented on llogiq's blog post](https://www.reddit.com/r/rust/comments/89d4sf/blog_cutting_corners_vs_productivity/dwr6m77/)
+- 2:14 PM
+- [Commented on MesaLink](https://www.reddit.com/r/rust/comments/89aiyw/mesalink_a_memorysafe_and_opensslcompatible_tls/dwr7n51/)
+- 2:28 PM
+
+# 2018-04-14
+
+- [Commented on XDG RFC](https://github.com/rust-lang/rfcs/pull/1615#issuecomment-381367076)
+- 4:10 PM
+
 # 2017-08-29
 
 - Attended physical therapy
