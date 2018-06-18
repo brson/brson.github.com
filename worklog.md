@@ -9,19 +9,19 @@ title: brson's work log
 - [Posted installer updates to rustup.rs](https://github.com/rust-lang-nursery/rustup.rs/pull/1437)
 - [Posted PR to add armv7 to rust installers](https://github.com/rust-lang/rust-www/pull/1129)
 
-# 2018-02-18
+# 2018-04-18
 
 - [Merged fixe for cargo-crusader](https://github.com/brson/cargo-crusader/pull/9)
 - 8:56 PM
 - Followed up on security@
 - 9:21 PM
 
-# 2018-02-16
+# 2018-04-16
 
 - [Commented on xdg rfc](https://github.com/rust-lang/rfcs/pull/1615#issuecomment-381733174)
 - 1:14 PM
 
-# 2018-02-15
+# 2018-04-15
 
 - Reportetd $security-bug to security@rust-lang.org
 - 12:00 PM
@@ -38,7 +38,7 @@ title: brson's work log
 - [Commented on home_dir suckage](https://internals.rust-lang.org/t/deprecate-or-break-fix-std-env-home-dir/7315/8?u=brson)
 - 10:37 PM
 
-# 2018-02-11
+# 2018-04-11
 
 - [Commented on TiDB blog post](https://www.reddit.com/r/rust/comments/89boun/blitzscaling_the_largest_dockless_bikesharing/dwr6erl/)
 - 2:11 PM
@@ -47,7 +47,7 @@ title: brson's work log
 - [Commented on MesaLink](https://www.reddit.com/r/rust/comments/89aiyw/mesalink_a_memorysafe_and_opensslcompatible_tls/dwr7n51/)
 - 2:28 PM
 
-# 2018-04-14
+# 2018-04-10
 
 - [Commented on XDG RFC](https://github.com/rust-lang/rfcs/pull/1615#issuecomment-381367076)
 - 4:10 PM
