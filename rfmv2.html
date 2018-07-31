@@ -1,0 +1,1313 @@
+<style>
+html {
+box-sizing: border-box;
+}
+*, *:before, *:after {
+box-sizing: inherit;
+}
+body {
+margin: 2rem;
+max-width: 800px;
+margin-left: auto;
+margin-right: auto;
+}
+h1, h2, h3 {
+margin-top: 2rem;
+margin-left: -0.5rem;
+padding-left: 0.5rem;
+padding-bottom: 0.25rem;
+}
+h1 {
+border-bottom: 2px solid black;
+border-left: 4px solid black;
+}
+h2 {
+border-bottom: 1px solid black;
+border-left: 2px solid black;
+}
+h3 {
+border-bottom: 1px solid gray;
+border-left: 2px solid gray;
+}
+blockquote h1, blockquote h2, blockquote h3 {
+border: 0px;
+}
+blockquote {
+font-size: 1rem;
+background-color: #FFF0FF;
+border: 1px solid #FFC0FF;
+padding: 1rem;
+overflow: hidden;
+margin: 1rem 0px 1rem 0px;
+}
+blockquote blockquote {
+background-color: #F0FFFF;
+border: 1px solid #C0FFFF;
+}
+blockquote blockquote blockquote {
+background-color: #FFFFF0;
+border: 1px solid #FFFFC0;
+}
+table, code, pre, p {
+font-size: 12pt;
+}
+</style>
+<h1>New-Reddit-flavored Markdown</h1>
+<p>A guide to Reddit-flavored Markdown, updated for the New-Reddit, and
+current as of 2018/07/11.</p>
+<ul>
+<li><a href="#about">About this document</a></li>
+<li><a href="#quick">Quick reference</a></li>
+<li><a href="#where">Where to use markdown in Reddit</a></li>
+<li><a href="#syntax">Reddit-flavored Markdown syntax</a>
+<ul>
+<li><a href="#para">Paragraphs and line breaks</a></li>
+<li><a href="#basic">Basic text formatting</a></li>
+<li><a href="#links">Links</a></li>
+<li><a href="#headings">Headings</a></li>
+<li><a href="#lists">Lists</a></li>
+<li><a href="#bq">Blockquotes</a></li>
+<li><a href="#tables">Tables</a></li>
+<li><a href="#code">Code blocks and inline code</a></li>
+<li><a href="#hr">Horizontal rules</a></li>
+</ul>
+</li>
+<li><a href="#tricks">More tips and tricks</a>
+<ul>
+<li><a href="#esc">Escaping Markdown syntax</a></li>
+<li><a href="#ents">HTML entities</a></li>
+<li><a href="#bots">Tips for robots</a></li>
+</ul>
+</li>
+<li><a href="#rec">Reddit-flavored Markdown recommended practices</a></li>
+<li><a href="#legacy">Writing Markdown that is compatible with Legacy Reddit</a></li>
+<li><a href="#md">More about Markdown at Reddit</a></li>
+<li><a href="#diff">Differences between Legacy Reddit, New-Reddit, and CommonMark</a></li>
+<li><a href="#cred">Credits and further reading</a></li>
+<li><a href="#cont">Contributing to this document</a></li>
+</ul>
+<a id="about"/>
+<h2>About this document</h2>
+<p>As New-Reddit has rolled out, people have often noted differences in
+how content is <a href="https://en.wikipedia.org/wiki/Parsing">parsed</a> and <a href="https://en.wikipedia.org/wiki/Rendering_(computer_graphics)">rendered</a> between &quot;legacy&quot; Reddit and New
+Reddit. Content on Reddit - comments, self-posts, and otherwise - is
+represented as a Reddit-specific variation of the <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> format,
+and that format has changed in New-Reddit.</p>
+<p>This is a guide to Reddit-flavored Markdown, explaining generally how
+to format comments on New-Reddit, and specifically identifying areas
+where New-Reddit-flavored Markdown is different from Legacy
+Reddit-flavored markdown.</p>
+<p>Within, examples are presented as pairs showing first how the Markdown
+is <strong>written</strong> in the editor, then as it is <strong>rendered</strong>, or presented
+on the screen. Important <em>New-Reddit notes</em> about differences between New
+Reddit-flavored Markdown and Legacy Reddit-flavored markdown are
+called out in italicized paragraphs marked with the flour-de-lis (⚜️),
+and general <em>tips</em> with the crystal ball (🔮).</p>
+<p>For more technical details see <a href="#md">&quot;More about Markdown in Reddit&quot;</a>,
+and <a href="#diff">&quot;Differences between Legacy Reddit, New-Reddit, and
+CommonMark&quot;</a>.</p>
+<p>Some of the content of this document is lifted directly from the
+previous work of others. See <a href="#cred">&quot;Credits and further reading&quot;</a> for
+details and links.</p>
+<a id="quick"/>
+<h2>Quick reference</h2>
+<p>A condensed cheat-sheet of common Markdown syntax. Read beyond for
+details.</p>
+<p><a href="http://commonmark.org/help/">http://commonmark.org/help/</a></p>
+<h3>Compatibility syntaxes</h3>
+<h3>Alternate syntaxes</h3>
+<a id="where"/>
+<h2>Where to use Markdown in Reddit</h2>
+<a id="syntax"/>
+<h2>Reddit-flavored Markdown syntax</h2>
+<a id="para"/>
+<h3>Paragraphs and line breaks</h3>
+<p><em>Paragraphs</em> on Reddit are lines of text separated by blank lines.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>People think a soul mate is your perfect fit, and that's what
+everyone wants. But a true soul mate is a mirror, the person who shows
+you everything that is holding you back, the person who brings you to
+your own attention so you can change your life.
+
+A true soul mate is probably the most important person you'll ever
+meet, because they tear down your walls and smack you awake. But to
+live with a soul mate forever? Nah. Too painful. Soul mates, they come
+into your life just to reveal another layer of yourself to you, and
+then leave.
+
+A soul mate's purpose is to shake you up, tear apart your ego a
+little bit, show you your obstacles and addictions, break your heart
+open so new light can get in, make you so desperate and out of control
+that you have to transform your life, then introduce you to your
+spiritual master...
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>People think a soul mate is your perfect fit, and that's what
+everyone wants. But a true soul mate is a mirror, the person who shows
+you everything that is holding you back, the person who brings you to
+your own attention so you can change your life.</p>
+<p>A true soul mate is probably the most important person you'll ever
+meet, because they tear down your walls and smack you awake. But to
+live with a soul mate forever? Nah. Too painful. Soul mates, they come
+into your life just to reveal another layer of yourself to you, and
+then leave.</p>
+<p>A soul mate's purpose is to shake you up, tear apart your ego a
+little bit, show you your obstacles and addictions, break your heart
+open so new light can get in, make you so desperate and out of control
+that you have to transform your life, then introduce you to your
+spiritual master...</p>
+</blockquote>
+<a id="hb"/>
+<p>Note that <em>line breaks</em> are not displayed - that is, adjacent lines are
+concatenated together to create a single paragraph. Line breaks can be
+added explitly by ending lines with a backslash (&quot;\&quot;), or with two
+spaces.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>Out beyond ideas of wrongdoing\
+and rightdoing there is a field.\
+I'll meet you there.
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>Out beyond ideas of wrongdoing<br />
+and rightdoing there is a field.<br />
+I'll meet you there.</p>
+</blockquote>
+<p><strong>Written</strong>  (<em>note the double spaces</em>):</p>
+<blockquote>
+<pre><code>Love is the whole thing.  
+We are only pieces.
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>Love is the whole thing.<br />
+We are only pieces.</p>
+</blockquote>
+<p>⚜️ <em><strong>New-Reddit note</strong>: Creating linebreaks with backslash only works in
+new Reddit. While the backslash is clearer to read and write than two
+spaces, if you need compatibility with Legacy Reddit, prefer two
+spaces.</em></p>
+<p>Paragraphs are separated by any number of blank lines, and those blank
+lines are not themselves rendered, thus one can't add an arbitrary
+amount of space between paragraphs simply by adding extra blank lines.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>Be empty of worrying.\
+Think of who created thought!
+
+
+
+Why do you stay in prison\
+When the door is so wide open?
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>Be empty of worrying.<br />
+Think of who created thought!</p>
+<p>Why do you stay in prison<br />
+When the door is so wide open?</p>
+</blockquote>
+<p>🔮 <em><strong>Tip</strong>: A trick for inserting blanks lines is to create a
+paragraph containing nothing but <a href="https://en.wikipedia.org/wiki/Non-breaking_space">&quot;non-breaking space&quot;</a>.</em></p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>Be empty of worrying.\
+Think of who created thought!
+
+&amp;nbsp;
+
+Why do you stay in prison\
+When the door is so wide open?
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>Be empty of worrying.<br />
+Think of who created thought!</p>
+<p> <br />
+ </p>
+<p>Why do you stay in prison<br />
+When the door is so wide open?</p>
+</blockquote>
+<a id="basic"/>
+<h3>Basic text formatting</h3>
+<p><em>Italic</em> text is represented by surrounding text with either a single asterisk (<code>*</code>) or underscore (<code>_</code>).</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>It is *error* only, and not _truth_, that shrinks from inquiry
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>It is <em>error</em> only, and not <em>truth</em>, that shrinks from inquiry</p>
+</blockquote>
+<p><em>Bold</em> text is represented by surrounding text with either double asterisks (<code>**</code>) or double underscores (<code>__</code>).</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>It is **error** only, and not __truth__, that shrinks from inquiry
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>It is <strong>error</strong> only, and not <strong>truth</strong>, that shrinks from inquiry</p>
+</blockquote>
+<p><em>Bold-italic</em> text is represented by surrounding text with either triple asterisks (<code>***</code>) or triple underscores (<code>___</code>).</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>It is ***error*** only, and not ___truth___, that shrinks from inquiry
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>It is <em><strong>error</strong></em> only, and not <em><strong>truth</strong></em>, that shrinks from inquiry</p>
+</blockquote>
+<a id="strike"/>
+<p><em>Strikethrough</em> text is represented by surrounding text with double tildes (<code>~~</code>).</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>The greatest thing you'll ever learn is just to
+~~love~~ reddit and be ~~loved~~ reddited in return.
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>The greatest thing you'll ever learn is just to
+~~love~~ reddit and be ~~loved~~ reddited in return.</p>
+</blockquote>
+<a id="spoil"/>
+<p>Spoilers can be hidden as <em>spoilertext</em> by surrounding text with <code>&gt;!</code>
+and <code>!&lt;</code>.</p>
+<blockquote>
+<pre><code>The greatest thing you'll ever learn is just to
+&gt;!love and be loved in return!&lt;.
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>The greatest thing you'll ever learn is just to</p>
+<blockquote>
+<p>!love and be loved in return!&lt;.</p>
+</blockquote>
+</blockquote>
+<a id="super"/>
+<p><em>Superscript</em> is represented by surrounding text in parentheses preceded by a caret (<code>^</code>).</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>The greatest thing you'll ever learn is just to
+reddit ^(and be reddited in return).
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>The greatest thing you'll ever learn is just to
+reddit ^(and be reddited in return).</p>
+</blockquote>
+<p>A single word can also be superscripted by preceding it with just a caret.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>The greatest thing you'll ever learn is just to
+^reddit and be ^reddited in return.
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>The greatest thing you'll ever learn is just to
+^reddit and be ^reddited in return.</p>
+</blockquote>
+<p>⚜️ <em><strong>New-Reddit note</strong>: There are significant differences in the parsing
+of superscript between Legacy Reddit and New-Reddit. Legacy Reddit in
+particular often failed to parse the parethnesized superscript syntax
+reasonably. And New-Reddit does not (yet) support multiple levels of
+superscript.</em></p>
+<p>🔮 <em><strong>Tip</strong>: For superscript compatibility between Legacy and
+New-Reddit, stick to the single-word, unparenthesized superscript syntax
+and superscript every word, or alternately separate words with
+<a href="https://en.wikipedia.org/wiki/Non-breaking_space">&quot;non-breaking space&quot;</a> HTML entities (<code>&amp;nbsp;</code>).</em></p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>The greatest thing you'll ever learn is just to
+reddit ^and ^be ^reddited ^in ^return.
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>The greatest thing you'll ever learn is just to
+reddit ^and ^be ^reddited ^in ^return.</p>
+</blockquote>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>The greatest thing you'll ever learn is just to
+reddit ^and&amp;nbsp;be&amp;nbsp;reddited&amp;nbsp;in&amp;nbsp;return.
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>The greatest thing you'll ever learn is just to
+reddit ^and be reddited in return.</p>
+</blockquote>
+<a id="links"/>
+<h3>Links</h3>
+<a id="rlinks"/>
+<p><a href="https://en.wikipedia.org/wiki/URL">URLs</a> beginning with &quot;http://&quot;, &quot;https://&quot;, or &quot;www.&quot; are
+automatically <a href="https://en.wikipedia.org/wiki/Hyperlink">hyperlinked</a>, as are subreddit names (&quot;/r/rust&quot;,
+&quot;r/rust&quot;), and user names (&quot;/u/spez&quot; and &quot;u/spez&quot;). The latter are
+known as &quot;redditlinks&quot; and &quot;userlinks&quot;. Collectively these are known
+as &quot;autolinks&quot;.</p>
+<table>
+<thead>
+<tr>
+<th>Written</th>
+<th>Rendered</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>http://www.reddit.com</code></td>
+<td><a href="http://www.reddit.com">http://www.reddit.com</a></td>
+</tr>
+<tr>
+<td><code>https://www.reddit.com</code></td>
+<td><a href="https://www.reddit.com">https://www.reddit.com</a></td>
+</tr>
+<tr>
+<td><code>www.reddit.com</code></td>
+<td><a href="http://www.reddit.com">www.reddit.com</a></td>
+</tr>
+<tr>
+<td><code>/r/rust</code></td>
+<td>/r/rust</td>
+</tr>
+<tr>
+<td><code>r/rust</code></td>
+<td>r/rust</td>
+</tr>
+<tr>
+<td><code>/u/spez</code></td>
+<td>/u/spez</td>
+</tr>
+<tr>
+<td><code>u/spez</code></td>
+<td>u/spez</td>
+</tr></tbody></table>
+<p>🔮 <em><strong>Tip</strong>: Complex URLs can parse in unexpected ways as
+autolinks. When you find a URL isn't linking correctly, you can
+instead surround the link with angled brackets (<code>&lt;</code>, <code>&gt;</code>).</em></p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>&lt;http://example.com/foo/../bar..&gt;
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p><a href="http://example.com/foo/../bar..">http://example.com/foo/../bar..</a></p>
+</blockquote>
+<p>Arbitrary text can be explicitly hyperlinked by surrounding it with
+square brackets, followed by a URL in parenthesis. The link can
+optionally be given a &quot;title&quot;, which is typically shown by the browser
+when the user hovers their mouse over the link.</p>
+<p>The title must be surrounded by single quotes, double quotes, or
+parenthesis.</p>
+<table>
+<thead>
+<tr>
+<th>Written</th>
+<th>Rendered</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>[Rumi](https://en.wikipedia.org/wiki/Rumi)</code></td>
+<td><a href="https://en.wikipedia.org/wiki/Rumi">Rumi</a></td>
+</tr>
+<tr>
+<td><code>[Zappa](https://en.wikipedia.org/wiki/Frank_Zappa &quot;Frank Zappa - Wikipedia&quot;)</code></td>
+<td><a href="https://en.wikipedia.org/wiki/Frank_Zappa" title="Frank Zappa">Zappa</a></td>
+</tr>
+<tr>
+<td><code>[Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi 'Mahatma Gandhi - Wikipedia')</code></td>
+<td><a href="https://en.wikipedia.org/wiki/Mahatma_Gandhi" title="Mahatma Gandhi - Wikipedia">Gandhi</a></td>
+</tr>
+<tr>
+<td><code>[Twain](https://en.wikipedia.org/wiki/Mark_Twain (Mark Twain - Wikipedia))</code></td>
+<td><a href="https://en.wikipedia.org/wiki/Mark_Twain" title="Mark Twain - Wikipedia">Twain</a></td>
+</tr></tbody></table>
+<p>⚜️ <em><strong>New-Reddit note</strong>: Titles surrounded by paretheses are only
+supported in New-Reddit. For compatibility prefer quotes.</em></p>
+<p>Links my also be defined as &quot;references&quot;, outside of the paragraph.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>[Very little] is needed to make a happy life;
+it is all within yourself, in your [way of thinking][wot].
+
+[Very little]: https://www.reddit.com/r/Meditation/
+[wot]: https://psychonautwiki.org/
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p><a href="https://www.reddit.com/r/Meditation/">Very little</a> is needed to make a happy life;
+it is all within yourself, in your <a href="https://psychonautwiki.org/">way of thinking</a>.</p>
+</blockquote>
+<p>By default the reference name is the same as the text in brackets, but
+the reference can be named explicitly within a second set of brackets,
+as in <code>[way of thinking][wot]</code>. Like inline links, reference links can
+have titles.</p>
+<p>🔮 <em><strong>Tip</strong>: Reference-style links are especially useful for
+decluttering text with many links.</em></p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>Somewhere in [la Mancha][lm], in a place whose name I do not care to
+remember, a gentleman lived not long ago, one of those who has a
+[lance] and [ancient shield][as] on a shelf and keeps a [skinny nag][sn]
+and a greyhound for racing.
+
+[lm]: https://en.wikipedia.org/wiki/La_Mancha
+[lance]: https://en.wikipedia.org/wiki/Holy_Lance &quot;Holy Lance - Wikipedia&quot;
+[as]: http://myarmoury.com/feature_shield.html 'The Shield: An Abridged History of its Use and Development'
+[sn]: https://en.wikipedia.org/wiki/Epona (Epona - Wikipedia)
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>Somewhere in <a href="https://en.wikipedia.org/wiki/La_Mancha">la Mancha</a>, in a place whose name I do not care to
+remember, a gentleman lived not long ago, one of those who has a
+<a href="https://en.wikipedia.org/wiki/Holy_Lance" title="Holy Lance - Wikipedia">lance</a> and <a href="http://myarmoury.com/feature_shield.html" title="The Shield: An Abridged History of its Use and Development">ancient shield</a> on a shelf and keeps a <a href="https://en.wikipedia.org/wiki/Epona" title="Epona - Wikipedia">skinny nag</a>
+and a greyhound for racing.</p>
+</blockquote>
+<p>🔮 <em><strong>Tip</strong>: Note that links can only contain parentheses if
+they are &quot;balanced&quot;, that is, if every &quot;(&quot; is later followed by &quot;)&quot;.
+To link to a URL with unbalanced parentheses, either <a href="https://en.wikipedia.org/wiki/Escape_character">escape</a> the
+parenthesis with backslash (&quot;\&quot;), or use the alternate linking syntax,
+enclosing the URL in matched angle brackets, &quot;&lt;&quot; and &quot;&gt;&quot;.</em></p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>[Parenthesis](https://en.wikipedia.org/wiki/\()
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p><a href="https://en.wikipedia.org/wiki/(">Parenthesis</a></p>
+</blockquote>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>[Parenthesis](&lt;https://en.wikipedia.org/wiki/(&gt;)
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p><a href="https://en.wikipedia.org/wiki/(">Parenthesis</a></p>
+</blockquote>
+<p>On Reddit links generally must include the <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Identifier">URI scheme</a>, like
+&quot;https://&quot;, so instead of writing <code>[a](www.example.com)</code>, write
+<code>[a](https://example.com)</code>.</p>
+<p>The full set of prefixes accepted in URLs is &quot;http://&quot;, &quot;https://&quot;,
+&quot;ftp://&quot;, &quot;mailto:&quot;, &quot;git://&quot;, &quot;steam://&quot;, &quot;irc://&quot;, &quot;news://&quot;,
+&quot;mumble://&quot;, &quot;ssh://&quot;, &quot;ircs://&quot;, &quot;ts3server://&quot;, &quot;/&quot;, &quot;#&quot;.</p>
+<a id="headings"/>
+<h3>Headings</h3>
+<p>Section <em>headings</em> have six levels and are written with leading hashes (<code>#</code>).</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code># Domain
+
+## Kingdom
+
+### Phylum
+
+#### Class
+
+##### Order
+
+###### Family
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<h1>Domain</h1>
+<h2>Kingdom</h2>
+<h3>Phylum</h3>
+<h4>Class</h4>
+<h5>Order</h5>
+<h6>Family</h6>
+</blockquote>
+<p>Level 1 and 2 headers can also be written by underlining the header
+text with &quot;=&quot; and &quot;-&quot; respectively.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>Domain
+======
+
+Kingdom
+-------
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<h1>Domain</h1>
+<h2>Kingdom</h2>
+</blockquote>
+<a id="lists"/>
+<h3>Lists</h3>
+<p>Lists may be <em>unordered</em> (bulleted) or <em>ordered</em> (numbered).</p>
+<p>Unordered lists consist of lines preceded by either a &quot;-&quot; or &quot;*&quot;.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>- Agamemnon
+- The Libation Bearers
+- Eumenides
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<ul>
+<li>Agamemnon</li>
+<li>The Libation Bearers</li>
+<li>Eumenides</li>
+</ul>
+</blockquote>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>* Agamemnon
+* The Libation Bearers
+* Eumenides
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<ul>
+<li>Agamemnon</li>
+<li>The Libation Bearers</li>
+<li>Eumenides</li>
+</ul>
+</blockquote>
+<a id="ol"/>
+<p>Unordered lists consist of numbered lines delimited by either &quot;.&quot; or &quot;)&quot;.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>1. Agamemnon
+2. The Libation Bearers
+3. Eumenides
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<ol>
+<li>Agamemnon</li>
+<li>The Libation Bearers</li>
+<li>Eumenides</li>
+</ol>
+</blockquote>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>1) Agamemnon
+2) The Libation Bearers
+3) Eumenides
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<ol>
+<li>Agamemnon</li>
+<li>The Libation Bearers</li>
+<li>Eumenides</li>
+</ol>
+</blockquote>
+<p>⚜️ <em><strong>New-Reddit note</strong>: Using &quot;)&quot; to delimit ordered lists only works
+in New-Reddit. For compatibility with Legacy Reddit use &quot;.&quot;.</em></p>
+<p>On Reddit, ordered lists must start with &quot;1&quot;.</p>
+<p>Besides the numbering, unordered and ordered lists are otherwise
+generaly parsed the same, so the remaining examples will use unordered
+lists for simplicity.</p>
+<p>Each individual entry in a list is called an <em>item</em>. Items can have
+any amount of space between them. Adding space can make complex list
+items more readable while editing.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>- Agamemnon
+
+- The Libation Bearers
+
+
+- Eumenides
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<ul>
+<li>
+<p>Agamemnon</p>
+</li>
+<li>
+<p>The Libation Bearers</p>
+</li>
+<li>
+<p>Eumenides</p>
+</li>
+</ul>
+</blockquote>
+<p>List items may contain sublists.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>- Homer
+  - The Illiad
+  - The Odyssey
+- Aeschylus
+  - Agamemnon
+  - The Libation Bearers
+  - Eumenides
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<ul>
+<li>Homer
+<ul>
+<li>The Illiad</li>
+<li>The Odyssey</li>
+</ul>
+</li>
+<li>Aeschylus
+<ul>
+<li>Agamemnon</li>
+<li>The Libation Bearers</li>
+<li>Eumenides</li>
+</ul>
+</li>
+</ul>
+</blockquote>
+<p>Note that sublists of unordered list items must be preceded by at
+least two spaces, while sublists of ordered list items must be
+preceded by at least three spaces.</p>
+<p>Lists may contain their own paragraphs, blockquotes, and other
+types of content.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>- First of all: Lorem ipsum dolor sit amet, consectetur adipiscing
+  elit.
+
+  &gt; Fusce hendrerit, nunc quis rhoncus tristique, neque augue ornare
+  &gt; enim, ut aliquam libero diam et ligula. Aliquam sagittis sem sed
+  &gt; rutrum luctus. Nunc massa est, egestas eget massa id, lacinia
+  &gt; pretium dui. Nam eget consequat eros, eget commodo urna.
+
+- But secondly: Phasellus vitae libero sit amet orci tempor lacinia
+  sed at tellus. Curabitur sit amet nibh elit. Quisque pulvinar odio
+  sapien, et condimentum velit convallis et.
+
+  ### Lipsum facts
+
+  |Lorem|Ipsum|Dolor|
+  |-----|-----|-----|
+  |8    |1    |3    |
+  |3    |7    |8    |
+
+  Aenean at dui in sapien sagittis sodales.
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<ul>
+<li>
+<p>First of all: Lorem ipsum dolor sit amet, consectetur adipiscing
+elit.</p>
+<blockquote>
+<p>Fusce hendrerit, nunc quis rhoncus tristique, neque augue ornare
+enim, ut aliquam libero diam et ligula. Aliquam sagittis sem sed
+rutrum luctus. Nunc massa est, egestas eget massa id, lacinia
+pretium dui. Nam eget consequat eros, eget commodo urna.</p>
+</blockquote>
+</li>
+<li>
+<p>But secondly: Phasellus vitae libero sit amet orci tempor lacinia
+sed at tellus. Curabitur sit amet nibh elit. Quisque pulvinar odio
+sapien, et condimentum velit convallis et.</p>
+<h3>Lipsum facts</h3>
+<table>
+<thead>
+<tr>
+<th>Lorem</th>
+<th>Ipsum</th>
+<th>Dolor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>7</td>
+<td>8</td>
+</tr></tbody></table>
+<p>Aenean at dui in sapien sagittis sodales.</p>
+</li>
+</ul>
+</blockquote>
+<a id="bq"/>
+<h2>Blockquotes</h2>
+<p><em>Blockquotes</em> are a way to quote large amount of text (and Markdown).
+They are created by beginning a line with a right pointy-bracket
+(<code>&gt;</code>).</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>&gt; It's so hard to forget pain, but it's even harder to
+remember sweetness. We have no scar to show for happiness.
+We learn so little from peace.
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<blockquote>
+<p>It's so hard to forget pain, but it's even harder to
+remember sweetness. We have no scar to show for happiness.
+We learn so little from peace.</p>
+</blockquote>
+</blockquote>
+<p>For simple quotes it's sufficient just to begin the first line of a
+paragraph with <code>&gt;</code>, as above, and the whole thing will be blockquoted.</p>
+<p>For more complex blockquotes, precede every line with <code>&gt;</code>.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>&gt; - First of all: Lorem ipsum dolor sit amet, consectetur adipiscing
+&gt;   elit.
+&gt;
+&gt;   &gt; Fusce hendrerit, nunc quis rhoncus tristique, neque augue ornare
+&gt;   &gt; enim, ut aliquam libero diam et ligula. Aliquam sagittis sem sed
+&gt;   &gt; rutrum luctus. Nunc massa est, egestas eget massa id, lacinia
+&gt;   &gt; pretium dui. Nam eget consequat eros, eget commodo urna.
+&gt;
+&gt; - But secondly: Phasellus vitae libero sit amet orci tempor lacinia
+&gt;   sed at tellus. Curabitur sit amet nibh elit. Quisque pulvinar odio
+&gt;   sapien, et condimentum velit convallis et.
+&gt;
+&gt;   ### Lipsum facts
+&gt;
+&gt;   |Lorem|Ipsum|Dolor|
+&gt;   |-----|-----|-----|
+&gt;   |8    |1    |3    |
+&gt;   |3    |7    |8    |
+&gt;
+&gt;   Aenean at dui in sapien sagittis sodales.
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<blockquote>
+<ul>
+<li>
+<p>First of all: Lorem ipsum dolor sit amet, consectetur adipiscing
+elit.</p>
+<blockquote>
+<p>Fusce hendrerit, nunc quis rhoncus tristique, neque augue ornare
+enim, ut aliquam libero diam et ligula. Aliquam sagittis sem sed
+rutrum luctus. Nunc massa est, egestas eget massa id, lacinia
+pretium dui. Nam eget consequat eros, eget commodo urna.</p>
+</blockquote>
+</li>
+<li>
+<p>But secondly: Phasellus vitae libero sit amet orci tempor lacinia
+sed at tellus. Curabitur sit amet nibh elit. Quisque pulvinar odio
+sapien, et condimentum velit convallis et.</p>
+<h3>Lipsum facts</h3>
+<table>
+<thead>
+<tr>
+<th>Lorem</th>
+<th>Ipsum</th>
+<th>Dolor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>7</td>
+<td>8</td>
+</tr></tbody></table>
+<p>Aenean at dui in sapien sagittis sodales.</p>
+</li>
+</ul>
+</blockquote>
+</blockquote>
+<a id="tricks"/>
+<h2>More tips and tricks</h2>
+<a id="esc"/>
+<h3>Escaping Markdown syntax</h3>
+<p><em>Escaping</em> is a way to tell the parser not to interpret special
+characters as Markdown, by preceding them with a backslash, (<code>\</code>).</p>
+<p>Sometimes one finds that the parser has interpreted their text in a
+way that was unintended. This can happen, for example, if, in the
+middle of a paragraph a hyphen begins a new line.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>I felt my lungs inflate with the onrush of scenery
+- air, mountains, trees, people. I thought,
+&quot;This is what it is to be happy.
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>I felt my lungs inflate with the onrush of scenery</p>
+<ul>
+<li>air, mountains, trees, people. I thought,
+&quot;This is what it is to be happy.</li>
+</ul>
+</blockquote>
+<p>In this case the dash is meant to be part of the text, not the start
+of a list. Escaping the dash with a backslash fixes the problem.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>I felt my lungs inflate with the onrush of scenery
+\- air, mountains, trees, people. I thought,
+&quot;This is what it is to be happy.
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p>I felt my lungs inflate with the onrush of scenery
+- air, mountains, trees, people. I thought,
+&quot;This is what it is to be happy.</p>
+</blockquote>
+<p>Another common case where the need to escape arises in
+with parentheses in links.</p>
+<p><strong>Written</strong>:</p>
+<blockquote>
+<pre><code>[Parenthesis](https://en.wikipedia.org/wiki/))
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p><a href="https://en.wikipedia.org/wiki/">Parenthesis</a>)</p>
+</blockquote>
+<p>This is supposed to be a link to the Wikipedia article about
+parentheses (&quot;<a href="https://en.wikipedia.org/wiki/">https://en.wikipedia.org/wiki/</a>)&quot;), but instead it's a
+link to &quot;<a href="https://en.wikipedia.org/wiki/">https://en.wikipedia.org/wiki/</a>&quot;. Escaping the parenthesis in
+the URL causes the parser to not treat it as the closing parethesis of
+the link syntax.</p>
+<blockquote>
+<pre><code>[Parenthesis](https://en.wikipedia.org/wiki/\))
+</code></pre>
+</blockquote>
+<p><strong>Rendered</strong>:</p>
+<blockquote>
+<p><a href="https://en.wikipedia.org/wiki/)">Parenthesis</a></p>
+</blockquote>
+<a id="bots"/>
+<h3>Tips for robots</h3>
+<p>During the transition we've seen some incompatibility arise in the
+syntax bots were using. Here are some notes from those experiences, as
+well as some general info about automatic posting of Markdown.</p>
+<p>This section could use help from bot authors.</p>
+<ul>
+<li>
+<p>In links don't put spaces between the text (<code>[...]</code>) and the URL
+(<code>(http://example.com)</code>). This worked in old-Reddit but not
+New-Reddit.</p>
+</li>
+<li>
+<p>Backslash-escape all parentheses in link URLs (not autolinks), like
+<code>[text](http://example.com/foo\(bar)</code>. Parentheses must be balanced
+or they will not be parsed as links, so simply escaping all
+parentheses is sufficient to make all links with parentheses parse
+correctly.</p>
+</li>
+<li>
+<p>Alternately, use the pointy bracket syntax for link URLs
+(<code>[text](&lt;http://example.com&gt;)</code>, which accept unbalanced parens. In
+this case though you must URL-escape pointy brackets, as <code>%3C</code> and
+<code>%3E</code>.</p>
+</li>
+<li>
+<p>If you post autolinks (raw URLs without the bracket syntax),
+consider surrounding them in pointy brackets (<code>&lt;</code> <code>&gt;</code>) and
+URL-escaping any pointy brackets within as <code>%3C</code> and <code>%3E</code>. This
+will prevent any ambiguity in parsing, particularly at the end of
+autolinks. Note that even within brackets autolinks cannot contain
+spaces, so URL-escape them as <code>%20</code>.</p>
+</li>
+<li>
+<p>There's just no way to get away from escaping <em>something</em> while
+posting arbitrary links as a bot if you want all URLs to be parsed
+as expected. Details of link parsing are <a href="http://commonmark.org/">in the spec</a>.</p>
+</li>
+<li>
+<p>The new parser and old parser treat HTML-escapes (ala <code>&amp;nbsp;</code>)
+differently - the old one preserves them, in both text and links;
+the new one unescapes them during parsing so that clients (many of
+which are not web browsers) aren't exposed to them. This is true
+both in text and links, and is specified as such by CommonMark.</p>
+<p>The implications of this for bots aren't clear to me at this time,
+and I have no recommendations.</p>
+</li>
+</ul>
+<a id="rec"/>
+<h2>Reddit-flavored Markdown compatibility recommendations</h2>
+<p>These are a few recommendations for writing Markdown that is
+compatible with Legacy Reddit markdown parsing (so long as the legacy
+parser remains in production).</p>
+<p>Some of the recommendatations are &quot;easy&quot; because they have
+equivalents that are as-good in Old-Reddit; some are &quot;unfortunate&quot;
+because they favor less-nice syntax in sake of compatibility.</p>
+<p>Presumably the old parser will be phased out completely at some point
+(today it is only used on the old web client - mobile clients use the
+new), and these recommendations can change.</p>
+<p>On the other hand, if you don't care about formatting on Old-Reddit,
+then go ahead and do the opposite of all these suggestions.</p>
+<h3>Easy compatibilty recommendations</h3>
+<ul>
+<li>
+<p>Use quotes for link titles like <code>[text](http://example.com &quot;title&quot;)</code>
+(as opposed to parentheses for link titles).</p>
+</li>
+<li>
+<p>Begin and end table columns with pipe characters (<code>|</code>). They are
+technically optional, but there are occassional surpise parses when
+they are not used.</p>
+</li>
+</ul>
+<h3>Unfortunate compatibility recommendations</h3>
+<ul>
+<li>
+<p>Use double spaces instead of backslash to indicate hard line breaks.
+Old-Reddit only supports double spaces.</p>
+</li>
+<li>
+<p>Use indented code blocks instead of code fences. Old-Reddit only
+supports indented code blocks.</p>
+</li>
+<li>
+<p>Don't use nested emphasis like <code>_this is __really__ important_</code>.
+Doesn't work in Old-Reddit.</p>
+</li>
+<li>
+<p>Don't use multiple levels of superscript (aka &quot;towers&quot;). Doesn't
+work in New-Reddit, at least not yet.</p>
+</li>
+<li>
+<p>Continue using common 'hacks' to make superscript support spaces
+like superscripting every word or joining them with exotic unicode
+space characters. Avoid the parethesized superscript syntax,
+<code>^(...)</code> - it often is misparsed in Old-Reddit.</p>
+</li>
+</ul>
+<h2>More about Markdown at Reddit</h2>
+<p>New-Reddit's markdown parser, snoomark, is a variation of
+<a href="https://github.github.com/gfm/">GitHub-flavored Markdown (GFM)</a>, based on <a href="http://commonmark.org/">CommonMark</a>, with the
+GFM table and autolink extensions, as well as a modified
+strikethrough extension. It also includes Reddit-specific extensions,
+and Reddit-specific compatibility quirks that deviate from CommonMark.</p>
+<p>snoomark is a downstream project of <a href="https://github.com/kivikakk/comrak">comrak</a>, which is in turn a
+re-implementation of <a href="https://github.com/github/cmark">cmark-gfm</a>, GitHub's CommonMark implementation
+with GitHub extensions (GFM), which is in turn downstream of <a href="https://github.com/commonmark/cmark">cmark</a>,
+the CommonMark reference implementation. snoomark itself is not (yet)
+open source, but changes to comrak are regularly merged into snoomark.</p>
+<p>During the transition from Legacy Reddit to New-Reddit, the philosophy
+around Markdown support has fluctuated - originally, the plan was to
+move to something approaching CommonMark and drop all compatibility
+with legacy Reddit &quot;quirks&quot;; but as the rollout proceeded, and without
+and firm transition story, that position softened, and a number of
+compatibility quirks were added to the new parser.</p>
+<p>At this time it is not expected that many further compatibility quirks
+will be added to New-Reddit: it's more likely that the legacy parser
+will be completely removed in favor of the new parser, leaving both
+Legacy Reddit and New-Reddit using the new syntax. In that scenario,
+there will be some amount (hopefully small) of legacy content that no
+longer renders correctly due to parsing differences.</p>
+<p>Future directions though will continue to be evaluated as the rollout
+continues and bugs are reported.</p>
+<p>Markdown rendering in New-Reddit is notably different from Legacy
+Reddit, and from most Markdowwn-consuming websites, in that it is not
+rendered directly to HTML from Markdown, but through an intermediate,
+Reddit-proprietary document format called RTJSON (&quot;Rich Text JSON&quot;).
+This format is designed to be easily consumed and rendered by all
+Reddit clients, web and mobile, whereas in Legacy Reddit, mobile
+clients had various challenges rendering Markdown content
+consistently. Details of the RTJSON format are not currently published
+publicly.</p>
+<a id="diff"/>
+<h2>Differences between Legacy Reddit, New-Reddit, and CommonMark</h2>
+<p>New-Reddit-flavored Markdown inherits from both Legacy Reddit-flavored
+Markdown and CommonMark / GFM, but also differs from both. This
+section lists known differences in New-Reddit-flavored Markdown from
+Legacy Reddit-flavored Markdown and CommonMark / GFM. It is not
+comprehensive.</p>
+<p>Differences from Legacy Reddit are often inherited from CommonMark,
+while differences from CommonMark are often to support Legacy Reddit
+Markdown &quot;quirks&quot;. Differences from either may or may not be
+considered bugs, depending on who is doing the considering and when.</p>
+<h3>Reddit-specific extensions</h3>
+<ul>
+<li><a href="#spoil">Spoilertext</a> - Spoilertext (<code>&gt;!spoiler!&lt;</code>) is Reddit-specific.</li>
+<li><a href="#super">Superscript</a> - There's no superscript standard, and Reddit
+has its own syntax which continues to be supported (<code>^</code>, <code>^(...)</code>).</li>
+<li><a href="#rlinks">Redditlinks and userlinks</a> - Names of subreddits and
+Reddit users, prefixed with <code>/r/</code>, <code>r/</code>, <code>/u/</code>, and <code>u/</code>, are
+automatically linked.</li>
+<li><a href="#rtm">Rich text media</a> - Reddit supports submissions containing
+images, videos, and gifs, and these are encoded into the Markdown
+with a customized inline image syntax. This feature is only
+supported by the RTE (the &quot;fancy pants&quot; editor) - it would be
+prohibitively difficult to write manually at present.</li>
+<li>Paragraphs containing only a backslash (<code>\</code>) are empty paragraphs.
+This exists to support empty paragraphs in the fancy pants editor.</li>
+</ul>
+<h3>New features inherited from CommonMark</h3>
+<ul>
+<li><a href="#ol">Ordered lists</a> can be written with parentheses in addition to periods
+(<code>1)</code> vs. <code>1.</code>).</li>
+<li><a href="#hb">Hard line breaks</a> can be written by terminating lines with
+<code>\</code>, in addition to double-space. This syntax is more readable
+and less surprising than the double-space syntax.</li>
+<li>Nested block elements (like <a href="#lists">lists</a> and <a href="#bq">blockquotes</a> and
+<a href="#tables">tables</a>) can be opened on the same line as list items</li>
+<li><a href="#code">Code blocks</a> can be written with surrounding fences, instead of
+indentation (<code>\</code>``<code>or</code>~~~`). This popular syntax is arguably
+more writable and readable than the indentation syntax.</li>
+</ul>
+<h3>Differences from Legacy Reddit-flavored Markdown</h3>
+<ul>
+<li>
+<p>The parenthesized superscript syntax (<code>^(super duper)</code>) is parsed
+more reliably (e.g. superscript containing links works correctly),
+and once the legacy parser is phased out, should generally be
+preferred to the non-parenthesized (<code>^super</code>) syntax.</p>
+</li>
+<li>
+<p>Superscript parses slightly differently in corner-cases, e.g.
+<code>^(^b)</code>.</p>
+</li>
+<li>
+<p>Multiple nested levels of superscript are rendered as a single
+level of superscript. This may be fixed in the future.</p>
+<ul>
+<li>Ticket: CREATE-1599</li>
+</ul>
+</li>
+<li>
+<p>Unescaped parentheses in links must be balanced.</p>
+<ul>
+<li>Previous discussions:
+<a href="https://new.reddit.com/r/redesign/comments/8cyf5a/download_the_single_art_link_doesnt_work_markdown/">1</a></li>
+<li>Ticket: CREATE-1662</li>
+</ul>
+</li>
+<li>
+<p>Sublists require at least two spaces of indentation for unordered
+lists and three for ordered lists, where Legacy Reddit only required
+one space.</p>
+<ul>
+<li>Previous discussions:
+<a href="https://new.reddit.com/r/redesign/comments/8eaagg/markdown_rules_for_lists_dont_follow_the_same/">1</a></li>
+<li>Ticket: CREATE-1702</li>
+</ul>
+</li>
+<li>
+<p>The first table header cell cannot be empty if it is not preceded by
+a leading pipe character (<code>|</code>), e.g. the following does not work:</p>
+<pre><code> |B|C
+-|-|-
+d|e|f
+</code></pre>
+<ul>
+<li>Previous discussions:
+<a href="https://new.reddit.com/r/redesign/comments/8edfxx/redesign_is_displaying_some_tables_wrong/">1</a></li>
+<li>Ticket: CREATE-1701</li>
+</ul>
+</li>
+<li>
+<p>The first table &quot;marker&quot; cell cannot be a dash followed by a space if
+it is not preceded by a pipe character (<code>|</code>) - it will instead be interpreted
+as the beginning of a list, e.g. the following does not work:</p>
+<pre><code>A | B
+- | -
+c | d
+</code></pre>
+<ul>
+<li>Previous discussions:
+<a href="https://new.reddit.com/r/redesign/comments/8eter9/table_not_parsed_on_redesign_if_second_row_starts/">1</a></li>
+<li>Ticket: CREATE-1708</li>
+</ul>
+</li>
+<li>
+<p>Spoilertext does not to be <a href="https://github.github.com/gfm/#left-flanking-delimiter-run">&quot;flanking&quot;</a>, i.e. the spoilertext delimiters
+(<code>&gt;!</code> and <code>!&lt;</code>) will be parsed as such regardless of their adjacency to
+whitespace and punctuation.</p>
+<ul>
+<li>Previous discussions:
+<a href="https://www.reddit.com/r/redesign/comments/8s0qyy/old_inline_spoiler_bug_still_around/">1</a></li>
+<li>Ticket: CREATE-1534</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<p>Blockquote spoilertext is not supported, that is, blockquotes
+written with <code>&gt;!</code> instead of <code>&gt;</code>.</p>
+<p>Ticket: CREATE-1723</p>
+</li>
+<li>
+<p>Link syntax does not allow space between the square brackets (<code>[]</code>) and
+the parenthesis (<code>()</code>).</p>
+<ul>
+<li>Previous discussions:
+<a href="https://www.reddit.com/r/redesign/comments/86qve1/imgur_album_links_dont_work_embedded_or_stand/">1</a>
+<a href="https://new.reddit.com/r/redesign/comments/8bhpca/hyperlinks_with_space_between_both_elements_are/">2</a></li>
+<li>Ticket: CREATE-1438</li>
+</ul>
+</li>
+<li>
+<p>More than two tildes (<code>~</code>) in <a href="#strike">strikethrough</a> syntax, e.g. <code>a ~~~b~~~ c</code>, are treated differently: in Legacy Reddit the extras are
+not consumed, where in New-Reddit they are. Additionally, at the
+beginning of a line, in New-Reddit, more than two tildes can be
+interpreted as <a href="#code">code fences</a>.</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Lines containing nothing but hashes (<code>#</code>) are handled differently:
+in Legacy Reddit such lines are entirely consumed and not displayed;
+in New-Reddit, 6 or fewer hashes are rendered as an empty header,
+more than 6 are rendered as a paragraph containing hashes.</p>
+</li>
+<li>
+<p>Some corner cases around parsing of links containing spaces,
+specifically with respect to their interaction with link titles, are
+different.</p>
+</li>
+<li>
+<p>There are other cases of link parsing differences, some considered,
+bugs, some not, some undecided.</p>
+<ul>
+<li>Previous discussions:
+<a href="https://www.reddit.com/r/redesign/comments/8si6l7/redesigns_markdown_does_not_parse_all_urls">1</a></li>
+<li>Ticket: CREATE-2206</li>
+</ul>
+</li>
+<li>
+<p>Some cases of &quot;word-interior&quot; bold+italic (a.k.a. strong+emph)
+parsing are different. Legacy Reddit will parse e.g. <code>a**_b_**c</code> as
+bold+italic where CommonMark doesn't.</p>
+<ul>
+<li>Previous discussions:
+<a href="https://new.reddit.com/r/redesign/comments/8by4s3/small_bug_that_breaks_the_fancy_pants_editor/">1</a></li>
+</ul>
+</li>
+<li>
+<p>Ordered lists must start from &quot;1&quot;. Other start numbers are not
+supported. Legacy Reddit parsed other start numbers, though it
+always rendered lists as starting from 1.</p>
+</li>
+<li>
+<p>New-Reddit allows nested emphasis, like <code>_a __b c b__ d_</code>, whereas
+Old-Reddit does not.</p>
+</li>
+<li>
+<p>Unordered lists demarcated with <code>+</code> do not work.</p>
+<ul>
+<li>Ticket: CREATE-2403</li>
+</ul>
+</li>
+</ul>
+<h3>Differences from CommonMark / GFM</h3>
+<ul>
+<li>
+<p>Embedded images are not supported in Markdown mode, only in Fancy Pants mode.</p>
+</li>
+<li>
+<p>Superscript syntax is like snudown, not comrak.</p>
+</li>
+<li>
+<p>Ordered lists must start from &quot;1&quot;. Other start numbers are not supported.</p>
+</li>
+<li>
+<p>Links can contain spaces.</p>
+</li>
+<li>
+<p>Lines containing only hashes (<code>#</code>) are treated differently.</p>
+</li>
+<li>
+<p>Headers do not require spaces after hashes.</p>
+</li>
+<li>
+<p>Headers with more than 6 hashes are parsed differently, as level-6 headers
+with hashes in the header text, (e.g. <code>#######valhallaforolaf</code>). In CommonMark,
+such constructs are not parsed as headers.</p>
+</li>
+<li>
+<p>A row of table cells can begin with a dash followed by a space,
+whereas in CommonMark that would open a new unordered list:</p>
+<pre><code>A | B | C
+--|---|--
+- | e | f
+</code></pre>
+<p>(Note though that this does not currently apply to the &quot;marker&quot; row that follows
+the header row, i.e. the following does not parse as a table,</p>
+<pre><code>A | B | C
+- | - | -
+- | e | f
+</code></pre>
+<p>whereas it does in Legacy Reddit).</p>
+</li>
+<li>
+<p>Paragraph content followed by a line that looks like an unordered
+list is interpreted as the close of a paragraph and the opening of
+an unordered list, whereas snudown continued the paragraph.</p>
+</li>
+<li>
+<p><a href="#strike">Strikethrough</a> requires two tildes (<code>~~</code>) per Legacy
+Reddit, not one, per CommonMark.</p>
+</li>
+<li>
+<p>Relative links are not supported.</p>
+</li>
+<li>
+<p>Inline HTML is not supported.</p>
+</li>
+</ul>
+<a id="cred"/>
+<h2>Credits and further reading</h2>
+<p>The basic organization of this page and its requirements were inspired
+by - and content sometimes direcly lifted from - /u/AnteChrono's
+<a href="https://www.reddit.com/r/reddit.com/comments/6ewgt/reddit_markdown_primer_or_how_do_you_do_all_that/c03nik6/">Reddit Markdown Primer</a>, /u/Raerth's <a href="https://www.reddit.com/r/raerth/comments/cw70q/reddit_comment_formatting/">Reddit Comment
+Formatting</a>, and the existing <a href="https://www.reddit.com/wiki/commenting">&quot;commenting&quot; wiki page</a>.</p>
+<p>Quotes and references used as examples:</p>
+<ul>
+<li>&quot;People think a soul mate is your perfect fit...&quot; - <a href="https://en.wikipedia.org/wiki/Elizabeth_Gilbert">Elizabeth Gilbert</a>, from Eat, Pray, Love</li>
+<li>&quot;Out beyond ideas of wrongdoing...&quot;, &quot;Love is the whole thing...&quot;, &quot;Be empty of worrying...&quot; - <a href="https://en.wikipedia.org/wiki/Rumi">Rumi</a></li>
+<li>&quot;Very little is needed to make a happy life...&quot; - <a href="https://en.wikipedia.org/wiki/Marcus_Aurelius">Marcus Aurelius</a></li>
+<li>&quot;It is error only...&quot; - <a href="https://en.wikipedia.org/wiki/Thomas_Paine">Thomas Paine</a></li>
+<li>&quot;The greatest thing you'll ever learn...&quot; - <a href="https://en.wikipedia.org/wiki/Eden_ahbez">eden ahbez</a></li>
+<li>&quot;Agamemnon, ...&quot; - <a href="https://en.wikipedia.org/wiki/Oresteia">Aeschylus</a></li>
+<li>&quot;It's so hard to forget pain...&quot; - <a href="https://en.wikipedia.org/wiki/Chuck_Palahniuk">Chuck Palahniuk</a></li>
+<li>&quot;I felt my lungs inflate...&quot; - <a href="https://en.wikipedia.org/wiki/Sylvia_Plath">Sylvia Plath</a></li>
+</ul>
+<a id="cont"/>
+<h2>Contributing to this document</h2>
+<h2>TODO</h2>
+<ul>
+<li>places where new markdown doesn't work
+<ul>
+<li>profiles</li>
+<li>card view</li>
+<li>where else?</li>
+</ul>
+</li>
+<li>explanation of why
+<ul>
+<li><a href="https://new.reddit.com/r/redesign/comments/8ztvou/it_would_be_great_to_have_markdown_support_within/e33e0pi">https://new.reddit.com/r/redesign/comments/8ztvou/it_would_be_great_to_have_markdown_support_within/e33e0pi</a></li>
+</ul>
+</li>
+</ul>

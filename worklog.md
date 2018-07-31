@@ -3,6 +3,15 @@ layout: basic
 title: brson's work log
 ---
 
+# 2018-06-18
+
+- [Posted fix tot commonmark website](https://github.com/commonmark/web/pull/18)
+- 1:43 PM
+- [Commented on commonmark forum re release date](https://talk.commonmark.org/t/when-do-you-think-well-ship-1-0-of-the-commonmark-spec/2797/4?u=brson)
+- 1:45 PM
+- Thanked jgm for his work on the commonmark spec
+- 1:59 PM
+
 # 2018-06-17
 
 - [Posted installer updates to rust-www](https://github.com/rust-lang/rust-www/pull/1128)
