@@ -22,7 +22,7 @@ of the pieces I've written.
 
 * [Reddit-flavored Markdown v2][rfmv2]. I was responsible for finalizing the
   implementation of the Markdown Parser for Reddit's 2018 redesign (which was
-  itself a fork of [comrak]. This is public portion of the giant braindump I
+  itself a fork of [comrak]). This is public portion of the giant braindump I
   left in my wake.
 
 * [Refactoring `std` for Ultimate Portability][r]. A proposal for how
