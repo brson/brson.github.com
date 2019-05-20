@@ -50,13 +50,16 @@ interesting Rust works.
 
 * I designed and implemented Rust's attributes.
 
+* I designed Rust's error codes, though almost all the implementation of error
+  reporting was done by others.
+
 * Instigated and maintained [This Week in Rust], the Rust newsletter,
   along with [Corey Richardson], [Vikrant Chaudhary], and [Andre
   Bogus]. The success of This Week in Rust has been influential on
   other open source projects.
 
 * Created the [Friend of the Tree] tradition (after Mozilla's own) for
-  acknowleding community contributions.
+  acknowleding community contributions. It has since died.
 
 * Created the Unix distribution tooling including [rustup.sh],
   [rust-installer] and [multirust].
@@ -88,8 +91,8 @@ interesting Rust works.
 * Pioneered Rust's practice of ecosystem-wide regression testing
   with [crater] and [cargobomb].
 
-* Created the widely-used [error-chain] crate for ergonamic error
-  handling.
+* Created the widely-used [error-chain] crate for ergonamic error handling. It
+  has sense been deprecated by better crates and practices.
 
 * Coordinated with Linux distributions to [get their Rust packaging
   in order][prp] in time for Rust to be adopted in Firefox.
@@ -99,8 +102,14 @@ interesting Rust works.
 * Coordinated a large-scale effort to [improve the quality of the
   Rust crate ecosystem][blitz].
 
+* Coordinated a community effort to create [Rust API guidelines][api].
+
+* Coordinated a community effort to create a [Rust cookbook][cook].
+
 <!-- links -->
 
+[api]: https://rust-lang-nursery.github.io/api-guidelines/
+[cook]: https://rust-lang-nursery.github.io/rust-cookbook/
 [rustup]: https://github.com/rust-lang-nursery/rustup.rs
 [rustup.sh]: http://github.com/rust-lang/rustup.sh
 [rust-installer]: http://github.com/rust-lang/rust-installer

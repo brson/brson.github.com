@@ -20,6 +20,11 @@ of the pieces I've written.
   single weekend. I also remain satisfied with the visual design,
   though some felt the colors were eyeball-searing.
 
+* [Reddit-flavored Markdown v2][rfmv2]. I was responsible for finalizing the
+  implementation of the Markdown Parser for Reddit's 2018 redesign (which was
+  itself a fork of [comrak]. This is public portion of the giant braindump I
+  left in my wake.
+
 * [Refactoring `std` for Ultimate Portability][r]. A proposal for how
   to refactor the standard library into portable components. I like
   how complete the argument is here and that I took the time to make
@@ -49,6 +54,17 @@ of the pieces I've written.
   better I've written. It lays out a process for establishing the Rust
   roadmap. Our actual conformance to the process established therein
   ended up being quite low.
+
+* [Redesigning the Rust runtime][rt]. Back when Rust had green threading and the
+  runtime was written in Rust, this was my plan to rewrite it in Rust, which I
+  subsequently did with Ben Blum. In retrospect I didn't know much about
+  building thread schedulers, but I still saw the runtime through two rewrites,
+  and it all worked. All that code is long gone now though.
+
+* [Abandoning segmented stacks in Rust][stacks]. This was the moment that Rust
+  began its shift away from green threading to native threading. At the time we
+  naively hoped we could still do green threading by having the OS map stack
+  pages lazily, but nope. Bye, bye, green threads.
 
 * [The Rust Libz Blitz][blitz1]. A blog post announcing a [major
   project][blitz2] I was responsible for. I was extremely unsatisfied
@@ -88,7 +104,7 @@ of the pieces I've written.
   that. I also remain tickled that I got away with writing "unleashed"
   in the title. That would not fly today.
 
-* [www.rust-lang.org]. I'm responsible for a large amount of the
+* [prev.rust-lang.org]. I'm responsible for a large amount of the
   content on the Rust website (as of 2017), including the
   (increasingly outdated) [contribution guides], the [install pages],
   and the long-standing tagline, "Rust is a systems programming
@@ -107,6 +123,7 @@ of the pieces I've written.
 [blitz1]: https://blog.rust-lang.org/2017/05/05/libz-blitz.html
 [blitz2]: https://internals.rust-lang.org/t/rust-libz-blitz/5184
 [ci]: https://internals.rust-lang.org/t/rust-ci-release-infrastructure-changes/4489
+[comrak]: https://github.com/kivikakk/comrak
 [contribution guides]: https://www.rust-lang.org/en-US/contribute.html
 [ec]: http://brson.github.io/2016/11/30/starting-with-error-chain
 [ff]: https://brson.github.io/fireflowers
@@ -118,9 +135,12 @@ of the pieces I've written.
 [post mortem]: https://internals.rust-lang.org/t/rust-1-15-1-release-postmortem/4766
 [prp]: https://internals.rust-lang.org/t/perfecting-rust-packaging/2623
 [r]: https://internals.rust-lang.org/t/refactoring-std-for-ultimate-portability/4301
+[rfmv2]: https://www.reddit.com/wiki/markdown
+[rt]: https://brson.github.io/2013/02/02/redesigning-the-rust-runtime
 [script]: https://github.com/brson/the-end-of-unsafety/blob/master/script.md
+[stacks]: https://mail.mozilla.org/pipermail/rust-dev/2013-November/006314.html
 [std]: https://doc.rust-lang.org/1.18.0/std/
 [t]: https://brson.github.io/2017/07/10/how-rust-is-tested
 [tls]: https://groups.google.com/d/msg/mozilla.dev.servo/3mfkRehXAo4/MXTzpqsFAQAJ
 [unsafety]: https://brson.github.io/the-end-of-unsafety/#/INTRO
-[www.rust-lang.org]: https://www.rust-lang.org
+[prev.rust-lang.org]: https://prev.rust-lang.org
