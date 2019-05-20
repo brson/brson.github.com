@@ -3,6 +3,8 @@ layout: basic
 title: brson's work log
 ---
 
+_Note: my current work is not reflected here._
+
 # 2018-06-18
 
 - [Posted fix tot commonmark website](https://github.com/commonmark/web/pull/18)
