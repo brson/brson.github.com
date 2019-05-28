@@ -127,12 +127,12 @@ of the pieces I've written.
 [blitz2]: https://internals.rust-lang.org/t/rust-libz-blitz/5184
 [ci]: https://internals.rust-lang.org/t/rust-ci-release-infrastructure-changes/4489
 [comrak]: https://github.com/kivikakk/comrak
-[contribution guides]: https://www.rust-lang.org/en-US/contribute.html
+[contribution guides]: https://prev.rust-lang.org/en-US/contribute.html
 [ec]: http://brson.github.io/2016/11/30/starting-with-error-chain
 [ff]: https://brson.github.io/fireflowers
 [httptest]: https://github.com/brson/httptest
 [i]: https://internals.rust-lang.org/t/how-the-rust-issue-tracker-works/3951
-[install pages]: https://www.rust-lang.org/en-US/install.html
+[install pages]: https://prev.rust-lang.org/en-US/install.html
 [nice]: http://brson.github.io/2017/04/05/minimally-nice-maintainer
 [ns]: https://github.com/rust-lang/rfcs/blob/master/text/1728-north-star.md
 [post mortem]: https://internals.rust-lang.org/t/rust-1-15-1-release-postmortem/4766
