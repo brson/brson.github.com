@@ -9,18 +9,20 @@ public, and there are some gaps here in 2017-2019._
 # 2019-05-28
 
 - Clock in
-- 9:14 AM
+- 11:14 AM
 - [Approved logging PR](https://github.com/tikv/tikv/pull/4768#pullrequestreview-242776966)
-- 9:14 AM
+- 11:14 AM
 - Clock out
 - Clock in
-- 11:15 AM
+- 1:15 PM
 - [Commented on skeptic PR](https://github.com/budziq/rust-skeptic/issues/104#issuecomment-496629720)
-- 11:15 AM
+- 1:15 PM
 - Rebuilt WSL environment
 - [Commented about rustup post-install](https://github.com/rust-lang/rustup.rs/issues/975#issuecomment-496667276)
 - [Filed bug about rustup post-install experience](https://github.com/rust-lang/rustup.rs/issues/1881)
-- 1:24 PM
+- 3:24 PM
+- [Added rustup readme to personal writings, etc](https://brson.github.io/writing.html)
+- 4:42 PM
 
 # 2019-05-27
 
