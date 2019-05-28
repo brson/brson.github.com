@@ -17,6 +17,10 @@ public, and there are some gaps here in 2017-2019._
 - 11:15 AM
 - [Commented on skeptic PR](https://github.com/budziq/rust-skeptic/issues/104#issuecomment-496629720)
 - 11:15 AM
+- Rebuilt WSL environment
+- [Commented about rustup post-install](https://github.com/rust-lang/rustup.rs/issues/975#issuecomment-496667276)
+- [Filed bug about rustup post-install experience](https://github.com/rust-lang/rustup.rs/issues/1881)
+- 1:24 PM
 
 # 2019-05-27
 

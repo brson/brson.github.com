@@ -33,6 +33,9 @@ of the pieces I've written.
 * [How Rust is tested][t]. A comprehensive report on one of my
   favorite subjects.
 
+* [The rustup readme][ru]. It's pretty comprehensive and well organized. I'm
+  sure others have modified it since, but I wrote most of it.
+
 * [Starting a new Rust project right, with error-chain][ec]. A simple
   instruction on using the error-chain crate. I like this one because
   I wrote it in an afternoon, where most of my writing takes much
@@ -144,3 +147,4 @@ of the pieces I've written.
 [tls]: https://groups.google.com/d/msg/mozilla.dev.servo/3mfkRehXAo4/MXTzpqsFAQAJ
 [unsafety]: https://brson.github.io/the-end-of-unsafety/#/INTRO
 [prev.rust-lang.org]: https://prev.rust-lang.org
+[ru]: https://github.com/rust-lang/rustup.rs/blob/master/README.md
