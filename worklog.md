@@ -3,7 +3,2281 @@ layout: basic
 title: brson's work log
 ---
 
-_Note: my current work is not reflected here._
+_Note: This contains most of my open source activity. Some of my work is not
+public, and there are some gaps here in 2017-2019._
+
+# 2019-05-28
+
+- Clock in
+- 9:14 AM
+- [Approved logging PR](https://github.com/tikv/tikv/pull/4768#pullrequestreview-242776966)
+- 9:14 AM
+- Clock out
+- Clock in
+- 11:15 AM
+- [Commented on skeptic PR](https://github.com/budziq/rust-skeptic/issues/104#issuecomment-496629720)
+- 11:15 AM
+
+# 2019-05-27
+
+- Clock in
+- 11:30 AM
+- [Posted cargo pipelining results to testlog](https://internal.pingcap.net/confluence/display/TT/2019-03+Compile+time+tests)
+- 11:41 AM
+- [Assigned cargo pipelining task to myself](https://github.com/tikv/tikv/issues/4166)
+- 11:42 AM
+- [Merged patch to turn off tikv_alloc default features](https://github.com/tikv/tikv/pull/4770)
+- 11:43 AM
+- [Asked for re-review on compile time patches](https://github.com/tikv/tikv/pull/4689)
+- 11:27 AM
+- [Asked for review from hoverbear on sys-info](https://github.com/tikv/tikv/pull/4760)
+- 11:52 AM
+- [Closed old raftstore extraction](https://github.com/tikv/tikv/pull/4579)
+- 11:55 AM
+- [Asked for re-review of dist-release patch](https://github.com/tikv/tikv/pull/4687)
+- 11:56 AM
+- [Posted SRE pr for dist_release](https://github.com/pingcap/SRE/pull/243)
+- 12:19 PM
+- Clock out
+- Clock in
+- 5:14 PM
+- Triaged email
+- [Reviewed tipb / kvproto prs](https://github.com/tikv/tikv/pull/4718#issuecomment-496314772)
+- 3:26 PM
+- Chatted w/ Ana
+- 6:35 PM
+- Investigated spa for queeny
+- Hacked on project 4
+- 6:35 PM
+- [Filed bug about futures compat module](https://github.com/rust-lang-nursery/futures-rs/issues/1639)
+- 6:35 PM
+- [Reviewed client-rust futures upgrade](https://github.com/tikv/client-rust/pull/41)
+- 9:18 PM
+- [Reworked training project 4](https://github.com/pingcap/talent-plan/pull/70#issuecomment-496341728)
+- 9:25 PM
+- Clock out
+
+# 2019-05-24
+
+- Clock in
+- 2:21 PM
+- Reviewed sys-info PR
+- Tested cargo pipelining
+- 4:47 PM
+- Clock out
+- Clock in
+- 10:57 PM
+- [Reviewed logging pr](https://github.com/tikv/tikv/pull/4768#pullrequestreview-241991624)
+- 11:06 PM
+- Analyzed cargo pipelining tests
+- 11:59 PM
+- Clock out
+
+# 2019-05-23
+
+- Clock in
+- 1:00 PM
+- Upgraded toolchain to test cargo pipelining
+- 1:40 PM
+- Clock out
+- Clock in
+- 5:42 PM
+- [Reviewed snappy patch](https://github.com/BusyJay/rust-snappy/pull/1)
+- 6:04 PM
+- Attempted to build tikv with upgraded toolchain
+- 6:28 PM
+- Attempted to upgrade sys-info to fix get_mem_info error
+- Upgraded sys-info
+- 6:38 PM
+- Attended i18n meeting
+- 7:30 PM
+- Write pipelining test script
+- Ran pipelining test script locally
+- 7:42 PM
+- Clock out
+
+# 2019-05-22
+
+- Clock in
+- 1:00 PM
+- Hacked on project 4
+- 7:00 PM
+- Clock out
+
+# 2019-05-20
+
+- Clock in
+- 11:35 AM
+- 12:00 PM
+- Clock out
+- Clock in
+- 12:41 PM
+- Attended NA meeting
+- 1:51 PM
+- Chatted w/ Queeny
+- 2:44 PM
+- Hacked on project 4
+- 6:01 PM
+- Clock out
+- Clock in
+- 6:54 PM
+- Hacked on project 4
+- 7:03 PM
+- Clock out
+- Clock in
+- 7:30 PM
+- Hacked on project 4
+- 7:40 PM
+- Clock out
+- Updated website with writings and Rust work
+
+# 2019-05-18
+
+- Hacked on basic-http-server
+
+# 2019-05-17
+
+- Clock in
+- 11:31 AM
+- Updated various rocksdb-debuginfo threads
+- Read latest jepsen report
+- 12:18 PM
+- Clock out
+
+# 2019-05-16
+
+- Clock in
+- 2:46 PM
+- [Commented on large moves](https://github.com/tikv/tikv/issues/4702#issuecomment-493246064)
+- 2:58 PM
+- [Merged panic=abort](https://github.com/tikv/tikv/pull/4639)
+- 3:19 PM
+- [Filed cargo bug](https://github.com/rust-lang/cargo/issues/6948)
+- 5:01 PM
+- [Re-worked cargo profiles](https://github.com/tikv/tikv/pull/4689)
+- 6:13 PM
+- Clock out
+- Clock in
+- 7:00 PM
+- Attended i18n meeting
+- 8:00 PM
+- [Hacked on cmake-rs](https://github.com/alexcrichton/cmake-rs/issues/79)
+- 10:54 PM
+- Clock out
+
+# 2019-05-15
+
+- Clock in
+- 7:08 PM
+- Chatted w/ Ana
+- Chatted w/ others
+- 8:09 PM
+- [Reviewed no-fail fixes](https://github.com/tikv/tikv/pull/4697)
+- 8:55 PM
+- [Re-worked cargo profiles pr](https://github.com/tikv/tikv/pull/4689)
+- 9:34 PM
+- Clock out
+
+# 2019-05-13
+
+- Clock in
+- 10:53 AM
+- Triaged email
+- Triaged slack
+- Triaged todos
+- 11:19 AM
+- [Filed rustc-perf description bug](https://github.com/rust-lang-nursery/rustc-perf/issues/391)
+- 12:50 PM
+- Chatted about talent-plan bugs
+- [Filed talent-plan receiver bug](https://github.com/pingcap/talent-plan/issues/123)
+- 1:57 PM
+- [Re-worked panic=abort bug](https://github.com/tikv/tikv/pull/4639)
+- 2:01 PM
+- Sent emails about contracts
+- 2:49 PM
+- [Merged talent plan pr](https://github.com/pingcap/talent-plan/pull/124)
+- 4:26 PM
+- [Merged talent plan pr](https://github.com/pingcap/talent-plan/pull/120)
+- 4:44 PM
+- [Closed talent plan issue](https://github.com/pingcap/talent-plan/issues/123)
+- 4:45 PM
+- Reviewed Yilin's minidump draft
+- 5:20 PM
+- [Posted dist_release pr](https://github.com/tikv/tikv/pull/4687)
+- 5:57 PM
+- [Posted cargo profiles PR](https://github.com/tikv/tikv/pull/4689)
+- 8:54 PM
+- 8:56 PM
+- Clock out
+- [Comented on RUST_BACKTRACE](https://www.reddit.com/r/rust/comments/bnqina/why_does_not_rust_give_a_backtrace_by_default/enc29sj/)
+- 11:01 PM
+
+# 2019-05-10
+
+- Clock in
+- 10:00 AM
+- Attended i18n meeting
+- 10:54 AM
+- Clock out
+- Clock in
+- 1:28 PM
+- [Reviewed HTTP memory profiling](https://github.com/tikv/tikv/pull/4600#pullrequestreview-235937727)
+- 3:53 PM
+- [Commented on panic=abort](https://github.com/tikv/tikv/pull/4639#issuecomment-491196227)
+- 3:56 PM
+- [Re-re-re-re... reviewed tikv_alloc cfgs](https://github.com/tikv/tikv/pull/4524)
+- 4:52 PM
+- Responded to Niko
+- 7:27 PM
+- [Merged talent-plan pr](https://github.com/pingcap/talent-plan/pull/116)
+- 7:39 PM
+- [Merged talent-plan pr](https://github.com/pingcap/talent-plan/pull/117)
+- 7:40 PM
+- [Reviewed multi-log talent-plan pr](https://github.com/pingcap/talent-plan/pull/120#issuecomment-491266014)
+- 8:09 PM
+- Clock out
+
+# 2019-05-09
+
+- Clock in
+- 10:47 AM
+- Traiged slack
+- 10:56 AM
+- [Closed cargo-bloat PR](https://github.com/tikv/tikv/issues/4188#issuecomment-490730184)
+- 11:32 AM
+- [Filed cargo issue about git revs](https://github.com/rust-lang/cargo/issues/6921)
+- 12:52 PM
+- [Commented on git revs in tikv](https://github.com/tikv/tikv/issues/4283#issuecomment-490741031)
+- 12:52 PM
+- Added a "P: Low" tag to tikv
+- 1:01 PM
+- Drank coffee with Liu
+- 2:16 PM
+- [Reviewed RFC numbering PR](https://github.com/tikv/rfcs/pull/24#discussion_r282355188)
+- 2:52 PM
+- [Re-reviewed tikv_alloc features PR](https://github.com/tikv/tikv/pull/4524#issuecomment-490771233)
+- 3:07 PM
+- [Re-reviewed dockerfile](https://github.com/tikv/tikv/pull/4590#issuecomment-490405907)
+- 3:45 PM
+- [Commented on jemalloc 0.3 pr](https://github.com/tikv/tikv/pull/4515#discussion_r282381312)
+- 4:28 PM
+- [Re-merged binutil pr](https://github.com/tikv/tikv/pull/4538)
+- 5:35 PM
+- [Merged binutil pr](https://github.com/tikv/tikv/pull/4538)
+- 5:50 PM
+- Helped Sun Xiaoguang with some dropck problem
+- 7:11 PM
+- Updated JIRA sprint
+- 8:00 PM
+- Wrote personal status report
+- Wrote project status reports
+- 8:13 PM
+- 8:16 PM
+- Clock out
+
+# 2019-05-08
+
+- Clock in
+- 10:45 AM
+- Submitted invoice
+- [Reviewed owning_ref PR](https://github.com/tikv/tikv/pull/4640#pullrequestreview-234854299)
+- 11:54 AM
+- 12:04 PM
+- Clock out
+- Clock in
+- 1:39 PM
+- [Reworked panic=abort PR](https://github.com/tikv/tikv/pull/4639#issuecomment-490367472)
+- 2:50 PM
+- Clock out
+
+# 2019-05-06
+
+- Clock in
+- 10:30 AM
+- [Removed old notes from talent plan](https://github.com/pingcap/talent-plan/pull/119)
+- 10:38 AM
+- [Reviewed tikv-cli rfc](https://github.com/tikv/rfcs/pull/21#issuecomment-489490964)
+- 11:28 AM
+- [Reviewed CI pr](https://github.com/tikv/tikv/pull/4627#pullrequestreview-233828160)
+- 1:16 PM
+- 2:00 PM
+- Clock out
+- Clock in
+- 3:04 PM
+- Hacked on panic=abort
+- 3:46 PM
+- Clock out
+- Clock in
+- 8:35 PM
+- [Approved profiling PR](https://github.com/tikv/tikv/pull/3971#pullrequestreview-233955737)
+- 8:37 PM
+- [Posted panic=abort patch](https://github.com/tikv/tikv/pull/4639)
+- 9:05 PM
+- Clock out
+
+# 2019-05-05
+
+- Clock in
+- 10:21 AM
+- Triaged
+- 10:54 AM
+- Re-starting timing raftstore extraction
+- 10:58 AM
+- [Re-reviewed tikv_alloc features](https://github.com/tikv/tikv/pull/4524#issuecomment-489384743)
+- 11:11 AM
+- [Posted compile time results of extracting pd to various places](https://github.com/tikv/tikv/issues/3352#issuecomment-489389892)
+- 12:52 PM
+- Hacked on developer docs
+- Reviewed Rossi's presentation
+- 3:44 PM
+- Sent Rossi presentation notes
+- 6:29 PM
+- Continued writing dev docs
+- 8:18 PM
+- Clock out
+- Clock in
+- 8:50 PM
+- Hacked on cargo profiles
+- 9:33 PM
+- Clock out
+
+# 2019-05-02
+
+- Clock in
+- 2:30 PM
+- Begin timing effects of preliminary raftstore extraction
+- 2:52 PM
+- Triaged
+- 2:56 PM
+- [Hacked on dev docs](https://github.com/brson/tikv/tree/dev-docs-etc)
+- 5:34 PM
+- Clock out
+
+# 2019-04-30
+
+- Clock in
+- 2:43 PM
+- Filed talent-plan issues
+- Chatted w/ team about Rust
+- [Reviewed a refactoring pr](https://github.com/tikv/tikv/pull/4597#pullrequestreview-232042358)
+- 4:18 PM
+- Added to rust-anthology master list
+- 4:25 PM
+- Clock out
+- Clock in
+- 4:48 PM
+- Created many talent-plan bugs
+- [Closed old talent-plan repo](https://github.com/pingcap/talent-plan/issues/15)
+- 5:13 PM
+- 5:44 PM
+- Clock out
+- Clock in
+- 7:41 PM
+- [Merged a minor talent plan pr](https://github.com/pingcap/talent-plan/pull/76)
+- 7:55 PM
+- Configured talent-plan so interns can merge
+- 8:04 PM
+- Clock out
+
+# 2019-04-29
+
+- Clock in
+- 10:50 AM
+- [Reworked jemalloc 0.3 pr](https://github.com/tikv/tikv/pull/4515#issuecomment-487446124)
+- 12:01 PM
+- [Reviewed docker pr](https://github.com/tikv/tikv/pull/4590#pullrequestreview-231515255)
+- 12:58 PM
+- [Began testing tikv_alloc features](https://github.com/tikv/tikv/pull/4524#issuecomment-487455754)
+- 1:32 PM
+- Filed bugs for training project
+- Collected readings for mapleFU
+- [Re-reviewed tikv_alloc features](https://github.com/tikv/tikv/pull/4524#issuecomment-487526706)
+- 6:17 PM
+- Filed bugs for training project
+- 7:30 PM
+- Clock out
+
+# 2019-04-28
+
+- Clock in
+- 12:00 AM
+- Hacked on pd / raftstore extraction
+- 1:40 AM
+- Clock out
+- Clock in
+- 9:37 AM
+- [Posted about Titan to forum.tikv.org](https://forum.tikv.org/t/details-about-titan-the-new-blog-storage-engine/63)
+- [Posted about Titan to r/tikv](https://www.reddit.com/r/TiKV/comments/bi6utd/titan_a_rocksdb_plugin_to_reduce_write/)
+- 10:58 AM
+- [Responded re error-chain](https://users.rust-lang.org/t/error-chain-is-no-longer-maintained/27561/17?u=brson)
+- 11:07 AM
+- 11:44 AM
+- Clock out
+- Clock in
+- 3:34 PM
+- [Merged cleanup pr](https://github.com/tikv/tikv/pull/4513#pullrequestreview-225352240)
+- [Updated doc pr](https://github.com/tikv/tikv/pull/4538)
+- [Closed stale PR](https://github.com/tikv/tikv/pull/4548#issuecomment-487356031)
+- 4:08 PM
+- [Reviewed "safe_panic" PR](https://github.com/tikv/tikv/pull/4552#pullrequestreview-231454903)
+- 4:12 PM
+- [Reviewed panic pr](https://github.com/tikv/tikv/pull/4552/files)
+- 4:29 PM
+- [Updated jemalloc PR](https://github.com/tikv/tikv/pull/4515#issuecomment-487375297)
+- 6:37 PM
+- Clock out
+
+# 2019-04-27
+
+- Clock in
+- 12:40 PM
+- [Closed previous raftstore extraction pr](https://github.com/tikv/tikv/pull/4579)
+- 2:27 PM
+- [Reopened raftstore extraction pr](https://github.com/tikv/tikv/pull/4579)
+- Hacked on pd / raftstore extraction
+- 6:34 PM
+- Clock out
+- Clock in
+- 7:55 PM
+- Hacked on pd / raftstore extraction
+- 11:59 PM
+- Clock out
+
+# 2019-04-26
+
+- Clock in
+- 8:57 AM
+- Updated status reports
+- 9:25 AM
+- [Commented on error-chain maintenance](https://users.rust-lang.org/t/error-chain-is-no-longer-maintained/27561/5?u=brson)
+- 10:09 AM
+- [Approved profiler PR](https://github.com/tikv/tikv/pull/3971#issuecomment-486910521)
+- 11:14 AM
+- [Posted wip pd/raftstore extraction](https://github.com/tikv/tikv/pull/4579)
+- 11:25 AM
+- Attended TiKV team meeting
+- 12:00 PM
+- Clock out
+- Clock in
+- 5:52 PM
+- Hacked on raftstore extraction
+- 7:32 PM
+- Clock out
+
+# 2019-04-25
+
+- Clock in
+- 9:25 AM
+- [Updated pipelining issue](https://github.com/tikv/tikv/issues/4166#issuecomment-486490158)
+- 9:56 AM
+- Triaged todos
+- 10:17 AM
+- [Posted suggestion for `cargo build-deps`](https://github.com/rust-lang/cargo/issues/2644#issuecomment-486498915)
+- 10:45 AM
+- Helped Liu with building deps in cargo
+- 11:02 AM
+- Triaged emails
+- 11:04 AM
+- [Reviewed training compaction PR](https://github.com/pingcap/talent-plan/pull/55#pullrequestreview-230437249)
+- 11:10 AM
+- [Merged unused features PR](https://github.com/tikv/tikv/pull/4453)
+- 11:03 AM
+- Clock out
+- Clock in
+- 2:26 PM
+- [Reviewed training rm command](https://github.com/pingcap/talent-plan/pull/52#pullrequestreview-230469623)
+- 3:20 PM
+- Chatted w/ Calvin re compile time blog post
+- 3:58 PM
+- Chatted w/ Max re various
+- 5:15 PM
+- [Commented on disabling features](https://github.com/tikv/tikv/pull/4453#issuecomment-486589696)
+- 5:23 PM
+- [Merged disabling features PR](https://github.com/tikv/tikv/pull/4453#issuecomment-486600580)
+- 5:36 PM
+- Requested swag for @psinghal20
+- 5:52 PM
+- [Reviewed toolchain upgrade](https://github.com/tikv/tikv/pull/4568#pullrequestreview-230554758)
+- 5:57 PM
+- [Reviewed hashmap upgrade](https://github.com/tikv/tikv/pull/4571#pullrequestreview-230560630)
+- 6:10 PM
+- [Filed bug about rustup -V](https://github.com/rust-lang/rustup.rs/issues/1805)
+- 6:23 PM
+- Attended dinner w/ Liu
+- 7:34 PM
+- [Commented on lockfile v manifest](https://github.com/tikv/tikv/pull/4568#issuecomment-486656999)
+- 8:45 PM
+- 8:48 PM
+- Clock out
+
+# 2019-04-24
+
+- Clock in
+- 9:43 AM
+- Chatted w/ Yiling
+- Hacked on compile time blog post
+- 12:00 PM
+- Clock out
+- Clock in
+- 2:34 PM
+- Hacked on compile time blog post
+- 3:33 PM
+- Clock out
+- Clock in
+- 4:08 PM
+- [Posted about error-chain maintenance](https://users.rust-lang.org/t/error-chain-is-no-longer-maintained/27561)
+- 4:39 PM
+- Hacked on compile time blog post
+- Chatted w/ Liu and Jay re refactoring
+- 5:48 PM
+- Chatted w/ Yiling re project 4
+- 6:27 PM
+- [Outlined rust project 4](https://github.com/pingcap/talent-plan/pull/70)
+- 7:01 PM
+- Clock out
+
+# 2019-04-23
+
+- Clock in
+- 9:50 AM
+- RustCon Asia
+- Hacked on raftstore extraction
+- 5:00 PM
+- Clock out
+
+# 2019-04-22
+
+- Clock in
+- 10:36 AM
+- RustCon Asia
+- 12:00 PM
+- Clock out
+- Lunch
+- Clock in
+- 1:30 PM
+- TiKV team building
+- 8:00 PM
+- Clock out
+
+# 2019-04-21
+
+- Clock in
+- 9:00 AM
+- RustCon Asia
+- 12:00 PM
+- Clock out
+
+# 2019-04-20
+
+- Clock in
+- 9:00 AM
+- RustCon Asia
+- 5:00 PM
+- Clock out
+
+# 2019-04-19
+
+- Clock in
+- 9:00 AM
+- Filled out status reports
+- 9:31 AM
+- Chatted w/ Ana and Nick
+- 10:00 AM
+- Begin triage
+- 10:00 AM
+- Attended tikv meeting
+- 12:17 PM
+- Clock out
+- Clock in
+- 1:52 PM
+- [Commented on PingCAP CLA](https://github.com/pingcap/rust-prometheus/pull/219#issuecomment-484781339)
+- 2:34 PM
+- [Reviewed double-panic fix](https://github.com/tikv/tikv/pull/4548#issuecomment-484783867)
+- 2:49 PM
+- Clock out
+
+# 2019-04-16
+
+- Clock in
+- 11:27 AM
+- Hacked on docs
+- 12:40 PM
+- Clock out
+- Clock in
+- 4:40 PM
+- [Re-worked a cleanup pr](https://github.com/tikv/tikv/pull/4513)
+- 5:06 PM
+- [Re-opened unfatten-bins issue](https://github.com/tikv/tikv/issues/4389)
+- 6:01 PM
+- [Posted pr moving code around](https://github.com/tikv/tikv/pull/4538)
+- 6:09 PM
+- Clock out
+- Clock in
+- 8:16 PM
+- Updated JIRA
+- [Signed-off commits](https://github.com/tikv/tikv/pull/4538)
+- 8:41 PM
+- Clock out
+
+# 2019-04-15
+
+- Clock in
+- 1:00 PM
+- Attended weekly meeting
+- 1:25 PM
+- Clock out
+
+# 2019-04-11
+
+- Clock in
+- 1:41 PM
+- Begin triage
+- 1:41 PM
+- [Re-reviewed util extraction](https://github.com/tikv/tikv/pull/4504#pullrequestreview-225787723)
+- 1:53 PM
+- [Responded to q](https://github.com/tikv/tikv/pull/4461#issuecomment-482310720)
+- 1:56 PM
+- [Re-reviewed disable unused features pr](https://github.com/tikv/tikv/pull/4453)
+- 2:06 PM
+- 2:15 PM
+- End triage
+- Posted status update
+- Upated sprint
+- 2:38 PM
+- Clock out
+- Clock in
+- 2:57 PM
+- Attended meeting w/ Ana
+- 3:35 PM
+- Clock out
+- Clock in
+- 4:58 PM
+- [Merged talent plan 2](https://github.com/pingcap/talent-plan/pull/45)
+- 5:05 PM
+- [Reworked rust project 3](https://github.com/pingcap/talent-plan/pull/43#issuecomment-482386606)
+- 5:18 PM
+- [Filed bug to link libunwind](https://github.com/tikv/tikv/issues/4520)
+- 5:32 PM
+- [Closed tcmalloc issue](https://github.com/tikv/tikv/issues/4191)
+- 5:35 PM
+- [Filed bug to document allocators](https://github.com/tikv/tikv/issues/4521)
+- 5:40 PM
+- [Updated jemallocator 0.3 pr](https://github.com/tikv/tikv/pull/4515/)
+- 5:57 PM
+- Clock out
+- Clock in
+- 6:52 PM
+- [Reviewed project 3](https://github.com/pingcap/talent-plan/pull/51)
+- 7:16 PM
+- [Reviewed cpu profiling](https://github.com/tikv/tikv/pull/3971#issuecomment-482412438)
+- 7:28 PM
+- [Reviewed criterion upgrade pr](https://github.com/tikv/tikv/pull/4509#pullrequestreview-225874319)
+- 7:31 PM
+- Clock out
+
+# 2019-04-10
+
+- Clock in
+- 10:28 AM
+- [Posted benchmarks for disabled features](https://github.com/tikv/tikv/pull/4453#issuecomment-481789292)
+- 10:38 AM
+- [Closed rocksdb imports issue](https://github.com/tikv/tikv/issues/4229)
+- 10:48 AM
+- [Reviewed util extraction](https://github.com/tikv/tikv/pull/4504#pullrequestreview-225126180)
+- 11:02 AM
+- [Analyzed module dependencies](https://github.com/tikv/tikv/issues/3352#issuecomment-481805380)
+- 11:20 AM
+- Clock out
+- Clock in
+- 4:00 PM
+- Commented on module extraction
+- 4:14 PM
+- Updated basic-http-server with svg mime type
+- Hacked on tikv cleanup
+- 5:20 PM
+- Clock out
+- Clock in
+- 7:07 PM
+- [Posted cleanup PR](https://github.com/tikv/tikv/pull/4513)
+- 7:15 PM
+- Hacked on tikv API docs
+- 7:48 PM
+- [Posted PR to upgrade jemallocator](https://github.com/tikv/tikv/pull/4515)
+- 8:34 PM
+- Clock out
+- Clock in
+- 9:00 PM
+- [Posted tcmalloc upgrade PR](https://github.com/tikv/tikv/pull/4516)
+- 9:28 PM
+- [Requested new feature tooling](https://github.com/psinghal20/cargo-feature-analyst/issues/1)
+- 9:41 PM
+- Clock out
+
+# 2019-04-09
+
+- Clock in
+- 2:20 PM
+- Researched Rust ergonomics history
+- 3:11 PM
+- Clock out
+- Clock in
+- 5:09 PM
+- [Re-reviewed tcmalloc patch](https://github.com/tikv/tikv/pull/4370#issuecomment-481489000)
+- 5:32 PM
+- [Commented on empty test case issue](https://github.com/tikv/tikv/issues/4391#issuecomment-481489568)
+- 5:36 PM
+- [Commented on empty test case pr](https://github.com/tikv/tikv/pull/4440#issuecomment-481489775)
+- 5:37 PM
+- [Reworked tcmalloc static link patch](https://github.com/jmcomets/tcmalloc-rs/pull/3#issuecomment-481502541)
+- 6:52 PM
+- Clock out
+- Clock in
+- 7:49 PM
+- [Commented on tcmalloc](https://github.com/tikv/tikv/issues/4471#issuecomment-481514293)
+- 7:59 PM
+- [Commented on talent-plan forum](https://github.com/pingcap/talent-plan/issues/47#issuecomment-481515224)
+- 8:04 PM
+- Booked more china accomodations
+- 9:11 PM
+- Replied to niko
+- 9:16 PM
+- Clock out
+
+# 2019-04-08
+
+- Clock in
+- 10:34 AM
+- Begin triage
+- 10:35 AM
+- [Closed jira ticket for rust project 2](https://internal.pingcap.net/jira/browse/TIKV-2986)
+- 10:46 AM
+- 11:19 AM
+- End triage
+- [Posted tikv bin size breakdown](https://github.com/tikv/tikv/issues/4107#issuecomment-480950062)
+- 11:34 AM
+- Hacked on project 3
+- 1:02 PM
+- Attended global mtg
+- 1:37 PM
+- Hacked on project 3
+- 2:10 PM
+- Sent intro email to niko
+- 3:11 PM
+- Clock out
+
+# 2019-04-07
+
+- Clock in
+- 1:57 PM
+- Hacked on project 3
+- 3:11 PM
+- Clock out
+- Clock in
+- 4:40 PM
+- Hacked on project 3
+- 4:56 PM
+- Clock out
+- Clock in
+- 5:59 PM
+- Posted project 3 text
+- 6:32 PM
+- Clock out
+
+# 2019-04-06
+
+- Clock in
+- 2:39 PM
+- [Merged project 2 text](https://github.com/pingcap/talent-plan/pull/36#issuecomment-480543870)
+- 3:52 PM
+- [Reviewed project 2 pr](https://github.com/pingcap/talent-plan/pull/45#pullrequestreview-223560281)
+- 5:41 PM
+- Emailed shirly
+- 6:00 PM
+- Clock out
+- Clock in
+- 7:44 PM
+- [Closed unfatten-bins issue](https://github.com/tikv/tikv/issues/4389#issuecomment-480554102)
+- 7:47 PM
+- [Created sum-time-passes.py](https://gist.github.com/brson/819c52c6e9f09f5eaa450e623c686e4e)
+- [Posted time-passes sums for debug build](https://gist.github.com/brson/e16b6b6b6d25951c102e23a5feed9b96)
+- 8:20 PM
+- Clock out
+
+# 2019-04-05
+
+- Clock in
+- 5:45 PM
+- [Hacked on unfatten-server branch](https://github.com/tikv/tikv/issues/4389)
+- 6:14 PM
+- Measured unfatten-server branch
+- Wrote in compile-time blog
+- 7:00 PM
+- 7:40 PM
+- Clock out
+
+# 2019-04-04
+
+- Clock in
+- 1:00 PM
+- Responded to Yilian
+- 1:08 PM
+- Researched tcmalloc stats
+- 2:06 PM
+- [Reworked jemalloc-ctl patch](https://github.com/gnzlbg/jemallocator/pull/121#issuecomment-480071972)
+- 2:33 PM
+- 2:54 PM
+- Attended ecosystem mtg
+- 4:02 PM
+- Sent emails asking for compile time testing
+- [Filed bug for compile time testing](https://internal.pingcap.net/jira/browse/TIKV-3002)
+- 4:33 PM
+- Clock out
+- Clock in
+- 7:00 PM
+- Attended weekly tikv meeting
+- 7:49 PM
+- Clock out
+- Clock in
+- 8:13 PM
+- [Responded to tcmalloc static linking](https://github.com/tikv/tikv/issues/4471#issuecomment-480134799)
+- 8:15 PM
+- [Re-reviewed engine abstraction](https://github.com/tikv/tikv/pull/4461#issuecomment-480135516)
+- 8:20 PM
+- Resonded to emails
+- 8:32 PM
+- [Reviewed codec patch](https://github.com/tikv/tikv/pull/4454#issuecomment-480141328)
+- 9:04 PM
+- Clock out
+
+# 2019-04-03
+
+- Clock in
+- 12:45 PM
+- Begin triage
+- 12:46 PM
+- 1:32 PM
+- End Triage
+- 1:32 PM
+- Clock out
+- Clock in
+- 1:52 PM
+- [Outlined project 3](https://github.com/brson/talent-training/tree/project-3)
+- 4:00 PM
+- Clock out
+- Clock in
+- 4:47 PM
+- Filed more training project tasks
+- 4:58 PM
+- [Submitted outline of project 3](https://github.com/pingcap/talent-plan/pull/43)
+- 5:22 PM
+- Updated JIRA sprint
+- 5:27 PM
+- Wrote status report
+- [Wrote project status reports](https://internal.pingcap.net/confluence/display/TT/2019-03-29+-+2019-04-04)
+- 5:56 PM
+- [Posted personal Q2 okrs](https://internal.pingcap.net/confluence/display/TT/2019+Q2+OKRs+-+Brian+Anderson)
+- 6:10 PM
+- 6:16 PM
+- Clock out
+- Clock in
+- 7:39 PM
+- [Reworked a training pr](https://github.com/pingcap/talent-plan/pull/36#issuecomment-479741696)
+- 9:05 PM
+- Clock out
+
+# 2019-04-02
+
+- Clock in
+- 1:57 PM
+- Attended ecosystem meeting
+- 3:02 PM
+- Hacked on jemalloc-ctl 0.3
+- [Posted script fix for makefile profiles](https://github.com/tikv/tikv/pull/4465)
+- 4:10 PM
+- [Filed bug to publish ralloc](https://gitlab.redox-os.org/redox-os/ralloc/issues/62)
+- 5:02 PM
+- [Merged ralloc fixes](https://gitlab.redox-os.org/redox-os/ralloc/merge_requests/66)
+- 5:03 PM
+- [Commented on jemallocator 0.3](https://github.com/tikv/tikv/issues/4406#issuecomment-479264332)
+- 5:06 PM
+- [Posted PR to implement StdError for jemalloc-ctl](https://github.com/gnzlbg/jemallocator/pull/121)
+- 5:24 PM
+- [Reviewed a jemallocator patch](https://github.com/gnzlbg/jemallocator/pull/118#issuecomment-479270185)
+- 5:28 PM
+- [Hacked on megamalloc](https://github.com/brson/megamalloc)
+- 6:35 PM
+- [Posted PR to build tcmalloc](https://github.com/jmcomets/tcmalloc-rs/pull/3)
+- 8:08 PM
+- [Re-reviewed tcmalloc patch](https://github.com/tikv/tikv/pull/4370#pullrequestreview-221989614)
+- 8:24 PM
+- Clock out
+
+# 2019-04-01
+
+- Clock in
+- 9:49 AM
+- [Re-reviewed tcmalloc patch](https://github.com/tikv/tikv/pull/4370#issuecomment-478663683)
+- 10:08 AM
+- Files some bugs against jemallocator
+- 10:58 AM
+- [Filed bug about const fn error msg](https://github.com/rust-lang/rust/issues/59611)
+- 11:21 AM
+- 12:01 PM
+- Clock out
+- Clock in
+- 12:54 PM
+- Attended NA meeting
+- 1:27 PM
+- Begin triage
+- 1:28 PM
+- [Reviewed an abstraction pr](https://github.com/tikv/tikv/pull/4461#pullrequestreview-221337112)
+- 1:51 PM
+- Triaged email
+- 1:58 PM
+- 2:09 PM
+- End triage
+- 2:09 PM
+- [Reviewed feature disablement](https://github.com/tikv/tikv/pull/4453#pullrequestreview-221367049)
+- 3:01 PM
+- [Commented on prometheus docs](https://github.com/pingcap/rust-prometheus/issues/222#issuecomment-478767026)
+- 3:15 PM
+- Chatted w/ Ed
+- 3:27 PM
+- Emailed Peter Tang for office addresses
+- Emailed contacts in Shanghai and Hangzhou
+- 3:37 PM
+- Sent Ed et al email re rustc contracting
+- 5:00 PM
+- 5:12 PM
+- Clock out
+- Clock in
+- 7:29 PM
+- Attended tikv q2 okr mtg
+- 9:03 PM
+- Clock out
+
+# 2019-03-31
+
+- Clock in
+- 1:18 PM
+- [Merged talent plan pr](https://github.com/pingcap/talent-plan/pull/34)
+- 1:24 PM
+- Read about bitcask
+- Hacked on training project 2
+- 3:26 PM
+- Clock out
+- Clock in
+- 4:42 PM
+- [Posted new b-c-p results](https://internal.pingcap.net/confluence/display/TT/2019-03+Compile+time+tests)
+- 4:45 PM
+- [Posted project 2 text](https://github.com/pingcap/talent-plan/pull/36)
+- 7:09 PM
+- Emailed Kun Jin about RustCon acomodations
+- 7:21 PM
+- [Posted more benchmarks](https://github.com/tikv/tikv/pull/4458#issuecomment-478417822)
+- 7:52 PM
+- Sent Yiling interesting issues to work on
+- 8:03 PM
+- 8:14 PM
+- Clock out
+
+# 2019-03-30
+
+- Clock in
+- 6:28 PM
+- [Merged cargo profiles](https://github.com/tikv/tikv/pull/4415)
+- 6:41 PM
+- [Posted test results to wiki](https://internal.pingcap.net/confluence/display/TT/2019-03+Compile+time+tests)
+- 6:50 PM
+- [Updated config profiles](https://github.com/tikv/tikv/pull/4458)
+- 7:38 PM
+- 8:03 PM
+- Clock out
+
+# 2019-03-28
+
+- Clock in
+- 1:28 PM
+- [Filed bug to add rm to training](https://github.com/pingcap/talent-plan/issues/32)
+- 1:32 PM
+- Began running bench-cargo-profile on IDC machine
+- 1:46 PM
+- [Reviewed engine abstraction](https://github.com/tikv/tikv/issues/3387#issuecomment-477779421)
+- [Commented on tikv log truncating](https://github.com/tikv/tikv/issues/3387#issuecomment-477779421)
+- [Fixed merge conflicts in tcmalloc pr](https://github.com/tikv/tikv/issues/3387#issuecomment-477779421)
+- 2:34 PM
+- Responded to contributor email
+- 2:54 PM
+- Triaged email
+- 2:57 PM
+- Chatted w/ Ana
+- 4:02 PM
+- [Fixed merge conflicts in tcmalloc pr](https://github.com/tikv/tikv/pull/4370#pullrequestreview-220319965)
+- 4:27 PM
+- [Reviewed fatal! fix](https://github.com/tikv/tikv/pull/4448#pullrequestreview-220323443)
+- 4:43 PM
+- Clock out
+- Clock in
+- 6:53 PM
+- Attended i18n meeting
+- 7:46 PM
+- [Closed stale PR](https://github.com/tikv/tikv/pull/4324#issuecomment-477846664)
+- 7:52 PM
+- Clock out
+- Clock in
+- 8:54 PM
+- Chatting w/ Yiling
+- 9:15 PM
+- [Reviewed cargo-audit PR](https://github.com/tikv/tikv/pull/4449#pullrequestreview-220370573)
+- 9:25 PM
+- [Reviewed disabling extra test cases](https://github.com/tikv/tikv/pull/4440#pullrequestreview-220372093)
+- 9:36 PM
+- [Merged training pr](https://github.com/pingcap/talent-plan/pull/29)
+- 9:42 PM
+- [Merged training pr](https://github.com/pingcap/talent-plan/pull/30)
+- 9:45 PM
+- [Merged training pr](https://github.com/pingcap/talent-plan/pull/31)
+- 9:50 PM
+- [Commented on sync hyper](https://github.com/pingcap/talent-plan/issues/15#issuecomment-477869053)
+- 10:06 PM
+- [Reviewed project 2 code](https://github.com/pingcap/talent-plan/pull/33#pullrequestreview-220392980)
+- 11:46 PM
+- Clock out
+
+# 2019-03-27
+
+- Clock in
+- 12:08 PM
+- [Filed issue on training goals](https://github.com/pingcap/talent-plan/issues/24)
+- 2:07 PM
+- [Filed isue on training lessons](https://github.com/pingcap/talent-plan/issues/25)
+- 2:10 PM
+- [Merged some js fixes for rust course](https://github.com/pingcap/talent-plan/pull/27)
+- 2:21 PM
+- Hacked on training project 2
+- Attended nosql meetup
+- 6:45 PM
+- Clock out
+- Clock in
+- 8:39 PM
+- [Reviewed a pr](https://github.com/pingcap/talent-plan/pull/29#issuecomment-477435940)
+- 8:44 PM
+- Clock out
+
+# 2019-03-26
+
+- Clock in
+- 1:36 PM
+- [Fixed scrolling in talent-training/rust](https://github.com/brson/talent-training/tree/scrollfix)
+- 2:12 PM
+- [Posted TWiR issues](https://github.com/cmr/this-week-in-rust/pull/874)
+- 2:31 PM
+- Attempted to sign up for rustcon
+- 3:42 PM
+- Submitted invoice
+- 3:53 PM
+- [Filed tasks for Rust training project](https://github.com/pingcap/talent-plan/projects/1)
+- 4:27 PM
+- 4:37 PM
+- Ordered rustcon ticket
+- 4:44 PM
+- Clock out
+- Clock in
+- 8:48 PM
+- Posted apologies to two PRs in review
+- 8:51 PM
+- Clock out
+
+# 2019-03-25
+
+- [Commented on tikv binaries](https://github.com/tikv/tikv/issues/4426#issuecomment-476321294)
+- Clock in
+- 12:51 PM
+- Attended NA meeting
+- 1:30 PM
+- Attended dbass meeting
+- 2:51 PM
+- Clock out
+- Clock in
+- 6:41 PM
+- Triaged email
+- [Updated jemalloc issue](https://github.com/tikv/tikv/issues/4406)
+- 7:03 PM
+- [Commented on AtomicCell](https://github.com/tikv/tikv/pull/4424#discussion_r268923216)
+- 7:30 PM
+- [Reviewed percolator lab](https://github.com/pingcap/talent-plan/pull/8#issuecomment-476451753)
+- 7:39 PM
+- [Reworked training pr](https://github.com/pingcap/talent-plan/pull/7#issuecomment-476461864)
+- 8:33 PM
+- Clock out
+- Clock in
+- 10:11 PM
+- [Reviewed training pr](https://github.com/pingcap/talent-plan/pull/10#issuecomment-476490274)
+- 11:28 PM
+- Clock out
+
+# 2019-03-24
+
+- Clock in
+- 3:05 PM
+- [Completed text for project 1](https://github.com/pingcap/talent-plan/pull/7)
+- 7:25 PM
+- Clock out
+
+# 2019-03-22
+
+- Clock in
+- 11:00 AM
+- Chatted w/ Liu
+- Chatted w/ Ana
+- Chatted w/ a contributor
+- Reviewed a resume
+- 11:41 AM
+- Begin triage
+- 11:43 AM
+- [Commented on incremental bug](https://github.com/tikv/tikv/issues/4163#issuecomment-475740591)
+- 11:55 AM
+- [Commented on DEFAULT_DATA_DIR](https://github.com/tikv/tikv/pull/4393/files/add102793752deabbb97a0b97d4f9c2c6fb4377d#r268300593)
+- 11:57 AM
+- 12:15 PM
+- Clock out
+- Clock in
+- 1:30 PM
+- Chatted w/ Liu
+- 4:05 PM
+- Clock out
+- Clock in
+- 5:22 PM
+- [Posted a rust training PR](https://github.com/pingcap/talent-plan/pull/7)
+- 5:48 PM
+- Responded to email from Yilin
+- 6:29 PM
+- [Reviewed kvproto update](https://github.com/tikv/tikv/pull/4425#pullrequestreview-218022433)
+- 7:28 P
+- [Responded to makefile-profiles2 PR](https://github.com/tikv/tikv/pull/4415#issuecomment-475832126)
+- 7:36 PM
+- [Posted compile time benchmarks to confluence](https://internal.pingcap.net/confluence/display/TT/2019-03+Compile+time+tests)
+- 7:38 PM
+- 7:44 PM
+- Clock out
+
+# 2019-03-21
+
+- Clock in
+- 10:18 AM
+- [Posted incremental timings](https://github.com/tikv/tikv/issues/4155#issuecomment-475339274)
+- 10:58 AM
+- Hacked on training project 1
+- 12:10 PM
+- Clock out
+- Clock in
+- 1:48 PM
+- [Hacked on training project 1](https://brson.github.io/talent-training/rust/)
+- 3:32 PM
+- Posted status report
+- 4:03 PM
+- Clock out
+
+# 2019-03-20
+
+- Clock in
+- 12:25 AM
+- [Filed issue to reorganize tikv_alloc's features](https://github.com/tikv/tikv/issues/4409)
+- 1:57 AM
+- [Offered tikv_alloc issue to a contributor](https://github.com/tikv/tikv/pull/4370#issuecomment-474742762)
+- 2:00 AM
+- [Posted PR to fix tikv_alloc build](https://github.com/tikv/tikv/pull/4411)
+- 2:16 AM
+- Clock out
+- Clock in
+- 12:48 PM
+- Begin triage
+- 12:53 PM
+- Triaged slack
+- 1:02 PM
+- [Reviewed tikv cli rfc](https://github.com/tikv/rfcs/pull/21#issuecomment-475008379)
+- 1:12 PM
+- [Approved RPN pr](https://github.com/tikv/tikv/pull/4329#pullrequestreview-216960016)
+- 1:20 PM
+- [Reworked DEFAULT_DATA_DIR PR](https://github.com/tikv/tikv/pull/4393#issuecomment-475031192)
+- 2:15 PM
+- [Commented on tcmalloc profiling](https://github.com/tikv/tikv/pull/4370#issuecomment-475034431)
+- 2:26 PM
+- [Commented on allocators](https://github.com/tikv/tikv/issues/4409#issuecomment-475045864)
+- 3:03 PM
+- [Posted rework to alloc abstraction pr](https://github.com/tikv/tikv/pull/4411#issuecomment-475055500)
+- 3:35 PM
+- [Closed lto issue](https://github.com/tikv/tikv/issues/4163#issuecomment-475057061)
+- 3:42 PM
+- [Created issue for b-c-p](https://internal.pingcap.net/jira/browse/TIKV-2902)
+- 3:48 PM
+- Clock out
+- Clock in
+- 9:18 PM
+- [Reworked makefile-profiles patch](https://github.com/tikv/tikv/pull/4324#issuecomment-475111361)
+- 9:40 PM
+- Clock out
+- Clock in
+- 10:37 PM
+- [Posted PR for makefile-profiles](https://github.com/tikv/tikv/pull/4415)
+- 11:17 PM
+- Clock out
+
+# 2019-03-19
+
+- Clock in
+- 12:00 AM
+- Hacked on bench-cargo-profile
+- 1:33 AM
+- Clock out
+- Clock in
+- 12:25 PM
+- Attended 1:1 w/ Ana
+- 1:20 PM
+- Collected list of tools developed for compile time project
+- 1:41 PM
+- Attended Yi's presentation
+- 2:49 PM
+- [Commented about Duration's Debug impl](https://github.com/rust-lang/rust/issues/30164#issuecomment-474611103)
+- 3:35 PM
+- Hacked on bench-cargo-profile
+- 4:34 PM
+- Clock out
+- Clock in
+- 9:19 PM
+- [Filed bug on jemallocator stats feature](https://github.com/gnzlbg/jemallocator/issues/112)
+- 10:18 PM
+- [Filed bug on jemallocator git rev](https://github.com/tikv/tikv/issues/4406)
+- 10:29 PM
+- [Reviewed tcmalloc patch](https://github.com/tikv/tikv/pull/4370#pullrequestreview-216546808)
+- 11:39 PM
+- 11:59 PM
+- Clock out
+
+# 2019-03-18
+
+- Clock in
+- 10:03 AM
+- [Hacked on bench-cargo-profiles](https://github.com/brson/bench-cargo-profiles)
+- 12:04 PM
+- Clock out
+- Clock in
+- 12:43 PM
+- Attended global meeting
+- 1:33 PM
+- [Hacked on bench-cargo-profiles](https://github.com/brson/bench-cargo-profiles)
+- Continued collecting benchmark results
+- [Wrote a script to measure rss](https://github.com/brson/measure-rustc-rss)
+- 3:22 PM
+- Pinged Niko re upstream contracting
+- 3:54 PM
+- [Commented on lockfiles and --locked](https://github.com/pingcap/kvproto/pull/366#issuecomment-474138574)
+- 4:21 PM
+- [Merged tikv governance PR](https://github.com/tikv/tikv/pull/4261#pullrequestreview-215903570)
+- 4:41 PM
+- 4:46 PM
+- Clock out
+- Clock in
+- 5:55 PM
+- Attended 1-1 w/ Liu
+- 7:03 PM
+- Clock out
+- Clock in
+- 8:49 PM
+- Hacked on bench-cargo-profile
+- 9:17 PM
+- Clock out
+- Clock in
+- 9:59 PM
+- Hacked on bench-cargo-profile
+- 11:59 PM
+- Clock out
+
+
+
+# 2019-03-17
+
+- Clock in
+- 2:31 PM
+- Began benchmarking opt-level=2
+- 2:44 PM
+- Set up development on IDC 30.31
+- Began hacking on full makefile-profiles
+- 4:01 PM
+- [Closed sccache issue](https://github.com/tikv/tikv/issues/4153)
+- 4:17 PM
+- [Closed profiling issue](https://github.com/tikv/tikv/issues/4148)
+- 4:20 PM
+- [Closed panic=abort issue](https://github.com/tikv/tikv/issues/4173)
+- 4:22 PM
+- Triaged JIRA compile time project
+- 4:39 PM
+- [Filed issue to unfatten tikv-server](https://github.com/tikv/tikv/issues/4389)
+- 4:50 PM
+- [Filed bug about calling cargo search unconditionally in makefiles](https://github.com/tikv/tikv/issues/4390)
+- 5:01 PM
+- [Filed issue to disable empty test suites](https://github.com/tikv/tikv/issues/4391)
+- 5:05 PM
+- [Commented on cargo not being able to override test/bench](https://github.com/rust-lang/rust/issues/48683#issuecomment-473731020)
+- 5:22 PM
+- Ran more benchmarks
+- Hacked on makefile-profiles
+- Asked for help running go-ycsb
+- 7:27 PM
+- [Posted PR to fix DEFAULT_DATA_DIR](https://github.com/tikv/tikv/pull/4393)
+- 8:19 PM
+- Attempted to get go-ycsb working
+- Asked for help with go-ycsb
+- Collected more benchmarks
+- 8:54 PM
+- Clock out
+
+# 2019-03-15
+
+- Clock in
+- 1:00 PM
+- Began benchmarking full LTO vs thin LTO
+- 1:15 PM
+- [Responded to kvproto cfg issue](https://github.com/tikv/tikv/issues/4384#issuecomment-473438129)
+- 1:55 PM
+- [Commented on inner-function style](https://github.com/tikv/tikv/pull/4329/files/85164c538f002af78d5265c85c06ec6b83f5cd54#r266151892)
+- 2:37 PM
+- [Commented on makefile-profiles PR](https://github.com/tikv/tikv/pull/4324#issuecomment-473473217)
+- 4:51 PM
+- [Postetd status update](https://internal.pingcap.net/confluence/display/TT/Brian+Anderson+2019-03-14?src=contextnavpagetreemode)
+- 4:57 PM
+- Clock out
+- Clock in
+- 6:49 PM
+- [Posted LTO benchmark results](https://github.com/tikv/tikv/issues/4163#issuecomment-473488608)
+- 6:53 PM
+- Clock out
+
+# 2019-03-14
+
+- Clock in
+- 10:30 AM
+- Chatted w/ Liu
+- 10:44 AM
+- Begin various benchmarks
+- Triaged todos
+- 12:17 PM
+- Clock out
+- Clock in
+- 1:15 PM
+- [Posted project reports](https://internal.pingcap.net/confluence/display/TT/Projects+2019-03-08+--+2019-03-14)
+- 1:40 PM
+- [Moved Q1 okrs to wiki](https://internal.pingcap.net/confluence/display/TT/2019+Q1+OKRs+-+Brian+Anderson)
+- 2:02 PM
+- Timed full and partial rebuilds with complex configuration
+- Sent Kevin resume
+- 3:06 PM
+- [Posted some results to dylibs issue](https://github.com/tikv/tikv/issues/4151#issuecomment-473087545)
+- 3:26 PM
+- [Commented on makefile-profiles PR](https://github.com/tikv/tikv/pull/4324#issuecomment-473098265)
+- 4:04 PM
+- [Closed prometheus 2018 upgrade](https://github.com/pingcap/rust-prometheus/pull/220#issuecomment-473099482)
+- 4:09 PM
+- [Unassigned myself from prometheus 1.0 task](https://github.com/pingcap/rust-prometheus/issues/218#issuecomment-473100063)
+- 4:11 PM
+- [Assigned prometheus rust 2018 task to nrc](https://github.com/pingcap/rust-prometheus/issues/217#issuecomment-473100448)
+- 4:13 PM
+- [Posted timing experiment to debuginfo issue](https://github.com/tikv/tikv/issues/4150#issuecomment-473136218)
+- 7:32 PM
+- [Posted timing experiment to lto issue](https://github.com/tikv/tikv/issues/4163#issuecomment-473135814)
+- 7:32 PM
+- [Posted timing experiment to incremental issue](https://github.com/tikv/tikv/issues/4155#issuecomment-473136199)
+- 7:33 PM
+- [Posted timing experiment to panic=abort issue](https://github.com/tikv/tikv/issues/4173#issuecomment-473136538)
+- 7:34 PM
+- Clock out
+
+# 2019-03-13
+
+- Clock in
+- 12:50 PM
+- Chatted in #tikv-compiling-time
+- 1:16 PM
+- Timed passes for the tikv release build
+- 2:12 PM
+- Clock out
+
+# 2019-03-12
+
+- Clock in
+- 1:00 PM
+- [Responded to dylib issue](https://github.com/tikv/tikv/issues/4151#issuecomment-472166999)
+- 1:26 PM
+- [Posted issues to twir](https://github.com/cmr/this-week-in-rust/pull/860)
+- 1:32 PM
+- Asked to be unwaitlisted for wed rust meetup
+- 1:39 PM
+- Clock out
+- Clock in
+- 2:03 PM
+- [Closed a dupe bug](https://github.com/tikv/tikv/issues/4358#issuecomment-472181801)
+- 2:08 PM
+- Responded to a contributor email
+- 2:41 PM
+- Began testing sccache
+- 3:19 PM
+- [Commented on raft log clone issue](https://github.com/tikv/tikv/issues/2373#issuecomment-472212562)
+- 3:56 PM
+- Emailed Jay and Qupeng asking for help with IDC benchmarking
+- 5:07 PM
+- Experimented with sccache
+- straced tikv to look for long-running processes
+- [Commented on tcmalloc pr re --no-default-features](https://github.com/tikv/tikv/pull/4207#issuecomment-472251233)
+- 7:09 PM
+- Clock out
+- Clock in
+- 7:56 PM
+- [Posted strace ld-timings](https://pingcap.slack.com/archives/CGU6SSPDZ/p1552445872041500)
+- 7:58 PM
+- [Reviewed kvproto pr](https://github.com/pingcap/kvproto/pull/366#pullrequestreview-213742711)
+- 8:06 PM
+- Clock out
+
+# 2019-03-11
+
+- Clock in
+- 10:10 AM
+- Attended 1:1 w/ Ed
+- Started timing dynamic rocksdb
+- Continued hacking on slides
+- 11:29 AM
+- Continued hacking on slides
+- 12:00 PM
+- Clock out
+- Clock in
+- 12:52 PM
+- Attended NA meeting
+- 1:34 PM
+- Delivered NA presentation
+- 2:57 PM
+- Clock out
+- Clock in
+- 3:50 PM
+- Begin triage
+- 3:50 PM
+- Triaged slack
+- 3:52 PM
+- [Commented on toolchain upgrade](https://github.com/tikv/tikv/issues/4342#issuecomment-471772818)
+- 3:55 PM
+- Triaged email
+- Triaged jira
+- 4:14 PM
+- Triaged todos
+- 4:25 PM
+- End triage
+- Submitted invoice
+- 4:37 PM
+- Clock out
+- Clock in
+- 6:04 PM
+- Posted instructions for reproducing my dynamic rocksdb build
+- 6:22 PM
+- [Filed bug on logs not being flushed](https://github.com/tikv/tikv/issues/4358)
+- 6:44 PM
+- Attended meeting re This Week in TiKV
+- [Pushed updates to dylib branch](https://pingcap.slack.com/archives/CGU6SSPDZ/p1552358565018100)
+- 7:43 PM
+- Clock out
+
+# 2019-03-10
+
+- Clock in
+- 2:55 PM
+- [Hacked on tidb-rust-presentation](https://github.com/brson/tidb-rust-presentation)
+- 9:11 PM
+- Clock out
+
+# 2019-03-08
+
+- Clock in
+- 2:12 PM
+- Responded to a q on slack
+- 2:12 PM
+- [Created issue to dynamically link rocksdb](https://github.com/tikv/tikv/issues/4338)
+- 2:28 PM
+- [Posted update on rocksdb dylibs to issue](https://github.com/tikv/tikv/issues/4338#issuecomment-471140104)
+- 7:04 PM
+- Testing tikv with rocksdb dylibs
+- [Posted updatte on rocksdb dylibs](https://github.com/tikv/tikv/issues/4338#issuecomment-471142289)
+- 7:18 PM
+- Clock out
+
+# 2019-03-07
+
+- Clock in
+- 11:10 AM
+- Begin triage
+- 11:13 AM
+- Helped Yi w/ Rust timer question
+- 11:27 AM
+- Asked about fallible dtor patterns in #rust-libs
+- 12:08 PM
+- Triaged todos
+- 12:18 PM
+- End triage
+- Updated weekly status report
+- 12:33 PM
+- Clock out
+- Clock in
+- 2:30 PM
+- [Hacked on training project 1](https://github.com/brson/talent-training/commit/7a63da7394c8a9b915a4f30a5589bb788d001072)
+- 3:10 PM
+- 3:58 PM
+- Clock out
+- Clock in
+- 4:52 PM
+- [Commented re double panicking](https://github.com/tikv/tikv/issues/4312#issuecomment-470761128)
+- 4:52 PM
+- [Commented re double panicking](https://github.com/tikv/tikv/issues/4310#issuecomment-470761584)
+- [Commented re double panicking](https://github.com/tikv/tikv/issues/4309#issuecomment-470761720)
+- 4:56 PM
+- [Reviewed cargo-tee feature-extracting code](https://github.com/sfackler/cargo-tree/pull/59#issuecomment-470770299)
+- 5:37 PM
+- Shared list of flaky tests with nrc
+- 5:42 PM
+- Attended NA meeting
+- 6:55 PM
+- Clock out
+
+# 2019-03-06
+
+- Clock in
+- 2:46 PM
+- [Collected benchmarks on different cargo profiles](https://gist.github.com/brson/5cea8b2717551fd27553da055d8fcc05)
+- 2:54 PM
+- Begin triage
+- 3:02 PM
+- Triaged slack
+- 3:16 PM
+- [Commented on flaky test](https://github.com/tikv/tikv/pull/4300#issuecomment-470319267)
+- 3:29 PM
+- Triaged email
+- 3:40 PM
+- Triaged jira
+- Triaged todos
+- 4:06 PM
+- [Posted PR to add experimental cargo profiles](https://github.com/tikv/tikv/pull/4324)
+- 5:28 PM
+- [Submitted PR to add structure to rust course](https://github.com/pingcap/talent-plan/pull/3)
+- 6:26 PM
+- [Re-worked prometheus 2018 upgrade](https://github.com/pingcap/rust-prometheus/pull/220#issuecomment-470363862)
+- 6:51 PM
+- Clock out
+
+# 2019-03-05
+
+- Clock in
+- 10:20 AM
+- Began timing various profiles for makefile-profiles pr
+- 10:58 AM
+- Attended team building lunch and bowling
+- 3:32 PM
+- Hacked on profile timing scripts
+- Restarted profile timing
+- 3:51 PM
+- Clock out
+- Clock in
+- 5:10 PM
+- Met w/ Liu
+- 6:22 PM
+- Clock out
+
+# 2019-03-04
+
+- Clock in
+- 9:53 AM
+- [Hacked on custom build profiles](https://github.com/tikv/tikv/issues/4189)
+- 10:08 AM
+- Clock out
+- Clock in
+- 10:35 AM
+- Chatted w/ Niko
+- 10:42 AM
+- Begin triage
+- 10:50 AM
+- Created some todos
+- 10:58 AM
+- Triaged slack
+- Triaged WeChat
+- 11:03 AM
+- [Encouraged a contributor](https://github.com/tikv/tikv/issues/4229#issuecomment-469382325)
+- Triaged email
+- 11:28 AM
+- Triaged todos
+- 11:39 AM
+- End triage
+- Attempted to install QQ
+- [Filed weekly twir issue](https://internal.pingcap.net/jira/browse/TIKV-2771)
+- 11:53 AM
+- [Filed issue for NA presentation](https://internal.pingcap.net/jira/browse/TIKV-2772)
+- 11:55 AM
+- Hacked on NA presentation
+- 12:33 PM
+- Clock out
+- Clock in
+- 1:19 PM
+- Provisioned new machine for benchmarking
+- 2:26 PM
+- [Commented on stack protection in rocksdb](https://github.com/tikv/tikv/issues/4274#issuecomment-469473203)
+- 3:44 PM
+- [Asked for feedback about modularization](https://github.com/tikv/tikv/issues/4165#issuecomment-469476096)
+- 3:55 PM
+- [Filed issue on MustConsumeVec panic on drop](https://github.com/tikv/tikv/issues/4309)
+- [Filed issue on PendingCmd panic on drop](https://github.com/tikv/tikv/issues/4310)
+- 5:12 PM
+- [Filed issue about leaking secrets on drop](https://github.com/tikv/tikv/issues/4311)
+- 5:29 PM
+- [Posted contributor issues to twir](https://github.com/cmr/this-week-in-rust/pull/844)
+- 6:37 PM
+- [Requested review on prometheus issue](https://github.com/pingcap/rust-prometheus/pull/225#event-2179715939)
+- 6:43 PM
+- Clock out
+- Clock in
+- 11:10 PM
+- Hacked on makefiles for compiler optimizations
+- 11:39 PM
+- Clock out
+
+# 2019-03-03
+
+- Clock in
+- 5:15 PM
+- [Timed incremental compilation for TiKV](https://github.com/tikv/tikv/issues/4155)
+- 6:12 PM
+- [Posted incremental compilation timings](https://github.com/tikv/tikv/issues/4155#issuecomment-469099403)
+- 6:46 PM
+- 6:51 PM
+- Clock out
+- Clock in
+- 8:43 PM
+- [Reviewed a pr to remove extern crate ](https://github.com/tikv/tikv/pull/4297#issuecomment-469118073)
+- 8:53 PM
+- [Reviewed nrc's tidy pr](https://github.com/tikv/tikv/pull/4300#issuecomment-469118700)
+- 8:57 PM
+- [Merged extern crate PR](https://github.com/tikv/tikv/pull/4297)
+- 9:05 PM
+- [Reviewed readme PR](https://github.com/tikv/tikv/pull/4285#issuecomment-469120941)
+- 9:12 PM
+- [Reviewed raft doc PR](https://github.com/pingcap/raft-rs/pull/191#pullrequestreview-209976018)
+- 9:16 PM
+- [Reviewed fail CI PR](https://github.com/pingcap/fail-rs/pull/32#pullrequestreview-209978079)
+- 9:30 PM
+- [Reviewed raft CI PR](https://github.com/pingcap/raft-rs/pull/190#pullrequestreview-209978475)
+- 9:33 PM
+- Clock out
+
+# 2019-03-02
+
+- Clock in
+- 1:46 PM
+- [Hacked on custom build profiles](https://github.com/tikv/tikv/issues/4189)
+- Built with panic=abort for integration testing
+- Set up a new EC2 instance for benchmarking
+- 2:25 PM
+- Sent email to niko/aaron/alex about contracting for compile time improvements
+- Mentioned tide/romio/juliex in #tikv-team
+- 3:20 PM
+- Clock out
+- Clock in
+- 6:59 PM
+- [Hacked on custom build profiles](https://github.com/tikv/tikv/issues/4189)
+- 9:00 PM
+- Responded to #tikv-team
+- 9:15 PM
+- Clock out
+
+# 2019-03-01
+
+- Clock in
+- 7:45 PM
+- [Hacked on custom build profiles](https://github.com/tikv/tikv/issues/4189)
+- 8:56 PM
+- Clock out
+
+# 2019-02-28
+
+- Clock in
+- 6:00 PM
+- Attended i18n meeting
+- [Commented on stack protection bug](https://github.com/tikv/tikv/issues/4274#issuecomment-468527138)
+- 7:17 PM
+- Attended TiKV meeting
+- 7:48 PM
+- Clock out
+- Clock in
+- 9:15 PM
+- Submitted proposals to cfp
+- 11:19 PM
+- Clock out
+
+# 2019-02-27
+
+- Clock in
+- 3:09 PM
+- Hacked on course HTML framework
+- 4:22 PM
+- Started writing project 1 and lesson 1 for talent-training
+- 7:35 PM
+- [Completed structure of rust talent training](https://brson.github.io/talent-training/rust/index.html)
+- 7:43 PM
+- [Posted link to training material in slack](https://pingcap.slack.com/archives/CF31LFWP7/p1551326919003600)
+- 8:12 PM
+- Clock out
+
+# 2019-02-26
+
+- Clock in
+- 10:31 AM
+- Attended NA meeting
+- 11:26 AM
+- Begin triage
+- 11:31 AM
+- [Commented on rocks not using jemalloc](https://github.com/tikv/tikv/issues/4260#issuecomment-467591034)
+- 12:02 PM
+- [Merged rust client CI PR](https://github.com/tikv/client-rust/pull/33#issuecomment-467592135)
+- 12:05 PM
+- [Merged raft max_size API PR](https://github.com/pingcap/raft-rs/pull/183)
+- 12:08 PM
+- Triaged work email
+- 12:10 PM
+- 12:14 PM
+- Clock out
+- Clock in
+- 1:00 PM
+- Attended 1-1 w/ Kevin
+- 1:40 PM
+- End triage
+- Sent invoice
+- 2:19 PM
+- [Commented on Brave internship](https://www.reddit.com/r/rust/comments/av50om/rustrelated_summer_internship_at_brave_software/ehcpv9m)
+- 2:31 PM
+- [Filed jira ticket to investigate overvenus's translation of mit course](https://internal.pingcap.net/jira/browse/TIKV-2727)
+- 2:39 PM
+- [Filed github ticket to write project 1](https://github.com/pingcap/talent-plan/issues/2)
+- 2:41 PM
+- [Filed JIRA ticket to write project 1](https://internal.pingcap.net/jira/browse/TIKV-2728)
+- 2:43 PM
+- Hacked on slide material
+- 4:14 PM
+- Clock out
+- Clock in
+- 6:48 PM
+- Hacked on slides
+- 8:04 PM
+- Clock out
+
+# 2019-02-25
+
+- Clock in
+- 11:31 AM
+- [Reviewed raft CI pr](https://github.com/tikv/client-rust/pull/22#pullrequestreview-207591056)
+- 11:37 AM
+- Triaged slack
+- 11:46 AM
+- Clock out
+- Clock in
+- 6:24 PM
+- [Commented on binary size issue](https://github.com/tikv/tikv/issues/4107#issuecomment-467271877)
+- 6:54 PM
+- [Filed bug about eliminating tikv-server-portable](https://github.com/tikv/tikv/issues/4281)
+- 6:59 PM
+- [Filed bug about git deps](https://github.com/tikv/tikv/issues/4283)
+- 7:28 PM
+- [Added details to tikv coprocessor contributor issue](https://github.com/tikv/tikv/issues/4100#issuecomment-467284425)
+- 7:55 PM
+- [Posted contributor issues to twir](https://github.com/cmr/this-week-in-rust/pull/830)
+- 7:59 PM
+- Clock out
+
+# 2019-02-24
+
+- Clock in
+- 11:58 AM
+- [Hacked on cargo-bloat](https://github.com/tikv/tikv/issues/4188)
+- [Posted analysis of generics bloat](https://github.com/tikv/tikv/issues/4188#issuecomment-467257450)
+- 5:41 PM
+- [Posted analysis of generics bloat](https://github.com/tikv/tikv/issues/4158#issuecomment-467258519)
+- 5:45 PM
+- Experimented more with cargo-bloat
+- 6:24 PM
+- Clock out
+
+# 2019-02-22
+
+- Clock in
+- 1:02 PM
+- Begin triage
+- 1:03 PM
+- [Pushed updates to grpc update](https://github.com/pingcap/grpc-rs/issues/256)
+- 1:17 PM
+- Chatted w/ Yi about Rocks's allocator
+- 1:17 PM
+- Investigated allocation in rocks
+- Triaged slack
+- 1:42 PM
+- [Approved and merged tikv style guide](https://github.com/tikv/tikv/pull/4259)
+- 1:52 PM
+- [Converted minidump issue into contributor issue](https://github.com/tikv/tikv/issues/4202)
+- 1:59 PM
+- [Commented on `Duration`](https://github.com/tikv/tikv/issues/4100#issuecomment-466564173)
+- 2:05 PM
+- [Commened on tidb-ctl PR](https://github.com/pingcap/tidb-ctl/pull/14#issuecomment-466566497)
+- 2:14 PM
+- [Closed stale tikv issue](https://github.com/tikv/tikv/pull/4204#event-2159107835)
+- 2:22 PM
+- Triaged pingcap inbox
+- 2:23 PM
+- [Commented on rocks/jemalloc issue](https://github.com/tikv/tikv/issues/4260#issuecomment-466583624)
+- 3:26 PM
+- [Read 'what's new in tikv](https://docs.google.com/presentation/d/1oU4Iy_T-Qbi_lJGJgF91Z2yVEcaHsWCARPhpwcRUrsQ/edit)
+- 3:36 PM
+- End triage
+- 3:36 PM
+- [Re-reviewed dyn patch](https://github.com/tikv/tikv/pull/4217#issuecomment-466593883)
+- 4:27 PM
+- [Experimented with features for tcmalloc pr](https://github.com/tikv/tikv/pull/4207#issuecomment-466606262)
+- 6:10 PM
+- [Read new comments on max_size PR](https://github.com/pingcap/raft-rs/pull/183#issuecomment-465247822)
+- 6:13 PM
+- [Posted fix for log_wrappers not linking tikv_alloc](https://github.com/tikv/tikv/pull/4267)
+- 6:31 PM
+- Clock out
+- Clock in
+- 6:43 PM
+- [Updated grpc pr](https://github.com/pingcap/grpc-rs/pull/291#issuecomment-466609110)
+- 6:46 PM
+- [Reviewed raft raw example](https://github.com/tikv/client-rust/pull/28#pullrequestreview-207091618)
+- 6:50 PM
+- [Merged raft raw example](https://github.com/tikv/client-rust/pull/28#issuecomment-466609583)
+- 6:53 PM
+- [Approved raft PR](https://github.com/tikv/client-rust/pull/33#pullrequestreview-207091914)
+- 6:59 PM
+- Clock out
+
+
+# 2019-02-21
+
+- Clock in
+- 12:00 AM
+- Hacked on training site
+- 12:21 AM
+- Hacked on prometheus
+- 12:30 AM
+- Clock out
+- Clock in
+- 12:43 PM
+- [Approved comment guide PR](https://github.com/tikv/tikv/pull/4204)
+- 12:43 PM
+- [Approved raft rust 2018 upgrade](https://github.com/pingcap/raft-rs/pull/184)
+- 12:49 PM
+- Wrote status update
+- [Posted PR to fix prometheus benches](https://github.com/pingcap/rust-prometheus/pull/225)
+- 2:00 PM
+- [Filed JIRA issue for prometheus benches](https://internal.pingcap.net/jira/browse/TIKV-2690)
+- 2:19 PM
+- [Posted new prometheus rust 2018 PR](https://github.com/pingcap/rust-prometheus/pull/220)
+- 2:26 PM
+- [Updated deep-dive-tikv copyediting PR](https://github.com/tikv/deep-dive-tikv/pull/21#issuecomment-466195425)
+- 2:35 PM
+- [Merged deep-dive-tikv copyediting PR](https://github.com/tikv/deep-dive-tikv/pull/21#issuecomment-466195425)
+- 2:40 PM
+- [Posted PR to upgrade grpc to Rust 2018](https://github.com/pingcap/grpc-rs/pull/291)
+- 3:39 PM
+- [Commented on grpc rust 2018 issue](https://github.com/pingcap/grpc-rs/issues/256#issuecomment-466214489)
+- 3:42 PM
+- Clock out
+- Clock in
+- 6:00 PM
+- Attended i18n meeting
+- 6:56 PM
+- [Looked into CI failures on grpc rust 2018 PR](https://github.com/pingcap/grpc-rs/pull/291)
+- 6:57 PM
+- Continued investigating grpc issues
+- 7:22 PM
+- Attended Tikv meeting
+- 7:35 PM
+- Clock out
+
+# 2019-02-20
+
+- Clock in
+- 12:00 AM
+- Hacked on training code
+- 1:11 AM
+- Clock out
+- Clock in
+- 3:51 PM
+- Hacked on training code to make it vaguelly presentable
+- 4:25 PM
+- [Read talent-training PR review](https://github.com/tikv/tikv/issues/1624#issuecomment-465828738)
+- Implemented some changes from talent-training PR
+- [Responded to sanitizer issue](https://github.com/tikv/tikv/issues/1624#issuecomment-465828738)
+- 5:51 PM
+- [Approved raft PR](https://github.com/pingcap/raft-rs/pull/179#pullrequestreview-206090694)
+- 5:52 PM
+- [Approved raft PR](https://github.com/pingcap/raft-rs/pull/183#issuecomment-465830708)
+- 5:59 PM
+- [Commented on talent-training PR review](https://github.com/pingcap/talent-plan/pull/1#issuecomment-465847115)
+- 7:24 PM
+- [Merged talent-training PR](https://github.com/pingcap/talent-plan/pull/1)
+- 7:24 PM
+- Chatted at Ana
+- Spread the latest TWIR
+- 7:44 PM
+- Clock out
+- Clock in
+- 10:15 PM
+- [Resumed upgrading prometheus to rust 2018](https://github.com/pingcap/rust-prometheus/pull/220)
+- 10:26 PM
+- Clock out
+- Clock in
+- 10:45 PM
+- Hacked on training site
+- 11:59 PM
+- Clock out
+
+# 2019-02-19
+
+- Clock in
+- 9:30 AM
+- Hacked on training code
+- 12:02 PM
+- Clock out
+- Clock in
+- 12:40 PM
+- Chatted w/ Yi about allocator profiling
+- 12:48 PM
+- Attended Samantha's presentation
+- 1:42 PM
+- Sent Samantha feedback on presentation
+- 1:56 PM
+- Responded to a q on WeChat Rust China
+- 2:04 PM
+- Triaged slack
+- Triaged discourse
+- 2:06 PM
+- Hacked on training code
+- 4:56 PM
+- [Peered with Greg on coprocessor bug](https://github.com/tikv/tikv/issues/4100)
+- 5:46 PM
+- 6:08 PM
+- Clock out
+- Clock in
+- 6:50 PM
+- Hacked on training code
+- 7:28 PM
+- Clock out
+- Clock in
+- 9:45 PM
+- Hacked on training code
+- 11:59 PM
+- Clock out
+
+# 2019-02-18
+
+- Clock in
+- 3:00 PM
+- [Hacked on slide / text structure for training materials](https://github.com/brson/talent-training/tree/structure/rust)
+- 7:14 PM
+- [Filed issue on engine abstraction step](https://github.com/tikv/tikv/issues/4229)
+- 7:23 PM
+- [Posted TiKV issues to TWIR](https://github.com/cmr/this-week-in-rust/pull/825)
+- 7:38 PM
+- [Updated next steps for dev-opt profile issue](https://github.com/tikv/tikv/issues/4189#issuecomment-462099577)
+- 7:45 PM
+- Clock out
+- Clock in
+- 9:14 PM
+- Hacked on javascript for training slides
+- 11:38 PM
+- Clock out
+
+# 2019-02-15
+
+- Clock in
+- 3:00 PM
+- Began another attempt to benchmark debuginfo
+- 3:01 PM
+- Begin triage
+- 3:58 PM
+- Routed PingCAP GitHub emails to brian@pingcap.com
+- 4:05 PM
+- Reorganized various notes
+- Continued benchmarking debuginfo configs
+- 4:37 PM
+- [Posted updates on rust-skeptic overhaul](https://github.com/budziq/rust-skeptic/issues/18#issuecomment-464269889)
+- 5:32 PM
+- [Posted debuginfo benchmarks](https://github.com/tikv/tikv/issues/4150#issuecomment-464272403)
+- 5:55 PM
+- Installed WeChat for Windows
+- 6:13 PM
+- [Approved raft example PR](https://github.com/pingcap/raft-rs/pull/171#pullrequestreview-204500317)
+- 6:21 PM
+- 6:28 PM
+- End triage
+- Read and responded to contributor email from Pratyush
+- 6:50 PM
+- [Reviewed raft API change](https://github.com/pingcap/raft-rs/pull/183#issuecomment-464277881)
+- 7:04 PM
+- [Reviewed dyn trait PR](https://github.com/tikv/tikv/pull/4217#pullrequestreview-204503820)
+- 7:52 PM
+- [Followed up on tcmalloc PR](https://github.com/tikv/tikv/pull/4207)
+- 7:58 PM
+- [Reviewed tikv comment guidelines](https://github.com/tikv/tikv/pull/4204#pullrequestreview-204505151)
+- 8:59 PM
+- [Commented on minidump issue](https://github.com/tikv/tikv/issues/4202#issuecomment-464291201)
+- 9:03 PM
+- Clock out
+
+# 2019-02-14
+
+- Clock in
+- 4:36 PM
+- Begin triage
+- 4:36 PM
+- Triaged slack
+- Triaged work email
+- 4:42 PM
+- Triaged GitHub email
+- 4:59 PM
+- Triaged todos
+- 5:18 PM
+- End triage
+- Send ana some msgs
+- 5:20 PM
+- [Assigned minidump issue to compile time jira epic](https://internal.pingcap.net/jira/browse/TIKV-2604)
+- 5:24 PM
+- Updated JIRA sprint
+- Wrote status report
+- Sent Ana status report
+- 5:42 PM
+- [Filed bug for next week's twir](https://internal.pingcap.net/jira/browse/TIKV-2632)
+- 5:45 PM
+- Attended i18 meeting
+- Attended TiKV meeting
+- 7:38 PM
+- Began benchmarking rust-skeptic changes against rust-cookbook
+- 7:47 PM
+- [Responded to liu re rocksdb's allocator](https://pingcap.slack.com/archives/C2Q2F63SM/p1550202550069000?thread_ts=1550104657.063100&cid=C2Q2F63SM)
+- 7:49 PM
+- [Reviewed tcmalloc PR](https://github.com/tikv/tikv/pull/4207#issuecomment-463909567)
+- 9:14 PM
+- [Commented on i18n meeting schedule](https://pingcap.slack.com/archives/GG8R3TSH5/p1550208384028800)
+- 9:27 PM
+- [Reviewed client-rust failure PR](https://github.com/tikv/client-rust/pull/23#issuecomment-463915081)
+- 9:45 PM
+- [Commeted on dyn Trait PR](https://github.com/tikv/tikv/pull/4217#issuecomment-463916033)
+- 9:49 PM
+- [Encouraged a contributor](https://github.com/tikv/tikv/issues/4196#issuecomment-463916327)
+- 9:51 PM
+- [Encouraged a contributor](https://github.com/pingcap/raft-rs/pull/183#issuecomment-463918837)
+- 10:03 PM
+- [Reviewed raft 0.5](https://github.com/pingcap/raft-rs/pull/182#discussion_r257113774)
+- 10:09 PM
+- [Stalled a review](https://github.com/tikv/tikv/pull/4204#issuecomment-463920329)
+- 10:11 PM
+- [Reviewed client-rust readme](https://github.com/tikv/client-rust/pull/31#issuecomment-463920822)
+- 10:13 PM
+- [Reviewed raft examples](https://github.com/pingcap/raft-rs/pull/171#pullrequestreview-204092797)
+- 10:15 PM
+- [Reviewed and merged fail COC](https://github.com/pingcap/fail-rs/pull/30#pullrequestreview-204093109)
+- 10:17 PM
+- Clock out
+
+# 2019-02-13
+
+- Clock in
+- 1:05 PM
+- Started testing build times w/ and w/o debuginfo
+- 1:16 PM
+- Clock out
+- Clock in
+- 5:55 PM
+- Threw away build time results
+- Chatted w/ liu and zhouquiang
+- [Commented on minidump ticket](https://github.com/tikv/tikv/issues/4202#issuecomment-463458292)
+- 6:26 PM
+- Clock out
+- Clock in
+- 8:30 PM
+- [Commented on tikv call for participation](https://www.reddit.com/r/rust/comments/aq6zqa/this_week_in_rust_273/egfsapu/)
+- 9:01 PM
+- Posted twir to WeChat
+- 9:03 PM
+- Clock out
+
+# 2019-02-12
+
+- [Posted comment to rust-skeptic issue](https://github.com/budziq/rust-skeptic/issues/18#issuecomment-462881184)
+- [Posted comment to rust-skeptic issue](https://github.com/budziq/rust-skeptic/issues/8#issuecomment-462886676)
+- Clock in
+- 10:54 AM
+- Triaged various
+- Submitted invoice
+- 11:40 AM
+- Triaged slack
+- 11:43 AM
+- Signed up for PingCAP meetup
+- 11:49 AM
+- Clock out
+- Clock in
+- 12:55 PM
+- [Commented about the process for upgrading TiKV to 2018](https://www.reddit.com/r/rust/comments/apenkj/this_week_in_tikv_jan_28_feb_10_2019/egc0usk/)
+- 1:07 PM
+- [Posted experience report to urlo](https://users.rust-lang.org/t/experience-report-upgrading-a-large-codebase-tikv-to-rust-2018/25227)
+- 1:30 PM
+- Commented on TiKV OKRs
+- 2:19 PM
+- Triaged pingcap email
+- Triaged rust discord
+- 2:24 PM
+- [Reviewed client-rust README PR](https://github.com/tikv/client-rust/pull/31#pullrequestreview-202946287)
+- 3:04 PM
+- [Reviewed client-rust kvproto fix](https://github.com/tikv/client-rust/pull/30#pullrequestreview-202961104)
+- 3:27 PM
+- [Commented on rustup cleanup issue](https://github.com/rust-lang/rustup.rs/issues/1611#issuecomment-462989546)
+- 3:55 PM
+- [Reviewed rustup curl-removal PR](https://github.com/rust-lang/rustup.rs/pull/1657#issuecomment-462991872)
+- 4:00 PM
+- [Commented on engine abstraction](https://github.com/tikv/tikv/issues/4184#issuecomment-463002060)
+- 4:35 PM
+- [Hearted a contributor PR](https://github.com/tikv/client-rust/pull/26)
+- 4:42 PM
+- [Hearted a contributor PR](https://github.com/tikv/client-rust/pull/28)
+- 4:44 PM
+- [Commented on a rustup issue](https://github.com/rust-lang/rustup.rs/issues/998#issuecomment-463007402)
+- 4:51 PM
+- Triaged email
+- 5:01 PM
+- Asked #tikv-team for a stale sprint to be deleted
+- 5:15 PM
+- [Commented on prometheus 2018](https://github.com/pingcap/rust-prometheus/pull/220#issuecomment-463013577)
+- 5:16 PM
+- [Commented on rustup optional docs](https://github.com/rust-lang/rustup.rs/issues/998#issuecomment-463017666)
+- 5:48 PM
+- [Commented on training pr](https://github.com/pingcap/talent-plan/pull/1#issuecomment-463040955)
+- 7:20 PM
+- Clock out
+
+# 2019-02-11
+
+- Clock in
+- 12:03 PM
+- Asked for help geting rustc output from cargo
+- Discussed various issues on slack
+- 12:41 PM
+- [Posted next steps to engine abstraction issue](https://github.com/tikv/tikv/issues/4184#issuecomment-462498182)
+- 1:21 PM
+- [Moved all compile-time issues into project cards](https://github.com/tikv/tikv/projects/12)
+- 1:33 PM
+- [Filed issue to remove `extern crate`](https://github.com/tikv/tikv/issues/4196)
+- 2:07 PM
+- [Commented on use_extern_macros issue](https://github.com/tikv/tikv/issues/3356#issuecomment-462516227)
+- 2:14 PM
+- [Commented on prometheus const fn issue](https://github.com/pingcap/rust-prometheus/issues/221#issuecomment-462518219)
+- 2:20 PM
+- [Reviewed raft patch](https://github.com/pingcap/raft-rs/pull/181#pullrequestreview-202381534)
+- 2:53 PM
+- [Reviewed raft patch](https://github.com/pingcap/raft-rs/pull/182#pullrequestreview-202382596)
+- 2:56 PM
+- [Filed issue to remove extern crate](https://github.com/tikv/tikv/issues/4196)
+- 2:58 PM
+- [Filed issue to convert to dyn triat](https://github.com/tikv/tikv/issues/4197)
+- 2:58 PM
+- Triaged various issues
+- 3:52 PM
+- Clock out
+- Clock in
+- 7:25 PM
+- [Posted contributor issues to TWIR](https://github.com/cmr/this-week-in-rust/pull/817)
+- 7:39 PM
+- Chatted w/ jay about tikv-server-portable
+- 7:51 PM
+- Clock out
+- Merged 4 PRs into stdx
+- 8:51 PM
+- [Commented on skeptic PR](https://github.com/budziq/rust-skeptic/pull/78#issuecomment-462633096)
+- 10:29 PM
+
+# 2019-05-18
+
+- Hacked on basic-http-server
+
+# 2018-09-13
+
+- [Filed bug on documenting Rust reference equality](https://github.com/rust-lang/rust/issues/54197)
+
+# 2018-09-06
+
+- Hacked on bloop-lang
+
+# 2018-09-01
+
+- Hacked on intro to rust on fuchsia
+
+# 2018-08-22
+
+- Hacked on avx2 memchr
+
+# 2018-08-20
+
+- [Filed cargo uninstall bug](https://github.com/rust-lang/cargo/issues/5916)
+- Installed uutils
+- [Filed cargo install warning bug](https://github.com/rust-lang/cargo/issues/5917)
+- 10:41 PM
+- [Submitted recursion lint patch](https://github.com/rust-lang/rust/pull/53550)
+- 11:19 PM
+- [Commented on comrak feature request](https://github.com/kivikakk/comrak/issues/85#issuecomment-414565039)
+- 11:24 PM
+
+# 2018-08-19
+
+- Hacked on avx2 memchr
+
+# 2018-08-18
+
+- Wrote memories of RustConf and yoga with Kandis
+
+# 2018-08-12
+
+- Clock in
+- Wrote good memories
+- 1:23 PM
+
+# 2018-08-11
+
+- Clock in
+- 2:30 PM
+- 3:13 PM
+- Triaged my todo list
+- Listened to Jason's new song and replied
+- Finished laundry
+- [Responded to a rustup thread](https://github.com/rust-lang-nursery/rustup.rs/issues/1112#issuecomment-412309000)
+- 4:56 PM
+
+# 2018-07-07
+
+- [Filed issue against jetscii for table/hybrid](https://github.com/shepmaster/jetscii/issues/22)
+- 3:26 PM
+
+# 2018-07-01
+
+- [Commented on "Fork us on GitHub" PR](https://github.com/rust-lang/rust-www/pull/1140)
+- 1:49 PM
+- [Asked for review of a www pr](https://github.com/rust-lang/rust-www/pull/1129#issuecomment-401632236)
+- 1:49 PM
+- [Asked for merge of www pr](https://github.com/rust-lang/rust-www/pull/1128#issuecomment-401631856)
+- [Asked for merge of www pr](https://github.com/rust-lang-nursery/rustup.rs/pull/1437#issuecomment-401631809)
+- 1:50 PM
+- [Posted std::alloc doc update](https://github.com/rust-lang/rust/pull/51974)
+- 3:35 PM
+- [Posted global_alloc patch to the reference](https://github.com/rust-lang-nursery/reference/pull/367)
+- 3:48 PM
 
 # 2018-06-18
 
