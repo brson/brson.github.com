@@ -117,7 +117,7 @@ of the pieces I've written.
   bootstrap, but I'm quite proud of my aesthetic sense, and ability to
   work within my own limitations. Plenty of people have criticised the
   Rust website over the years, but it does what it needs to pretty
-  well.
+  well. Ask me about my feels re the current Rust website.
 
 [0.1]: https://mail.mozilla.org/pipermail/rust-dev/2012-January/001256.html
 [151]: https://blog.rust-lang.org/2017/02/09/Rust-1.15.1.html
