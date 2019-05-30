@@ -3,8 +3,32 @@ layout: basic
 title: brson's work log
 ---
 
-_Note: This contains most of my open source activity. Some of my work is not
-public, and there are some gaps here in 2017-2019._
+_Note: This contains much of my open source activity since 2015. Some of my work
+is not public, and there are some gaps here from 2017-2019._
+
+# 2019-05-30
+
+- Clock in
+- 5:57 AM
+- [Reviewed client-rust cleanup](https://github.com/tikv/client-rust/pull/56)
+- 5:57 AM
+- Clock out
+
+
+
+# 2019-05-29
+
+- Clock in
+- 9:00 AM
+- Attended Percona Live keynotes
+- Hacked on project 4
+- 10:17 AM
+- Attended PingCAP talks
+- Hacked on project 4
+- 12:46 PM
+- Attended Percona Live
+- 5:30 PM
+- Clock out
 
 # 2019-05-28
 
@@ -23,6 +47,9 @@ public, and there are some gaps here in 2017-2019._
 - 3:24 PM
 - [Added rustup readme to personal writings, etc](https://brson.github.io/writing.html)
 - 4:42 PM
+- Hacked on project 4
+- 5:51 PM
+- Clock out
 
 # 2019-05-27
 
