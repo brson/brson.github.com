@@ -6,6 +6,21 @@ title: brson's work log
 _Note: This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-06-01
+
+- 7:10 AM
+- Drafted rust in china blog post
+- 8:00 AM
+- 10:00 AM
+
+# 2019-05-31
+
+- Clock in
+- 9:36 AM
+- Checked jemalloc-free build
+- 9:54 AM
+- Clock out
+
 # 2019-05-30
 
 - Clock in
@@ -13,8 +28,42 @@ is not public, and there are some gaps here from 2017-2019._
 - [Reviewed client-rust cleanup](https://github.com/tikv/client-rust/pull/56)
 - 5:57 AM
 - Clock out
-
-
+- Clock in
+- 7:46 AM
+- Hacked on project 4
+- 8:44 AM
+- Chatted w/ Queeny and Liu
+- 10:00 AM
+- Clock out
+- Clock in
+- 10:26 AM
+- Hacked on wsl ulimits
+- Hacked on project 4
+- Attended Percona Live
+- 3:00 PM
+- Clock out
+- Clock in
+- 6:00 PM
+- Updated status reports
+- 6:27 PM
+- Clock out
+- Clock in
+- 9:00 PM
+- Attendend i18n meeting
+- 9:44 PM
+- [Responded to SRE "release" profile question](https://github.com/pingcap/SRE/pull/243#issuecomment-497558665)
+- 10:06 PM
+- 10:11 PM
+- [Commented about opt-level=1 + cmake](https://github.com/tikv/tikv/pull/4687#issuecomment-497562416)
+- [Commented about opt-level=1 + cmake](https://github.com/tikv/tikv/pull/4689#issuecomment-497563026)
+- [Commented about opt-level=1 + cmake](https://github.com/alexcrichton/cmake-rs/issues/79#issuecomment-497563743)
+- [Commented about opt-level=1 + cmake](https://github.com/tikv/tikv/issues/4711#issuecomment-497563973)
+- 10:42 PM
+- [Commented about opt-level=1](https://github.com/tikv/tikv/issues/4674#issuecomment-497564531)
+- 10:44 PM
+- Clock out
+- Clock in
+- 11:57 PM
 
 # 2019-05-29
 
