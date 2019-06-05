@@ -93,7 +93,7 @@ is not public, and there are some gaps here from 2017-2019._
 - Clock in
 - 5:57 AM
 - [Reviewed client-rust cleanup](https://github.com/tikv/client-rust/pull/56)
-- 5:57 AM
+- 5:58 AM
 - Clock out
 - Clock in
 - 7:46 AM
@@ -129,8 +129,6 @@ is not public, and there are some gaps here from 2017-2019._
 - [Commented about opt-level=1](https://github.com/tikv/tikv/issues/4674#issuecomment-497564531)
 - 10:44 PM
 - Clock out
-- Clock in
-- 11:57 PM
 
 # 2019-05-29
 
@@ -151,7 +149,7 @@ is not public, and there are some gaps here from 2017-2019._
 - Clock in
 - 11:14 AM
 - [Approved logging PR](https://github.com/tikv/tikv/pull/4768#pullrequestreview-242776966)
-- 11:14 AM
+- 11:15 AM
 - Clock out
 - Clock in
 - 1:15 PM
@@ -257,6 +255,7 @@ is not public, and there are some gaps here from 2017-2019._
 
 - Clock in
 - 11:35 AM
+- Hacked on project 4
 - 12:00 PM
 - Clock out
 - Clock in
