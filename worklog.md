@@ -6,12 +6,79 @@ title: brson's work log
 _Note: This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-06-04
+
+- Clock in
+- 12:41 PM
+- [Merged training fix](https://github.com/pingcap/talent-plan/pull/139)
+- 12:43 PM
+- [Filed training bug re crediting Yiling](https://github.com/pingcap/talent-plan/issues/140)
+- 12:47 PM
+- [Added note about dbg! to talent-plan](https://github.com/pingcap/talent-plan/pull/142)
+- 1:16 PM
+- [Fixed KvsEngine naming](https://github.com/pingcap/talent-plan/pull/143)
+- 1:23 PM
+- [Filed another talent-plan issue](https://github.com/pingcap/talent-plan/issues/146)
+- 1:53 PM
+- [Filed another talent-plan issue](https://github.com/pingcap/talent-plan/issues/147)
+- 1:58 PM
+- [Added note about future scan projects](https://github.com/pingcap/talent-plan/pull/148)
+- 2:17 PM
+- [Filed another talent-plan issue](https://github.com/pingcap/talent-plan/issues/149)
+- 2:27 PM
+- [Reviewed project 4 code](https://github.com/pingcap/talent-plan/pull/138#pullrequestreview-245724049)
+- 2:56 PM
+- Clock out
+
+# 2019-06-03
+
+- Clock in
+- 2:30 PM
+- Triaged
+- [Re-reviewed HTTP mem profiling](https://github.com/tikv/tikv/pull/4600#issuecomment-498450277)
+- 3:37 PM
+- [Updated sys-info to 0.5.7](https://github.com/tikv/tikv/pull/4760)
+- 3:42 PM
+- Triaged
+- 3:48 PM
+- [Merged talent plan pr](https://github.com/pingcap/talent-plan/pull/132)
+- 5:24 PM
+- [Reviweed patch to list tests for each section](https://github.com/pingcap/talent-plan/pull/129)
+- 5:54 PM
+- [Commented on talent-plan scan issue](https://github.com/pingcap/talent-plan/issues/131)
+- 5:57 PM
+- Triaged rust training prs and issues
+- 6:59 PM
+- [Reviewed client-rust PR](https://github.com/tikv/client-rust/pull/57#pullrequestreview-245204762)
+- 7:13 PM
+- [Reviewed client-rust PR](https://github.com/tikv/client-rust/pull/58#pullrequestreview-245205030)
+- 7:15 PM
+- [Reviewed client-rust PR](https://github.com/tikv/client-rust/pull/59#pullrequestreview-245205450)
+- 7:17 PM
+- Clock out
+
+# 2019-06-02
+
+- Clock in
+- 1:20 PM
+- Hacked on Rust in China
+- 3:35 PM
+- Hacked on Rust in China-
+- 4:46 PM
+- Clock out
+
 # 2019-06-01
 
+- Clock in
 - 7:10 AM
 - Drafted rust in china blog post
 - 8:00 AM
+- Clock out
+- Clock in
 - 10:00 AM
+- Drafted rust in china blog post
+- 3:57 PM
+- Clock out
 
 # 2019-05-31
 
