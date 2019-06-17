@@ -6,10 +6,116 @@ title: brson's work log
 _Note: This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-06-17
+
+- Clock in
+- 10:33 AM
+- Triaged slack
+- 10:39 AM
+- [Reviewed fail-rs mutex patch](https://github.com/pingcap/fail-rs/pull/40#pullrequestreview-250658030)
+- 11:05 AM
+- [Commented on combining bins](https://github.com/tikv/tikv/issues/4908#issuecomment-502794617)
+- 11:18 AM
+- [Reviewed and merged a minor PR](https://github.com/tikv/tikv/pull/4694)
+- 11:20 AM
+- Triaged slack
+- Triaged email
+- Triaged todos
+- Lunch
+- 1:16 PM
+
+# 2019-06-14
+
+- 11:03 AM
+- [Commented on unnamed constant fcp](https://github.com/rust-lang/rust/pull/61347#issuecomment-502207938)
+- 11:04 AM
+- Clock in
+- 11:15 AM
+- [Posted compile-time numbers for turning off debuginfo for dev/test/bench](https://gist.github.com/brson/1838a126d69c03f174c87df27fd2d534)
+- 11:38 AM
+- 11:50 AM
+- Clock out
+- Set up a CKB miner on the testnet
+- 12:16 PM
+- Clock in
+- 2:37 PM
+- [Merged talent-plan typo fixes](https://github.com/pingcap/talent-plan/pull/193)
+- 2:38 PM
+- Clock out
+
+# 2019-06-13
+
+- Clock in
+- 1:12 PM
+- [Merged PR to turn off debuginfo](https://github.com/tikv/tikv/pull/4689)
+- 1:13 PM
+- [Posted debuginfo message to forum](https://forum.tikv.org/t/tikv-now-builds-without-debuginfo-by-default-for-dev-test-and-bench-profiles/70)
+- 1:19 PM
+- Posted deuginfo message to wechat groups
+- 1:21 PM
+- Triaged slack
+- 1:27 PM
+- [Filed fail-rs bug about `no_fail` feature](https://github.com/pingcap/fail-rs/issues/39)
+- 1:32 PM
+- [Merged fail-rs helper fn](https://github.com/pingcap/fail-rs/pull/38)
+- 1:33 PM
+- [Commented on prometheus pr re CLA](https://github.com/pingcap/rust-prometheus/pull/219)
+- 1:42 PM
+- Triaged email
+- 1:48 PM
+- [Merged typo fix](https://github.com/pingcap/talent-plan/pull/190)
+- 2:24 PM
+- [Responded to users thread re pna](https://users.rust-lang.org/t/practical-networked-applications-in-rust-a-training-course/29199/5?u=brson)
+- 2:26 PM
+- [Closed talent plan mvp project](https://users.rust-lang.org/t/practical-networked-applications-in-rust-a-training-course/29199/5?u=brson)
+- 2:29 PM
+- [Responded to a talent-plan issue](https://github.com/pingcap/talent-plan/issues/131#issuecomment-501887209)
+- 2:33 PM
+- Triaged talent plan issues and PRs
+- 2:37 PM
+- [Closed fail-rs issue](https://github.com/pingcap/fail-rs/issues/39)
+- 2:38 PM
+- Pinged spacejam about sled in talent-plan
+- 2:42 PM
+- 2:48 PM
+- Clock out
+- Clock in
+- 4:39 PM
+- [Filed an issue about modifying both rustc and gcc debuginfo](https://github.com/tikv/tikv/issues/4894)
+- 4:58 PM
+- [Filed issue about bench bot + compile times](https://github.com/tikv/tikv/issues/4896)
+- 5:22 PM
+- Pinged DCjanus about his crates.io proxy
+- [Updated personal status report](https://internal.pingcap.net/confluence/display/TT/Brian+Anderson+-+TIKV+2019-06-07+-+2019-06-14)
+- 6:02 PM
+- [Filed issue to turn on pipelining](https://github.com/tikv/tikv/issues/4897)
+- 6:37 PM
+- Began upgrading toolchain for pipelining
+- [Closed training course epic](https://internal.pingcap.net/jira/browse/TIKV-2501)
+- 6:46 PM
+- Attended global team meeting
+- 7:48 PM
+- 8:08 PM
+- Clock out
+
 # 2019-06-12
 
 - Clock in
 - 2:21 PM
+- Triaged todos
+- 2:39 PM
+- Attended meeting w/ Ana
+- 3:29 PM
+- Filled out some paperwork
+- 4:00 PM
+- Clock out
+- Clock in
+- 6:21 PM
+- [Merged talent-plan PR](https://github.com/pingcap/talent-plan/pull/181)
+- 6:22 PM
+- Merged more talent-plan PRs
+- 6:25 PM
+- Clock out
 
 # 2019-06-11
 
