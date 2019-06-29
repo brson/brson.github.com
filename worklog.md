@@ -6,6 +6,259 @@ title: brson's work log
 _Note: This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-06-28
+
+- Clock in
+- 11:21 AM
+- Submitted final invoice
+- 11:35 AM
+- [Hacked on release profile](https://github.com/tikv/tikv/issues/4674)
+- 2:07 PM
+- [Hacked on disabling tests](https://github.com/tikv/tikv/issues/4391)
+- 2:52 PM
+- Clock out
+- Clock in
+- 3:39 PM
+- [Approved double-panic pr](https://github.com/tikv/tikv/pull/4552#pullrequestreview-256003451)
+- 4:02 PM
+- Collected numbers for release profile changes
+- 5:06 PM
+- Clock out
+- Clock in
+- 6:23 PM
+- [Submitted PR to reduce release bulid time](https://github.com/tikv/tikv/pull/4996)
+- 6:51 PM
+- 6:55 PM
+- Clock out
+
+# 2019-06-27
+
+- Clock in
+- 2:20 PM
+- [Posted tikv q3 okr ideas](https://gist.github.com/brson/7ae417d829c731b90a584879b1a23b06)
+- 3:35 PM
+- Chatted w/ Calvin
+- 3:58 PM
+- Filled out status report
+- 5:44 PM
+- [Merged a talent-plan PR re prerequisites](https://github.com/pingcap/talent-plan/pull/228)
+- 5:59 PM
+- [Merged talent-plan PR to italicize task diffs](https://github.com/pingcap/talent-plan/pull/226)
+- 6:01 PM
+- [Merged project 4 advanced parallelism PR](https://github.com/pingcap/talent-plan/pull/231)
+- 6:02 PM
+- [Created Rust training course 1.0 epic](https://internal.pingcap.net/jira/browse/TIKV-3803)
+- 6:08 PM
+- [Approved rust-client refactor](https://github.com/tikv/client-rust/pull/73#pullrequestreview-255546846)
+- 6:12 PM
+- [Re-reviewed sse42 script fix](https://github.com/tikv/tikv/pull/4934#pullrequestreview-255548388)
+- 6:21 PM
+- [Re-reviewed storage doc changes](https://github.com/tikv/tikv/pull/4912)
+- 6:24 PM
+- Attended review meeting
+- 7:32 PM
+- Clock out
+
+# 2019-06-26
+
+- Clock in
+- 10:05 AM
+- Hacked on talent-plan
+- Triaged slack
+- Triaged todos
+- [Commented on concurrent map challenge](https://www.reddit.com/r/rust/comments/c5e1oq/grand_concurrent_map_competetion_a_call_for_help/es3xeam?utm_source=share&utm_medium=web2x)
+- 11:11 AM
+- [Posted PR for project 4 advanced parallelism](https://github.com/pingcap/talent-plan/pull/231)
+- 11:19 AM
+- [Filed bug for project indexes](https://github.com/pingcap/talent-plan/issues/232)
+- 11:21 AM
+- [Filed bug to write overview of concurrent types](https://github.com/pingcap/talent-plan/issues/233)
+- 11:23 AM
+- [Filed bug to add building blocks for advanced parallelism](https://github.com/pingcap/talent-plan/issues/234)
+- 11:25 AM
+- [Filed bug to enqueue writers](https://github.com/pingcap/talent-plan/issues/235)
+- 11:30 AM
+- [Filed bug to split project 4](https://github.com/pingcap/talent-plan/issues/236)
+- 11:36 AM
+- [Filed bug to write roadmap](https://github.com/pingcap/talent-plan/issues/237)
+- 11:36 AM
+- Triaged slack
+- 11:56 AM
+- [Filed bug to update course descriptions](https://github.com/pingcap/talent-plan/issues/240)
+- 11:58 AM
+- [Started investigating 3.0 rustc cherry-pick](https://github.com/tikv/tikv/pull/4963)
+- 12:04 PM
+- Chatted w/ Ana
+- 1:53 PM
+- Evaluated q2 okrs
+- [Filled out q2 personal assessment](https://docs.google.com/document/d/1hz-3c40wCTrLjQVJVmzel8OUofVVpAATOshPgIkES2k/edit#)
+- 4:38 PM
+- 5:03 PM
+- Emailed be re rust in brave
+- Attended NewSQL meetup
+- Chatted about opening #talent-training
+- 6:38 PM
+- Attended NewSQL meetup
+- 7:26 PM
+- Clock out
+- Clock in
+- 9:00 PM
+- [Commented on 3.0 toolchain upgrade pr about sys-info fix](https://github.com/tikv/tikv/pull/4963#issuecomment-506148338)
+- 9:08 PM
+- Clock out
+- [Commented on be and Rust](https://www.reddit.com/r/rust/comments/c5w36i/brave_browser_from_the_inventor_of_javascript/es5ljt5?utm_source=share&utm_medium=web2x)
+- 11:29 PM
+
+# 2019-06-25
+
+- Clock in
+- 6:41 PM
+- Brain-dumped thoughts about talent-plan lock-free readers in slack
+- 7:05 PM
+- [Commented on rust-client `&'static str` example ugliness](https://tikv-wg.slack.com/archives/CJCP7NSH3/p1561515258029200)
+- 7:18 PM
+- [Published big_s](https://users.rust-lang.org/t/announcing-big-s-1-0-rusts-missing-string-literal/29630)
+- 8:00 PM
+- 8:28 PM
+- Clock out
+
+# 2019-06-24
+
+- Clock in
+- 11:52 AM
+- [Filed talent-plan grammar issue](https://github.com/pingcap/talent-plan/issues/227)
+- 2:16 PM
+- Hacked on project 4
+- 4:30 PM
+- Clock out
+- Clock in
+- 6:29 PM
+- Triaged slack
+- Triaged email
+- Hacked on project 4
+- Clock out
+- 8:20 PM
+- 9:02 PM
+- Clock in
+- Hacked on project 4
+- Clock out
+- 9:24 PM
+
+# 2019-06-22
+
+- 3:34 PM
+- Hacked on basic-http-server
+- 6:46 PM
+
+# 2019-06-21
+
+- Clock in
+- 2:59 PM
+- Asked questions about TcpListener in #beginners
+- [Responded to maybe_clone feedback](https://github.com/tikv/tikv/pull/4924#discussion_r296413119)
+- 3:41 PM
+- Hacked on project 4
+- 4:31 PM
+- Clock out
+
+# 2019-06-20
+
+- Clock in
+- 2:50 PM
+- [Closed pipelining issue](https://github.com/tikv/tikv/issues/4897)
+- 2:51 PM
+- Filled in next jira sprint
+- 3:04 PM
+- Wrote status report
+- 3:10 PM
+- [Merged talent-plan typo fix](https://github.com/pingcap/talent-plan/pull/221)
+- 3:15 PM
+- [Merged talent-plan formatting fix](https://github.com/pingcap/talent-plan/pull/220)
+- 3:16 PM
+- [Merged talent-plan bb-3 clarifications](https://github.com/pingcap/talent-plan/pull/218)
+- 3:17 PM
+- [Merged talent-plan contributing docs](https://github.com/pingcap/talent-plan/pull/201)
+- 3:17 PM
+- [Reviewed storage docs](https://github.com/tikv/tikv/pull/4912#pullrequestreview-252566651)
+- 3:27 PM
+- [Reviewed rust-client refactoring](https://github.com/tikv/client-rust/pull/70#pullrequestreview-252572115)
+- 3:41 PM
+- [Reviewed rust-client refactoring](https://github.com/tikv/client-rust/pull/71#pullrequestreview-252573897)
+- 3:52 PM
+- [Reviewed rust-client refactoring](https://github.com/tikv/client-rust/pull/72#pullrequestreview-252576022)
+- 3:55 PM
+- [Reviewed rust-client existential patch](https://github.com/tikv/client-rust/pull/73#pullrequestreview-252580504)
+- 4:13 PM
+- [Reviewed sse42 script fix](https://github.com/tikv/tikv/pull/4934#pullrequestreview-252583863)
+- 4:44 PM
+- [Closed project 5 code issue](https://github.com/pingcap/talent-plan/issues/102)
+- [Closed project 5 outline issue](https://github.com/pingcap/talent-plan/issues/100)
+- 4:49 PM
+- Filled out status reports
+- 5:00 PM
+- Clock in
+- 6:57 PM
+- Attended i18n meeting
+- 7:23 PM
+- Clock out
+
+# 2019-06-19
+
+- Clock in
+- 1:36 PM
+- Responded to a q in #talent-training
+- [Posted PR to clarify talent-plan bb-3 exercises](https://github.com/pingcap/talent-plan/pull/218)
+- 2:44 PM
+- Triaged todos
+- 2:52 PM
+- Chatted w/ Ana
+- 3:31 PM
+- [Revised talent-plan blog posts](https://gist.github.com/brson/f9f3cc08acb1260c3fef6b12b6e0bb04)
+- 4:50 PM
+- Clock out
+- Clock in
+- 8:56 PM
+- [Updated talent-plan bb-2 PR](https://github.com/pingcap/talent-plan/pull/218)
+- 9:00 PM
+- [Began reviewing sse42 script fix](https://github.com/tikv/tikv/pull/4934)
+- 9:09 PM
+- [Reviewed tikv.org blog post](https://github.com/tikv/website/pull/42)
+- 9:12 PM
+- [Reviewed a talent-plan PR](https://github.com/pingcap/talent-plan/pull/219)
+- 9:15 PM
+- [Reviewed a talent-plan PR](https://github.com/pingcap/talent-plan/pull/217)
+- 9:21 PM
+- Clock out
+
+# 2019-06-18
+
+- Clock in
+- 1:11 PM
+- Posted about pipelining to wechat
+- 1:17 PM
+- Sent a chat message about the name "talent-plan"
+- 2:00 PM
+- [Reviewed talent-plan typos](https://github.com/pingcap/talent-plan/pull/196)
+- 2:08 PM
+- [Filed a PR to update talent-plan CONTRIBUTING.md](https://github.com/pingcap/talent-plan/pull/201)
+- 2:18 PM
+- Filed many talent-plan issues
+- 3:22 PM
+- [Filed bug about rust import error message](https://github.com/rust-lang/rust/issues/61942)
+- 3:41 PM
+- [Posted PR to fix sse check](https://github.com/tikv/tikv/pull/4919)
+- 3:57 PM
+- Hacked on removing maybe_clone
+- 7:30 PM
+- Chatted w/ Queeny
+- [Revised talent-plan blog posts for pingcap.com and tikv.org](https://gist.github.com/brson/f9f3cc08acb1260c3fef6b12b6e0bb04)
+- 8:10 PM
+- [Filed issue to delete maybe_clone](https://github.com/tikv/tikv/issues/4923)
+- 9:38 PM
+- [Posted PR to delete maybe_clone](https://github.com/tikv/tikv/pull/4924)
+- 9:59 PM
+- Clock out
+
 # 2019-06-17
 
 - Clock in
@@ -23,6 +276,20 @@ is not public, and there are some gaps here from 2017-2019._
 - Triaged todos
 - Lunch
 - 1:16 PM
+- [Posted 'greasing the wheels' to blog](https://brson.github.io/2109/06/17/greasing-the-wheels)
+- 1:31 PM
+- Began testing build with cargo pipelining
+- Began benchmarking build with cargo pipelining
+- 2:06 PM
+- [Merged talent-plan relicense](https://github.com/pingcap/talent-plan/pull/161)
+- 2:31 PM
+- Sent draft of pingcap/tikv talen-plan blog post to Calvin
+- 3:29 PM
+- [Posted PR to turn on cargo pipelining](https://github.com/tikv/tikv/pull/4913)
+- 5:28 PM
+- [Posted pipeline compilation update to irlo](https://internals.rust-lang.org/t/evaluating-pipelined-rustc-compilation/10199/74)
+- 5:48 PM
+- Clock out
 
 # 2019-06-14
 
@@ -214,7 +481,7 @@ is not public, and there are some gaps here from 2017-2019._
 - [Filed bug against predicates](https://github.com/assert-rs/predicates-rs/issues/78)
 - 10:18 PM
 - Hacked on rust training
-- 11:59
+- 11:59 PM
 - Clock out
 
 # 2019-06-08
@@ -333,6 +600,7 @@ is not public, and there are some gaps here from 2017-2019._
 - [Reviewed project 4 code](https://github.com/pingcap/talent-plan/pull/138#pullrequestreview-245724049)
 - 2:56 PM
 - Clock out
+- Clock in
 - 7:00 PM
 - Submitted expense reports for RustCon Asia and Percona Live
 - Chatted w/ Xuwei Fu about "scan" operation
@@ -383,26 +651,20 @@ is not public, and there are some gaps here from 2017-2019._
 
 # 2019-06-02
 
-- Clock in
 - 1:20 PM
 - Hacked on Rust in China
 - 3:35 PM
-- Hacked on Rust in China-
+- Hacked on Rust in China
 - 4:46 PM
-- Clock out
 
 # 2019-06-01
 
-- Clock in
 - 7:10 AM
 - Drafted rust in china blog post
 - 8:00 AM
-- Clock out
-- Clock in
 - 10:00 AM
 - Drafted rust in china blog post
 - 3:57 PM
-- Clock out
 
 # 2019-05-31
 
