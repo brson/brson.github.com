@@ -1,10 +1,320 @@
----
+
 layout: basic
 title: brson's work log
 ---
 
 _Note: This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
+
+# 2019-07-20
+
+- Clock in
+- 1:50 PM
+- [Posted results of new release+incremental tests](https://github.com/tikv/tikv/issues/5013#issuecomment-513500522)
+- 2:34 PM
+- [Updated compile time wiki](https://internal.pingcap.net/confluence/display/TT/2019-03+Compile+time+tests)
+- 2:35 PM
+- Posted incremental results to WeChat
+- Began benchmarking incremental runtime
+- 2:38 PM
+- Hacked on march
+- 4:00 PM
+- Clock out
+
+# 2019-07-18
+
+- Clock in
+- 4:27 PM
+- [Re-reviewed rust-client mocking](https://github.com/tikv/client-rust/pull/81#pullrequestreview-263955414)
+- 4:31 PM
+- [Submitted Q3 OKRs](https://internal.pingcap.net/confluence/display/TT/2019+Q3+OKRs+-+Brian+Anderson)
+- 4:42 PM
+- Submitted status reports
+- 5:08 PM
+- [Merged talent-plan typo PR](https://github.com/pingcap/talent-plan/pull/256)
+- 5:08 PM
+- [Merged talent-plan typo PR](https://github.com/pingcap/talent-plan/pull/255)
+- 5:09 PM
+- [Merged talent-plan fix PR](https://github.com/pingcap/talent-plan/pull/252)
+- 5:10 PM
+- [Reviewed tikv raftstore counter](https://github.com/tikv/tikv/pull/5106)
+- 5:19 PM
+- [Re-reviewed tikv prost patch](https://github.com/tikv/tikv/pull/5068#pullrequestreview-263967815)
+- 5:30 PM
+- [hearted a PR](https://github.com/tikv/tikv/pull/5108)
+- 5:31 PM
+- [Reviewed tikv double-run fix](https://github.com/tikv/tikv/pull/5080#pullrequestreview-263968672)
+- 5:35 PM
+- [Reviewed decimal conversion function](https://github.com/tikv/tikv/pull/5029#pullrequestreview-263969760)
+- 5:41 PM
+- [Reviewed fail-rs update](https://github.com/tikv/tikv/pull/4903#pullrequestreview-263971683)
+- 5:51 PM
+- [Re-reviewed storage module PR](https://github.com/tikv/tikv/pull/4912#pullrequestreview-263972029)
+- 5:53 PM
+- [Merged fail-rs update](https://github.com/tikv/tikv/pull/4903)
+- 6:15 PM
+
+
+# 2019-07-17
+
+- Clock in
+- 9:17 AM
+- [Reviewed rust-client mocking refactor](https://github.com/tikv/client-rust/pull/81#pullrequestreview-263174213)
+- 9:33 AM
+- [Reviewed tikv 3.0 release announce](https://github.com/tikv/website/pull/47)
+- 10:00 AM
+- Clock out
+- 12:07 PM
+- Hacked on "Rust is for Blockchain"
+- Delivered "Rust is for Blackchain" talk
+
+# 2019-07-16
+
+- Clock in
+- 1:58 PM
+- [Re-reviewed gprc prost pr](https://github.com/pingcap/grpc-rs/pull/342)
+- 2:00 PM
+- Clock out
+- Hacked on "Rust is for Blockchain"
+
+# 2019-07-15
+
+- Clock in
+- 11:30 AM
+- Mostly socialized with Kevin
+- 3:45 PM
+- Clock out
+- Clock in
+- 5:00 PM
+- Attended na meeting
+- 5:40 PM
+- Clock out
+
+# 2019-07-12
+
+- Clock in
+- 11:55 AM
+- ???
+
+# 2019-07-11
+
+- Clock in
+- 11:28 AM
+- [Commented on -march patch](https://github.com/tikv/tikv/issues/4843#issuecomment-510604014)
+- 11:36 AM
+- [Reviewed rust-client refactoring](https://github.com/tikv/client-rust/pull/79#pullrequestreview-260885648)
+- 11:41 AM
+- [Reviewed tikv prost patch](https://github.com/tikv/tikv/pull/5068#pullrequestreview-260888488)
+- 1:00 PM
+- [Responded to #rust-training qs](https://tikv-wg.slack.com/archives/CKD9363A8/p1562875465001300)
+- 1:13 PM
+- [Commented on training multiple log issue](https://github.com/pingcap/talent-plan/issues/114#issuecomment-510635176)
+- 1:13 PM
+- [Filed training issue to illustrate logs](https://github.com/pingcap/talent-plan/issues/253)
+- 1:14 PM
+- Continued testing incremental release builds
+- 1:53 PM
+- [Closed thinlto issue](https://github.com/tikv/tikv/issues/4163)
+- 2:00 PM
+- [Posted initial incremental results](https://github.com/tikv/tikv/issues/5013#issuecomment-510653200)
+- 2:04 PM
+- Posted initial incremental results to wiki
+- 2:05 PM
+- [Commented on release `bin` dir](https://github.com/tikv/tikv/issues/5075#issuecomment-510657325)
+- 2:21 PM
+- Clock out
+- Clock in
+- 4:27 PM
+- Wrote status reports
+- 5:10 PM
+- Clock out
+
+# 2019-07-10
+
+- Clock in
+- 1:22 PM
+- Ordered presentation clicker
+- 1:43 PM
+- Triaged email
+- 1:53 PM
+- Met w/ Ana
+- 4:08 PM
+- Signed up for benefits
+- 4:41 PM
+- [Began incremental+bench timing](https://github.com/pingcap/kvproto/pull/418)
+- 5:25 PM
+- Reviewed ecosystem team okrs again
+- 5:35 PM
+- [Reviewed tipb prost update](https://github.com/pingcap/tipb/pull/125#pullrequestreview-260420320)
+- 5:36 PM
+- [Reviewed tipb prost update](https://github.com/pingcap/grpc-rs/pull/342#pullrequestreview-260420705)
+- 5:39 PM
+- [Reviewed kvproto prost update](https://github.com/pingcap/kvproto/pull/418#pullrequestreview-260421255)
+- 5:41 PM
+- Clock out
+
+# 2019-07-09
+
+- Clock in
+- 10:15 AM
+- [Reviewed fail-rs mutex pattern](https://github.com/pingcap/fail-rs/pull/40#issuecomment-509731754)
+- 10:23 PM
+- Edited q3 eco team okrs
+- 11:05 PM
+- Chatted about okrs
+- 11:10 PM
+- Clock out
+- Clock in
+- 3:03 PM
+- [Hacked on min cpu reqs](https://github.com/tikv/tikv/issues/4843)
+- 4:00 PM
+- Clock out
+
+# 2019-07-08
+
+- Clock in
+- 10:59 AM
+- Helped fuyang w/ talent-plan issues
+- 11:44 AM
+- Attended weekly meeting
+- 1:50 PM
+- 1:56 PM
+- Clock out
+
+# 2019-07-04
+
+- Clock in
+- 4:42 PM
+- Posted status reports
+- 5:00 PM
+- Clock out
+- Clock in
+- 7:00 PM
+- Attended OKR mtg
+- 9:09 PM
+- Clock out
+
+# 2019-07-03
+
+- Clock in
+- 12:30 PM
+- Triaged todos
+- 1:00 PM
+- [Commented on thinlto issue](https://github.com/tikv/tikv/issues/4163#issuecomment-508270224)
+- 3:04 PM
+- [Updated release profile PR](https://github.com/tikv/tikv/pull/4996)
+- 3:06 PM
+- Chatted w/ Ana
+- 3:41 PM
+- [Filed bug to turn on incremental for release/bench](https://github.com/tikv/tikv/issues/5013)
+- 3:59 PM
+- [Filed jira bug to test incremental for release/bench](https://internal.pingcap.net/jira/browse/TIKV-3864)
+- 4:02 PM
+- Registered for WeChat Work
+- 4:09 PM
+- Dealt with payroll issue
+- 4:18 PM
+- [Began running incremental+release tests](https://internal.pingcap.net/jira/browse/TIKV-3864)
+- 4:23 PM
+- [Reviewed talent-plan readme update](https://github.com/pingcap/talent-plan/pull/241)
+- 4:26 PM
+- [Closed talent-plan readme issue](https://github.com/pingcap/talent-plan/pull/241)
+- 4:27 PM
+- [Reviewed talent-plan toc pr](https://github.com/pingcap/talent-plan/pull/242)
+- 4:28 PM
+- [Closed talent-plan toc issue](https://github.com/pingcap/talent-plan/issues/232)
+- 4:28 PM
+- [Merged talent-plan typo fixes](https://github.com/pingcap/talent-plan/pull/246)
+- 4:29 PM
+- [Merged talent-plan typo fixes](https://github.com/pingcap/talent-plan/pull/247)
+- 4:30 PM
+- [Merged talent-plan typo fixes](https://github.com/pingcap/talent-plan/pull/249)
+- 4:31 PM
+- [Merged talent-plan typo fixes](https://github.com/pingcap/talent-plan/pull/250)
+- 4:31 PM
+- [Merged talent-plan fixes](https://github.com/pingcap/talent-plan/pull/248)
+- 4:32 PM
+- Closed stale "test-run" talent-plan issues
+- 4:40 PM
+- [Closed talent-plan dev-deps issue](https://github.com/pingcap/talent-plan/issues/113)
+- 4:41 PM
+- [Reviewed hashbrown pr](https://github.com/tikv/tikv/pull/5010#issuecomment-508290508)
+- 4:50 PM
+- [Reviewed client-rust timestamp pr](https://github.com/tikv/client-rust/pull/79#issuecomment-508291400)
+- 4:56 PM
+- [Reviewed client-rust str conversion pr](https://github.com/tikv/client-rust/pull/80#pullrequestreview-257780425)
+- 4:58 PM
+- [Reviewed retain_by_offset optimization](https://github.com/tikv/tikv/pull/5004#issuecomment-508296007)
+- 5:27 PM
+- Restarted incremental+release tests
+- 5:29 PM
+- Clock out
+- Clock in
+- 8:20 PM
+- Chatted about panic_hook, exit, and c++ static dtors
+- 9:00 PM
+- Clock out
+
+# 2019-07-02
+
+- Clock in
+- 10:00 AM
+- Chatted w/ Niko re compile time
+- 11:07 AM
+- Clock out
+
+# 2019-07-01
+
+- Clock in
+- 12:40 PM
+- [Filed issue to measure tikv compile times over time](https://internal.pingcap.net/jira/browse/TIKV-3840)
+- 1:34 PM
+- [Posted re-work to release profile patch](https://github.com/tikv/tikv/pull/4996#issuecomment-507424595)
+- 2:02 PM
+- [Rebased dev-docs-etc patch](https://github.com/tikv/tikv/issues/4673)
+- 2:16 PM
+- [Merged basic-http-server structopt PR](https://github.com/brson/basic-http-server/pull/17#issuecomment-507429975)
+- 2:19 PM
+- [Merged basic-http-server bind PR](https://github.com/brson/basic-http-server/pull/18)
+- 2:22 PM
+- [Reviewed basic-http-server PR](https://github.com/brson/basic-http-server/pull/19)
+- 2:39 PM
+- [Reviewed client-rust proptest PR](https://github.com/tikv/client-rust/pull/68#pullrequestreview-256582246)
+- 3:01 PM
+- [Reviewed client-rust bench PR](https://github.com/tikv/client-rust/pull/66#pullrequestreview-256583525)
+- 3:05 PM
+- [Reviewed client-rust deref PR](https://github.com/tikv/client-rust/pull/77#pullrequestreview-256583799)
+- 3:06 PM
+- [Reviewed style guide PR](https://github.com/tikv/tikv/pull/4785#pullrequestreview-256585636)
+- 3:13 PM
+- [Reviewed client-rust nightly toolchain PR](https://github.com/tikv/client-rust/pull/78#pullrequestreview-256587354)
+- 3:18 PM
+- [Re-reviewed logging PR](https://github.com/tikv/tikv/pull/4768#pullrequestreview-256587759)
+- 3:19 PM
+- [Posted twir issue](https://github.com/cmr/this-week-in-rust/pull/948)
+- 3:30 PM
+- [Closed weekly twir jira issue](https://internal.pingcap.net/jira/browse/TIKV-3740)
+- 3:31 PM
+- 3:51 PM
+- Clock out
+
+# 2019-06-29
+
+- Clock in
+- 1:32 PM
+- [Hacked on removing dead test suites](https://github.com/brson/basic-http-server/issues/15#issuecomment-506988245)
+- [Commented on basic-http-server caching](https://github.com/brson/basic-http-server/issues/15#issuecomment-506988245)
+- Hacked an basic-http-server
+- 2:27 PM
+- [Closed fixed basic-http-server error](https://github.com/brson/basic-http-server/issues/5)
+- 2:28 PM
+- [Published basic-http-server 0.6](https://users.rust-lang.org/t/basic-http-server-0-6-a-static-http-server-for-learning-and-development/29769)
+- 3:07 PM
+- [Posted basic-http-server 0.6 to /r/rust](https://www.reddit.com/r/rust/comments/c75g3v/basichttpserver_06_a_static_http_server_for/)
+- 3:24 PM
+- [Posted results of disabling test suites](https://github.com/tikv/tikv/issues/4391#issuecomment-506992757)
+- 3:51 PM
+- Clock out
 
 # 2019-06-28
 
