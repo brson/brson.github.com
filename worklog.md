@@ -15,6 +15,16 @@ is not public, and there are some gaps here from 2017-2019._
 - Partially triaged slack
 - Started build of -march patch
 - 11:04 PM
+- Collected DB-related papers
+- 2:07 PM
+- Chatted about fall conf / china schedule
+- 2:08 PM
+- [Merged tikv.org website fix](https://github.com/tikv/website/pull/49)
+- 2:15 PM
+- Hacked on personal website
+- Finished benchmarking release+incremental runtime
+- Helped Samantha w/ blog post draft
+- 4:36 PM
 
 # 2019-07-21
 
