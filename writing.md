@@ -25,6 +25,10 @@ of the pieces I've written.
   itself a fork of [comrak]). This is the public portion of the giant braindump
   I left in my wake.
 
+* [Practical Networked Applications in Rust][pnar]. A course on building
+  real-world applications in Rust. Developed for [PingCAP] as a recruiting tool.
+  Incomplete, but I have ambitious hopes for it.
+
 * [Refactoring `std` for Ultimate Portability][r]. A proposal for how
   to refactor the standard library into portable components. I like
   how complete the argument is here and that I took the time to make
@@ -148,3 +152,5 @@ of the pieces I've written.
 [unsafety]: https://brson.github.io/the-end-of-unsafety/#/INTRO
 [prev.rust-lang.org]: https://prev.rust-lang.org
 [ru]: https://github.com/rust-lang/rustup.rs/blob/master/README.md
+[PingCAP]: https://pingcap.com
+[pnar]: https://github.com/pingcap/talent-plan/tree/master/rust
