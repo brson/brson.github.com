@@ -6,6 +6,24 @@ title: brson's work log
 _Note: This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-07-22
+
+- Clock in
+- 10:42 AM
+- Chatted w/ tangminghua re engine abstraction
+- 10:48 PM
+- Partially triaged slack
+- Started build of -march patch
+- 11:04 PM
+
+# 2019-07-21
+
+- Clock in
+- 12:16 PM
+- Booked web3, colorado gold rust, rust belt rust, rustfest barcelona tickets
+- 1:15 PM
+- Clock out
+
 # 2019-07-20
 
 - Clock in
