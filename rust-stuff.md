@@ -1,5 +1,6 @@
 ---
 layout: basic
+title: brson's Rust stuff
 ---
 
 I've been [doing Rust] for [a while now]. Here are some of my most

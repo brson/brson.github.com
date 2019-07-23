@@ -150,3 +150,42 @@ ul ul {
     margin-top: 1em;
     margin-left: 1em;
 }
+
+
+/* used for explanation of "brson" */
+.light-aside {
+	color: #777;
+}
+
+/* home page */
+#namebox {
+	display: flex;
+}
+
+#namebox strong {
+	font-weight: bold;
+	font-size: 200%;
+	padding-right: 1rem;
+}
+
+#namebox div {
+	margin-left: 2rem;
+}
+
+#namebox emph {
+	font-style: italic;
+}
+
+#keys {
+	margin: 2rem;
+	text-align: center;
+}
+
+#keys a {
+	margin: 1rem;
+}
+
+#contact emph {
+	font-weight: bold;
+	font-style: italic;
+}

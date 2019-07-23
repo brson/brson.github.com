@@ -25,6 +25,8 @@ is not public, and there are some gaps here from 2017-2019._
 - Finished benchmarking release+incremental runtime
 - Helped Samantha w/ blog post draft
 - 4:36 PM
+- Re-read compile-time blog post
+- Attended global team meeting
 
 # 2019-07-21
 

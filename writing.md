@@ -1,5 +1,6 @@
 ---
 layout: basic
+title: brson's writings
 ---
 
 I enjoy writing, and sometimes think I'm pretty ok at it. Like my
