@@ -6,6 +6,11 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-07-25
+
+- Hacked on personal website
+- 10:12 AM
+
 # 2019-07-24
 
 - Clock in
