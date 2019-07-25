@@ -157,6 +157,7 @@ ul ul {
 #namebox {
 	display: flex;
 	margin-bottom: 1.7rem;
+	flex-wrap: wrap;
 }
 
 #namebox h1 {
