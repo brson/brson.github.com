@@ -1,10 +1,58 @@
-
+---
 layout: basic
 title: brson's work log
 ---
 
-_Note: This contains much of my open source activity since 2015. Some of my work
+_This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
+
+# 2019-07-24
+
+- Clock in
+- 11:54 AM
+- Mentioned to spacejam that tikv is going to integrate sled
+- 12:24 PM
+- [Reviewed client-rust dep fixes](https://github.com/tikv/client-rust/pull/85)
+- 12:34 PM
+- [Merged client-rust fixes](https://github.com/tikv/client-rust/pull/85)
+- 12:37 PM
+- Re-registered for tikv slack with pingcap email
+- 12:56 PM
+- Pinged HeroicKatora re pathological compile time problems
+- 1:05 PM
+- [Filed pipelining rlib bug](https://github.com/tikv/tikv/issues/5130)
+- 1:11 PM
+- [Began upgrading toolchain for pipelining](https://github.com/tikv/tikv/issues/5130)
+- 1:24 PM
+- [Filed basic-http-server anchor issue](https://github.com/brson/basic-http-server/issues/25)
+- 1:28 PM
+- [Filed PR against rustup to link to rustup-components-history](https://github.com/rust-lang/rustup.rs/pull/1951)
+- 1:38 PM
+- Chatted w/ Jane re Rust/Blockchain promotion
+- 2:08 PM
+- [Commented on pipelining bug](https://github.com/tikv/tikv/issues/5130#issuecomment-514800727)
+- 2:08 PM
+- [Began testing march patches](https://github.com/tikv/tikv/issues/4843)
+- 3:30 PM
+- Clock out
+- 5:30 PM
+- Hacked on personal website
+- 6:18 PM
+
+
+# 2019-07-23
+
+- Clock in
+- 6:23 PM
+- [Upvoted "PNA Rust" HN post](https://news.ycombinator.com/item?id=20511271)
+- 6:23 PM
+- Commented in #rust-training
+- 7:06 PM
+- Chatted with tangminghua re engine abstraction
+- 7:37 PM
+- Chatted various
+- 8:30 PM
+- Clock out
 
 # 2019-07-22
 
@@ -27,6 +75,13 @@ is not public, and there are some gaps here from 2017-2019._
 - 4:36 PM
 - Re-read compile-time blog post
 - Attended global team meeting
+- 5:48 PM
+- Clock out
+- Clock in
+- 10:05 PM
+- Chatted w/ Calvin re assessment and okrs
+- 11:34 PM
+- Clock out
 
 # 2019-07-21
 

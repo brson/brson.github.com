@@ -3,8 +3,10 @@ layout: basic
 title: brson's Rust stuff
 ---
 
-I've been [doing Rust] for [a while now]. Here are some of my most
-interesting Rust works.
+I've been [doing Rust] for [a while now]. Here are some of my most notable
+Rust works, more-or-less from oldest to newest. Since I rarely contribute
+directly to Rust lately, this list becomes less indicative of my current
+interests as time passes.
 
 * Converted Rust from a statement language to an expression
   language. That's right, Rust once was not even expression-oriented.

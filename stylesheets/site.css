@@ -152,28 +152,50 @@ ul ul {
 }
 
 
-/* used for explanation of "brson" */
-.light-aside {
-	color: #777;
-}
-
 /* home page */
+
 #namebox {
 	display: flex;
+	margin-bottom: 1.7rem;
+}
+
+#namebox h1 {
+	font-weight: bold;
+	font-size: 150%;
+	margin-bottom: 0;
+}
+
+#namebox #arrow {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
 }
 
 #namebox strong {
 	font-weight: bold;
 	font-size: 200%;
-	padding-right: 1rem;
 }
 
-#namebox div {
-	margin-left: 2rem;
+#namebox > :nth-child(1) {
+	margin-right: 2rem;
+	text-align: right;
+	flex-basis: 100%;
+	flex-grow: -1000%;
 }
 
-#namebox emph {
+#namebox > :nth-child(2) {
+	text-align: right;
+	flex-basis: 0%;
+	flex-grow: 1000%;
+}
+
+#namebox dfn {
 	font-style: italic;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#namebox p {
+	margin-top: 0;
 }
 
 #keys {
