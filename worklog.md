@@ -12,6 +12,8 @@ is not public, and there are some gaps here from 2017-2019._
 - 1:12 PM
 - [Hacked on march patch and testing](https://github.com/tikv/tikv/issues/4843)
 - 2:08 PM
+- Hacked on personal website
+- 2:16 PM
 
 # 2019-07-28
 
