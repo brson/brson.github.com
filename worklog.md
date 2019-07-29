@@ -6,10 +6,105 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-07-29
+
+- Clock in
+- 1:12 PM
+- [Hacked on march patch and testing](https://github.com/tikv/tikv/issues/4843)
+- 2:08 PM
+
+# 2019-07-28
+
+- Clock in
+- Bought RustConf tickets
+- 2:32 PM
+- Scheduled more fall travel
+- 3:04 PM
+- Added more Rust blockchain companies to my list
+- 3:04 PM
+- Clock out
+- Clock in
+- 3:30 PM
+- Booked more travel arrangements
+- [Filed URL-escaping basic-http-server bug](https://github.com/brson/basic-http-server/issues/26)
+- 4:48 PM
+- [Posted PR to rust in blockchain call for contributors](https://github.com/rust-in-blockchain/Rust-in-Blockchain/pull/2)
+- 5:38 PM
+
+# 2019-07-27
+
+- Clock in
+- 1:30 PM
+- Drafted "calamity"
+- 3:09 PM
+- Clock out
+- Continued drafting "reality is not what you expect"
+- 4:49 PM
+- Clock in
+- 4:50 PM
+- Continued drafting "calamity"
+- 6:00 PM
+- Clock out
+
+# 2019-07-26
+
+- Clock in
+- 10:00 AM
+- Drafted "calamity"
+- 12:00 PM
+- Clock out
+
+# 2019-07-25
+
+- Clock in
+- 9:45 AM
+- Brainstormed about "calamity"
+- 10:30 AM
+- Clock out
+- Clock in
+- 10:58 AM
+- Hacked on "calamity"
+- 11:46 AM
+- Clock out
+
 # 2019-07-25
 
 - Hacked on personal website
 - 10:12 AM
+- Clock in
+- 11:20 AM
+- [Reviewed rocks libz patch](https://github.com/pingcap/rust-rocksdb/pull/303#pullrequestreview-266806021)
+- 11:27 AM
+- [Continued testing march updates](https://github.com/tikv/tikv/issues/4843)
+- 11:32 AM
+- [Continued testing toolchain upgrade](https://github.com/tikv/tikv/issues/5130
+- 11:32 AM
+- [Filled out meeting availability](https://docs.google.com/spreadsheets/d/1L9dK9Br0IGA7JgLnxSafrE9cXEL774gOUfKceOz8U-k/edit#gid=1970623931)
+- 12:11 AM
+- Chatted w/ tangminghua re engine abstraction
+- 12:27 PM
+- [Filed bug to investigate pathalogical compile-time cases](https://github.com/tikv/tikv/issues/5136)
+- 12:33 PM
+- [Commented on pipelining bug](https://github.com/tikv/tikv/issues/5130#issuecomment-515183716)
+- 12:33 PM
+- Clock out
+- Clock in
+- 1:33 PM
+- [Continued testing toolchain upgrade](https://github.com/tikv/tikv/issues/5130
+- Hacked on "The Rust Compilation Model Calamity"
+- 2:27 PM
+- Hacked on "The Rust Compilation Model Calamity"
+- 5:42 PM
+- Wrote status report
+- 5:50 PM
+- [Submitted PR to upgrade toolchain for pipelining fix](https://github.com/tikv/tikv/pull/5137)
+- 6:03 PM
+- Chatted about reporting w/ ecosystem team
+- Collected march testing reports for analysis
+- Attended tikv team meeting
+- Gave CaitenChen suggestions about HN content
+- 8:15 PM
+- Clock out
 
 # 2019-07-24
 
