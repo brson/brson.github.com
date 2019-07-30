@@ -14,6 +14,13 @@ is not public, and there are some gaps here from 2017-2019._
 - 2:08 PM
 - Hacked on personal website
 - 2:16 PM
+- Clock out
+- Clock in
+- 4:22 PM
+- [Edited webinar blog post](https://docs.google.com/document/d/1NnNR58sdFUkpza5HJne0z8WG-EEJk30SIEFjb-xsXwc/edit)
+- 4:53 PM
+- Chatted w/ Samantha
+- 5:01 PM
 
 # 2019-07-28
 
