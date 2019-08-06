@@ -6,6 +6,95 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-08-05
+
+- Clock in
+- 9:25 AM
+- [Commented on Arc::clone](https://github.com/rust-lang/rust/pull/63252#issuecomment-518304416)
+- 9:29 AM
+- [Filed JIRA issue to write compile-time measuring tool](https://internal.pingcap.net/jira/browse/TIKV-4136)
+- 9:39 AM
+- Book RustConf travel for a friend
+- 12:05 PM
+- Chatted w/ various about travel
+- Chatted w/ nrc about Rust core team
+- 2:48 PM
+- [Hacked on compile-time measurement tool](https://internal.pingcap.net/jira/browse/TIKV-4136)
+- 2:49 PM
+- Emailed graydon re https://github.com/rust-lang/rust/graphs/contributors
+- Hacked on compile-time measurement tool
+- 3:24 PM
+- Hacked on compile-time measurement tool
+- Attended global team meeting
+- 5:52 PM
+- 6:30 PM
+- Clock out
+- Clock in
+- 8:49 PM
+- Chatted w/ siddon re detecting unused crates
+- 8:53 PM
+
+# 2019-08-04
+
+- [PNA Rust on HN again](https://arveknudsen.com/posts/practical-networked-applications-in-rust/module-2/)
+- 11:15 PM
+
+# 2019-08-03
+
+- [Filed bug about Rust COPYRIGHT file](https://github.com/rust-lang/rust/issues/63232)
+- 3:28 AM
+- [Filed bug about compiler-builtins license](https://github.com/rust-lang-nursery/compiler-builtins/issues/307)
+- 4:00 AM
+- [Filed bug about libm license](https://github.com/rust-lang-nursery/libm/issues/215)
+- 4:08 AM
+- Drafted "rust licensing fiasco"
+- 6:19 PM
+
+# 2019-08-02
+
+- [Created rust-plus org](https://github.com/rust-plus)
+- 11:59 PM
+
+# 2019-08-01
+
+- Clock in
+- 3:00 PM
+- Attended 1:1 w/ Ana
+- 3:42 PM
+- [Began stracing march patch](https://github.com/tikv/tikv/issues/4843)
+- 4:06 PM
+- [Posted update about march patch re rocksdb](https://github.com/tikv/tikv/issues/4843#issuecomment-517497437)
+- 4:54 PM
+- [Submitted -march PR](https://github.com/tikv/tikv/pull/5181)
+- 5:32 PM
+- [Closed stale jemalloc patch](https://github.com/tikv/tikv/pull/4515)
+- 5:38 PM
+- [Updated rustup patch to regenerate dockerfile](https://github.com/tikv/tikv/pull/5137)
+- 5:47 PM
+- [Updated rustup patch for clippy](https://github.com/tikv/tikv/pull/5137#issuecomment-517517969)
+- 6:56 PM
+- Attended tikv team meeting
+- 8:00 PM
+- [Updated rustup patch for clippy some more](https://github.com/tikv/tikv/pull/5137#issuecomment-517530954)
+- 8:11 PM
+- Clock out
+
+# 2019-07-30
+
+- 7:30 AM
+- Hacked on basic-http-server
+- [Published 0.6.3 of basic-http-server](https://users.rust-lang.org/t/basic-http-server-0-6-a-static-http-server-for-learning-and-development/29769)
+- 9:31 AM
+- [Closed basic-http-server URL escaping issue](https://github.com/brson/basic-http-server/issues/26)
+- 9:43 AM
+- Clock in
+- 10:28 AM
+- [Reviewed logging pr](https://github.com/tikv/tikv/pull/4768#pullrequestreview-268549840)
+- [Merged logging pr](https://github.com/tikv/tikv/pull/4768)
+- 10:28 PM
+- Clock out
+
+
 # 2019-07-29
 
 - Clock in
@@ -21,6 +110,11 @@ is not public, and there are some gaps here from 2017-2019._
 - 4:53 PM
 - Chatted w/ Samantha
 - 5:01 PM
+- Attended global team meeting
+- 5:44 PM
+- Clock out
+- [Posted RIB call for contribution to TWiR call for participation](https://github.com/cmr/this-week-in-rust/pull/971)
+- 6:04 PM
 
 # 2019-07-28
 
