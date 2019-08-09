@@ -6,6 +6,91 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-08-08
+
+- Clock in
+- 11:00 AM
+- Chatted w/ Shen Li, Queeny, Ed
+- Triaged worklog
+- 11:45 AM
+- [Filed bug re -Z self-profile](https://github.com/tikv/tikv/issues/5234)
+- 11:52 AM
+- [Filed bug re -Z share-generics](https://github.com/tikv/tikv/issues/5235)
+- 11:54 AM
+- [Performed more home crate maintenance](https://users.rust-lang.org/t/home-crate-0-4-1-released/31094/5?u=brson)
+- 12:10 PM
+- Went to team lunch
+- Responded to Graydon
+- Hacked on "calamity" draft
+- 3:29 PM
+- Clock out
+- Clock in
+- 4:17 PM
+- Hacked on "calamity" draft
+- 4:55 PM
+- Clock out
+
+# 2019-08-07
+
+- Clock in
+- 2:00 PM
+- [Finished testing dev profile line numbers](https://github.com/tikv/tikv/pull/5222)
+- 2:18 PM
+- Configured custom debug toolchain
+- 2:21 PM
+- [Filed PR to fix rustc help text](https://github.com/rust-lang/rust/pull/63360)
+- 2:54 PM
+- Attended 1:1 Ana
+- 3:49 PM
+- Hacked on "calamity" draft
+- Built tikv with -Z binary-dep-depinfo
+- 4:25 PM
+- Clock out
+- Clock in
+- 5:02 PM
+- Hacked on "calamity" draft
+- 5:30 PM
+- Clock out
+
+# 2019-08-06
+
+- Clock in
+- 2:04 PM
+- [Commented on clippy unused crate reporting](https://github.com/rust-lang/rust-clippy/issues/4341#issuecomment-518847095)
+- 2:16 PM
+- Commented in #dev-tools about unused crate analysis
+- 2:19 PM
+- [Merged `home` PR](https://github.com/brson/home/pull/6)
+- 2:45 PM
+- [Released `home` 0.4.1](https://users.rust-lang.org/t/home-crate-0-4-1-released/31094)
+- 3:05 PM
+- [Hacked on `parse_list` for compile-time tool](https://github.com/brson/parse_list)
+- 3:48 PM
+- [Commented on rustup home PR](https://github.com/rust-lang/rustup.rs/pull/1919#issuecomment-518872985)
+- 3:54 PM
+- [Commented about home crate](https://users.rust-lang.org/t/home-crate-0-4-1-released/31094/3)
+- 3:56 PM
+- Clock out
+- [Commented on PingCAP Rust deployment](https://www.reddit.com/r/programming/comments/cmcw7q/fixing_c_with_epochs/ew5i2i6?utm_source=share&utm_medium=web2x)
+- 5:14 PM
+- [Noted more Rust adopters on Reddit](https://www.reddit.com/r/programming/comments/cmcw7q/fixing_c_with_epochs/ew3mr4c?utm_source=share&utm_medium=web2x)
+- 5:46 PM
+- Clock in
+- 5:47 PM
+- [Posted PR to turn on line numbers for dev profile](https://github.com/tikv/tikv/pull/5222)
+- 6:25 PM
+- [Closed fixed librssl issue](https://github.com/tikv/tikv/issues/5022)
+- 6:33 PM
+- [Commented on Rust licensing](https://github.com/rust-lang/rust/issues/63232#issuecomment-518906870)
+- 7:34 PM
+- Clock out
+- Clock in
+- 9:59 PM
+- Responded to Dom re rustconf plans
+- Responded to Aaron
+- 10:14 PM
+- Clock out
+
 # 2019-08-05
 
 - Clock in
@@ -33,6 +118,13 @@ is not public, and there are some gaps here from 2017-2019._
 - 8:49 PM
 - Chatted w/ siddon re detecting unused crates
 - 8:53 PM
+- Asked on #dev-tools about detecting unused crates
+- 9:00 PM
+- Began building rustc with debug!
+- 10:17 PM
+- [Filed issue for clippy unused crate lint](https://github.com/rust-lang/rust-clippy/issues/4341)
+- 10:37 PM
+- Clock out
 
 # 2019-08-04
 
@@ -47,8 +139,9 @@ is not public, and there are some gaps here from 2017-2019._
 - 4:00 AM
 - [Filed bug about libm license](https://github.com/rust-lang-nursery/libm/issues/215)
 - 4:08 AM
+- Filed more Rust licensing bugs
 - Drafted "rust licensing fiasco"
-- 6:19 PM
+- 6:19 AM
 
 # 2019-08-02
 
