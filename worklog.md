@@ -6,6 +6,139 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-08-20
+
+- Clock in
+- 11:09 AM
+- Hacked on process scheduler + deadlock unit tests
+- 1:14 PM
+- Hacked on process scheduler + deadlock unit tests
+- 3:21 PM
+- Hacked on process scheduler + deadlock unit tests
+- Hacked on engine abstraction
+- 4:50 PM
+- Hacked on engine abstraction
+- Chatted w/ tangminghua re engine abstraction
+- 6:05 PM
+- Clock out
+- Clock in
+- 8:10 PM
+- Chatted w/ Liu
+- 9:05 PM
+- Clock out
+
+# 2019-08-19
+
+- Clock in
+- 3:10 PM
+- Edited "rust in blockchain" rustfest cfp
+- Submitted "rust in china" rustfest cfp
+- Submitted "the tikv compile time saga" rustfest cfp
+- 4:02 PM
+- [Reviewed jemalloc fix](https://github.com/tikv/tikv/pull/5299#pullrequestreview-276863238)
+- 4:32 PM
+- Attended NA meeting
+- 5:51 PM
+- [Commented on async I/O](https://news.ycombinator.com/item?id=20743087)
+- 6:18 PM
+- Began reading tangminghua's engine abstraction patch
+- [Commented on engine abstraction](https://github.com/tikv/tikv/pull/5237#issuecomment-522831023)
+- 7:51 PM
+- Clock out
+
+# 2019-08-16
+
+- Clock in
+- 10:35 AM
+- Attended NA team building escape room and lunch
+- 2:11 PM
+- Brainstormed w/ Jacob re showcase ideas
+- 5:25 PM
+- Chatted w/ Shen Li
+- 6:16 PM
+- Clock out
+
+# 2019-08-15
+
+- Clock in
+- 11:55 AM
+- Hacked on adding test cases to process scheduler
+- Attended team lunch
+- 1:56 PM
+- Hacked on adding test cases to process scheduler
+- [Turned on travis for home crate](https://users.rust-lang.org/t/home-crate-0-4-1-released/31094/8?u=brson)
+- 2:19 PM
+- Hacked on adding test cases to process scheduler
+- 3:23 PM
+- Attended NA team meeting
+- 6:05 PM
+- Clock out
+
+# 2019-08-14
+
+- Met w/ Kevin re podcast
+- Clock in
+- 3:38 PM
+- Attended 1:1 w/ Ana
+- 4:41 PM
+- [Posted PR to fix a type name](https://github.com/tikv/tikv/pull/5283)
+- 5:06 PM
+- [Hacked on adding test cases to process scheduler](https://github.com/tikv/tikv/pull/5261#issuecomment-521467850)
+- 5:37 PM
+- Hacked on adding test cases to process scheduler
+- Gave "calamity" draft to calvin
+- 7:35 PM
+- Hacked on adding test cases to process scheduler
+- 8:38 PM
+- Clock out
+
+# 2019-08-13
+
+- Clock in
+- 11:56 AM
+- [Hearted coprocessor dag extraction pr](https://github.com/tikv/tikv/pull/4707)
+- 12:06 PM
+- Hacked on import extraction
+- Submitted q's for pingcap na q&a
+- 12:53 PM
+- Hacked on import extraction
+- 1:06 PM
+- Clock out
+- Clock in
+- 2:03 PM
+- [Finished extracting import crate](https://github.com/brson/tikv/tree/import)
+- 3:14 PM
+- [Rebased rust upgrade](https://github.com/tikv/tikv/pull/5261#issuecomment-521032009)
+- 3:25 PM
+- 4:25 PM
+- Clock out
+- Clock in
+- 8:15 PM
+- [Pushed new rust upgrade merge](https://github.com/tikv/tikv/pull/5261)
+- 8:24 PM
+- Clock out
+
+# 2019-08-12
+
+- Clock in
+- 12:05 PM
+- Began testing rustup to nightly-2019-08-12
+- [Submited PR to fix 'boostrap' typo](https://github.com/tikv/tikv/pull/5260)
+- Hacked on module extraction
+- 4:18 PM
+- [Closed stale maybe_clone PR](https://github.com/tikv/tikv/pull/4924)
+- 4:30 PM
+- [Submitted PR to rustup to nightly-2019-08-12](https://github.com/tikv/tikv/pull/5261)
+- 4:31 PM
+- Hacked on extracting import crate
+- 6:22 PM
+- Clock out
+- Clock in
+- 6:49 PM
+- Hacked on extracting import crate
+- 7:27 PM
+- Clock out
+
 # 2019-08-08
 
 - Clock in
@@ -16,6 +149,7 @@ is not public, and there are some gaps here from 2017-2019._
 - [Filed bug re -Z self-profile](https://github.com/tikv/tikv/issues/5234)
 - 11:52 AM
 - [Filed bug re -Z share-generics](https://github.com/tikv/tikv/issues/5235)
+- [Filed bug to create unused crate detection tool](https://github.com/tikv/tikv/issues/5236)
 - 11:54 AM
 - [Performed more home crate maintenance](https://users.rust-lang.org/t/home-crate-0-4-1-released/31094/5?u=brson)
 - 12:10 PM
@@ -29,6 +163,13 @@ is not public, and there are some gaps here from 2017-2019._
 - Hacked on "calamity" draft
 - 4:55 PM
 - Clock out
+- Clock in
+- 6:55 PM
+- Attended tikv mtg
+- 7:54 PM
+- Clock out
+- Investigated RustConf sponsors and finances
+- 8:19 PM
 
 # 2019-08-07
 
