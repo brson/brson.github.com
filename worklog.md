@@ -6,6 +6,267 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-09-05
+
+- Clock in
+- 1:11 PM
+- [Updated rust upgrade PR](https://github.com/tikv/tikv/pull/5261#issuecomment-528564523)
+- 1:19 PM
+- [Updated march PR](https://github.com/tikv/tikv/pull/5181#issuecomment-528567984)
+- [Updated keys extraction PR](https://github.com/tikv/tikv/pull/5376#issuecomment-528572207)
+- 1:41 PM
+- [Commented on LockMgr dispatch](https://github.com/tikv/tikv/issues/5399#issuecomment-528582957)
+- 2:09 PM
+- [Closed old compile-time PR](https://github.com/tikv/tikv/issues/4152)
+- 2:11 PM
+- [Closed old compile-time PR](https://github.com/tikv/tikv/issues/4161)
+- 2:13 PM
+- [Commented on old hash functions](https://github.com/tikv/tikv/issues/5313#issuecomment-528597063)
+- 2:31 PM
+- [Commented on workspace organization](https://github.com/tikv/tikv/issues/5289#issuecomment-528601781)
+- 2:46 PM
+- Responded to Arve re issues to work on
+- 2:47 PM
+- Clock out
+
+# 2019-09-04
+
+- Clock in
+- 3:00 PM
+- [Reviewed raft lint pr](https://github.com/pingcap/raft-rs/pull/282#pullrequestreview-283920036)
+- 3:01 PM
+- Met w/ Ana
+- 3:45 PM
+- [Reviewed raft pr](https://github.com/pingcap/raft-rs/pull/278)
+- 3:48 PM
+- Responded to Jack about publishing rocksdb crate
+- 3:59 PM
+- Responded to Ed re training course
+- 4:06 PM
+- Clock out
+
+# 2019-09-03
+
+- Clock in
+- 3:25 PM
+- [Re-reviewed jemalloc pr](https://github.com/tikv/tikv/pull/5299#pullrequestreview-280568666)
+- 3:27 PM
+- [Commented on engine abstraction pr](https://github.com/tikv/tikv/pull/5237#issuecomment-527675833)
+- 4:17 PM
+- [Encouraged a contributor](https://github.com/tikv/tikv/pull/5386#issuecomment-527676396)
+- 4:18 PM
+- Responded to tangliu
+- 4:18 PM
+- Clock out
+
+# 2019-09-02
+
+- Clock in
+- 3:43 AM
+- Hacked on raftstore extraction
+- 3:58 AM
+- Clock out
+- Clock in
+- 4:18 AM
+- Hacked on raftstore extraction
+- 9:00 AM
+- Clock out
+
+# 2019-09-01
+
+- Clock in
+- 4:50 PM
+- [Updated rust update pr for review](https://github.com/tikv/tikv/pull/5261#discussion_r319775110)
+- 4:01 PM
+- [Updated rust update pr for review](https://github.com/tikv/tikv/pull/5261#issuecomment-526952913)
+- 6:01 PM
+- Clock out
+- Clock in
+- 8:25 PM
+- Chatted about clippy bummers
+- [Opened deadlock unit test pr](https://github.com/tikv/tikv/pull/5378)
+- 9:55 PM
+- [Posted -march benchmark results](https://github.com/tikv/tikv/pull/5181#issuecomment-526976440)
+- 10:00 PM
+- Rebased raftstore extraction
+- 10:24 PM
+- Clock out
+
+# 2019-08-30
+
+- Clock in
+- 12:00 AM
+- Hacked on raftstore extraction
+- 12:24 AM
+- Clock out
+- Clock in
+- 2:57 PM
+- Hacked on importer extraction
+- 3:03 PM
+- Hacked on raftstore extraction
+- Hacked on deadlock detector tests
+- 3:16 PM
+- Clock out
+- Clock in
+- 3:30 PM
+- Hacked on raftstore extraction
+- Hacked on deadlock detector tests
+- 4:00 PM
+- Clock out
+- Clock in
+- 4:45 PM
+- Hacked on raftstore extraction
+- Hacked on deadlock detector tests
+- 6:24 PM
+- Clock out
+- Clock in
+- 8:11 PM
+- Mentioned cargo-udeps to tikv team
+- [Posted sst_importer extraction PR](https://github.com/tikv/tikv/pull/5375)
+- 8:39 PM
+- Began experimenting with cargo-udeps
+- 8:44 PM
+- [Thanked est31 for cargo-udeps](https://www.reddit.com/r/rust/comments/cxjdl4/announcing_cargoudeps/eyml6dp?utm_source=share&utm_medium=web2x)
+- [Thanked est31 for cargo-udeps](https://github.com/rust-lang/rust-clippy/issues/4341#issuecomment-526784158)
+- 8:45 PM
+- [Closed sst_importer PR](https://github.com/tikv/tikv/pull/5375)
+- 8:52 PM
+- [Posted PR to extract keys crate](https://github.com/tikv/tikv/pull/5376)
+- 10:11 PM
+- Clock out
+
+# 2019-08-29
+
+- Clock in
+- 6:00 PM
+- [Began re-running march=westmere benchmarks](https://github.com/tikv/tikv/pull/5181#issuecomment-526382138)
+- 6:20 PM
+- Hacked on training project 5
+- 7:39 PM
+- Updated status report
+- 7:44 PM
+- Clock out
+- Clock in
+- 9:24 PM
+- Chatted with tangminghua
+- Attended tikv meeting
+- [Commented on rust-wasi license](https://github.com/CraneStation/rust-wasi/issues/9#issuecomment-526428614)
+- 7:23 PM
+- [Commented on rust runtime exception](https://github.com/rust-lang/rust/issues/63232#issuecomment-526430711)
+- 7:29 PM
+- Chatted w/ Calvin re "calamity" draft
+- 7:41 PM
+- Hacked on extracting raftstore
+- Revived patch to extract sst_importer
+- 11:59 PM
+- Clock out
+
+# 2019-08-27
+
+- Clock in
+- 10:20 AM
+- Hacked on training plan part 5
+- 12:58 AM
+- Clock out
+- Clock in
+- 4:53 PM
+- Hacked on training plan part 5
+- 6:23 PM
+- Clock out
+- Clock in
+- 9:20 PM
+- [Reviewed dep updates](https://github.com/pingcap/raft-rs/pull/278#pullrequestreview-280549247)
+- 9:29 PM
+- Chatted in #rust-training
+- Responded to Stjepan re crossbeam-skiplist
+- 9:41 PM
+- [Commented on rust upgrade](https://github.com/tikv/tikv/pull/5261#issuecomment-525549630)
+- 9:48 PM
+- [Commented on march patch](https://github.com/tikv/tikv/pull/5181#issuecomment-525552635)
+- 10:04 PM
+- Asked zhouqiang-cl how to find CI os/gcc versions
+- 10:15 PM
+- [Asked about KVM fix](https://github.com/tikv/tikv/issues/4999#issuecomment-525557163)
+- 10:27 PM
+- [Updated -march patch for old builders](https://github.com/tikv/tikv/pull/5181#issuecomment-525561984)
+- 10:51 PM
+- [Re-reviewed jemalloc patch](https://github.com/tikv/tikv/pull/5299)
+- 11:06 PM
+- Hacked on deadlock unit tests
+- Hacked on rust upgrade
+- [Updated rust upgrade pr](https://github.com/tikv/tikv/pull/5261#issuecomment-525565716)
+- 11:12 PM
+- [Filed rust bug re redundant_semicolon lint](https://github.com/rust-lang/rust/issues/63967)
+- 11:41 PM
+- Clock out
+
+
+# 2019-08-26
+
+- Clock in
+- 8:00 PM
+- Attended NA team meeting
+- 8:35 PM
+- Clock out
+
+# 2019-08-24
+
+- Updated bloop dependencies
+- Added rst todo to basic-http-server
+- 5:24 PM
+
+# 2019-08-23
+
+- Clock in
+- 1:30 PM
+- Attended tokio-tracing talk
+- Took notes on tokio tracing
+- 2:27 PM
+- Clock out
+- Clock in
+- 10:52 PM
+- Posted rustconf tokio-trace notes
+- 10:56 PM
+- Clock out
+
+# 2019-08-22
+
+- Clock in
+- Attended enterprise rust unconference
+- Attended lunch w/ Carl
+- 2:27 PM
+- Reported about lunch w/ Carl
+- 2:32 PM
+- [Merged kvproto pr](https://github.com/pingcap/kvproto/pull/446)
+- 3:31 PM
+- [Merged talent-plan patch](https://github.com/pingcap/talent-plan/pull/270)
+- 3:40 PM
+- [Merged talent-plan patch](https://github.com/pingcap/talent-plan/pull/271)
+- 3:41 PM
+- [Merged home patch](https://github.com/brson/home/pull/9)
+- 3:47 PM
+- Clock out
+
+# 2019-08-21
+
+- Clock in
+- 4:35 PM
+- [Reviewed jemalloc PR](https://github.com/tikv/tikv/pull/5299#pullrequestreview-278127712)
+- 4:41 PM
+- [Reviewed protobuf-build patch](https://github.com/tikv/protobuf-build/pull/27#pullrequestreview-278128736)
+- 4:45 PM
+- [Commented on debuginfo compression](https://github.com/tikv/tikv/issues/5303#issuecomment-523691010)
+- 4:47 PM
+- [Commented on rustup](https://github.com/tikv/tikv/pull/5261#issuecomment-523691674)
+- 4:50 PM
+- [Merged talent-plan PR](https://github.com/pingcap/talent-plan/pull/257)
+- 4:58 PM
+- [Merged talent-plan PR](https://github.com/pingcap/talent-plan/pull/269)
+- 5:00 PM
+- Attended 1:1 w/ Ana
+- 5:53 PM
+- Clock out
+
 # 2019-08-20
 
 - Clock in
