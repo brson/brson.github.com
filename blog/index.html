@@ -3,24 +3,18 @@ layout: no-header
 title: brson's blog
 ---
 
+<link rel="stylesheet" href="/stylesheets/blog-index.css">
+
 <ul>
 
 {% for post in site.posts %}
 
 <li>
-  <span>{{ post.date| date: "%Y-%m-%d" }}</span>
-  <a href="{{ post.url }}">{{ post.title }}</a>
+  <div class="row">
+	<span>{{ post.date| date: "%Y-%m-%d" }}</span>
+	<a href="{{ post.url }}">{{ post.title }}</a>
+  </div>
 </li>
 
 {% endfor %}
 </ul>
-
-<style type="text/css">
-span {
-    margin-left: 0em;
-    margin-right: 1em;
-}
-#rss {
-    margin: 1em;
-}
-</style>

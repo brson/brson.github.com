@@ -1,0 +1,8 @@
+span {
+    margin-left: 0em;
+    margin-right: 1em;
+}
+
+.row {
+	display: flex;
+}
