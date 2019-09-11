@@ -19,6 +19,9 @@ is not public, and there are some gaps here from 2017-2019._
 - Chatted about contributor engagement
 - [Signed up for awesome-rust-mentors](https://github.com/RustBeginners/awesome-rust-mentors/issues/46)
 - 2:00 PM
+- Hacked on personal website
+- [Merged raft PR](https://github.com/pingcap/raft-rs/pull/275)
+- 3:19 PM
 
 # 2019-09-10
 
