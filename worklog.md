@@ -6,6 +6,116 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-09-11
+
+- Clock in
+- 12:35 PM
+- [Reviewed raft dep updates](https://github.com/pingcap/raft-rs/pull/286)
+- 12:38 PM
+- [Re-reviewed new engine abstraction PR](https://github.com/tikv/tikv/pull/5445#pullrequestreview-286618929)
+- 1:08 PM
+- [Merged raft-rs deps](https://github.com/pingcap/raft-rs/pull/286)
+- 1:08 PM
+- Chatted about contributor engagement
+- [Signed up for awesome-rust-mentors](https://github.com/RustBeginners/awesome-rust-mentors/issues/46)
+- 2:00 PM
+
+# 2019-09-10
+
+- Clock in
+- 10:33 AM
+- [Reviewed callback changes](https://github.com/tikv/tikv/pull/5444#issuecomment-530062481)
+- 11:28 AM
+- Posted draft rust in china to tikv channel
+- 11:39 AM
+- [Commented on callback references](https://github.com/tikv/tikv/pull/5444#issuecomment-530080997)
+- 12:17 PM
+- Clock out
+- Clock in
+- 5:50 PM
+- [Update sst_importer PR](https://github.com/tikv/tikv/pull/5438#issuecomment-530175720)
+- 6:01 PM
+- Clock out
+- Clock in
+- 7:50 PM
+- Chatted various
+- [Reviewed raft typo fixes](https://github.com/pingcap/raft-rs/pull/285)
+- 8:10 PM
+- [Commented on criterion and forks](https://github.com/pingcap/raft-rs/pull/284#issuecomment-530201794)
+- 8:14 PM
+- [Reviewed raft delay PR](https://github.com/pingcap/raft-rs/pull/279#pullrequestreview-286536895)
+- 8:22 PM
+- [Reviewed raft test case PR](https://github.com/pingcap/raft-rs/pull/275#pullrequestreview-286537582)
+- 8:26 PM
+- Sent Yanqing contact info for a contributor
+- [Reviewed new engine abstraction PR](https://github.com/tikv/tikv/pull/5445#issuecomment-530208043)
+- 8:56 PM
+- [Reviewed unsafe code patch](https://github.com/tikv/tikv/pull/5413#pullrequestreview-286544103)
+- 9:00 PM
+- [Hearted a PR](https://github.com/tikv/tikv/pull/5422)
+- 9:02 PM
+- Sent Yanqing another contributor to recognize
+- 9:05 PM
+- Clock out
+- Sent Aimee draft of 'why rust?' solicitation
+- 11:40 PM
+
+# 2019-09-09
+
+- Clock in
+- [Updated rustup pr](https://github.com/tikv/tikv/pull/5261)
+- 9:40 AM
+- Chatted w/ Ana
+- 10:06 AM
+- [Updated unused crate detection issue](https://github.com/tikv/tikv/issues/5236#issuecomment-529581939)
+- 10:23 AM
+- Responded to Pratayush
+- 10:28 AM
+- Chatted w/ #ecosystem
+- 10:41 AM
+- Clock out
+- Clock in
+- 11:27 AM
+- [Filed bug to extract raftstore](https://github.com/tikv/tikv/issues/5437)
+- 11:33 AM
+- Hacked on raftstore extraction
+- 4:07 PM
+- Clock out
+
+# 2019-09-08
+
+- Clock in
+- 2:39 PM
+- Hacked on "calamity" draft
+- 4:16 PM
+- Clock out
+- Clock in
+- 5:30 PM
+- Sent email to Xuelian and Duan Bing about Hangzhou trip
+- 5:40 PM
+- Mentioned draft progress to Calvin
+- 5:47 PM
+- Clock out
+- Clock in
+- 7:20 PM
+- Chatted w/ Calvin
+- Drafted more "calamity"
+- 7:36 PM
+- Clock out
+- [Commented about stability guarantee](https://github.com/rust-lang/prev.rust-lang.org/issues/178#issuecomment-529280245)
+- 7:46 PM
+- Clock in
+- [Responded to rustup feedback](https://github.com/tikv/tikv/pull/5261)
+- 9:38 PM
+- [Began updating rust upgrade again](https://github.com/tikv/tikv/pull/5261)
+- 9:38 PM
+- [Closed deadlock test pr](https://github.com/tikv/tikv/pull/5378)
+- 9:40 PM
+- Rebased rafstore extraction on top of master
+- 11:56 PM
+- Merged rustup PR w/ master and retested
+- Clock out
+
 # 2019-09-05
 
 - Clock in
@@ -17,9 +127,9 @@ is not public, and there are some gaps here from 2017-2019._
 - 1:41 PM
 - [Commented on LockMgr dispatch](https://github.com/tikv/tikv/issues/5399#issuecomment-528582957)
 - 2:09 PM
-- [Closed old compile-time PR](https://github.com/tikv/tikv/issues/4152)
+- [Closed old compile-time issue](https://github.com/tikv/tikv/issues/4152)
 - 2:11 PM
-- [Closed old compile-time PR](https://github.com/tikv/tikv/issues/4161)
+- [Closed old compile-time issue](https://github.com/tikv/tikv/issues/4161)
 - 2:13 PM
 - [Commented on old hash functions](https://github.com/tikv/tikv/issues/5313#issuecomment-528597063)
 - 2:31 PM
@@ -27,6 +137,31 @@ is not public, and there are some gaps here from 2017-2019._
 - 2:46 PM
 - Responded to Arve re issues to work on
 - 2:47 PM
+- Clock out
+- Clock in
+- 3:30 PM
+- [Reviewed unsafe PR](https://github.com/tikv/tikv/pull/5413#pullrequestreview-284580682)
+- 3:46 PM
+- [Hearted a PR](https://github.com/tikv/tikv/pull/5374)
+- 3:50 PM
+- [Re-reviewed jemalloc pr](https://github.com/tikv/tikv/pull/5299)
+- 3:58 PM
+- Sent Yanqing 3 contributors to swag
+- 4:29 PM
+- Hacked on calamity draft
+- 5:00 PM
+- Updated weekly reports
+- 5:14 PM
+- Clock out
+- Clock in
+- 7:00 PM
+- Attended tikv meeting
+- 8:00 PM
+- Clock out
+- Clock in
+- 8:57 PM
+- [Posted new "calamity" draft](https://gist.github.com/brson/2a0bc1adff322b524ea1462e3207bfae)
+- 11:06 PM
 - Clock out
 
 # 2019-09-04
