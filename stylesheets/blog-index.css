@@ -6,3 +6,12 @@ span {
 .row {
 	display: flex;
 }
+
+ul {
+	margin-top: 1.7em;
+}
+
+li {
+	margin-left: 0em;
+	list-style-type: none;
+}

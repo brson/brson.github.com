@@ -7,14 +7,14 @@ title: brson's blog
 
 <ul>
 
-{% for post in site.posts %}
+  {% for post in site.posts %}
 
-<li>
-  <div class="row">
-	<span>{{ post.date| date: "%Y-%m-%d" }}</span>
-	<a href="{{ post.url }}">{{ post.title }}</a>
-  </div>
-</li>
+  <li>
+	<div class="row">
+	  <span>{{ post.date| date: "%Y-%m-%d" }}</span>
+	  <a href="{{ post.url }}">{{ post.title }}</a>
+	</div>
+  </li>
 
-{% endfor %}
+  {% endfor %}
 </ul>
