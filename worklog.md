@@ -6,22 +6,40 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-09-12
+
+- Clock in
+- 11:01 AM
+- Hacked on tool to measure compile times
+- 2:25 PM
+- Clock out
+
 # 2019-09-11
 
 - Clock in
-- 12:35 PM
+- 12:35 AM
 - [Reviewed raft dep updates](https://github.com/pingcap/raft-rs/pull/286)
-- 12:38 PM
+- 12:38 AM
 - [Re-reviewed new engine abstraction PR](https://github.com/tikv/tikv/pull/5445#pullrequestreview-286618929)
-- 1:08 PM
+- 1:08 AM
 - [Merged raft-rs deps](https://github.com/pingcap/raft-rs/pull/286)
-- 1:08 PM
+- 1:08 AM
 - Chatted about contributor engagement
 - [Signed up for awesome-rust-mentors](https://github.com/RustBeginners/awesome-rust-mentors/issues/46)
-- 2:00 PM
+- 2:00 AM
 - Hacked on personal website
 - [Merged raft PR](https://github.com/pingcap/raft-rs/pull/275)
-- 3:19 PM
+- 3:19 AM
+- Clock out
+- Clock in
+- 2:41 PM
+- [Re-reviewed unsafe code improvements](https://github.com/tikv/tikv/pull/5413)
+- 2:42 PM
+- Attended 1:1 Ana
+- 4:06 PM
+- Clock out
+- [Approved awesome-rust-mentors additon](https://github.com/RustBeginners/awesome-rust-mentors/pull/47#issuecomment-530608224)
+- 4:50 PM
 
 # 2019-09-10
 
