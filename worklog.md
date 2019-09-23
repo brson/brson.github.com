@@ -6,12 +6,106 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-09-23
+
+- Clock in
+- 10:07 AM
+- Chatted about rocksdb build times
+- 10:25 AM
+
+# 2019-09-22
+
+- Clock in
+- 11:37 AM
+- Chatted in #rust-training
+- [Filed training bug about project 4 benchmarks](https://github.com/pingcap/talent-plan/issues/293)
+- 11:52 AM
+- [Re-reviewed engine trait pr](https://github.com/tikv/tikv/pull/5445#pullrequestreview-291488368)
+- 11:55 AM
+- Clock out
+
+# 2019-09-19
+
+- Clock in
+- 10:00 AM
+- Updated "calamity" draft
+- 10:15 AM
+- [Re-reviewed engine-traits pr](https://github.com/tikv/tikv/pull/5445#pullrequestreview-290299159)
+- 10:53 AM
+- [Reviewed tmit](https://github.com/nrc/tmit/pull/5)
+- 11:31 AM
+- Began rebasing raftstore extraction
+- Hacked on 'calamity' draft
+- Enabled AWS hong kong region
+- 12:01 PM
+- Clock out
+
+# 2019-09-18
+
+- Clock in
+- 11:20 PM
+- Chatted various
+- 11:35 PM
+- Hacked on 'calamity'
+- 12:01 PM
+- Clock out
+
+# 2019-09-16
+
+- Clock in
+- 1:54 PM
+- [Updated compile time wiki with q3 improvements](https://internal.pingcap.net/confluence/display/TT/2019-03+Compile+time+tests)
+- 1:57 PM
+- Posted q3 compile time improvements to wechat
+- 2:00 PM
+- Clock out
+
+# 2019-09-14
+
+- Clock in
+- 6:01 AM
+- [Created fancy_flocks repo](https://github.com/brson/fancy_flocks)
+- 6:10 AM
+- [Created atomic_blobject repo](https://github.com/brson/atomic_blobject)
+- 6:16 AM
+- [Created maptime repo](https://github.com/brson/maptime)
+- 6:20 AM
+- Clock out
+- Clock in
+- 12:50 PM
+- Sent carl invite to tikv-wg slack
+- 12:52 PM
+- Clock out
+
+# 2019-09-13
+
+- Clock in
+- 1:05 PM
+- Collected various links
+- Chatted various
+- Restarted q3 compile-time timings test
+- 1:58 PM
+- Posted status report
+- 2:28 PM
+- Incorporated more feedback into calamity draft
+- 2:45 PM
+- Moved "calamity" draft to hackmd.io
+- 3:20 PM
+- Re-started q3 compile time measurements yet again
+- 3:36 PM
+- Clock out
+
 # 2019-09-12
 
 - Clock in
 - 11:01 AM
 - Hacked on tool to measure compile times
 - 2:25 PM
+- Clock out
+- Clock in
+- 4:50 PM
+- Ran hasty script to collect q3 compile time change
+- 5:00 PM
 - Clock out
 
 # 2019-09-11
