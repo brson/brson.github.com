@@ -6,12 +6,148 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-10-05
+
+- Clock in
+- 3:30 PM
+- Ran more timing tests
+- 3:41 PM
+- Clock out
+
+# 2019-10-04
+
+- Clock in
+- 12:00 PM
+- [Pushed updates to storage_types PR](https://github.com/tikv/tikv/pull/5521)
+- 2:33 PM
+- Synced "calamity" draft
+- 2:37 PM
+- Clock out
+
+# 2019-10-02
+
+- Hacked on rust-in-blockchain #4
+
+# 2019-10-01
+
+- Edited rustinblockchain.org
+- Clock in
+- Begin setting up wireguard
+- 1:36 PM
+- Continued attempting to set up wireguard
+- 6:00 PM
+- Clock out
+
+# 2019-09-30
+
+- Clock in
+- 10:00 AM
+- Hacked on maptime graphing
+- [Posted compile time graph](https://gist.github.com/brson/0db87646595f1ea9063367edfda7441c)
+- 12:47 PM
+- Hacked on maptime catch-up command
+- 1:19 PM
+- Clock out
+
+# 2019-09-29
+
+- Clock in
+- 10:36 AM
+- Fixed maptime environment bugs
+- Collected more compile time commits
+- Resumed compile time timing
+- 11:59 AM
+- Clock out
+- Clock in
+- 1:36 PM
+- [Reviewed engine_rocks](https://github.com/tikv/tikv/pull/5541#pullrequestreview-294668085)
+- 2:24 PM
+- Fixed another bug in maptime
+- Re-ran timing tests
+- 2:29 PM
+- Added gnuplot support to maptime
+- 5:32 PM
+- Clock out
+
+# 2019-09-28
+
+- Clock in
+- 10:50 AM
+- Re-starting compile time timing
+- 12:14 PM
+- Clock out
+
+# 2019-09-27
+
+- Clock in
+- 9:00 AM
+- Attended OKR meeting
+- Hacked on maptime
+- 10:55 AM
+- Published fancy_flocks
+- Published atomic_blobject
+- Published parse_list
+- Hacked on maptime
+- 5:00 PM
+- Mentored a rust user
+- 5:18 PM
+- Collected compile-time related commits
+- Began timing compile-time over time
+- 6:10 PM
+- Clock out
+
+
+# 2019-09-26
+
+- Clock in
+- 10:08 AM
+- Hacked on maptime
+- [Reviewed engine_rocks PR](https://github.com/tikv/tikv/pull/5541#pullrequestreview-293582606)
+- 5:04 PM
+- Clock out
+
+# 2019-09-25
+
+- Clock in
+- 9:00 AM
+- Attended ecosystem Q3/Q4 meeting
+- 9:41 AM
+- Clock out
+- Clock in
+- 2:00 PM
+- Hacked on maptime
+- 5:50 PM
+- Clock out
+
+# 2019-09-24
+
+- Clock in
+- 10:20 AM
+- Hacked on raftstore extraction
+- Rebased raftstore branch for storage_types crate
+- [Filed bug to extract storage_types](https://github.com/tikv/tikv/issues/5519)
+- 2:51 PM
+- [Posted PR to extract storage_types](https://github.com/tikv/tikv/pull/5521)
+- [Updated dependency upgrade PR](https://github.com/tikv/tikv/pull/5502#issuecomment-534432865)
+- 3:38 PM
+- Hacked on extracting raftstore
+- 6:10 PM
+- Clock out
+
 # 2019-09-23
 
 - Clock in
 - 10:07 AM
 - Chatted about rocksdb build times
 - 10:25 AM
+- Rebased extract-raftstore branch
+- [Posted PR to upgrade all deps](https://github.com/tikv/tikv/pull/5502)
+- 3:22 PM
+- [Posted PR to fix doc tests](https://github.com/tikv/tikv/pull/5505)
+- 4:03 PM
+- Hacked on raftstore extraction
+- 6:00 PM
+- Clock out
 
 # 2019-09-22
 
