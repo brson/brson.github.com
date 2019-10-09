@@ -6,6 +6,50 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-10-09
+
+- 9:45 AM
+- Hacked on bloop
+- 10:44 AM
+- Clock in
+- 10:45 AM
+- [Began testing raftstore engine abstraction](https://github.com/tikv/tikv/pull/5574)
+- 1:49 PM
+- [Outlined Rust talent plan talk](https://github.com/brson/being-rust/blob/master/outline.md)
+- [Created slide deck template](https://github.com/brson/slide-deck-template)
+- 5:26 PM
+- Clock out
+- Hacked on bloop
+- 6:20 PM
+
+# 2019-10-08
+
+- Clock in
+- 10:20 AM
+- Drafted more calamity
+- Met w/ Tang Liu
+- 3:00 PM
+- Attended meeting with James
+- 4:04 PM
+- [Reviewed engine abstraction pr](https://github.com/tikv/tikv/pull/5574#pullrequestreview-298641886)
+- 6:13 PM
+- 9:06 PM
+- Clock out
+
+# 2019-10-07
+
+- Hacked on bloop
+- 2:25 PM
+- Hacked on bloop
+- 6:21 PM
+
+# 2019-10-06
+
+- Hacked on bloop
+- 12:12 AM
+- Hacked on bloop
+- 9:06 PM
+
 # 2019-10-05
 
 - Clock in
@@ -15,6 +59,13 @@ is not public, and there are some gaps here from 2017-2019._
 - Clock out
 - Clock in
 - 4:30 PM
+- Drafted more "calamity"
+- 5:58 PM
+- Added fill-gaps command to maptime tool
+- 6:04 PM
+- Clock out
+- Hacked on bloop
+- 11:59 PM
 
 # 2019-10-04
 

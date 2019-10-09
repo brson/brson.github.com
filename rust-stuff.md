@@ -43,6 +43,9 @@ interests as time passes.
   there. It has since been rewritten in Rust, to everybody's great
   relief.
 
+* I designed and implemented Rust's attributes, including the oft-questioned
+  notion of "inner" and "outer" attributes and doc-comments.
+
 * I wrote the first version of rustdoc and created the original
   conventions for using Markdown in Rust doc comments. Rustdoc was
   later rewritten by [Corey Richardson].
@@ -50,8 +53,6 @@ interests as time passes.
 * Created the Rust culture of testing documentation by baking the
   feature into rustdoc from the beginning; further developed with
   [rust-skeptic].
-
-* I designed and implemented Rust's attributes.
 
 * I designed Rust's error codes, though almost all the implementation of error
   reporting was done by others.
