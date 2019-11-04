@@ -6,6 +6,255 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-11-03
+
+- Clock in (personal)
+- 8:10 AM
+- Hacked on bloop
+- 4:00 PM
+- Clock out (personal)
+- Clock in
+- 9:27 PM
+- [Filled out todo page](https://internal.pingcap.net/confluence/display/TT/Engine+Team+-+TIKV+2019-10-25+-+2019-11-01)
+- 9:28 PM
+- Attended engine team meeting
+- 9:59 PM
+- Chatted w/ jinpeng and siddon
+- 10:00 PM
+- Clock out
+
+# 2019-11-02
+
+- Clock in
+- 8:49 AM
+- Hacked on sst abstraction
+- Filled out weekly report
+- 9:42 AM
+- [Filed rust-rocksdb RC-based SST iterator](https://github.com/tikv/rust-rocksdb/pull/372)
+- 10:04 AM
+- [Filed SST abstraction](https://github.com/tikv/tikv/pull/5790)
+- 11:40 AM
+- Clock out
+
+# 2019-11-01
+
+- Clock in
+- 10:00 AM
+- Hacked on sst abstraction
+- 11:30 AM
+- Clock out
+
+# 2019-10-30
+
+- [Merged ferris-fencing patch](https://github.com/brson/ferris-fencing/pull/1)
+- 8:14 AM
+- Clock in
+- 9:00 AM
+- Hacked on sst abstraction
+- 9:31 AM
+- Clock out
+- Clock in
+- 12:52 PM
+- Hacked on generic sst_importer
+- 1:07 PM
+- Clock out
+- Clock in
+- 2:00 PM
+- Hacked on generic sst_importer
+- 3:09 PM
+- Attended 1:1 w/ Ana
+- 3:34 PM
+- Clock out
+
+# 2019-10-29
+
+- Clock in
+- 7:24 AM
+- [Commented on engine_traits](https://github.com/tikv/tikv/pull/5696#issuecomment-547445475)
+- 7:24 AM
+- Hacked on generic sst_importer
+- 9:51 AM
+- Clock out
+
+# 2019-10-28
+
+- Clock in
+- 5:00 PM
+- Attended NA meeting
+- 5:30 PM
+- [Addressed pr comments](https://github.com/tikv/tikv/pull/5696#issuecomment-547211900)
+- 6:09 PM
+- Clock out
+
+# 2019-10-24
+
+- Hacked on rust-vm slides
+- 12:44 PM
+
+# 2019-10-23
+
+- Clock in
+- 11:50 AM
+- [Repoened westmere pr](https://github.com/tikv/tikv/pull/5181#issuecomment-545258309)
+- 12:17 PM
+- [Rebased engine_traits cleanup](https://github.com/tikv/tikv/pull/5696#issuecomment-545258749)
+- 12:20 PM
+- Clock out
+- Hacked on ferris-fencing
+- Hacked on rust-vm slides
+- 11:59 PM
+
+# 2019-10-22
+
+- Clock in
+- 9:50 AM
+- [Updated sst_importer PR](https://github.com/tikv/tikv/pull/5657#issuecomment-544778104)
+- 10:01 AM
+- Hacked on engine_traits cleanup
+- 11:55 AM
+- [Closed stale westmere pr to make room for new prs](https://github.com/tikv/tikv/pull/5181#issuecomment-544831297)
+- 3:02 PM
+- [Posted engine_traits cleanup PR](https://github.com/tikv/tikv/pull/5696)
+- 3:02 PM
+- [Merged sst_importer abstraction](https://github.com/tikv/tikv/pull/5657)
+- 5:52 PM
+- Clock out
+
+# 2019-10-21
+
+- Clock in
+- 9:56 AM
+- [Rebased and rustformatted sst_importer](https://github.com/tikv/tikv/pull/5657#issuecomment-544320771)
+- 10:04 AM
+- [Updated storage_types PR](https://github.com/tikv/tikv/pull/5521#issuecomment-544325646)
+- 10:35 AM
+- [Updated engine team todo list](https://internal.pingcap.net/confluence/display/TT/Engine+Team+-+TIKV+2019-10-11+-+2019-10-18)
+- 10:47 AM
+- [Updated sst_importer PR](https://github.com/tikv/tikv/pull/5657#issuecomment-544384614)
+- 3:26 PM
+
+# 2019-10-20
+
+- [Filed bug about Rust RISC-V port containing GPL-3 code](https://github.com/rust-lang/compiler-builtins/issues/319)
+- 10:34 AM
+
+# 2019-10-18
+
+- Clock in
+- 8:30 AM
+- Attended mtg w/ Ana
+- 9:00 AM
+- [Filed status report](https://internal.pingcap.net/confluence/display/TT/Brian+Anderson+-+TIKV+2019-10-11+-+2019-10-18)
+- 9:26 AM
+- Clock out
+
+# 2019-10-17
+
+- Clock in
+- 10:31 AM
+- [Reworked sst_importer engine abstraction](https://github.com/tikv/tikv/pull/5657#issuecomment-543021998)
+- 2:18 PM
+- Clock out
+
+# 2019-10-16
+
+- 10:45 AM
+- Debugged ckb-vm
+- 11:39 AM
+
+# 2019-10-15
+
+- Clock in
+- 11:23 AM
+- [Updated engine todos](https://internal.pingcap.net/confluence/display/TT/Engine+Team+-+TIKV+2019-10-04+-+2019-10-11)
+- 11:31 AM
+- Hacked on sst_importer engine abstraction
+- 3:09 PM
+- [Reviewed sst_importer PR](https://github.com/tikv/tikv/pull/5581#pullrequestreview-301720570)
+- 4:07 PM
+- [Submitted ckb-vm error pr](https://github.com/nervosnetwork/ckb-vm/pull/89)
+- 5:14 PM
+- 6:01 PM
+- Clock out
+
+# 2019-10-14
+
+- Clock in
+- 10:00 AM
+- Hacked on being-rust
+- 11:47 AM
+- Hacked on being-rust
+- Delivered being-rust talk
+- 9:05 PM
+- Clock out
+
+# 2019-10-13
+
+- Clock in
+- 10:00 AM
+- Hacked on being-rust
+- 12:21 PM
+- Clock out
+- Clock in
+- 2:24 PM
+- Hacked on being-rust
+- 4:02 PM
+- Attended dinner with talent-plan people
+- 8:51 PM
+- Hacked on being-rust
+- 10:31 PM
+- Clock out
+
+# 2019-10-12
+
+- Hacked on slide deck template
+- 12:09 AM
+
+# 2019-10-11
+
+- Clock in
+- 8:00 AM
+- Attended meeting with Ana
+- 9:00 AM
+- [Filled out weekly report](https://internal.pingcap.net/confluence/display/TT/Brian+Anderson+-+TIKV+2019-10-04+-+2019-10-11)
+- 9:16 AM
+- Clock out
+- Clock in
+- 9:54 AM
+- Made bloop public
+- Attended tikv mtg
+- Asked chiko to change rust.tokyo talk title
+- Hacked on bloop
+- 11:10 AM
+- [Wrote being-rust abstract](https://github.com/brson/being-rust/blob/master/outline.md)
+- 1:52 PM
+- Booked guangzhou hotel
+- 2:02 PM
+- Booked flight to rustfest
+- 4:28 PM
+- Clock out
+- [Hacked on slide deck template](https://github.com/brson/slide-deck-template)
+- 11:59 PM
+
+# 2019-10-10
+
+- Clock in
+- 10:29 AM
+- [Began testing raftstore engine abstraction](https://github.com/tikv/tikv/pull/5574)
+- [Filed a bug against pest](https://github.com/pest-parser/pest/issues/325#issuecomment-540332447)
+- 11:45 AM
+- Hacked on slide template
+- 3:00 PM
+- [Attempeted to make raftstore abstraction patch build](https://github.com/tikv/tikv/pull/5574)
+- 4:35 PM
+- Hacked on engine abstraction
+- 6:14 PM
+- Chatted
+- 7:55 PM
+- Hacked on engine-abstracting sst_importer
+- 8:45 PM
+- Clock out
+
 # 2019-10-09
 
 - 9:45 AM
