@@ -6,6 +6,383 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-12-01
+
+- Clock in
+- 2:43 PM
+- [Posted memory leak patch](https://github.com/tikv/tikv/pull/6120)
+- 3:01 PM
+- [Filed JIRA issue for memory leak](https://internal.pingcap.net/jira/browse/TIKV-5046)
+- 3:02 PM
+- Hacked on engine abstraction call for participation
+- [Filed PR to update engine_traits docs](https://github.com/tikv/tikv/pull/6121)
+- 4:31 PM
+- [Filed JIRA issue for engine_traits docs](https://internal.pingcap.net/jira/browse/TIKV-5047)
+- 4:33 PM
+- Clock out
+- Clock in
+- 8:12 PM
+- [Filed PR to parameterize tikv over snapshot](https://github.com/tikv/tikv/pull/6122)
+- 8:48 PM
+- [Filed JIRA issue for snapshot parameterization](https://internal.pingcap.net/jira/browse/TIKV-5048)
+- 8:51 PM
+- [Updated engine abstraction tracking issue OP](https://github.com/tikv/tikv/issues/4184)
+- 8:57 PM
+- [Posted engine abstraction status report](https://gist.github.com/brson/579561f301bce084cab37c39a9917d18)
+- 9:31 PM
+- [Posted engine todos]
+- 9:49 PM
+- Clock out
+
+
+# 2019-11-29
+
+- Clock in
+- 11:03 AM
+- [Posted weekly update](https://internal.pingcap.net/confluence/display/TT/Brian+Anderson+-+TIKV+2019-11-22+-+2019-11-29)
+- 11:18 AM
+- Hacked on snapshot abstraction
+- [Reviewed tests feature fixes](https://github.com/tikv/tikv/pull/6101#pullrequestreview-324564876)
+- 4:00 PM
+- Hacked on snapshot abstraction
+- [Experimented with test features](https://github.com/tikv/tikv/pull/6101#issuecomment-559713355)
+- 5:01 PM
+- 5:34 PM
+- Clock out
+
+# 2019-11-28
+
+- Clock in
+- 10:26 AM
+- Hacked on blocksy
+- [Reviewed sorted Cargo.tomls](https://github.com/tikv/tikv/pull/6079)
+- 2:27 PM
+- Hacked on snapshot generics pull-up
+- Looked for memory leaks in tikv
+- 5:36 PM
+- Clock out
+
+# 2019-11-27
+
+- Clock in
+- 10:08 AM
+- [Updated rocksdb clippy PR](https://github.com/tikv/rust-rocksdb/pull/393)
+- [Fixed memory leak in Titan bindings](https://github.com/tikv/rust-rocksdb/pull/395)
+- 10:52 AM
+- [Filed JIRA bug for titan leak](https://internal.pingcap.net/jira/browse/TIKV-5022)
+- 10:53 AM
+- [Commented on broken short backtraces](https://github.com/rust-lang/rust/issues/47429#issuecomment-558936256)
+- 1:32 PM
+- Reported panic=abort + backtrace findings to breeswish
+- 3:45 PM
+- Hacked on TableProperties abstraction
+- Hunted for tikv memory leaks
+- 5:29 PM
+- 6:20 PM
+- Clock out
+
+# 2019-11-26
+
+- Clock in
+- 9:00 AM
+- Attended NA mtg
+- 9:20 AM
+- Clock out
+- Clock in
+- 10:41 AM
+- [Posted PR to fix rocksdb clippy issues](https://github.com/tikv/rust-rocksdb/pull/393)
+- 4:02 PM
+- [Filed JIRA bug for rocksdb clippy](https://internal.pingcap.net/jira/browse/TIKV-5018)
+- 4:04 PM
+- Ran tikv under valgrind
+- Investigated backtraces with panic=unwind for breeswish
+- 6:34 PM
+- Clock out
+
+# 2019-11-25
+
+- Clock in
+- 10:42 AM
+- [Rebased snapshot patch](https://github.com/tikv/tikv/pull/6006#issuecomment-558004557)
+- 2:04 PM
+- Hacked on snapshot pull-up
+- 6:05 PM
+- Clock out
+
+# 2019-11-22
+
+- Clock in (personal)
+- 6:30 AM
+- Hacked on moment
+- 11:24 AM
+- Clock out (personal)
+- Hacked on moment
+- 5:15 PM
+
+# 2019-11-21
+
+- Clock in
+- 1:28 PM
+- [Fixed merge conflicts in iolimiter patch](https://github.com/tikv/tikv/pull/5835/)
+- 1:44 PM
+- Hacked on snapshot abstraction
+- 2:46 PM
+- [Filed bug about timing-dependent test](https://github.com/tikv/tikv/issues/6005)
+- 3:15 PM
+- Hacked on snapshot abstraction
+- 4:02 PM
+- [Filed snapshot abstraction PR](https://github.com/tikv/tikv/pull/6006)
+- 4:58 PM
+- [Closed bitrotted storage_types PR](https://github.com/tikv/tikv/pull/5521#issuecomment-557291624)
+- 5:00 PM
+- [Reviewed regioniterator pr](https://github.com/tikv/tikv/pull/5995#pullrequestreview-321225193)
+- 5:19 PM
+- [Filed status report](https://internal.pingcap.net/confluence/display/TT/Brian+Anderson+-+TIKV+2019-11-15+-+2019-11-22)
+- Clock out
+- 5:23 PM
+- Clock in
+- 6:00 PM
+- Attended mtg w/ Ana
+- 6:38 PM
+- Clock out
+- Hacked on moment
+- 9:07 PM
+
+# 2019-11-20
+
+- Clock in
+- 5:10 PM
+- Filed JIRA issues
+- 5:17 PM
+- Clock out
+
+# 2019-11-19
+
+- Clock in
+- 10:18 AM
+- [Resolved conflicts in IOLimiter patch](https://github.com/tikv/tikv/pull/5835#issuecomment-555576204)
+- 11:04 AM
+- [Responded to abstraction patch](https://github.com/tikv/tikv/pull/5901#issuecomment-555596568)
+- 11:43 AM
+- Hacked on snapshot abstraction
+- 12:37 PM
+- 1:18 PM
+- Clock out
+- Clock in
+- 3:30 PM
+- Hacked on snapshot abstraction
+- 4:07 PM
+- Clock out
+- Clock in
+- 5:11 PM
+
+# 2019-11-18
+
+- Clock in
+- 4:30 PM
+- Hacked on snapshot migration
+- Attended NA meeting
+- Hacked on snapshot migration
+- 11:14 PM
+- Clock out
+
+# 2019-11-17
+
+- Clock in
+- 5:10 PM
+- Hacked on Peekable abstraction
+- 6:57 PM
+- Clock out
+- Clock in
+- 8:50 PM
+- [Posted engine status report](https://internal.pingcap.net/confluence/display/TT/Brian+Anderson+-+TIKV+2019-11-08+-+2019-11-15)
+- Posted engine todos
+- 8:58 PM
+- [Merged master into IOLimiter PR](https://github.com/tikv/tikv/pull/5835)
+- [Merged master into abstraction PR](https://github.com/tikv/tikv/pull/5901)
+- 8:59 PM
+- Attended engine team meeting
+- 9:56 PM
+- Clock out
+
+# 2019-11-15
+
+- [Commented about basic-http-server](https://www.reddit.com/r/rust/comments/dwioee/an_example_asyncawait_project_with_tokio_02_and/)
+- 7:33 AM
+- [Commented on orbtk](https://www.reddit.com/r/rust/comments/dwp82k/orbtk_alpha_and_showcase/f7krdmg?utm_source=share&utm_medium=web2x)
+- 8:11 AM
+- Clock in (personal)
+- 4:00 PM
+- Hacked an basic-http-server
+- 8:50 PM
+- Published basic-http-server 0.8
+- 11:27 PM
+- Clock out
+
+# 2019-11-14
+
+- Clock in
+- 11:25 AM
+- Documented engine_traits
+- 11:45 AM
+- Clock out
+- Clock in
+- 3:05 PM
+- [Filed PR for more engine abstraction](https://github.com/tikv/tikv/pull/5901)
+- [Commented on engine abstraction](https://github.com/tikv/tikv/issues/4184#issuecomment-554086590)
+- 4:26 PM
+- Clock out
+- Clock in
+- 5:06 PM
+- Reviewed nrc's style guide
+- 7:00 PM
+- Clock out
+- [Posted basic-http-server 0.7 to /r/rust](https://www.reddit.com/r/rust/comments/dwioee/an_example_asyncawait_project_with_tokio_02_and/)
+- 7:30 PM
+- Clock in
+- 8:00 PM
+- Attended NA all hands
+- 9:31 PM
+- Clock out
+
+# 2019-11-13
+
+- Clock in
+- 12:36 PM
+- Hacked on snapshot abstraction
+- Hacked on basic-http-server
+- 2:42 PM
+- Hacked on snapshot abstraction
+- Hacked on F* tutorial
+- 3:47 PM
+- Clock out
+- Clock in
+- 4:30 PM
+- Hacked on snapshot abstraction
+- Hacked on F* tutorial
+- 6:55 PM
+- Clock out
+
+# 2019-11-12
+
+- Clock in
+- 1:36 PM
+- Hacked on snapshot abstraction
+- 2:10 PM
+- Clock out
+- Clock in (personal)
+- 5:00 PM
+- Hacked on basic-http-server async/await
+- 10:39 PM
+- Clock out (personal)
+
+# 2019-11-11
+
+- Clock in
+- 5:38 PM
+- [Posted engine conversion pr](https://github.com/tikv/tikv/pull/5862)
+- 6:01 PM
+- [Updated IOLimiter patch](https://github.com/tikv/tikv/pull/5835)
+- 7:19 PM
+- Hacked on snapshot abstraction
+- 8:12 PM
+- Clock out
+
+# 2019-11-10
+
+- [Submitted next week todos](https://internal.pingcap.net/confluence/display/TT/Engine+Team+-+TIKV+2019-11-01+-+2019-11-08)
+- 1:15 PM
+
+# 2019-11-09
+
+- [Merge talent-plan pr](https://github.com/pingcap/talent-plan/pull/304)
+- 3:26 PM
+
+# 2019-11-08
+
+- Clock in (personal)
+- 2:34 PM
+- [Merged ferris-fencing PR](https://github.com/brson/ferris-fencing/pull/2)
+- 4:17 PM
+- [Replied re ferris-fencing](https://www.reddit.com/r/rust/comments/dno5sb/ferris_fencing_a_rust_game_built_on_a_riscv_vm/f6wh1rh?utm_source=share&utm_medium=web2x)
+- 4:20 PM
+- Hacked on rust-in-china slides
+- 11:59 PM
+- Clock out (personal)
+
+# 2019-11-07
+
+- Clock in
+- 4:49 PM
+- [Reviewed prometheus procinfo patch](https://github.com/tikv/rust-prometheus/pull/290#pullrequestreview-313456287)
+- 5:11 PM
+- Filed weekly report
+- 5:19 PM
+- [Rebased IOLimiter patch](https://github.com/tikv/tikv/pull/5835)
+- 5:27 PM
+- Clock out
+
+# 2019-11-06
+
+- Clock in
+- 1:06 PM
+- [Updated sst abstraction trait](https://github.com/tikv/tikv/pull/5790#issuecomment-550287060)
+- 1:27 PM
+- Clock out
+- Clock in
+- 4:00 PM
+- Responded to zhang jinpeng about next steps in engine abstraction
+- 4:20 PM
+- Clock out
+- Clock in (personal)
+- 3:25 PM
+- [Created rust-in-china repo](https://github.com/brson/rust-in-china)
+- 5:39 PM
+- Clock out (personal)
+- Clock in
+- 5:40 PM
+- [Closed westmere pr](https://github.com/tikv/tikv/pull/5181#issuecomment-550402369)
+- 5:57 PM
+- [Posted PR to abstract IOLimiter](https://github.com/tikv/tikv/pull/5835)
+- 5:58 PM
+- Clock out
+- Clock in (personal)
+- 5:59 PM
+- [Commented on rust blockchain users](https://www.reddit.com/r/rust/comments/ds606s/an_apology/f6pnint?utm_source=share&utm_medium=web2x)
+- 6:14 PM
+- [Outlined some rust-in-china](https://github.com/brson/rust-in-china)
+- 7:24 PM
+- Hacked on rust-in-blockchain
+- 10:00 PM
+- Clock out (personal)
+
+
+# 2019-11-04
+
+- Clock in
+- 7:11 AM
+- [Filed PR to update rust-rocksdb](https://github.com/tikv/tikv/pull/5805)
+- 7:22 AM
+- [Merged sst patch with master](https://github.com/tikv/tikv/pull/5790)
+- 7:29 AM
+- Clock out
+- Clock in
+- 1:41 PM
+- Hacked on IOLimiter engine-traits
+- 2:27 PM
+- Clock out
+- Clock in
+- 4:00 PM
+- Hacked on IOLimiter engine-traits
+- 5:00 PM
+- Clock out
+- Clock in
+- 7:00 PM
+- Hacked on IOLimiter engine-traits
+- Hacked on Iterable engine_traits
+- 9:55 PM
+- Clock out
+
 # 2019-11-03
 
 - Clock in (personal)
