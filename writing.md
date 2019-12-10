@@ -41,6 +41,9 @@ of the pieces I've written.
 * [The rustup readme][ru]. It's pretty comprehensive and well organized. I'm
   sure others have modified it since, but I wrote most of it.
 
+* [Future updates to the rustup distribution format][rustup]. A description of
+  how the rustup infrastructure and protocol works.
+
 * [Starting a new Rust project right, with error-chain][ec]. A simple
   instruction on using the error-chain crate. I like this one because
   I wrote it in an afternoon, where most of my writing takes much
@@ -155,3 +158,4 @@ of the pieces I've written.
 [ru]: https://github.com/rust-lang/rustup.rs/blob/master/README.md
 [PingCAP]: https://pingcap.com
 [pnar]: https://github.com/pingcap/talent-plan/tree/master/rust
+[rustup]: https://internals.rust-lang.org/t/future-updates-to-the-rustup-distribution-format/4196#the-static-rust-lang-org-layout

@@ -6,6 +6,109 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-12-10
+
+- Clock in
+- 12:00 AM
+- Hacked on panic_engine
+- 12:55 AM
+- Clock out
+- Clock in
+- 11:35 AM
+- Hacked on panic_engine
+- 12:20 PM
+- Reviewed nrc's style guide
+- 6:30 PM
+- Clock out
+- Clock in
+- 11:45 PM
+- Reviewed nrc's style guide
+
+
+# 2019-12-09
+
+- Hacked on Chinese cheat sheet
+- Clock in
+- 11:31 AM
+- [Merged engine_traits crate docs](https://github.com/tikv/tikv/pull/6121)
+- [Reopened bot-closed engine_traits PR](https://github.com/tikv/tikv/pull/6179)
+- [Hacked on ingest_external_file_cf PR](https://github.com/tikv/tikv/issues/6162)
+- 2:03 PM
+- Hacked on TableProperties abstraction
+- Hacked on engine_panic
+- [Merged more snapshot abstraction](https://github.com/tikv/tikv/pull/6122)
+- 6:42 PM
+- [Posted PR for more snapshot abstraction](https://github.com/tikv/tikv/pull/6196)
+- [Posted PR for ingest_external_file_optimized](https://github.com/tikv/tikv/pull/6197)
+- 7:01 PM
+- Clock out
+- Clock in
+- 11:30 PM
+- Hacked on panic_engine
+- 11:59 PM
+- Clock out
+
+# 2019-12-08
+
+- Clock in
+- 6:43 PM
+- Finished review for Calvin
+- 7:05 PM
+- Clock out
+- [Commented on rustup command removal](https://github.com/rust-lang/rustup/issues/2148#issuecomment-562951549)
+- 10:04 PM
+
+# 2019-12-06
+
+- Clock in
+- 11:44 AM
+- [Responded to a review](https://github.com/tikv/tikv/pull/6120#issuecomment-562494854)
+- 5:15 PM
+- [Updated docs PR](https://github.com/tikv/tikv/pull/6121)
+- 5:15 PM
+- [Updated snapshot PR](https://github.com/tikv/tikv/pull/6122#issuecomment-562497162)
+- 5:21 PM
+- Clock out
+
+# 2019-12-05
+
+- Clock in
+- 3:07 PM
+- [Filed issue about ingest_external_file_optimized](https://github.com/tikv/tikv/issues/6162)
+- 3:35 PM
+- [Updated snapshot PR](https://github.com/tikv/tikv/pull/6122#issuecomment-562017929)
+- 4:06 PM
+- [Started hacking on engine_traits refactor](https://github.com/tikv/tikv/issues/6124#issuecomment-562035341)
+- 5:06 PM
+- Hacked on compilation model calamity
+- 5:24 PM
+- [Updated maptime catch-up function](https://github.com/brson/maptime)
+- 5:45 PM
+- Began re-running compile-time benchmarks
+- 5:45 PM
+
+
+# 2019-12-04
+
+- [Reviewed makefile PR](https://github.com/tikv/tikv/pull/6101#pullrequestreview-326718217)
+- 5:52 PM
+
+# 2019-12-02
+
+- Clock in (personal)
+- 9:19 AM
+- Hacked on parade
+- 9:44 AM
+- Clock out (personal)
+- Clock in
+- 10:01 AM
+- [Filed issue about typaram equality](https://github.com/tikv/tikv/issues/6124)
+- 10:17 AM
+- Attended engine status update mtg
+- 10:47 AM
+- Attended 1:1 w/ Jinping
+- 11:47 AM
+
 # 2019-12-01
 
 - Clock in
@@ -30,7 +133,7 @@ is not public, and there are some gaps here from 2017-2019._
 - 8:57 PM
 - [Posted engine abstraction status report](https://gist.github.com/brson/579561f301bce084cab37c39a9917d18)
 - 9:31 PM
-- [Posted engine todos]
+- Posted engine todos
 - 9:49 PM
 - Clock out
 
