@@ -6,6 +6,81 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2019-12-20
+
+- Clock in
+- 1:41 PM
+
+# 2019-12-19
+
+- Clock in
+- 8:00 PM
+- [Filled in weekly report](https://internal.pingcap.net/confluence/display/TT/Brian+Anderson+-+TIKV+2019-12-13+-+2019-12-20)
+- 8:13 PM
+- Clock out
+
+# 2019-12-18
+
+- Clock in
+- 2:00 PM
+- [Filed bug about panic=abort](https://github.com/tikv/tikv/issues/6275)
+- 2:23 PM
+- [Posted PR to turn on panic=unwind](https://github.com/tikv/tikv/pull/6276)
+- 2:31 PM
+- [Posted benchmarks for panic=unwind](https://github.com/tikv/tikv/pull/6276#issuecomment-566910527)
+- 3:26 PM
+- Hacked on calamity draft
+- [Posted bug about rust-dev list remaining open](https://github.com/rust-lang/infra-team/issues/35)
+- 6:38 PM
+- Hacked on calamity draft
+- 8:41 PM
+- Clock out
+- Clock in
+- 9:04 PM
+- Hacked on dispatch-test for calamity draft
+- 9:19 PM
+- Clock out
+- Clock in
+- 10:50 PM
+- Hacked on dispatch-test
+- 11:59 PM
+- Clock out
+
+# 2019-12-16
+
+- Clock in
+- 3:01 PM
+
+# 2019-12-15
+
+- Clock in
+- 9:28 PM
+- [Posted weekly report](https://internal.pingcap.net/confluence/display/TT/Brian+Anderson+-+TIKV+2019-12-06+-+2019-12-13)
+- 9:38 PM
+- Posted engine abstraction todos
+- 9:38 PM
+- [Wrote readme for "The Beijing Beast"](https://github.com/brson/beast)
+- 10:13 PM
+- Clock out
+
+
+# 2019-12-12
+
+- Spent forever debugging wireguard configuration
+- 4:36 PM
+
+# 2019-12-11
+
+- Clock in
+- 11:00 AM
+- Reviewed nrc's style guide
+- [Posted style guide patch](https://github.com/pingcap/style-guide/pull/12)
+- [Posted style guide review](https://gist.github.com/brson/678afa13ba4572fafee5384f92e3140e)
+- 1:57 PM
+- Clock out
+- Practiced coq
+- 5:19 PM
+
 # 2019-12-10
 
 - Clock in
@@ -23,6 +98,8 @@ is not public, and there are some gaps here from 2017-2019._
 - Clock in
 - 11:45 PM
 - Reviewed nrc's style guide
+- 11:59 PM
+- Clock out
 
 
 # 2019-12-09
