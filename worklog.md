@@ -6,6 +6,113 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-01-02
+
+- Clock in
+- 1:48 PM
+
+# 2020-01-01
+
+- Clock in
+- 4:00 PM
+- [Updated snapshot abstraction patch again](https://github.com/tikv/tikv/pull/6196)
+- 5:04 PM
+- [Merged snapshot abstraction patch](https://github.com/tikv/tikv/pull/6196)
+- 5:28 PM
+- Rebased engine_panic patch
+- [Posted engine_panic PR](https://github.com/tikv/tikv/pull/6383)
+- 5:49 PM
+- Clock out
+
+# 2019-12-31
+
+- Clock in
+- 12:59 PM
+- Hacked on beastdb
+- [Re-reviewed space-reserving PR](https://github.com/tikv/tikv/pull/6321#discussion_r362153465)
+- 2:03 PM
+- Collected total lines of code for TiKV for blog
+- 4:13 PM
+- Hacked on beastdb
+- Began draft of "making a monster"
+- 4:19 PM
+- [Resolved merge conflicts an snapshot pr](https://github.com/tikv/tikv/pull/6196#issuecomment-569888067)
+- 4:29 PM
+- Clock out
+- Emailed re Rust at Reddit
+- 5:32 PM
+
+# 2019-12-30
+
+- Clock in
+- 9:57 AM
+- Rebased engine_panic patch
+- 10:12 AM
+- Clock out
+- Clock in
+- 10:27 AM
+- Attended engine team mtg
+- Hacked on beastdb
+- 7:00 PM
+- Clock out
+
+
+# 2019-12-27
+
+- Clock in
+- 11:40 AM
+- Hacked on beastdb
+- 4:21 PM
+
+# 2019-12-26
+
+- Clock in
+- 12:13 PM
+- Hacked on beast
+- 4:14 PM
+- [Made beast public](https://github.com/brson/beast)
+- [Reviewed disk space recovery PR](https://github.com/tikv/tikv/pull/6321#pullrequestreview-336483538)
+- 6:32 PM
+- [Updated snapshot abstraction pr](https://github.com/tikv/tikv/pull/6196)
+- Updated weekly report
+- 6:47 PM
+- Clock out
+- Clock in
+- 8:59 PM
+- Hacked on beast
+- 10:07 PM
+- Clock out
+
+# 2019-12-25
+
+- Clock in
+- 11:24 AM
+- Chatted about RustCon.Asia
+- 12:34 PM
+- Hacked on compile-time blog post
+- [Commented on Rust trademark policy](https://internals.rust-lang.org/t/rust-s-freedom-flaws/11533/7)
+- 2:59 PM
+- Hacked on compile-time blog post
+- 4:40 PM
+- Clock out
+
+# 2019-12-24
+
+- Hacked on compile-time blog post
+
+# 2019-12-23
+
+- Clock in
+- 2:00 PM
+- [Reviewed engine iterator update](https://github.com/tikv/tikv/pull/6318#issuecomment-568391637)
+- 3:52 PM
+- [Reviewed talent-plan fix](https://github.com/pingcap/talent-plan/pull/295)
+- [Reviewed talent-plan fix](https://github.com/pingcap/talent-plan/pull/291)
+- 4:04 PM
+- Hacked on compile-time blog post
+- 6:00 PM
+- Clock out
+
 # 2019-12-20
 
 - Clock in
