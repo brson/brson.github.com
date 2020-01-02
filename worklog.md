@@ -6,10 +6,23 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-01-03
+
+- Clock in
+- 12:10 AM
+- [Submitted weekly report](https://internal.pingcap.net/confluence/display/TT/Brian+Anderson+-+TIKV+2019-12-27+-+2020-01-03)
+- 12:17 AM
+- Clock out
+
 # 2020-01-02
 
 - Clock in
 - 1:48 PM
+- Hacked on calamity
+- Published basic-http-server 0.8.1
+- 4:01 PM
+- 5:58 PM
+- Clock out
 
 # 2020-01-01
 
