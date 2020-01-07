@@ -6,12 +6,62 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-01-07
+
+- Clock in
+- 1:00 PM
+- Hacked on calamity
+- Tried timing old builds of rust
+- Pinged Ted about distributed rust builds
+- 2:29 PM
+
+# 2020-01-06
+
+- Clock in
+- 11:00 AM
+- Spent way too much time getting gnuplot to display hypertext
+- 3:57 PM
+- Submitted 2019 performance review
+- 5:41 PM
+- Clock out
+
+# 2020-01-05
+
+- Clock in
+- 1:22 PM
+- Collected line counts for servo
+- 1:35 PM
+- Hacked on calamity draft
+- 5:10 PM
+- Clock out
+
+
 # 2020-01-03
 
 - Clock in
 - 12:10 AM
 - [Submitted weekly report](https://internal.pingcap.net/confluence/display/TT/Brian+Anderson+-+TIKV+2019-12-27+-+2020-01-03)
 - 12:17 AM
+- Clock out
+- Clock in
+- 11:24 AM
+- Collected LOC for rust/servo
+- Hacked on beastdb
+- 2:59 PM
+- [Posted engine abstraction tracking issue](https://github.com/tikv/tikv/issues/6402)
+- 3:08 PM
+- [Closed old engine abstraction issue](https://github.com/tikv/tikv/issues/4184)
+- 3:09 PM
+- [Posted engine abstraction status update](https://gist.github.com/f6aa58bebc7de16ea17741bce31f6080)
+- Posted engine abstraction stuff to #engine-sig and WeChat
+- 3:26 PM
+- Launched new EC2 instance for old rustc build timings
+- Attempted to build first Rust commit
+- 3:54 PM
+- Added tikv-ctl to beastdb
+- 4:21 PM
+- Completed timing build of Rust initial commit
+- 4:33 PM
 - Clock out
 
 # 2020-01-02
