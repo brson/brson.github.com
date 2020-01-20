@@ -6,6 +6,103 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-01-20
+
+- Clock in
+- 9:09 AM
+- Pushed recent changes to compile time blog
+- 9:22 AM
+- Attended meeting w/ Liu
+- 9:45 AM
+- Clock out
+- Clock in
+- 11:00 AM
+- Resumed bisection attempts
+
+# 2020-01-19
+
+- Clock in
+- 8:53 PM
+- Hacked on maptime bisection
+- 9:17 PM
+- Started bisecting tikv compile times
+- 10:35 PM
+- Clock out
+
+# 2020-01-17
+
+- Clock in
+- 12:49 PM
+- Began adding new reference-counted TablePropertiesCollection abstraction to rust-rocksdb
+- Hacked on calamity draft
+- 1:13 PM
+- Hacked on reference-counted TablePropertiesCollection abstraction
+- 2:19 PM
+- Clock out
+
+# 2020-01-16
+
+- Clock in
+- 2:00 PM
+- Hacked on TablePropertiesCollection abstraction
+- 3:17 PM
+- Clock out
+- Clock in
+- 5:17 PM
+- Hacked on TablePropertiesCollection abstraction
+- 5:46 PM
+- Clock out
+- Clock in
+- 6:25 PM
+- Hacked on TablePropertiesCollection abstraction
+- 6:29 PM
+- Filled out status report
+- 6:35 PM
+- Clock out
+
+
+# 2020-01-15
+
+- Clock in
+- 2:14 PM
+- Hacked on TablePropertiesCollection abstraction
+- 3:03 PM
+- Clock out
+
+# 2020-01-11
+
+- Clock in
+- 1:00 PM
+- Hacked on beastdb
+- 2:30 PM
+- Clock out
+
+# 2020-01-10
+
+- Clock in
+- 2:43 PM
+- [Re-review space-saver PR](https://github.com/tikv/tikv/pull/6321#issuecomment-572899968)
+- 2:56 PM
+- Posted weekly update
+- 3:18 PM
+- Submitted material for my poem
+- 4:25 PM
+- Attended all-hands
+- Rehearsed white snake
+- 10:00 PM
+- Clock out
+
+# 2020-01-08
+
+- Clock in
+- 12:12 PM
+- Continued trying to build early rust commits
+- 12:50 PM
+- Hacked on maptime bisection
+- Rebased TableProperties patch
+- 5:42 PM
+- Clock out
+
 # 2020-01-07
 
 - Clock in
@@ -14,6 +111,18 @@ is not public, and there are some gaps here from 2017-2019._
 - Tried timing old builds of rust
 - Pinged Ted about distributed rust builds
 - 2:29 PM
+- [Created Rust moon landing image](https://brson.github.io/tmp/moonflag2.jpg)
+- 4:13 PM
+- Hacked on adding bisection to maptime
+- 4:46 PM
+- 5:07 PM
+- Clock out
+- Clock in
+- 9:28 PM
+- Practiced for musical
+- Pracited poetry
+- 10:21 PM
+- Clock out
 
 # 2020-01-06
 
