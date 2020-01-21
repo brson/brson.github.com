@@ -6,6 +6,26 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-01-21
+
+- Clock in
+- 8:45 AM
+- Checked on new tikv timing run
+- 9:00 AM
+- Clock out
+- Clock in
+- 2:25 PM
+- Added more options to maptime
+- 3:32 PM
+- Hacked on RC TableProperties
+- 4:13 PM
+- Clock out
+- Clock in
+- 6:50 PM
+- Hacked on RC TableProperties
+- 7:13 PM
+- Clock out
+
 # 2020-01-20
 
 - Clock in
@@ -18,6 +38,18 @@ is not public, and there are some gaps here from 2017-2019._
 - Clock in
 - 11:00 AM
 - Resumed bisection attempts
+- Updated personal website
+- 12:42 PM
+- Wrote more RC TableProperties code
+- 12:45 PM
+- Hacked on maptime bisection
+- 2:06 PM
+- Clock out
+- Clock in
+- 10:01 PM
+- Restarted tikv timing tests
+- 10:13 PM
+- Clock out
 
 # 2020-01-19
 
