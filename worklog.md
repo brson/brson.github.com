@@ -6,6 +6,10 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-01-22
+
+- 12:23 PM
+
 # 2020-01-21
 
 - Clock in
@@ -24,6 +28,13 @@ is not public, and there are some gaps here from 2017-2019._
 - 6:50 PM
 - Hacked on RC TableProperties
 - 7:13 PM
+- Clock out
+- Clock in
+- 9:00 PM
+- [Posted tikv build time graph](https://brson.github.io/tmp/tikv-timings.svg)
+- 9:37 PM
+- Started bisecting build times
+- 9:42 PM
 - Clock out
 
 # 2020-01-20
