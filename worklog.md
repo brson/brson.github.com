@@ -6,9 +6,119 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-01-29
+
+- Clock in
+- 11:38 AM
+
+# 2020-01-28
+
+- Clock in
+- 12:00 AM
+- Hacked on table properties tests
+- 12:20 AM
+- Clock out
+- Clock in
+- 10:32 AM
+- Began running table property tests under valgrind
+- 10:40 AM
+- Clock out
+- Clock in
+- 1:03 PM
+- [Posted PR to add reference-counted TablePropertiesCollection bindings to rust-rocksdb](https://github.com/tikv/rust-rocksdb/pull/425)
+- 1:29 PM
+- Hacked on WriteBatch abstraction
+- 4:13 PM
+- Clock out
+
+# 2020-01-27
+
+- Clock in
+- 11:03 AM
+- Continued timing bisection
+- 11:05 AM
+- Clock out
+- Clock in
+- 10:52 PM
+- Fixed maptime bisect skip
+- 10:56 PM
+- Hacked on rc table properties tests
+- 11:59 PM
+- Clock out
+
+# 2020-01-26
+
+- Clock in
+- 1:25 PM
+- Ran more timing bisection
+- 1:28 PM
+- Hacked on maptime
+- 1:56 PM
+- Rewrote more table_properties code
+- 2:21 PM
+- Ran more timing bisection
+- 2:24 PM
+- Hacked on table_properties abstraction
+- Ran more timing bisection
+- 3:14 PM
+- Clock out
+- Helped Aimee w/ ribbot
+- Clock in
+- 4:54 PM
+- Hacked on table_properties abstraction
+- 5:12 PM
+- Hacked on maptime bisection
+- 5:18 PM
+- Clock out
+- Clock in
+- 10:00 PM
+- Hacked on table_properties
+- 10:39 PM
+- Rebased table_properties
+- 11:51 PM
+- Clock out
+
+
+# 2020-01-25
+
+- Clock in
+- 8:40 PM
+- Ran more timing bisection
+- 8:47 PM
+- Clock out
+
+# 2020-01-23
+
+- Clock in
+- 11:00 AM
+- Ran more timing bisection
+- 11:15 AM
+- Clock out
+- Clock in
+- 9:45 PM
+- Ran more timing bisection
+- 9:56 PM
+- Clock out
+
 # 2020-01-22
 
 - 12:23 PM
+- [Sent final draft of calamity to Calvin](https://hackmd.io/pfHTqFf1SlCIic8IIYjXtA)
+- 1:13 PM
+- Continued hacking on calamity
+- 1:38 PM
+- Emailed the author of sccache
+- 1:40 PM
+- [Commented on TableProperties](https://github.com/tikv/tikv/issues/6402#issuecomment-577034989)
+- 1:51 PM
+- Continued hacking on RC TableProperties bindings
+- 3:06 PM
+- Clock out
+- Clock in
+- 9:59 PM
+- Continued bisecting commit timings
+- 10:03 PM
+- Clock out
 
 # 2020-01-21
 
