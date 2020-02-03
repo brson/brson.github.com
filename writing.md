@@ -13,6 +13,17 @@ of the pieces I've written.
   treat your contributors with respect, in a format inspired by "How
   to Win Friends and Influence People". I like it because it is a mix
   of personal and professional subject matter, and in a unique voice.
+  I worked on it for over a year.
+
+* [The Rust Compilation Model Calamity][calamity]. One of the first tasks
+  PingCAP gave me was to improve TiKV compile times. Then they asked me to write
+  a blog post about it. The first draft I wrote was expansive, so I split it
+  into 10 parts. Then the first part grew too large, so I split it in 2. This is
+  that first part. It's about why Rust compile times are slow. It took me about
+  7 months to complete. I purposefully used strong, colorful language, and a
+  provocative title (though through edits I did tone it down considerably).
+  After it was posted, the first comment about it was "I hate the delivery, but
+  appreciate the insight". Still learning from that.
 
 * [Fireflowers: The Rust programming language in the words of its
   practitioners][ff]. A project to capture a particular moment in time
@@ -127,6 +138,12 @@ of the pieces I've written.
   Rust website over the years, but it does what it needs to pretty
   well. Ask me about my feels re the current Rust website.
 
+* [A Rust Syntax Guide][synguide]. I forgot that I wrote this gist, then one day in 2020 I
+  discovered it had 27 stars on GitHub. It was delightful rediscovering this
+  little thing that I did.
+
+[calamity]: https://pingcap.com/blog/rust-compilation-model-calamity/
+[synguide]: https://gist.github.com/brson/9dec4195a88066fa42e6
 [0.1]: https://mail.mozilla.org/pipermail/rust-dev/2012-January/001256.html
 [151]: https://blog.rust-lang.org/2017/02/09/Rust-1.15.1.html
 [astd]: https://github.com/brson/annotated-std-rs/commit/e50c2b16455ceff29488bf1f058b6c10906ef990

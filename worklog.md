@@ -6,10 +6,57 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-02-04
+
+- Updated rust-anthology
+- 12:36 AM
+
+# 2020-02-03
+
+- Clock in
+- 9:30 AM
+- Attended engineering meeting
+- Chatted about tiflash
+- 10:37 AM
+- Clock out
+- Hacked on "aimee learns rust"
+
+# 2020-02-02
+
+- Clock in
+- 6:58 PM
+- Posted weekly todos
+- 7:11 PM
+- Hacked on abstracting writebatch
+- 9:30 PM
+- Clock out
+
+# 2020-01-31
+
+- Clock in
+- 7:50 PM
+- [Approved calamity for tikv.org](https://github.com/tikv/website/pull/118#pullrequestreview-351460595)
+- 8:01 PM
+- Clock out
+
+# 2020-01-30
+
+- Clock in
+- 1:13 PM
+- Hacked on calamity draft
+- 2:27 PM
+- [Commented on Rust GC](https://www.reddit.com/r/rust/comments/evgl81/jonathan_blow_on_rust/ffzchnm?utm_source=share&utm_medium=web2x)
+- 3:17 PM
+- 3:59 PM
+- Clock out
+
 # 2020-01-29
 
 - Clock in
 - 11:38 AM
+- Send final timing graph to calvin
+- 11:41 AM
+- Clock out
 
 # 2020-01-28
 
