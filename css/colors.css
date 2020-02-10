@@ -1,57 +1,72 @@
 * {
+    --bg-color: #f8f8f8;
+    --text-color: #444;
+    --accent-color: #aaa;
+    --link-color: #1f97c8;
+
+    --code-bg-color: white;
+    --code-default-color: #444;
+    --code-name-color: #EC5E0C;
+    --code-kw-color: #BA2640;
 }
 
 /* Colors */
 
 body, h1, h2, h3 {
-    background-color: white;
-    color: #404040;
+    background-color: var(--bg-color);
+    color: var(--text-color);
 }
 
 div.post-date {
-    color: #BBBBBB;
+    color: var(--accent-color);
 }
 
 pre {
-    border: 1px solid #BBBBBB;
+    border: 1px solid var(--accent-color);
+    background-color: var(--code-bg-color);
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid var(--accent-color);
 }
 
 /* Keywords */
 code .k, code .kd {
-    color: #BA2640;
+    color: var(--code-kw-color);
 }
 
 code {
-    color: #EC5E0C;
+    color: var(--code-name-color);
 }
 
 /* Names */
 code .n {
-    color: #EC5E0C;
+    color: var(--code-name-color);
 }
 
 /* Punctuation, ops, strings, comments */
 div .highlight code, code .p, code .o, code .s, code .c1 {
-    color: #404040;
+    color: var(--code-default-color);
 }
 
 a, a:visited, a:hover, a:focus {
-    color: #1F97C8;
+    color: var(--link-color);
     text-decoration: none;
 }
 
 /* [**Foo**](link) */
 a strong, a:visited strong, a:hover strong, a:focus strong {
-    color: #1F97C8;
+    color: var(--link-color);
     text-decoration: none;
 }
 
 /* [`Foo`](link) */
 a code, a:visited code, a:hover code, a:focus code {
-    color: #1F97C8;
+    color: var(--link-color);
     text-decoration: none;
 }
 
 .border-top {
-    border-top: 1px solid #BBB;
+    border-top: 1px solid var(--accent-color);
 }

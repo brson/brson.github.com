@@ -1,5 +1,9 @@
 /* home page */
 
+main {
+    max-width: 60ch;
+}
+
 #namebox {
 	display: flex;
 	margin-bottom: 1.7rem;
