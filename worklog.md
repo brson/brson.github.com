@@ -27,6 +27,9 @@ is not public, and there are some gaps here from 2017-2019._
 - 3:06 PM
 - [Merged engine_panic](https://github.com/tikv/tikv/pull/6383)
 - 3:25 PM
+- Clock out
+- Updated resume CSS
+- 5:29 PM
 
 # 2020-02-09
 
