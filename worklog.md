@@ -19,6 +19,14 @@ is not public, and there are some gaps here from 2017-2019._
 - 11:19 AM
 - [Requested re-review of engine_panic](https://github.com/tikv/tikv/pull/6383#issuecomment-583950916)
 - 11:33 AM
+- Updated website CSS
+- Began rebasing writebatch patch
+- 1:57 AM
+- Clock out
+- Clock in
+- 3:06 PM
+- [Merged engine_panic](https://github.com/tikv/tikv/pull/6383)
+- 3:25 PM
 
 # 2020-02-09
 
