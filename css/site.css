@@ -89,6 +89,13 @@ pre code {
     margin-right: 0;
 }
 
+blockquote > p {
+    font-size: 0.8rem;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 2rem;
+}
+
 ul > li {
     list-style-type: circle;
 }
@@ -100,11 +107,4 @@ li {
 li,
 li p {
     line-height: 1.8rem;
-}
-
-blockquote p {
-    margin-top: 1em;
-    margin-bottom: 1em;
-    margin-left: 2rem;
-    font-size: 0.8rem;
 }
