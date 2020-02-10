@@ -1,0 +1,57 @@
+* {
+}
+
+/* Colors */
+
+body, h1, h2, h3 {
+    background-color: white;
+    color: #404040;
+}
+
+div.post-date {
+    color: #BBBBBB;
+}
+
+pre {
+    border: 1px solid #BBBBBB;
+}
+
+/* Keywords */
+code .k, code .kd {
+    color: #BA2640;
+}
+
+code {
+    color: #EC5E0C;
+}
+
+/* Names */
+code .n {
+    color: #EC5E0C;
+}
+
+/* Punctuation, ops, strings, comments */
+div .highlight code, code .p, code .o, code .s, code .c1 {
+    color: #404040;
+}
+
+a, a:visited, a:hover, a:focus {
+    color: #1F97C8;
+    text-decoration: none;
+}
+
+/* [**Foo**](link) */
+a strong, a:visited strong, a:hover strong, a:focus strong {
+    color: #1F97C8;
+    text-decoration: none;
+}
+
+/* [`Foo`](link) */
+a code, a:visited code, a:hover code, a:focus code {
+    color: #1F97C8;
+    text-decoration: none;
+}
+
+.border-top {
+    border-top: 1px solid #BBB;
+}
