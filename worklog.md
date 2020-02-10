@@ -30,6 +30,8 @@ is not public, and there are some gaps here from 2017-2019._
 - Clock out
 - Updated resume CSS
 - 5:29 PM
+- Updated personal site css
+- 7:10 PM
 
 # 2020-02-09
 

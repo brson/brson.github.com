@@ -1,16 +1,21 @@
 * {
-    --bg-color: #f8f8f8;
-    --text-color: #444;
+    --bg-color: #fff;
+    --text-color: #222;
     --accent-color: #aaa;
-    --link-color: #1f97c8;
+    --link-color: #93d;
+    --inline-code-color: #EC5E0C;
+
+    /*--bg-color: #804080;
+    --text-color: #d0f0f0;
+    --link-color: #f0e000;
+    --accent-color: #808080;*/
+    --inline-code-color: #EC5E0C;
 
     --code-bg-color: white;
-    --code-default-color: #444;
+    --code-default-color: #666;
     --code-name-color: #EC5E0C;
     --code-kw-color: #BA2640;
 }
-
-/* Colors */
 
 body, h1, h2, h3 {
     background-color: var(--bg-color);
@@ -29,25 +34,6 @@ pre {
 hr {
     border: 0;
     border-top: 1px solid var(--accent-color);
-}
-
-/* Keywords */
-code .k, code .kd {
-    color: var(--code-kw-color);
-}
-
-code {
-    color: var(--code-name-color);
-}
-
-/* Names */
-code .n {
-    color: var(--code-name-color);
-}
-
-/* Punctuation, ops, strings, comments */
-div .highlight code, code .p, code .o, code .s, code .c1 {
-    color: var(--code-default-color);
 }
 
 a, a:visited, a:hover, a:focus {
@@ -70,3 +56,30 @@ a code, a:visited code, a:hover code, a:focus code {
 .border-top {
     border-top: 1px solid var(--accent-color);
 }
+
+
+/** Code **/
+
+code {
+    color: var(--inline-code-color);
+}
+
+pre code {
+    color: var(--code-default-color);
+}
+
+/* Keywords */
+pre code .k, code .kd {
+    color: var(--code-kw-color);
+}
+
+/* Names */
+pre code .n {
+    color: var(--code-name-color);
+}
+
+/* Punctuation, ops, strings, comments */
+div .highlight pre code, pre code .p, code .o, pre code .s, pre code .c1 {
+    color: var(--code-default-color);
+}
+
