@@ -6,10 +6,128 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-02-10
+
+- Clock in
+- 9:30 AM
+- Attended engine team mtg
+- 9:50 AM
+- Clock out
+- Clock in
+- 11:00 AM
+- [Re-ran ci for rocksdb upgrade](https://github.com/tikv/tikv/pull/6550)
+- 11:19 AM
+- [Requested re-review of engine_panic](https://github.com/tikv/tikv/pull/6383#issuecomment-583950916)
+- 11:33 AM
+
+# 2020-02-09
+
+- Clock in
+- 3:59 PM
+- [Reviewed nrc's tikv error handling pr](https://github.com/tikv/rfcs/pull/38#issuecomment-583827444)
+- 5:19 PM
+- Clock out
+- Clock in
+- 6:03 PM
+- Posted tikv weekly todos
+- 6:05 PM
+- Clock out
+
+# 2020-02-08
+
+- Clock in
+- 10:30 AM
+- Replied to June re whatever yo
+- 10:30 AM
+- Posted weekly report
+- Hacked on writebatch abstraction
+- Continued working through software foundations
+- 12:47 PM
+- Clock out
+
+# 2020-02-07
+
+- Clock in
+- 10:49 AM
+- Hacked on engine-traits-writebatch
+- 11:43 AM
+- [Updated rust-rocksdb patch](https://github.com/tikv/rust-rocksdb/pull/425#issuecomment-583233027)
+- 11:51 AM
+- Continued hacking on 'unwrap' docs
+- 12:25 PM
+- [Posted new "unwrap" docs](https://github.com/rust-lang/rust/pull/68918)
+- 1:11 PM
+- Clock out
+- Clock in
+- 5:00 PM
+- Hacked on engine-traits-writebatch
+- Hacked on std docs
+- 5:23 PM
+- Updated engine_panic pr
+- 6:00 PM
+- Clock out
+
+# 2020-02-06
+
+- Updated my-rust-lists
+- 11:34 PM
+- Chatted w/ June
+- 12:24 PM
+- [Submittid rib to r/cryptotechnology](https://www.reddit.com/r/CryptoTechnology/comments/eznulh/rust_in_blockchain_8_january_2020/)
+- 12:58 PM
+- Continued trying to build rust API docs
+- Clock in
+- 5:43 PM
+- Hacked on beastdb
+- Hacked on writebatch abstraction
+- 7:46 PM
+- Clock out
+- Clock in
+- 9:53 PM
+- Hacked on writebatch abstraction
+- 10:19 PM
+- Clock out
+
+# 2020-02-05
+
+- Clock in
+- 8:20 AM
+- Attended na meeting
+- Updated rust-anthology
+- 8:48 AM
+- Clock out
+- Clock in
+- 10:40 AM
+- Triaged todos
+- 10:52 AM
+- [Rebased rust-rocksdb rc tableprops patch](https://github.com/tikv/rust-rocksdb/pull/425)
+- 11:113 AM
+- [Posted rust unwrap doc patch](https://github.com/rust-lang/rust/pull/68849)
+- 12:35 PM
+- Hacked on writebatch abstraction
+- 1:20 PM
+- Clock out
+- Clock in
+- 3:07 PM
+- Chatted about the storage engine team
+- 3:19 PM
+- Hacked on writebatch abstraction
+- 5:58 PM
+- Clock out
+- Hacked on rib
+- Updated basic-http-server
+- 11:09 PM
+
 # 2020-02-04
 
 - Updated rust-anthology
 - 12:36 AM
+- Updated writings
+- 12:42 AM
+- Added todos to basic-http-server
+- Cleared out some inbox items
+- [Merged rib pr](https://github.com/rust-in-blockchain/Rust-in-Blockchain/pull/4)
+- 6:16 PM
 
 # 2020-02-03
 
