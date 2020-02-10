@@ -1,17 +1,13 @@
-span {
-    margin-left: 0em;
-    margin-right: 1em;
-}
-
-.row {
+.blog-index .row {
 	display: flex;
 }
 
-ul {
-	margin-top: 1.7em;
-}
-
-li {
-	margin-left: 0em;
+.blog-index li {
+	margin-left: 0;
 	list-style-type: none;
 }
+
+.blog-index .row span {
+    margin-right: 1rem;
+}
+
