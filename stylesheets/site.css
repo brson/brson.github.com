@@ -1,7 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+
 /* Fonts */
 
-@import url(//fonts.googleapis.com/css?family=Open+Sans);
-@import url(//fonts.googleapis.com/css?family=Droid+Sans+Mono);
+/* These are also specified in default.html */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans+Mono&display=swap');
 
 body, h1, h2, h3 {
     font-family: 'Open Sans', sans-serif;
@@ -9,6 +15,34 @@ body, h1, h2, h3 {
 
 code {
     font-family: 'Droid Sans Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'Monaco', monospace;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+h1 span {
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+h4, h5, h6 {
+    font-size: 1rem;
+    font-weight: 600;
+}
+         
+blockquote em {
+    font-weight: bold;
 }
 
 
@@ -23,13 +57,8 @@ h1 span {
     color: #BBBBBB;
 }
 
-p {
-    line-height: 2em;
-}
-
-div .highlight {
+pre {
     border: 1px solid #BBBBBB;
-    background-color: white;
 }
 
 /* Keywords */
@@ -68,78 +97,63 @@ a code, a:visited code, a:hover code, a:focus code {
     text-decoration: none;
 }
 
-blockquote em {
-    font-weight: bold;
-}
 
 /* Layout */
 
 body {
-    padding-left: 3.4em;
-    padding-right: 3.4em;
-    padding-top: 5.8em;
-    padding-bottom: 5.8em;
-    max-width: 60em;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    max-width: 70ch;
     margin-left: auto;
     margin-right: auto;
 }
 
-h1 {
-    font-size: 2rem;
-    font-weight: bold;
-}
-
 h1 span {
-    font-weight: normal;
-    margin-left: 1em;
+    margin-left: 1rem;
 }
 
-h2 {
-    margin-top: 2.2em;
-    font-size: 1.4rem;
-    font-weight: bold;
+h2, h3, h4, h5, h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
 }
 
-
-h3 {
-    margin-top: 2.2em;
-    font-size: 1.2rem;
-    font-weight: bold;
-}
 
 p {
-    margin-top: 1.7em;
-    margin-bottom: 1.7em;
-    line-height: 1.8em;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    line-height: 2rem;
 }
 
 code {
-    margin-left: 0.4em;
-    margin-right: 0.4em;
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
 }
 
 pre {
-    margin: 1.7em;
+    padding: 1.7rem;
+    overflow: auto;
 }
 
-pre.highlight {
+/*pre.highlight {
     border: 0px;
-}
+}*/
 
 pre code {
     white-space: pre;
-    margin-left: 0em;
-    margin-right: 0em;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 li {
     list-style-type: circle;
-    margin-left: 2em;
+    margin-left: 2rem;
 }
 
 li,
 li p {
-    line-height: 1.2rem;
+    line-height: 1.8rem;
 }
 
 blockquote p {
@@ -147,8 +161,7 @@ blockquote p {
 }
 
 ul ul {
-    margin-top: 1em;
-    margin-left: 1em;
+    /*margin-top: 1rem;*/
+    /*margin-left: 1rem;*/
 }
-
 
