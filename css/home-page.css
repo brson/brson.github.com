@@ -1,7 +1,11 @@
 /* home page */
 
-main {
+main, nav {
     max-width: 70ch;
+}
+
+nav {
+    display: none;
 }
 
 #namebox {

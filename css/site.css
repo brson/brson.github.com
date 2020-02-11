@@ -9,6 +9,10 @@ body, h1, h2, h3 {
     font-family: 'Open Sans', sans-serif;
 }
 
+/*nav .fas, nav .far {
+    font-size: 2rem;
+}*/
+
 code {
     font-family: 'Droid Sans Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'Monaco', monospace;
 }
@@ -59,6 +63,27 @@ body {
 
 main {
     min-height: 100vh;
+}
+
+nav {
+    text-align: right;
+    padding-left: 2ch;
+    padding-right: 2ch;
+    margin: auto;
+}
+
+nav {
+    max-width: 85ch;
+}
+
+nav span.fa-circle {
+    margin-top: 2ch;
+    transform: scale(1);
+    transition: transform 0.2s ease-out;
+}
+
+nav span.fa-circle:hover {
+    transform: scale(2);
 }
 
 h1, h2, h3, h4, h5, h6 {

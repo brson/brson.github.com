@@ -27,6 +27,13 @@ main {
     border-right: 1px solid var(--accent-color);
 }
 
+nav {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    border-left: 1px solid var(--accent-color);
+    border-right: 1px solid var(--accent-color);
+}
+
 div.post-date {
     color: var(--accent-color);
 }

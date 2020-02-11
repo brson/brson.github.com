@@ -1,5 +1,9 @@
-main {
+main, nav {
     max-width: 90ch;
+}
+
+nav {
+    display: none;
 }
 
 #section-container {
