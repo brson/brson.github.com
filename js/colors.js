@@ -1,5 +1,6 @@
 'use strict';
 
+// TODO: Keep synced with colors.css
 const colors = {
     basicColors: {
         '--bg-color': '#fafafa',

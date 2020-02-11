@@ -1,6 +1,12 @@
 /* from https://jrl.ninja/etc/1/ */
 main {
-    max-width: 80ch;
+    max-width: 70ch;
     padding: 2ch;
+    margin: auto;
+}
+
+main {
+    max-width: 85ch;
+    padding: 8ch;
     margin: auto;
 }
