@@ -1,6 +1,6 @@
 /* home page */
 
-main, nav {
+div.everything {
     max-width: 70ch;
 }
 

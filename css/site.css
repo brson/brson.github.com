@@ -9,10 +9,6 @@ body, h1, h2, h3 {
     font-family: 'Open Sans', sans-serif;
 }
 
-/*nav .fas, nav .far {
-    font-size: 2rem;
-}*/
-
 code {
     font-family: 'Droid Sans Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'Monaco', monospace;
 }
@@ -51,18 +47,15 @@ strong {
 
 /* Layout */
 
-body {
-    /*padding-top: 4rem;*/
-    /*padding-bottom: 4rem;*/
-    /*padding-left: 2rem;
-    padding-right: 2rem;*/
-    /*max-width: 70ch;*/
-    /*margin-left: auto;
-    margin-right: auto;*/
+div.everything {
+    min-height: 100vh;
+    max-width: 85ch;
+    margin: auto;
+    padding: 0;
 }
 
 main {
-    min-height: 100vh;
+    padding: 8ch;
 }
 
 nav {
@@ -70,10 +63,6 @@ nav {
     padding-left: 2ch;
     padding-right: 2ch;
     margin: auto;
-}
-
-nav {
-    max-width: 85ch;
 }
 
 nav span.fa-circle {
