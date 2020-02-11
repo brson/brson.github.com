@@ -1,0 +1,79 @@
+/* Fonts */
+
+body {
+    font-family: 'Crimson Text';
+    font-family: 'Frank Ruhl Libre';
+    font-family: 'IBM Plex Serif';
+    font-family: 'Karla';
+    font-family: 'Lora';
+    font-family: 'Playfair Display';
+
+    font-family: 'Jesefin Sans';
+    font-family: 'Alegreya Sans';
+    font-family: 'Dosis';
+    font-family: 'Josefin Sans';
+    font-family: 'Lato';
+    font-family: 'Open Sans';
+    font-family: 'Quattrocento Sans';
+    font-family: 'Roboto';
+    font-family: 'Work Sans';
+
+    font-family: 'Droid Sans Mono';
+
+    font-family: 'Anton';
+    font-family: 'Fjalla One';
+    font-family: 'Candal';
+}
+
+body {
+    font-family: 'IBM Plex Serif', serif;
+}
+
+code {
+    font-family: 'Droid Sans Mono', monospace;
+}
+
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+    letter-spacing: 0.1ch;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+div.post-date {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+div.post-date {
+    font-size: 1.4rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
+h4, h5, h6 {
+    font-size: 1rem;
+}
+
+em {
+    font-style: italic;
+}
+
+strong {
+    font-weight: bold;
+}
