@@ -8,6 +8,7 @@ nav {
 	display: flex;
 	margin-bottom: 1.7rem;
 	flex-wrap: wrap;
+    align-items: flex-end;
 }
 
 #namebox h1 {
@@ -16,6 +17,7 @@ nav {
 	margin-bottom: 0;
 	line-height: 1em;
     border-bottom: 0;
+    margin-top: 0;
 }
 
 #namebox #arrow {
@@ -26,6 +28,10 @@ nav {
 #namebox strong {
 	font-weight: bold;
 	font-size: 200%;
+}
+
+#namebox p {
+    margin-bottom: 0;
 }
 
 #namebox > :nth-child(1) {

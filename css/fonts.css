@@ -4,7 +4,6 @@ body {
     font-family: 'Crimson Text';
     font-family: 'Frank Ruhl Libre';
     font-family: 'IBM Plex Serif';
-    font-family: 'Karla';
     font-family: 'Lora';
     font-family: 'Playfair Display';
 
@@ -12,6 +11,7 @@ body {
     font-family: 'Cousine';
     font-family: 'Dosis';
     font-family: 'Josefin Sans';
+    font-family: 'Karla';
     font-family: 'Lato';
     font-family: 'Open Sans';
     font-family: 'Quattrocento Sans';
@@ -27,11 +27,12 @@ body {
 }
 
 body {
-    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Lora', serif;
 }
 
 code {
     font-family: 'Droid Sans Mono', monospace;
+    font-size: 95%;
 }
 
 h1 {

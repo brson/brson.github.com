@@ -144,7 +144,7 @@ h1, h2, h3, h4 {
 }
 
 h2, h3, h4 {
-    font-family: 'Open Sans';
+    /*font-family: 'Open Sans';*/
 }
 
 header h1 {
@@ -154,6 +154,10 @@ header h1 {
 header h2 {
     font-size: 2rem;
     /*font-weight: 400;*/
+}
+
+header, footer {
+    font-family: 'Open Sans';
 }
 
 section h1 {
