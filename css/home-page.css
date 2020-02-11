@@ -5,29 +5,29 @@ nav {
 }
 
 #namebox {
-	display: flex;
-	margin-bottom: 1.7rem;
-	flex-wrap: wrap;
+    display: flex;
+    margin-bottom: 1.7rem;
+    flex-wrap: wrap;
     align-items: flex-end;
 }
 
 #namebox h1 {
-	font-weight: bold;
-	font-size: 150%;
-	margin-bottom: 0;
-	line-height: 1em;
+    font-weight: bold;
+    font-size: 150%;
+    margin-bottom: 0;
+    line-height: 1em;
     border-bottom: 0;
     margin-top: 0;
 }
 
 #namebox #arrow {
-	margin-top: 1rem;
-	margin-bottom: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 #namebox strong {
-	font-weight: bold;
-	font-size: 200%;
+    font-weight: bold;
+    font-size: 200%;
 }
 
 #namebox p {
@@ -35,31 +35,31 @@ nav {
 }
 
 #namebox > :nth-child(1) {
-	margin-right: 2rem;
-	text-align: right;
-	flex-basis: 0;
-	flex-grow: 1;
+    margin-right: 2rem;
+    text-align: right;
+    flex-basis: 0;
+    flex-grow: 1;
 }
 
 #namebox > :nth-child(2) {
-	text-align: right;
-	flex-basis: 256px;
-	flex-grow: 0;
+    text-align: right;
+    flex-basis: 256px;
+    flex-grow: 0;
 }
 
 @media (max-width: 570px) {
-	#namebox {
-		flex-direction: column;
-	}
-	#namebox #arrow {
-		display: none;
-	}
-	#namebox > :nth-child(1) {
-		margin-right: 0;
-	}
-	#namebox > :nth-child(2) {
-		/*display: none;*/
-		/*text-align: center;*/
+    #namebox {
+        flex-direction: column;
+    }
+    #namebox #arrow {
+        display: none;
+    }
+    #namebox > :nth-child(1) {
+        margin-right: 0;
+    }
+    #namebox > :nth-child(2) {
+        /*display: none;*/
+        /*text-align: center;*/
         flex-basis: unset;
 	}
 	#namebox img {
