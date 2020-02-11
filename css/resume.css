@@ -1,7 +1,3 @@
-div.everything {
-    max-width: 90ch;
-}
-
 nav {
     display: none;
 }
@@ -44,14 +40,6 @@ nav {
     flex-direction: column;
 }
 
-#contacts {
-    margin-top: 1rem;
-}
-
-#contacts a {
-    display: block;
-}
-
 footer {
     justify-content: center;
 }
@@ -67,12 +55,14 @@ header h2 {
 }
 
 header #contacts {
-    margin-right: 2rem;
+    margin-right: 0;
     line-height: 2rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
 }
 
-div {
-
+#contacts a {
+    display: block;
 }
 
 header {
@@ -120,7 +110,7 @@ h1, h2, h3, h4 {
 p {
     margin-top: 1rem;
     margin-bottom: 1rem;
-    font-family: 'Open Sans';
+
 }
 
 p:first-child {
@@ -128,7 +118,7 @@ p:first-child {
 }
 
 #s-profile p:first-child {
-    margin-top: -0.5ch;
+    margin-top: -0.4ch;
 }
 
 section h1 {
