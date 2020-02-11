@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: brson's work log
+title: brson's worklog
 ---
 
 _This contains much of my open source activity since 2015. Some of my work
