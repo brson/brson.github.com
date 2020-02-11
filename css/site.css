@@ -5,10 +5,6 @@
 
 /* Fonts */
 
-/* These are also specified in default.html */
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Droid+Sans+Mono&display=swap');
-
 body, h1, h2, h3 {
     font-family: 'Open Sans', sans-serif;
 }
