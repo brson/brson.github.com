@@ -85,7 +85,7 @@ section, footer {
 }
 
 footer {
-    padding-top: 1rem;
+    padding-top: 2rem;
 }
 
 #skills-container > div {
@@ -114,15 +114,21 @@ footer {
 h1, h2, h3, h4 {
     margin-top: 0;
     margin-bottom: 0;
+    border-bottom: 0;
 }
 
 p {
     margin-top: 1rem;
     margin-bottom: 1rem;
+    font-family: 'Open Sans';
 }
 
 p:first-child {
     margin-top: 0;
+}
+
+#s-profile p:first-child {
+    margin-top: -0.5ch;
 }
 
 section h1 {
@@ -134,7 +140,11 @@ section h2, section h3, section h4 {
 }
 
 h1, h2, h3, h4 {
-    font-weight: 600;
+    /*font-weight: 600;*/
+}
+
+h2, h3, h4 {
+    font-family: 'Open Sans';
 }
 
 header h1 {
@@ -143,10 +153,12 @@ header h1 {
 
 header h2 {
     font-size: 2rem;
-    font-weight: 400;
+    /*font-weight: 400;*/
 }
 
 section h1 {
+    font-family: 'Open Sans';
+    font-weight: 600;
     font-size: 1.2rem;
 }
 
@@ -157,3 +169,4 @@ section h2 {
 section h3 {
     font-size: 1.1rem;
 }
+

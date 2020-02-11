@@ -91,11 +91,7 @@ This is just
 some text.
 ```
 
-### Header three
-
-#### Header four
-
-##### Header five
+## Header two
 
 <div class="text-colored" style="height:4rem"></div>
 <div class="bg-colored" style="height:1rem"></div>
@@ -106,8 +102,6 @@ some text.
 <div class="accent-colored" style="height:2rem"></div>
 <div class="bg-colored" style="height:1rem"></div>
 <div class="text-colored" style="height:4rem"></div>
-
-###### Header six
 
 Lorem ipsum dolor sit amet, consectetur [adipiscing][l] elit.
 Duis tincidunt turpis ornare urna finibus lacinia. Quisque [mattis][l] lacus a neque
@@ -134,7 +128,17 @@ This is just
 some text.
 ```
 
+# Header one
 
+## Header two
+
+### Header three
+
+#### Header four
+
+##### Header five
+
+###### Header six
 
 
 [l]: https://example.com
