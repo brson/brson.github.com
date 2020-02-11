@@ -60,6 +60,7 @@ nav {
 	#namebox > :nth-child(2) {
 		/*display: none;*/
 		/*text-align: center;*/
+        flex-basis: unset;
 	}
 	#namebox img {
 		max-width: 100%;
