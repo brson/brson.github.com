@@ -93,3 +93,12 @@ vehicula urna [**cursus**][l].
 
 [l]: https://example.com
 
+<div class="text-colored" style="height:2rem"></div>
+<div class="bg-colored" style="height:1rem"></div>
+<div class="link-colored" style="height:1rem"></div>
+<div class="bg-colored" style="height:1rem"></div>
+<div class="inline-code-colored" style="height:1rem"></div>
+<div class="bg-colored" style="height:1rem"></div>
+<div class="accent-colored" style="height:1rem"></div>
+<div class="bg-colored" style="height:1rem"></div>
+<div class="text-colored" style="height:2rem"></div>

@@ -6,6 +6,10 @@ title: brson's work log
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-02-11
+
+
+
 # 2020-02-10
 
 - Clock in
@@ -32,6 +36,8 @@ is not public, and there are some gaps here from 2017-2019._
 - 5:29 PM
 - Updated personal site css
 - 7:10 PM
+- Hacked on personal site css
+- 11:09 PM
 
 # 2020-02-09
 
