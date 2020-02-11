@@ -1,9 +1,10 @@
-* {
-    --bg-color: #fafafa;
-    --text-color: #202020;
-    --accent-color: #a0a0a0;
+:root {
+    --bg-color: #fafaf8;
+    --text-color: #302010;
+
     --link-color: #a040e0;
     --inline-code-color: #EC5E0C;
+    --accent-color: #a09090;
 
     --code-bg-color: white;
     --code-default-color: #666;
@@ -85,10 +86,6 @@ div .highlight pre code, pre code .p, code .o, pre code .s, pre code .c1 {
     background-color: var(--text-color);
 }
 
-.accent-colored {
-    background-color: var(--accent-color);
-}
-
 .link-colored {
     background-color: var(--link-color);
 }
@@ -96,3 +93,8 @@ div .highlight pre code, pre code .p, code .o, pre code .s, pre code .c1 {
 .inline-code-colored {
     background-color: var(--inline-code-color);
 }
+
+.accent-colored {
+    background-color: var(--accent-color);
+}
+
