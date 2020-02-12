@@ -61,31 +61,31 @@ nav {
         /*display: none;*/
         /*text-align: center;*/
         flex-basis: unset;
-	}
-	#namebox img {
-		max-width: 100%;
-		height: auto;
-	}
-	#namebox p {
-		/*margin-bottom: 0;*/
-	}
+    }
+    #namebox img {
+        max-width: 100%;
+        height: auto;
+    }
+    #namebox p {
+        /*margin-bottom: 0;*/
+    }
 }
 
 #namebox dfn {
-	font-style: italic;
-	font-weight: bold;
-	cursor: pointer;
+    font-style: italic;
+    font-weight: bold;
+    cursor: pointer;
 }
 
 #namebox p {
-	margin-top: 1rem;
+    margin-top: 1rem;
 }
 
 #linkstuff {
-	margin: 2rem;
-	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
+    margin: 2rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
@@ -96,17 +96,17 @@ nav {
 }
 
 #linkstuff a {
-	margin: 1rem;
+    margin: 1rem;
 }
 
 #linkstuff br {
-	display: none;
+    display: none;
 }
 
 @media (max-width: 400px) {
-	#linkstuff br {
-		display: inline;
-	}
+    #linkstuff br {
+        display: inline;
+    }
     #linkstuff > p > span.dot:last-of-type {
         display: none;
     }
