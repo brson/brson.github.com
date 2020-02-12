@@ -6,6 +6,13 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-02-12
+
+- Updated personal website css again
+- Clock in
+- 3:50 PM
+- Begin rebasing writebatch abstraction patch
+
 # 2020-02-11
 
 - Chatted w/ Queeny
