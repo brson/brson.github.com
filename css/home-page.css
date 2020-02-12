@@ -81,25 +81,42 @@ nav {
 	margin-top: 1rem;
 }
 
-#keys {
+#linkstuff {
 	margin: 2rem;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
-#keys a {
+#linkstuff > p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#linkstuff a {
 	margin: 1rem;
 }
 
-#keys br {
+#linkstuff br {
 	display: none;
 }
 
 @media (max-width: 400px) {
-	#keys br {
+	#linkstuff br {
 		display: inline;
 	}
+    #linkstuff > p > span.dot:last-of-type {
+        display: none;
+    }
+    #linkstuff > p:last-child > span.dot:last-of-type {
+        display: inline;
+    }
+}
+
+span.dot:before {
+    content: '\0025cf'; /* circle */
 }
 
 #contact emph {
