@@ -11,23 +11,30 @@ div.everything {
 
 main {
     padding: 8ch;
+    padding-top: 8ch;
+}
+
+@media (max-width: 650px) {
+    main {
+        padding: 4ch;
+    }
 }
 
 nav {
     text-align: right;
-    padding-left: 2ch;
-    padding-right: 2ch;
+    padding-top: 4ch;
+    padding-left: 4ch;
+    padding-right: 4ch;
     margin: auto;
 }
 
 nav span.fa-circle {
-    margin-top: 2ch;
-    transform: scale(1);
+    transform: scale(2);
     transition: transform 0.2s ease-out;
 }
 
 nav span.fa-circle:hover {
-    transform: scale(2);
+    transform: scale(3);
 }
 
 h1, h2, h3, h4, h5, h6 {
