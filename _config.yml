@@ -10,8 +10,8 @@ exclude: [".rvmrc", ".rbenv-version"]
 title : brson.github.io
 tagline:
 author :
-  name :
-  email :
+  name : Brian Anderson
+  email : andersrb@gmail.com
   github : brson
   twitter :
   feedburner :
@@ -26,3 +26,5 @@ author :
 #
 production_url : https://brson.github.io
 
+gems:
+  - jekyll-feed
