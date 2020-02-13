@@ -6,6 +6,18 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-02-13
+
+- Clock in
+- 1:00 PM
+- Attended performance review
+- 2:01 PM
+- Clock out
+- Ordered respirators for issa
+- 3:03 PM
+- Clock in
+- 8:30 PM
+
 # 2020-02-12
 
 - Updated personal website css again
@@ -16,6 +28,15 @@ is not public, and there are some gaps here from 2017-2019._
 - 4:47 PM
 - [Attempted to merge rust-rocksdb upgrade](https://github.com/tikv/tikv/pull/6550#issuecomment-585123736)
 - 4:54 PM
+- Continued rebasing writebatch
+- 5:53 PM
+- Clock out
+- Clock in
+- 7:50 PM
+- Attempted to merge rust-rocksdb upgade
+- Continued rebasing tableprops patch
+- 8:14 PM
+- Clock out
 
 # 2020-02-11
 
