@@ -6,6 +6,15 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-02-15
+
+- Clock in (personal)
+- 12:26 PM
+- Hacked on bloop
+- Wrote a little story
+- 3:00 PM
+- Clock out (personal)
+
 # 2020-02-13
 
 - Clock in
