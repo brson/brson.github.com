@@ -6,6 +6,86 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-02-23
+
+- Clock in
+- 1:00 PM
+- Rebased writebatch abstraction patch
+- 1:51 PM
+- Continued hacking on writebatch abstraction
+- 3:17 PM
+
+# 2020-02-20
+
+- Clock in
+- 8:07 PM
+- Attended GC compaction filter meeting
+- [Merged fail-rs clippy patch](https://github.com/tikv/fail-rs/pull/49)
+- 8:27 PM
+- [Reviewed MetricsFlusher patch](https://github.com/tikv/tikv/pull/6661#pullrequestreview-362385861)
+- 9:00 PM
+- [Updated engine abstraction master issue](https://github.com/tikv/tikv/issues/6402#issuecomment-589486783)
+- 9:00 PM
+- [Updated tablepropertiescollection pr](https://github.com/tikv/tikv/pull/6630#issuecomment-589497268)
+- 9:51 PM
+- Chatted with hicq about engine abstraction
+- 10:01 PM
+- Rebased writebatch patch
+- 10:02 PM
+- Posted daily log
+- 10:04 PM
+- Clock out
+
+# 2020-02-19
+
+- Updated bloop dependencies
+- Clock in
+- 8:58 PM
+- Chatted with hicq about engine abstraction
+- 9:09 PM
+- Clock out
+
+# 2020-02-18
+
+- Clock in
+- 5:00 PM
+- Attended NA meeting
+- Chatted wi yiwu about encryption extensions
+- 6:05 PM
+- Clock out
+- Clock in
+- 7:59 PM
+- [Updated tableproperties pr](https://github.com/tikv/tikv/pull/6630#issuecomment-588027381)
+- 8:19 PM
+- [Pushed fix to fail-rs clippy PR](https://github.com/tikv/fail-rs/pull/49)
+- 8:46 PM
+- Begin rebasing writebatch patch
+- 8:48 PM
+- Posted daily report
+- Clock out
+
+# 2020-02-17
+
+- Clock in (personal)
+- 9:00 AM
+- Hacked on bloop
+
+# 2020-02-16
+
+- Clock in
+- 6:00 PM
+- Posted weekly todos
+- Rebased writebatch patch
+- [Attempted to merge rust-rocksdb upgrade](https://github.com/tikv/tikv/pull/6550#issuecomment-586696078)
+- 6:37 PM
+- [Filed fail-rs CI](https://github.com/tikv/fail-rs/pull/49)
+- 6:59 PM
+- [Reviewed fail-rs patch](https://github.com/tikv/fail-rs/pull/48#pullrequestreview-359398888)
+- 7:06 PM
+- [Posted tableprops patch](https://github.com/tikv/tikv/pull/6630)
+- 8:44 PM
+- Clock out
+
 # 2020-02-15
 
 - Clock in (personal)
