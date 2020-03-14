@@ -96,3 +96,7 @@ hr {
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
+
+img.status-photo {
+    max-width: 100%;
+}
