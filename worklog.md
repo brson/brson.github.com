@@ -6,6 +6,299 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-03-13
+
+- Clock in
+- 4:36 PM
+- [Resolved conflicts with engine-traits-more-raftstore](https://github.com/tikv/tikv/pull/7032#issuecomment-598959548)
+- 4:39 PM
+- [Started hacking on SME](https://github.com/brson/wasm-encrypted-pastebin)
+- 5:08 PM
+- [Resolved conflicts with engine-traits-mutable](https://github.com/tikv/tikv/pull/7033#issuecomment-598970595)
+- 5:24 PM
+- Updated engine-traits-even-more-raftstore branch
+- 5:31 PM
+- Hacked on abstracting properties
+- Hacked on removing rocksdb from tikv crate
+- 7:51 PM
+- Clock out
+
+# 2020-03-11
+
+- Clock in
+- 4:55 PM
+- [Re-reviewed mutable patch](https://github.com/tikv/tikv/pull/6725#pullrequestreview-373195509)
+- 5:37 PM
+- [Attempted to merge engine::util patch](https://github.com/tikv/tikv/pull/7029#issuecomment-597932961)
+- Hacked on raftstore properties abstraction
+- 6:00 PM
+- Clock out
+- Clock in
+- 8:06 PM
+- Attended 1:1 w/ Jinpeng
+- 8:15 PM
+- Clock out
+- Clock in
+- 11:36 PM
+- Merged engine-traits-more-raftstore with master
+- 11:51 PM
+- Clock out
+
+# 2020-03-10
+
+- Clock in
+- 9:15 PM
+- [Reviewed new jemalloc check script](https://github.com/tikv/tikv/pull/7020#pullrequestreview-372452931)
+- Hacked on raftstore properties abstraction
+- 9:19 PM
+- Clock out
+
+# 2020-03-09
+
+- 9:36 PM
+- Chatted w/ Little-Wallace
+- Clock in
+- 10:29 PM
+- [Reviewed metricsflusher patch](https://github.com/tikv/tikv/pull/7046#issuecomment-596897524)
+- 10:33 PM
+- Clock out
+
+# 2020-03-08
+
+- Hacked on moment
+- Clock in
+- 8:20 PM
+- Posted weekly todos
+- Attended storage team mtg
+- 9:00 PM
+- Chatted w/ Little-Wallace
+- 10:11 PM
+- Clock out
+
+# 2020-03-07
+
+- Clock in
+- 3:37 PM
+- [Reviewed another engine abstraction pr](https://github.com/tikv/tikv/pull/7031#issuecomment-596144955)
+- 3:44 PM
+- [Posted PR for raftstore abstraction](https://github.com/tikv/tikv/pull/7032)
+- [Posted PR for engine crate migration](https://github.com/tikv/tikv/pull/7033)
+- 4:15 PM
+- Created new branch merging all outstanding abstraction branches
+- 4:46 PM
+- Clock out
+- Clock in
+- 5:08 PM
+- Hacked on removing engine dep from raftstore
+- 10:03 PM
+- Clock out
+- 11:22 PM
+- Clock in
+- Hacked on parameterizing raftstore
+- 11:37 PM
+- Clock out
+
+# 2020-03-06
+
+- Clock in
+- 2:47 PM
+- [Posted util patch](https://github.com/tikv/tikv/pull/7029)
+- 3:29 PM
+- Rebased engine-traits-more-raftstore patch
+- 3:30 PM
+- Rebased engine-traits-mutable patch
+- 3:32 PM
+- Hacked on removing Peekable from engine
+- 4:11 PM
+- Hacked on parameterizing raftstore
+- 4:11 PM
+- Clock out
+- Clock in
+- 5:22 PM
+- [Reviewed compactionjobinfo pr](https://github.com/tikv/tikv/pull/6989)
+- 5:48 PM
+- Hacked on raftstore abstraction
+- Hacked on engine migration
+- 7:03 PM
+- [Updated util patch](https://github.com/tikv/tikv/pull/7029)
+- Hacked on raftstore abstraction
+- Hacked on engine migration
+- 9:43 PM
+- Clock out
+
+# 2020-03-04
+
+- Clock in
+- 5:00 PM
+- Hacked on compile-time-2 blog post
+- 5:42 PM
+- Clock in
+- 6:37 PM
+- [Attempted to merge writebatch pr](https://github.com/tikv/tikv/pull/6697#issuecomment-594983063)
+- 6:43 PM
+- [Attempted to merge raftstore pr](https://github.com/tikv/tikv/pull/6707#issuecomment-594983165)
+- 6:43 PM
+- Clock out
+- Clock in
+- 8:12 PM
+- [Updated raftstore pr](https://github.com/tikv/tikv/pull/6707#issuecomment-595011071)
+- 8:35 PM
+- Rebased engine-traits-util branch
+- 8:35 PM
+- [Attempted to merge raftstore pr](https://github.com/tikv/tikv/pull/6707#issuecomment-595011071)
+- 8:48 PM
+- Posted daily status report
+- 8:50 PM
+- Clock out
+
+
+# 2020-03-03
+
+- Clock in
+- 2:40 PM
+- [Updated writebatch pr](https://github.com/tikv/tikv/pull/6697#discussion_r387311812)
+- 2:47 PM
+- [Updated raftstore pr](https://github.com/tikv/tikv/pull/6707#discussion_r387316298)
+- 2:57 PM
+- Clock out
+- Clock in
+- 4:52 PM
+- [Reviewed writebatch mutability pr](https://github.com/tikv/tikv/pull/6725#pullrequestreview-368416943)
+- 5:43 PM
+- [Reviewed rocksdb writebatch mutability pr](https://github.com/tikv/rust-rocksdb/pull/438#pullrequestreview-368431874)
+- 5:53 PM
+- Clock out
+- Responded to dad
+- Responded to mom
+- 6:43 PM
+- [Reviewed talent-plan pr](https://github.com/pingcap/talent-plan/pull/331#pullrequestreview-368452275)
+- 6:45 PM
+- [Closed stale talent-plan pr](https://github.com/pingcap/talent-plan/pull/129#issuecomment-594274617)
+- 6:51 PM
+- [Reviewed talent-plan pr](https://github.com/pingcap/talent-plan/pull/299)
+- 6:51 PM
+- [Reviewed talent-plan pr](https://github.com/pingcap/talent-plan/pull/281)
+- [Reviewed talent-plan pr](https://github.com/pingcap/talent-plan/pull/279#issuecomment-594276547)
+- 6:59 PM
+- [Reviewed talent-plan pr](https://github.com/pingcap/talent-plan/pull/309#issuecomment-594277366)
+- 7:02 PM
+- Clock out
+- Updated rust-is-for-blockchain
+- 10:57 PM
+
+# 2020-03-02
+
+- Clock in
+- 6:00 PM
+- Attended sv meeting
+- Took a pass over compile time blog
+- 6:30 PM
+- Clock out
+
+# 2020-03-01
+
+- Clock in
+- 11:07 AM
+- [Reviewed eventlistener PR](https://github.com/tikv/tikv/pull/6739#issuecomment-593129150)
+- 11:33 AM
+- Merged all abstraction outstanding branches into a new branch
+- 12:07 PM
+- Hacked on raftstore engine conversion
+- Hacked on removing types from engine crate
+- 3:25 PM
+- Clock out
+- Clock in
+- 7:30 PM
+- Attended storage mtg
+- 7:47 PM
+- Clock out
+
+# 2020-02-28
+
+- Clock in
+- 10:35 AM
+- [Updated writebatch pr](https://github.com/tikv/tikv/pull/6697)
+- [Updated raftstore pr](https://github.com/tikv/tikv/pull/6707)
+- Hacked on more engine abstraction
+- 1:00 PM
+- Clock out
+- Clock in
+- 5:33 PM
+- [Pushed fixes to raftstore pr](https://github.com/tikv/tikv/pull/6707)
+- 5:48 PM
+- Posted daily report
+- 5:54 PM
+- Clock out
+
+# 2020-02-27
+
+- Clock in
+- 7:00 PM
+- Hacked on blog draft
+- Hacked on writebatch abstraction
+- Attended r2d2 monthly
+- 7:40 PM
+- Clock out
+
+# 2020-02-26
+
+- Clock in
+- 9:25 AM
+- [Posted PR to convert much of raftstore to engine traits](https://github.com/tikv/tikv/pull/6707)
+- 3:00 PM
+- Clock out
+- Clock in
+- 7:00 PM
+- Chatted w/ jinpeng
+- Chatted w/ overvenus
+- 8:25 PM
+- Clock out
+
+# 2020-02-25
+
+- Clock in
+- 10:00 AM
+- Created new EC2 instance for tikv hacking
+- Created scripts for setting up my Linux environment
+- 10:53 AM
+- Merged writebatch patch with master
+- Set up new beastdb build environment
+- 11:20 AM
+- Hacked on beastdb
+- Hacked on writebatch patch
+- 3:00 PM
+- Clock out
+- Clock in
+- 4:30 PM
+- Chatted w/ queeny
+- 4:52 PM
+- Hacked on writebatch patch
+- Clock out
+- Clock in
+- 6:57 PM
+- Hacked on writebatch patch
+- [Approved MetricsFlusher PR](https://github.com/tikv/tikv/pull/6661#pullrequestreview-364581259)
+- 7:16 PM
+- Posted daily work
+- Chatted w/ Queeny
+- Chatted w/ Liu about beastdb
+- Hacked on writebatch patch
+- 7:49 PM
+- [Posted WriteBatch abstraction patch](https://github.com/tikv/tikv/pull/6697)
+- 8:28 PM
+- Clock out
+
+# 2020-02-24
+
+- Clock in
+- 6:00 PM
+- Attended SV all-hands
+- Chatted w/ tangliu re beastdb and tiup
+- Rebased writebatch patch again
+- Hacked on writebatch abstraction
+- 7:22 PM
+- Clock out
+
 # 2020-02-23
 
 - Clock in
@@ -14,6 +307,18 @@ is not public, and there are some gaps here from 2017-2019._
 - 1:51 PM
 - Continued hacking on writebatch abstraction
 - 3:17 PM
+- [Posted weekly status report](https://brson.github.io/status-reports/2020/02/21/status-report)
+- [Posted weekly work report](https://internal.pingcap.net/confluence/display/TT/Brian+Anderson+-+TIKV+2020-02-14+-+2020-02-21)
+- Posted weekly todos
+- 3:30 PM
+- Continued hacking on writebatch abstraction
+- 3:58 PM
+- Clock out
+- Clock in
+- 7:30 PM
+- Attended storage team meeting
+- 7:50 PM
+- Clock out
 
 # 2020-02-20
 
