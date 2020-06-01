@@ -41,6 +41,10 @@ of the pieces I've written.
   real-world applications in Rust. Developed for [PingCAP] as a recruiting tool.
   Incomplete, but I have ambitious hopes for it.
 
+* [Experience report &mdash; first time running and building CKB][ckbe]. A type
+  of writing I do a lot &mdash; attempt to do something new and write down
+  everything that happens.
+
 * [Refactoring `std` for Ultimate Portability][r]. A proposal for how
   to refactor the standard library into portable components. I like
   how complete the argument is here and that I took the time to make
@@ -176,3 +180,4 @@ of the pieces I've written.
 [PingCAP]: https://pingcap.com
 [pnar]: https://github.com/pingcap/talent-plan/tree/master/rust
 [rustup]: https://internals.rust-lang.org/t/future-updates-to-the-rustup-distribution-format/4196#the-static-rust-lang-org-layout
+[ckbe]: https://talk.nervos.org/t/experience-report-first-time-building-and-running-ckb/4518

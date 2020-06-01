@@ -6,6 +6,962 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-05-29
+
+- Clock in
+- 5:05 PM
+- [Commented on util removal PR](https://github.com/tikv/tikv/pull/7896#issuecomment-636231439)
+- 5:13 PM
+- [Fixed merge conflicts on util removal PR](https://github.com/tikv/tikv/pull/7896#issuecomment-636236172)
+- 5:34 PM
+- Read thread sanitizer on yatp
+- 5:36 PM
+- Hacked on removing Engines type from engine crate
+- 6:43 PM
+- Posted daily updates
+- Clock out
+
+# 2020-05-26
+
+- Clock in (finance)
+- 1:00 AM
+- Set up option trades
+- 4:00 AM
+- Clock out (finance)
+- Clock in (finance)
+- 9:30 PM
+- Set up option trades
+- 2:05 PM
+- Clock out (finance)
+
+# 2020-05-25
+
+- Clock in (finance)
+- 1:30 AM
+- 4:00 AM
+- Clock out (finance)
+
+# 2020-05-24
+
+- Clock in
+- 5:59 PM
+- Updated weekly todos
+- 6:01 PM
+- Clock out
+- Clock in
+- 8:30 PM
+- Attended storage mtg
+- 9:10 PM
+- Clock out
+
+# 2020-05-21
+
+- Hacked on mem-basics
+- 1:07 AM
+- Clock in
+- 7:02 PM
+- Hacked on deleting engine crate
+- Chatted w/ Liue Cong
+- [Posted patch to remove `engine::rocks::util`](https://github.com/tikv/tikv/pull/7896)
+- 8:47 PM
+- Posted daily report
+- 8:49 PM
+- Hacked on mem-basics
+- 8:49 PM
+- Clock out
+
+# 2020-05-20
+
+- Clock in
+- 4:30 PM
+- Hacked on deleting engine crate
+- 4:57 PM
+- Responded to a telegram message
+- 4:57 PM
+- Chatted w/ Calvin
+- 7:05 PM
+- Created mem-basics repo
+- 7:05 PM
+- Attended 1:1 w/ jinpeng
+- 8:15 PM
+- 8:33 PM
+- Clock out
+- Clock in
+- 9:49 PM
+- Hacked on deleting engine crate
+- Ran asan on test crate
+- 9:57 PM
+- Clock out
+
+# 2020-05-19
+
+- Clock in
+- 5:17 PM
+- [Posted PR to remove duplicate DATA_KEY_PREFIX_LEN](https://github.com/tikv/tikv/pull/7882)
+- 5:22 PM
+- [Updated and merged generics cleanup PR](https://github.com/tikv/tikv/pull/7843#issuecomment-631155204)
+- 6:07 PM
+- [Updated and merged db_exists PR](https://github.com/tikv/tikv/pull/7866#issuecomment-631164094)
+- 6:34 PM
+- Clock out
+
+# 2020-05-18
+
+- Hacked on coconut-coin
+- 12:08 AM
+- Clock in (finance)
+- 2:00 PM
+- Made options trades
+- 6:24 PM
+- Clock out (finance)
+
+# 2020-05-17
+
+- Clock in
+- 4:02 PM
+- [Attempted to merge iterator cleanup](https://github.com/tikv/tikv/pull/7801#issuecomment-629867740)
+- 4:04 PM
+- Continued trying to get asan backtraces
+- Fixed 2 memory leaks in tikv_util test suite
+- 5:29 PM
+- Ran asan against keys crate
+- Hacked on multiple patches to remove code from engine crate
+- 5:35 PM
+- [Posted PR to fix leaks in tikv_util tests](https://github.com/tikv/tikv/pull/7865)
+- 5:43 PM
+- [Posted PR to add exists function to engine_traits](https://github.com/tikv/tikv/pull/7866)
+- 5:54 PM
+- Ran asan against txn_types crate
+- Ran asan against codec crate
+- 5:58 PM
+- Clock out
+- Clock in
+- 8:30 PM
+- Attended storage mtg
+- 9:04 PM
+- Investigated asan report in tokio-threadpool
+- 9:18 PM
+- [Filed bug about tokio-threadpool bad reads](https://github.com/tikv/tikv/issues/7868)
+- 10:10 PM
+- Tested yatp with asan
+- 11:05 PM
+- Clock out
+
+# 2020-05-14
+
+- Clock in
+- 6:24 PM
+- [Attempted to merge syncsnapshot patch](https://github.com/tikv/tikv/pull/7737#issuecomment-628955670)
+- 6:27 PM
+- [Fixed ub cherry-pick merge conflict](https://github.com/tikv/tikv/pull/7782#issuecomment-628957315)
+- 6:33 PM
+- [Rebased engine::stats patch](https://github.com/tikv/tikv/pull/7805#issuecomment-628958655)
+- 6:39 PM
+- [Debugged engine::iterator removal patch](https://github.com/tikv/tikv/pull/7801#issuecomment-628959293)
+- 6:42 PM
+- Asked for help with asan symbol names
+- 7:16 PM
+- [Fixed use of rocks iterators in engine::iterator removal patch](https://github.com/tikv/tikv/pull/7801#issuecomment-628970027)
+- 7:22 PM
+- [Posted engine_traits doc patch](https://github.com/tikv/tikv/pull/7842)
+- 7:36 PM
+- [Posted PR to clean up raftstore generics](https://github.com/tikv/tikv/pull/7843)
+- 7:41 PM
+- Posted daily report
+- 7:43 PM
+- Clock out
+
+# 2020-05-13
+
+- Clock in
+- 6:51 PM
+- Responded to emails and messages
+- 8:42 PM
+- Clock out
+
+# 2020-05-11
+
+- Clock in
+- 5:10 PM
+- [Attempted to merge syncsnapshot patch](https://github.com/tikv/tikv/pull/7737#issuecomment-627013971)
+- 5:12 PM
+- Hacked on removing iterable module from engine crate
+- 5:23 PM
+- [Posted PR to remove `engine::iterable`](https://github.com/tikv/tikv/pull/7801)
+- 7:18 PM
+- Hacked on removing `engine::rocks::stats`
+- 8:00 PM
+- Clock out
+- Clock in
+- 10:14 PM
+- [Posted PR to move `dump` into `engine_traits`](https://github.com/tikv/tikv/pull/7805)
+- 10:19 PM
+- Updated daily report
+- Clock out
+
+# 2020-05-10
+
+- Clock in
+- 2:25 PM
+- [Updated codec UB PR](https://github.com/tikv/tikv/pull/7751)
+- 2:42 PM
+- [Attempted to merge syncsnapshot patch](https://github.com/tikv/tikv/pull/7737)
+- 2:45 PM
+- Cherry-picked UB fixes to 4.0
+- Rebased engine_traits doc patch
+- Continued hacking on raftstore generics cleanup
+- Began investigating test suite sleep removal
+- 3:03 PM
+- [Reviewed tiup metadata format](https://github.com/pingcap-incubator/tiup/pull/193#pullrequestreview-408782173)
+- 3:32 PM
+- [Posted 4.0 UB cherry-pick](https://github.com/tikv/tikv/pull/7782)
+- 3:45 PM
+- Hacked on replacing KvEngine bounds with Snapshot
+- 5:58 PM
+- Clock out
+
+# 2020-05-07
+
+- Hacked on rust-doc-tool
+- 7:44 PM
+          
+# 2020-05-06
+
+- Fixed a ribbot bug
+- 12:14 AM
+- Updated rust-anthology
+- Updated rust-doc-tool
+- 12:17 AM
+- Clock in
+- 12:18 AM
+- [Investigated CI failure for SyncSnapshot removal](https://github.com/tikv/tikv/pull/7737#issuecomment-624475776)
+- Fixed UB in codec crate
+- 2:23 AM
+- Clock out
+- Hacked on rib
+- 5:55 PM
+- Clock in
+- 7:30 PM
+- Attended mtg w/ jinpeng
+- [Posted PR to fix undefined behavior in codec crate](https://github.com/tikv/tikv/pull/7751)
+- 8:40 PM
+- [Posted 2 tikv bugs to miri trophy case](https://github.com/rust-lang/miri/pull/1397)
+- 8:43 PM
+- [Attempted to merge SyncSnapshot pr](https://github.com/tikv/tikv/pull/7737#issuecomment-624996322)
+- 8:43 PM
+- [Reviewed sysinfo pr](https://github.com/tikv/tikv/pull/7682#pullrequestreview-407115194)
+- 8:47 PM
+- [Responded to q about ub pointer calculation](https://github.com/tikv/tikv/pull/7751/files/69b602a4a50370cf8f327116ec345a13c7083ce8#r421213020)
+- 9:17 PM
+- Clock out
+- Updated my-rust-lists
+- 11:03 PM
+
+# 2020-05-05
+
+- Clock in
+- 4:39 PM
+- [Closed tiflash pr](https://github.com/solotzg/tikv/pull/14)
+- 4:42 PM
+- Chatted with Yi Wu about secure slices
+- 5:12 PM
+- Chatted with Maple Fu about the use of failure in talent-plan
+- 5:13 PM
+- [Attempted to merge snapshot pr](https://github.com/tikv/tikv/pull/7662#issuecomment-624356783)
+- 5:21 PM
+- Began removing SyncSnapshot type
+- 5:35 PM
+- Continued documenting engine_trats
+- 5:36 PM
+- Continued running miri on codec crate
+- 6:04 PM
+- [Posted SyncSnapshot removal PR](https://github.com/tikv/tikv/pull/7737)
+- 10:03 PM
+- Posted daily report
+- 10:05 PM
+- Clock in
+- 10:47 PM
+- Investigated SyncSnapshot PR CI error
+- 10:56 PM
+- Clock out
+
+# 2020-05-04
+
+- [Commented on home_dir definition](https://github.com/brson/home/issues/22#issuecomment-623652660)
+- 1:25 PM
+
+# 2020-05-03
+
+- Hacked on rust-doc-tool
+
+# 2020-05-02
+
+- Learned some solidity
+
+# 2020-05-01
+
+- Clock in
+- 3:00 PM
+- [Reviewed ub fix](https://github.com/tikv/tikv/pull/7635#pullrequestreview-404409101)
+- 3:25 PM
+- [Posted tikv stacked borrowing error to miri trophy case](https://github.com/rust-lang/miri/pull/1383)
+- 3:35 PM
+- [Attempeted to merge tidb_query_vec_executors servo_arc fix](https://github.com/tikv/tikv/pull/7710#issuecomment-622578490)
+- 3:38 PM
+- Clock out
+- Clock in
+- 8:31 PM
+- Ran miri on tidb_query_normal_expr
+- 8:31 PM
+- Rebased engine_traits docs patch
+- 8:35 PM
+- Reviewed crc64fast crate
+- Ran miri on tidb_query_normal_executors
+- 9:02 PM
+- Ran miri on tidb_query_vec_aggr
+- 9:07 PM
+- Ran miri on codec
+- Hacked on engine_traits docs
+- [Attempted to merge snapshot traits pr](https://github.com/tikv/tikv/pull/7662#issuecomment-622663053)
+- 9:41 PM
+- [Posted PR to fix clippy warnings](https://github.com/tikv/tikv/pull/7729)
+- 9:43 PM
+- Clock out
+- [Requested a new release of leveldb crate](https://github.com/skade/leveldb/issues/37)
+- 9:51 PM
+- Built and tested lighthouse on arm
+- Built and tested rust-ipfs on arm
+- 10:32 PM
+
+# 2020-04-29
+
+- Clock in
+- 3:44 PM
+- [Attempted to merge error description pr](https://github.com/tikv/tikv/pull/7507#issuecomment-621482737)
+- 3:48 PM
+- Chatted w/ Calvin about blog post
+- 4:44 PM
+- Investigated UB in servo_arc
+- 5:01 PM
+- [Filed UB servo_arc bug](https://github.com/servo/servo/issues/26357)
+- 6:02 PM
+- [Added servo_arc to miri trophy case](https://github.com/rust-lang/miri/pull/1377)
+- 6:05 PM
+- [Filed another servo_arc UB bug](https://github.com/servo/servo/issues/26358)
+- 6:19 PM
+- [Attempted to merge error description pr](https://github.com/tikv/tikv/pull/7507#issuecomment-621539037)
+- 6:23 PM
+- [Filed fix for stacked borrowing error in tidb_query_vec_executors](https://github.com/tikv/tikv/pull/7709)
+- 6:35 PM
+- [Filed PR to replace servo_arc with std Arc](https://github.com/tikv/tikv/pull/7710)
+- 6:42 PM
+- [Reviewed ub fix](https://github.com/tikv/tikv/pull/7635#pullrequestreview-403141298)
+- 7:20 PM
+- Posted daily report
+- 7:23 PM
+- Clock out
+
+# 2020-04-27
+
+- Clock in
+- 6:09 PM
+- [Merged talent-plan PR](https://github.com/pingcap/talent-plan/pull/331)
+- 6:17 PM
+- [Rebased talent-plan PR](https://github.com/pingcap/talent-plan/pull/309#issuecomment-620304566)
+- 6:23 PM
+- [Merged talent-plan PR](https://github.com/pingcap/talent-plan/pull/309#issuecomment-620305044)
+- 6:24 PM
+- [Reviewed talent-plan PR](https://github.com/pingcap/talent-plan/pull/333#issuecomment-620306176)
+- 6:29 PM
+- [Pinged people on talent-plan PR](https://github.com/pingcap/talent-plan/pull/339#issuecomment-620306941)
+- 6:32 PM
+- [Posted PR to move rust and dss courses into subdir](https://github.com/pingcap/talent-plan/pull/341)
+- 6:41 PM
+- Clock out
+- Clock in
+- 8:34 PM
+- [Replied to talent-plan PR](https://github.com/pingcap/talent-plan/pull/279#issuecomment-620342687)
+- 8:39 PM
+- Clock out
+
+# 2020-04-26
+
+- Posted faster-hex ARM patch
+- 1:28 PM
+- Clock in
+- 1:32 PM
+- Tested tikv on ARM
+- Continued miri-testing tidb_query_vec_expr
+- Looked for broken tests in tikv test suite
+- Pinged solotzg re tiflash diff reduction patch
+- 2:37 PM
+- Hacked on engine_traits docs
+- Hacked on replacing KvEngine bounds with Snapshot bounds
+- 4:41 PM
+- Rebased engine_traits docs patch
+- Rebased snapshot bounds patch
+- 6:28 PM
+- [Attempted to merge unsafe fixes](https://github.com/tikv/tikv/pull/7509#issuecomment-619654377)
+- 6:56 PM
+- [Attempted to merge error description patch](https://github.com/tikv/tikv/pull/7507#issuecomment-619654532)
+- 6:56 PM
+- [Posted PR to replae KvEngine bounds with typarams](https://github.com/tikv/tikv/pull/7662)
+- 7:00 PM
+- Attended storage mtg
+- 9:22 PM
+- Clock out
+
+# 2020-04-25
+
+- Set up EC2 ARM instance
+- Updated setup scripts for fedoralikes
+- 10:36 PM
+
+# 2020-04-23
+
+- [Commented on assignment destructuring](https://github.com/rust-lang/rfcs/pull/2909#issuecomment-618198463)
+- 12:07 AM
+- Clock in (personal)
+- 12:16 PM
+
+# 2020-04-22
+
+- Clock in
+- 12:00 AM
+- Hacked on converting KvEngine bounds to Snapshot
+- 12:48 AM
+- Clock out
+- Clock in
+- 5:38 PM
+- [Reported ryu stacked borrowing error](https://github.com/dtolnay/ryu/issues/24)
+- 5:50 PM
+- Responded to some messages
+- Continued miri-testing tidb_query_vec_expr
+- Hacked on engine_traits docs
+- Attended mtg with jinpeng
+- 8:14 PM
+- [Posted PR to fix undefined behavior in ryu](https://github.com/tikv/tikv/pull/7629)
+- 8:32 PM
+- [Posted miri trophy case PR](https://github.com/rust-lang/miri/pull/1356)
+- 8:40 PM
+- Clock out
+
+# 2020-04-21
+
+- Clock in
+- 4:08 PM
+- [Attempted to merge error description patch again](https://github.com/tikv/tikv/pull/7507#issuecomment-617446705)
+- 4:29 PM
+- Hacked on "common rust errors" blog
+- Hacked on engine_traits documentation
+- Hacked on replacing KvEngine bounds with Snapshot bounds
+- 4:53 PM
+- Responded to linda
+- 4:55 PM
+- [Updated unsafe code pr](https://github.com/tikv/tikv/pull/7509)
+- 6:42 PM
+- Ran tidb_query_common under miri
+- 6:46 PM
+- 9:12 PM
+- Clock out
+- Clock in
+- 10:11 PM
+- [Filed UB RowSlice bug](https://github.com/tikv/tikv/issues/7613)
+- 10:57 PM
+- Rand tidb_query_datatype under miri
+- 11:59 PM
+- Clock out
+
+# 2020-04-20
+
+- Hacked on rust-doc-tool
+- 6:21 AM
+
+# 2020-04-19
+
+- Clock in
+- 5:30 PM
+- Chatted w/ queeny
+- [Attempted to merge error description pr](https://github.com/tikv/tikv/pull/7507)
+- 6:22 PM
+- Clock out
+- Clock in (personal)
+- [Removed self from awesome-rust-mentors](https://github.com/RustBeginners/awesome-rust-mentors/pull/112)
+- 6:30 PM
+- Hacked on rust-anthology
+- 7:37 PM
+- Clock out
+- Clock in
+- 8:30 PM
+- Attended storage mtg
+- 8:48 PM
+- Clock out
+- Hacked on rust-doc-tool
+
+# 2020-04-18
+
+- [Posted PR to remove some clones from mobilecoin](https://github.com/mobilecoinofficial/mobilecoin/pull/37)
+- 9:10 PM
+- [Posted PR to fix mobilecoin typo](https://github.com/mobilecoinofficial/mobilecoin/pull/38)
+- 9:18 PM
+
+# 2020-04-17
+
+- Clock in
+- 2:29 PM
+- Researched pingcap candidate
+- Chatted w/ candidate
+- 4:06 PM
+- Clock out
+
+# 2020-04-16
+
+- Clock in (personal)
+- 12:00 PM
+- Hacked on ckb bounty
+- 1:08 PM
+- Clock out (personal)
+- Clock in
+- 4:54 PM
+- [Updated RocksEngine PR again](https://github.com/tikv/tikv/pull/7371)
+- 5:07 PM
+- [Posted PR to remove error descriptions](https://github.com/tikv/tikv/pull/7507)
+- 6:46 PM
+- Ran miri on tikv_utils
+- [Posted two minor unsafe fixes](https://github.com/tikv/tikv/pull/7509)
+- 7:28 PM
+- Investigated memory leak in slog-global
+- 9:04 PM
+- Clock out
+- Hacked on ckb-rpc-test
+
+# 2020-04-15
+
+- Clock in (personal)
+- 3:00 PM
+- Hacked on ckb-rpc-test
+- 7:33 PM
+- Clock out (personal)
+- Clock in (personal)
+- 9:00 PM
+- Worked on ckb bounty
+- 11:59 PM
+- Clock out
+
+# 2020-04-14
+
+- Hacked on midi2
+- 2:28 AM
+- Clock in
+- 5:29 PM
+- [Updated current raftstore PR](https://github.com/tikv/tikv/pull/7371#issuecomment-613736439)
+- 5:50 PM
+- [Reviewed metrics pr](https://github.com/tikv/tikv/pull/7354#pullrequestreview-393371111)
+- 6:09 PM
+- Clock out
+
+# 2020-04-13
+
+- Hacked on midi2 implementation
+- 3:01 AM
+- Clock in
+- 2:08 PM
+- [Posted PR to minimize diff between tiflash and release-3.1](https://github.com/solotzg/tikv/pull/14)
+- 7:10 PM
+- Clock out
+- Clock in
+- 8:00 PM
+- Attended tiflash meeting
+- 8:26 PM
+- Clock out
+
+# 2020-04-12
+
+- Clock in
+- 1:45 PM
+- [Reviewed removal of Snapshot typaram](https://github.com/tikv/tikv/pull/7411#pullrequestreview-391890007)
+- 1:58 PM
+- [Really completed compile-time-2 draft](https://gist.github.com/brson/8c11ca75fc705f298e8c73db5c15bbe2)
+- 3:33 PM
+- Clock out
+- Clock in
+- 8:27 PM
+- Attended storage mtg
+- 8:45 PM
+- Clock out
+
+# 2020-04-11
+
+- Clock in
+- 3:00 PM
+- [Completed compile-time-2 draft](https://hackmd.io/dmVFO_RuQ36t5TL5RCnfmw)
+- 5:56 PM
+
+# 2020-04-10
+
+- Hacked on ? I forget
+- Clock in (personal)
+- 11:00 AM
+- Researched CKB SDKs
+- 1:18 PM
+- Clock out (personal)
+
+# 2020-04-09
+
+- Clock in
+- 9:29 PM
+- [Responded to question about removing snapshot typaram](https://github.com/tikv/tikv/pull/7371/files/6498ad5f98fcf2fd12ffbf864b02f2e88ee12d68#r406594225)
+- 10:16 PM
+- Merged master into raftstore-rocksengine pr
+- 10:26 PM
+- Clock out
+
+# 2020-04-07
+
+- Clock in
+- 8:09 PM
+- [Fixed build for raftstore/RocksEngine PR](https://github.com/tikv/tikv/pull/7371)
+- 8:12 PM
+- [Tried to merge tikv DB PR](https://github.com/tikv/tikv/pull/7368#issuecomment-610712507)
+- 8:12 PM
+- Clock out
+- [Responded to ckb thread](https://talk.nervos.org/t/experience-report-first-time-building-and-running-ckb/4518/6)
+- 8:20 PM
+
+# 2020-04-06
+
+- Clock in
+- 2:21 PM
+- Hacked on engine-traits-raftstore-rocksengine
+- Hacked on engine-traits-tikv
+- Begin writing "Rust in easy-mode"
+- [Updated list of Rust CLI tools](https://github.com/brson/my-rust-lists/blob/master/rust-cli-tools.md)
+- [Published rust-libraries.md](https://github.com/brson/my-rust-lists/blob/master/rust-libraries.md)
+- 3:42 PM
+- [Posted pr to replace DB with RocksEngine](https://github.com/tikv/tikv/pull/7368)
+- 6:47 PM
+- Hacked on engine-traits-raftstore-rocksengine
+- 8:14 PM
+- Clock out
+- Clock in
+- 9:43 PM
+- [Posted PR to convert RocksEngine to typarams in raftstore](https://github.com/tikv/tikv/pull/7371)
+- 11:54 PM
+- Posted daily report
+- 11:55 PM
+- Clock out
+
+# 2020-04-05
+
+- [Posted CKB experience report](https://talk.nervos.org/t/experience-report-first-time-building-and-running-ckb/4518)
+- 6:47 PM
+
+# 2020-04-04
+
+- Clock in (personal)
+- 3:45 PM
+- Hacked on serdif
+- 5:28 PM
+- Clock out (personal)
+- Clock in (personal)
+- 7:30 PM
+- Learned to send ckb on testnet
+- 8:47 PM
+- Hacked on serdif
+- 9:13 PM
+- Clock out (personal)
+
+# 2020-04-03
+
+- Clock in
+- 1:50 AM
+- Hacked on removing engine_rocks from raftstore
+- 4:19 AM
+- Clock out
+
+# 2020-04-02
+
+- Clock in
+- 6:59 PM
+- Attended all hands meeting
+- 7:30 PM
+- Clock out
+- Clock in
+- 9:20 PM
+- [Updated engine/protobuf PR](https://github.com/tikv/tikv/pull/7320#pullrequestreview-385242935)
+- 9:29 PM
+- Updated daily report
+- 9:31 PM
+- Clock out
+- Clock in
+- 10:00 PM
+- Hacked on removing engine_rocks from raftstore
+- 11:12 PM
+- Clock out
+
+# 2020-04-01
+
+- Clock in (personal)
+- 12:12 AM
+- Hacked on serdif
+- 1:45 AM
+- Clock out (personal)
+- Updated ribbot
+- 4:46 PM
+- Clock in
+- 9:45 PM
+- Replied to Jinpeng
+- Continued recording pass timings for blog post
+- 9:48 PM
+- Clock out
+
+# 2020-03-31
+
+- Clock in (personal)
+- 12:00 AM
+- Hacked on ribbot
+- 12:17 AM
+- Clock out (personal)
+- Clock in
+- 3:31 PM
+- [Updated raftstore pr again](https://github.com/tikv/tikv/pull/7164#issuecomment-606888529)
+- 3:34 PM
+- Hacked on compile-time-2
+- 4:23 PM
+- Merged raftstore pr
+- 4:24 PM
+- Rebased engine-traits-even-more-more-raftstore branch
+- Rebased engine-traits-generic-tikv branch
+- 4:33 PM
+- Hacked on compile-time-2
+- 4:49 PM
+- [Sent Calvin draft of next blog post](https://hackmd.io/dmVFO_RuQ36t5TL5RCnfmw)
+- 4:51 PM
+- [Posted PR to remove protobufs from engine crate](https://github.com/tikv/tikv/pull/7320)
+- 4:57 PM
+- Timed build passes for compile-time-2 blog
+- 5:01 PM
+- [Posted PR to remove iterators from engine crate](https://github.com/tikv/tikv/pull/7321)
+- 5:23 PM
+- Posted daily report
+- 5:27 PM
+- Clock out
+- Clock in
+- 7:04 PM
+- Attended global team mtg
+- 7:30 PM
+- Clock out
+
+# 2020-03-30
+
+- Clock in (personal)
+- 3:22 PM
+- Hacked on ribbot
+- Configured EC2 instance for personal development
+- 3:34 PM
+- Hacked on ribbot
+- 7:21 PM
+- Clock out (personal)
+- Clock in
+- 8:00 PM
+- Attended r2d2 meeting
+- 8:25 PM
+- Clock out
+- Clock in (personal)
+- 8:26 PM
+- Hacked on ribbot
+- 11:59 PM
+- Clock out (personal)
+
+# 2020-03-29
+
+- Clock in
+- 5:59 PM
+- Updated daily reports
+- 6:02 PM
+- [Updated and merged raftstore patch](https://github.com/tikv/tikv/pull/7164#issuecomment-605729216)
+- 6:46 PM
+- Finished collected sccache timing results
+- 6:49 PM
+- Clock out
+- Clock in
+- 8:30 PM
+- Attempted to debug segfault in raftstore patch
+- Attended storage mtg
+- 8:42 PM
+- Clock out
+- Clock in
+- 10:20 PM
+- [Reviewed grpc coredump fix](https://github.com/tikv/tikv/pull/7251#issuecomment-605775460)
+- 10:29 PM
+- Clock out
+
+# 2020-03-28
+
+- Clock in
+- 1:50 PM
+- Hacked on compile-time-2 draft
+- Did sccache timing experiment
+- 3:00 PM
+- Clock out
+
+# 2020-03-25
+
+- Clock in
+- 4:15 PM
+- [Reviewed tiup](https://gist.github.com/brson/d37b115b5968b2dcec9d3c3eadc1f644)
+- 6:03 PM
+- Clock out
+- Clock in
+- 8:00 PM
+- Attended 1:1 w/ Jinpeng
+- 8:22 PM
+- Clock out
+
+# 2020-03-24
+
+- Clock in
+- 3:33 PM
+- Updated airbnb reservations
+- Responded to sara
+- [Updated engine PR](https://github.com/tikv/tikv/pull/7164#issuecomment-603526033)
+- 3:57 PM
+- Clock out
+- Responded to Josh
+- 7:04 PM
+- Continued attempting to run CKB devnet
+- 10:59 PM
+
+
+# 2020-03-23
+
+- Responded to Aaron
+- Responded to Sara
+- 4:37 PM
+- Signed EIN application
+- 5:11 PM
+- Clock in
+- 6:37 PM
+- [Updated engine PR](https://github.com/tikv/tikv/pull/7164#issuecomment-602961827)
+- 7:55 PM
+- Clock out
+- Hacked on wasm-encrypted-pastebin
+- 9:43 PM
+
+# 2020-03-21
+
+- Clock in
+- 2:33 PM
+- [Fixed merge conflicts in raftstore pr](https://github.com/tikv/tikv/pull/7164#issuecomment-602120820)
+- 5:49 PM
+- Helped Aimee with rust-in-blockchain.github.io
+- Hacked on dispatch-test
+- 8:32 PM
+- Clock out
+
+# 2020-03-20
+
+- Clock in (personal)
+- 2:39 PM
+- Hacked on ckb getting started blog
+- 4:27 PM
+- Clock out (personal)
+- Clock in
+- 4:27 PM
+- [Attempted to fix build for raftstore rocksdb removal](https://github.com/tikv/tikv/pull/7164#discussion_r395918662)
+- 5:34 PM
+- Clock out
+- Clock in
+- 7:52 PM
+- [Pushed a fix to raftstore rocksdb removal](https://github.com/tikv/tikv/pull/7164/commits/b4ea5d938a46bc93c37cf0631d762f27843740d1)
+- 8:10 PM
+- Clock out
+
+# 2020-03-19
+
+- Clock in
+- 6:31 PM
+- Updated engine-traits-even-more-raftstore branch
+- 7:44 PM
+- [Posted PR to remove engine dep from raftstore](https://github.com/tikv/tikv/pull/7164)
+- 8:09 PM
+- [Reviewed apply.rs patch](https://github.com/tikv/tikv/pull/7119#pullrequestreview-378208233)
+- 8:46 PM
+- Posted daily report
+- 8:52 PM
+- Clock out
+
+# 2020-03-18
+
+- Clock in
+- 1:57 PM
+- [Updated engine abstraction issue](https://github.com/tikv/tikv/issues/6402#issuecomment-600835210)
+- 2:11 PM
+- [Updated raftstore pr](https://github.com/tikv/tikv/pull/7032#issuecomment-600844070)
+- 2:31 PM
+- Clock out
+- Did airbnb reviews
+- Responded to mom
+- Responded to Sarah
+- 2:46 PM
+- Ordered EIN for Common Orbit
+- 3:02 PM
+- Responded to various emails
+- 3:29 PM
+- Clock in
+- 5:30 PM
+- Hacked on dispatch-test
+- 7:40 PM
+- Clock out
+
+# 2020-03-17
+
+- Clock in
+- 2:29 PM
+- [Updated raftstore pr to master](https://github.com/tikv/tikv/pull/7032#issuecomment-600298518)
+- 2:40 PM
+- [Reviewed writebatchvec patch](https://github.com/tikv/tikv/pull/7111#pullrequestreview-376423494)
+- 3:41 PM
+- [Reviewed writebatchvec patch](https://github.com/tikv/tikv/pull/7111#pullrequestreview-376426699)
+- 4:00 PM
+- [Updated engine crate pr to master](https://github.com/tikv/tikv/pull/7033#issuecomment-600325965)
+- 4:13 PM
+- Updated engine-traits-even-more-raftstore branch
+- 5:25 PM
+- [Resolved conflicts on raftstore pr](https://github.com/tikv/tikv/pull/7032#issuecomment-600356049)
+- 5:55 PM
+- Clock out
+- Attempted to follow dev instructions for CKB
+- 9:24 PM
+- Clock in
+- 9:33 PM
+- [Read patch to remove engine from apply.rs](https://github.com/tikv/tikv/pull/7119#issuecomment-600409262)
+- 9:41 PM
+- Chatted w/ Little-Wallace
+- 9:47 PM
+- Clock out
+
+
+# 2020-03-15
+
+- [Commented on Rust+wasm](https://www.reddit.com/r/rust/comments/fj5ni7/why_is_rust_always_combined_withtalked_about_with/fkm1h4f?utm_source=share&utm_medium=web2x)
+- 6:39 PM
+- Clock in
+- 6:46 PM
+- [Re-reviewed mutable patch](https://github.com/tikv/tikv/pull/6725)
+- 6:46 PM
+- Clock out
+- Clock in
+- 8:30 PM
+- Attended storage mtg
+- 8:51 PM
+- Clock out
+
+# 2020-03-14
+
+- Added to rust-anthology
+- 7:10 PM
+
 # 2020-03-13
 
 - Clock in
