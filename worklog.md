@@ -6,6 +6,244 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-07-08
+
+- Rented a car
+- 2:40 PM
+
+# 2020-07-07
+
+- Clock in (HackFS)
+- 10:07 PM
+- Updated hacklog
+- 10:46 PM
+- Clock out (HackFS)
+
+# 2020-07-06
+
+- Clock in (HackFS)
+- 10:15 PM
+- [Posted hacklog](https://github.com/Aimeedeer/bigannouncement/blob/master/doc/hacklog.md#20200706)
+- 11:17 PM
+- Clock out (HackFS)
+
+# 2020-07-05
+
+- Clock in (PingCAP)
+- 3:51 PM
+- [Attempted to merge afl arm fix](https://github.com/tikv/tikv/pull/8151#issuecomment-653943806)
+- 3:55 PM
+- Attempted to build on arm
+- 4:02 PM
+- [Posted PR to remove uses of raw_util::new_engine](https://github.com/tikv/tikv/pull/8196)
+- 5:17 PM
+- Posted daily update
+- Posted weekly todos
+- 5:18 PM
+- Clock out (PingCAP)
+- Clock in (finance)
+- 5:37 PM
+- Prepared Monday options trades
+- 6:16 PM
+- Clock out (finance)
+- Clock in (PingCAP)
+- 8:28 PM
+- Attended storage mtg
+- 8:55 PM
+- Clock out (PingCAP)
+
+# 2020-07-04
+
+- Clock in (HackFS)
+- 4:00 PM
+- Prototyped the UI
+- 5:11 PM
+- Clock out (HackFS)
+
+# 2020-07-03
+
+- Clock in (HackFS)
+- 10:00 PM
+- Prototyped the UI
+- 11:59 PM
+- Clock out (HackFS)
+
+# 2020-07-01
+
+- Clock in (rib)
+- 3:15 PM
+- Hacked on rib
+- 5:54 PM
+- Clock out (rib)
+
+# 2020-06-30
+
+- Clock in (HackFS)
+- 4:00 PM
+- 6:30 PM
+- Clock out (HackFS)
+- Clock in (HackFS)
+- 10:00 PM
+- 10:46 PM
+- Clock out (HackFS)
+
+# 2020-06-29
+
+- Clock in (finance)
+- 10:54 AM
+- Placed options orders
+- 2:00 PM
+- Clock out (finance)
+
+# 2020-06-28
+
+- Clock in
+- 3:43 PM
+- [Fixed build for removing Engines container](https://github.com/tikv/tikv/pull/8139#issuecomment-650828466)
+- 4:08 PM
+- Hacked on removing engine crate
+- Built tikv on ARM
+- Looked into making minitrace-rust work on ARM
+- 5:05 PM
+- [Fixed minitrace-rust build on ARM](https://github.com/pingcap-incubator/minitrace-rust/pull/12)
+- 5:15 PM
+- [Posted PR to remove engine crate](https://github.com/tikv/tikv/pull/8150)
+- 5:47 PM
+- [Posted PR to fix afl build on ARM](https://github.com/tikv/tikv/pull/8151)
+- 5:49 PM
+- Posted daily updates
+- Posted weekly todos
+- 5:51 PM
+- Clock in (finance)
+- 6:09 PM
+- Planned weekly options
+- 7:22 PM
+- Clock out (finance)
+- Clock in
+- 8:30 PM
+- Attended storage mtg
+- 8:45 PM
+- Clock out
+
+
+# 2020-06-24
+
+- Clock in
+- 5:20 PM
+- Reviewed new contract
+- 5:29 PM
+- Clock out
+- Clock in
+- 6:29 PM
+- [Fixed build error in engine::rocks PR](https://github.com/tikv/tikv/pull/8106#issuecomment-649163183)
+- 7:42 PM
+- [Commented on removing protobuf dependency from engine_traits](https://github.com/tikv/tikv/issues/6402#issuecomment-649177384)
+- 8:33 PM
+- [Posted pr to remove engine::Engines](https://github.com/tikv/tikv/pull/8139)
+- 8:35 PM
+- Clock out
+
+# 2020-06-22
+
+- Clock in
+- 6:00 PM
+- Attended sv meetings
+- 7:07 PM
+- Clock out
+
+# 2020-06-18
+
+- Clock in
+- 3:40 PM
+- Chatted with Yi Wu about engine_traits abstractions
+- 4:43 PM
+- Clock out
+- Clock in
+- 6:15 PM
+- Chatted with Yi Wu about engine_traits abstractions
+- 6:53 PM
+- Clock out
+- Worked on dadjam 2020
+- 7:09 PM
+
+# 2020-06-17
+
+- Clock in
+- 6:24 PM
+- [Asked for help merging doc pr](https://github.com/tikv/tikv/pull/7842)
+- 6:26 PM
+- Hacked on removing Engines from engine crate
+- Hacked on removing rocks module from engine crate
+- Updated daily report
+- 6:28 PM
+- [Posted PR to move engine::rocks to engine_rocks::raw](https://github.com/tikv/tikv/pull/8106)
+- 7:22 PM
+- Attended 1:1
+- 7:51 PM
+- Clock out
+
+# 2020-06-14
+
+- Clock in
+- 5:42 PM
+- [Attempted to merge doc pr](https://github.com/tikv/tikv/pull/7842#issuecomment-643839317)
+- 5:49 PM
+- Hacked on removing Engines from engine crate
+- Hacked on removing rocks module from engine crate
+- 7:31 PM
+- Clock out
+- Clock in
+- 8:30 PM
+- Attended storage mtg
+- 9:00 PM
+- Clock out
+
+# 2020-06-11
+
+- Clock in
+- 4:20 PM
+ [Split compile-time-2 draft into 3 parts](https://github.com/brson/hackmd-collab)
+- 7:02 PM
+- Clock out
+
+# 2020-06-09
+
+- [Posted MobileCoin doc fix](https://github.com/mobilecoinofficial/mobilecoin/pull/207)
+- 6:40 PM
+
+# 2020-06-03
+
+- Clock in
+- 4:24 PM
+- Sent email to Jinpeng re contract
+- Chatted w/ Queeny
+- 4:40 PM
+- Clock out
+- [Merged rib pr](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/19)
+- 5:48 PM
+- Wrote intro to rib
+- 7:12 PM
+
+# 2020-06-02
+
+- Clock in
+- 4:00 PM
+- Drafted contract renegotiation letter
+- 4:48 PM
+- Drafted blog post about TiKV issues
+- 8:08 PM
+- Clock out
+- Asked skade to publish new leveldb bindings per https://github.com/skade/leveldb/issues/37
+- 11:41 PM
+
+# 2020-05-31
+
+- Clock in
+- 6:00 PM
+- Drafted potential resignation letter
+- 7:00 PM
+- Clock out
+
 # 2020-05-29
 
 - Clock in
