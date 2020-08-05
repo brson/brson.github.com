@@ -6,10 +6,255 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-08-05
+
+- Clock in (rib)
+- 12:00 AM
+- Wrote intro
+- Wrote spotlight
+- [Closed rib PR](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/22)
+- 1:38 AM
+
+# 2020-08-02
+
+- Clock in (PingCAP)
+- 6:30 PM
+- [Submitted PR addiing more generics to raftstore](https://github.com/tikv/tikv/pull/8384)
+- 7:12 PM
+- Attended storage mtg
+- 8:45 PM
+- [Closed raftstore generics PR](https://github.com/tikv/tikv/pull/8384#issuecomment-667774660)
+- 8:47 PM
+- [Reviewed raftstore generics PR](https://github.com/tikv/tikv/pull/8376#pullrequestreview-459719935)
+- 8:50 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 11:38 PM
+- Chatted w/ Qupeng
+- 11:38 PM
+
+# 2020-07-30
+
+- Clock in (PingCAP)
+- 1:54 PM
+- [Reviewed jemalloc patch](https://github.com/tikv/tikv/pull/8324#issuecomment-666740514)
+- Rebased raftstore generics patch
+- 4:21 PM
+- Clock out (PingCAP)
+
+# 2020-07-29
+
+- Clock in (HackFS)
+- 2:20 PM
+- Added markdown support
+- 2:41 PM
+- Added error handling
+- 3:50 PM
+- Use the contract revert message
+- 4:28 PM
+- Updated status UI
+- Added block explorer links
+- 6:26 PM
+- Clock out (HackFS)
+
+# 2020-07-27
+
+- Clock in (finance)
+- 10:00 AM
+- Placed options orders
+- 1:27 PM
+- Clock out (finance)
+
+# 2020-07-24
+
+- Clock in (PingCAP)
+- 7:25 PM
+- Hacked on raftstore generics
+- 7:54 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 8:22 PM
+- Hacked on raftstore generics
+- 8:33 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:30 PM
+- Hacked on raftstore generics
+- 10:21 PM
+- Clock out (PingCAP)
+
+# 2020-07-23
+
+- Clock in (PingCAP)
+- 5:04 PM
+- [Commented on raftstore generics patch](https://github.com/tikv/tikv/pull/8284#discussion_r459775505)
+- 5:06 PM
+- [Merged master into rafstore generics patch](https://github.com/tikv/tikv/pull/8284#issuecomment-663281976)
+- 5:31 PM
+- [Updated raftstore generics PR](https://github.com/tikv/tikv/pull/8284#issuecomment-663281976)
+- 7:16 PM
+- Clock out (PingCAP)
+
+# 2020-07-21
+
+- Clock in (HackFS)
+- 4:00 PM
+- Hacked on transaction ui
+- 8:22 PM
+- Clock out (HackFS)
+- Clock in (HackFS)
+- 9:40 PM
+- Hacked on transaction ui
+- 11:43 PM
+- Clock out (HackFS)
+
+# 2020-07-20
+
+- Clock in (finance)
+- 12:00 AM
+- Planned options trades
+- 1:18 AM
+- Clock out (finance)
+- Clock in (finance)
+- 10:00 AM
+- Sold options
+- 12:43 PM
+- Clock out (finance)
+
+# 2020-07-19
+
+- Clock in (PingCAP)
+- 5:57 PM
+- Hacked on type-parameterizing raftstore
+- 7:03 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 8:10 PM
+- Hacked on type-parameterizing raftstore
+- 8:19 PM
+- [Submitted PR to parameterize mesages and peers over engines](https://github.com/tikv/tikv/pull/8284)
+- 8:28 PM
+- Attended storage mtg
+- 8:57 PM
+- Clock out (PingCAP)
+
+# 2020-07-18
+
+- Clock in (HackFS)
+- 12:00 AM
+- Tried to build unminified js-ipfs from source
+- 12:04 AM
+- Posted daily update
+- 12:57 AM
+- Clock out (HackFS)
+- Clock in (PingCAP)
+- 2:50 PM
+- [Attempted to merge makefile arm fix](https://github.com/tikv/tikv/pull/8274#issuecomment-660540938)
+- 2:52 PM
+- Hacked on type-parameterizing raftstore
+- 9:00 PM
+- Clock out (PingCAP)
+
+# 2020-07-17
+
+- Clock in (finance)
+- 5:22 PM
+- Placed new lx options
+- 5:41 PM
+- Clock out (finance)
+- Clock in (HackFS)
+- 10:30 PM
+- Tried to build unminified js-ipfs from source
+- 11:59 PM
+- Clock out (HackFS)
+
+# 2020-07-16
+
+- Clock in (PingCAP)
+- 3:12 PM
+- [Posted PR to disable SSE on ARM](https://github.com/tikv/tikv/pull/8274)
+- 3:24 PM
+- Hacked on adding generics to raftstore
+- 6:32 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 8:27 PM
+- Hacked on adding generics to raftstore
+- 9:24 PM
+- Clock out (PingCAP)
+
+# 2020-07-15
+
+- Clock in (PingCAP)
+- 4:37 PM
+- [Posted pr to remove uses of RangeProperties](https://github.com/tikv/tikv/pull/8264)
+- 6:11 PM
+- Clock out (PingCAP)
+- Clock in (HackFS)
+- 9:30 PM
+- Hacked on solidity contract and web3 integration
+- 11:19 PM
+- Clock out (HackFS)
+
+# 2020-07-14
+
+- Clock in (HackFS)
+- 5:49 PM
+- Submitted project checkin
+- 5:56 PM
+- Hacked on storing messages with js-ipfs
+- 8:30 PM
+- Clock out (HackFS)
+- Clock in (HackFS)
+- 9:30 PM
+- Published daily hacklog
+- 9:59 PM
+- Clock out (HackFS)
+
+# 2020-07-13
+
+- Clock in (finance)
+- 12:52 AM
+- Planned options trades
+- 2:00 AM
+- Clock out (finance)
+- Clock in (finance)
+- 10:00 AM
+- Executed options trades
+- 12:06 PM
+- Clock out (finance)
+
+# 2020-07-12
+
+- Clock in (HackFS)
+- 3:00 PM
+- Investigated web-suitable IPFS APIs
+- 4:22 PM
+- Clock out (HackFS)
+- Clock in (PingCAP)
+- 6:53 PM
+- Hacked on removing use of RangeProperties from raftstore
+- 8:21 PM
+- Attended storage mtg
+- 8:53 PM
+- Hacked on removing RangeProperties from raftstore
+- 9:09 PM
+- Clock out (PingCAP)
+- Clock in (HackFS)
+- 10:30 PM
+- Posted hackfs update
+- 11:53 PM
+- Clock out (HackFS)
+
 # 2020-07-08
 
 - Rented a car
 - 2:40 PM
+- Clock in (HackFS)
+- 10:45 PM
+- Posted daily log
+- 11:23 PM
+- Clock out (HackFS)
 
 # 2020-07-07
 
