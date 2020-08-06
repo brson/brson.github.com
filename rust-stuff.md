@@ -72,7 +72,7 @@ interests as time passes.
   preferred installation method on all supported platforms.
 
 * Created [Servo], the web browser written in Rust, along with
-  [Patrick Walton] back when Rust barely worked.
+  [Patrick Walton], back when Rust barely worked.
 
 * Established and supported Rust's community meetup tradition, with
   [Erick Tryzelaar] hosting the infamous [San Francisco Bay Area Rust
