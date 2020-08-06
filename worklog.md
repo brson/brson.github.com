@@ -14,6 +14,29 @@ is not public, and there are some gaps here from 2017-2019._
 - Wrote spotlight
 - [Closed rib PR](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/22)
 - 1:38 AM
+- Wrote more intro
+- 1:58 AM
+- Clock out (rib)
+- Clock in (HackFS)
+- 1:59 PM
+- Scheduled judging slot
+- 2:15 PM
+- Clock out (HackFS)
+- Clock in (finance)
+- 1:00 PM
+- Sold options
+- 2:06 PM
+- Clock out (finance)
+- Clock in (rib)
+- 2:30 PM
+- Wrote more intro
+- 3:00 PM
+- Clock out (rib)
+- Clock in (HackFS)
+- 9:00 PM
+- Wrote script for demo video
+- 10:28 PM
+- Clock out (HackFS)
 
 # 2020-08-02
 
