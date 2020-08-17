@@ -15,15 +15,31 @@ of the pieces I've written.
   of personal and professional subject matter, and in a unique voice.
   I worked on it for over a year.
 
-* [The Rust Compilation Model Calamity][calamity]. One of the first tasks
-  PingCAP gave me was to improve TiKV compile times. Then they asked me to write
-  a blog post about it. The first draft I wrote was expansive, so I split it
-  into 10 parts. Then the first part grew too large, so I split it in 2. This is
-  that first part. It's about why Rust compile times are slow. It took me about
-  7 months to complete. I purposefully used strong, colorful language, and a
-  provocative title (though through edits I did tone it down considerably).
-  After it was posted, the first comment about it was "I hate the delivery, but
-  appreciate the insight". Still learning from that.
+* Rust Compile-time Adventures with TiKV (series):
+
+  - [The Rust Compilation Model Calamity][tikv-calamity] ([HN][tikv-calamity-hn])
+  - [Generics and Compile-time in Rust][tikv-generics] ([HN][tikv-generics-hn])
+  - [Rust's Huge Compilation Units][tikv-huge] ([HN][tikv-huge-hn])
+  - [A Few More Reasons Rust Compiles Slowly][tikv-more] ([HN][tikv-more-hn])
+
+  One of the first tasks PingCAP gave me was to improve TiKV compile times. Then
+  they asked me to write a blog post about it. The first draft I wrote was
+  expansive, so I split it into 10 parts. Then the first part grew too large, so
+  I split that in 2, then in 3, etc. So these four parts are, like, parts 1-4
+  of part 1 of 10. I'll definitely never finish the rest.
+
+  It took me about 7 months to complete the first of the series. In it, I
+  purposefully used strong, colorful language, and a provocative title (though
+  through edits I did tone it down considerably). After it was posted, the first
+  comment about it was "I hate the delivery, but appreciate the insight". Still
+  learning from that, and I still haven't read the HN comments about parts 2+.
+  Every one did hit the HN front page though, so PingCAP was happy.
+
+  The long editing process, and splitting it into so many distinct parts,
+  I think made the total work really suffer. I have negative feelings
+  about most of my work products, but I really hate this one. Also though
+  I am proud that I finished it, at least these four partrs.
+
 
 * [Fireflowers: The Rust programming language in the words of its
   practitioners][ff]. A project to capture a particular moment in time
@@ -146,7 +162,14 @@ of the pieces I've written.
   discovered it had 27 stars on GitHub. It was delightful rediscovering this
   little thing that I did.
 
-[calamity]: https://pingcap.com/blog/rust-compilation-model-calamity/
+[tikv-calamity]: https://pingcap.com/blog/rust-compilation-model-calamity/
+[tikv-calamity-hn]: https://news.ycombinator.com/item?id=22197082
+[tikv-generics]: https://pingcap.com/blog/generics-and-compile-time-in-rust
+[tikv-generics-hn]: https://news.ycombinator.com/item?id=23534974
+[tikv-huge]: https://pingcap.com/blog/rust-huge-compilation-units/
+[tikv-huge-hn]: https://news.ycombinator.com/item?id=23608776
+[tikv-more]: https://pingcap.com/blog/reasons-rust-compiles-slowly
+[tikv-more-hn]: https://news.ycombinator.com/item?id=23534974
 [synguide]: https://gist.github.com/brson/9dec4195a88066fa42e6
 [0.1]: https://mail.mozilla.org/pipermail/rust-dev/2012-January/001256.html
 [151]: https://blog.rust-lang.org/2017/02/09/Rust-1.15.1.html

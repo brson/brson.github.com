@@ -20,6 +20,7 @@ is not public, and there are some gaps here from 2017-2019._
 - 4:13 PM
 - Hacked on Rust history
 - 5:48 PM
+- [Published weekly report](https://brson.github.io/status-reports/2020/08/16/status-report)
 
 # 2020-08-13
 
