@@ -6,6 +6,43 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+
+# 2020-08-16
+
+- Clock in (PingCAP)
+- 11:43 AM
+- [Commented on engine testing](https://github.com/tikv/tikv/issues/8452#issuecomment-674567828)
+- 1:32 PM
+- [Begin hacking on engine_test crate](https://github.com/brson/tikv/tree/engine_test)
+- 4:10 PM
+- Clock out (PingCAP)
+- Started writing a history of Rust
+- 4:13 PM
+- Hacked on Rust history
+- 5:48 PM
+
+# 2020-08-13
+
+- Clock in (PingCAP)
+- 6:09 PM
+- [Reviewed MvccPropertiesExt](https://github.com/tikv/tikv/pull/8429#pullrequestreview-467240571)
+- 6:44 PM
+- [Reviewed skiplist engine](https://github.com/tikv/tikv/pull/8430#pullrequestreview-467243836)
+- 6:51 PM
+- Chatted with greg
+- 7:03 PM
+- [Proposed engine_test crate](https://github.com/tikv/tikv/issues/8452)
+- 7:26 PM
+- Clock out (PingCAP)
+
+# 2020-08-06
+
+- Clock in (HackFS)
+- 2:30 PM
+- Recorded takes for video
+- 3:30 PM
+- Clock out (HackFS)
+
 # 2020-08-05
 
 - Clock in (rib)

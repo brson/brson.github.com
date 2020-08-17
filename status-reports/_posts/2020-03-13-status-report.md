@@ -8,7 +8,7 @@ I spent this week in Torrey, UT, near Capitol Reef National Park. Saw some
 lovely sights. Made good progress on TiKV engine abstraction. Cooked some good
 meals.
 
-<img class="status-photo" src="https://lh3.googleusercontent.com/yJpomdMoRqmM_c2ngPclfc9S_Ow3aInejM0K13S3nMXVA6QYmfTiIBx53gYWhIBB2zVtRfoibHDXFwrcXmjkMPHouSYsvq3hS8JFRQC6rPwKPfLeo2vgsARTOR13woIaTRb3h3-FyfyXFqKqYSJkbIp9HJLBXFccskJTPUasoXGyWfCYpRJgqhh5zS61DzBJ4gAXqlcP6CrNd1FYX2WOLzbehyu1ZlLpZTy773mEgkNlXRcsKenq75NUr9rt2IyRkqe_7KaUx4QHsU8T4tDgJSnDxBtjTDBg4bj3YFodGR-6WOgPYhXo6afGI3CT3QcgLaWnMK7pzxE1jHid5jASuvjZyS40bsBl2zyFvwT3xi3TD_mdKPS9CD2t5hW0sYqH8m0P5fegLPC0QXow5_U2n48kGgt1gSO8bXkt0jg597AFAMRU5ZbOkUDr4-kNfLNjkZzkq0lTblKrlKPRyaO5lKWiudUITNvL6PEXFZXRQbUx52wsP-ixA8HYXbiMYJkHXnnJEs4KMulbbAk2hKG-VcbXsNaATOw4w9vGbmXupE-DYeWQ9_emYWaHuoyWWxOysuP4QSazbFDPX_I-0fPW8pt53xWB4vfnrxEOiJeo0hEnHUkum5kewWUq1Tw2esVhvt3gTtfksRRTbsmBHYURFLyNMgshV-nA-5CZhGr5oh9lWLSVypdOR4bfi5bpWaQs-NO1ObeBgKDmErOHcaORTCvVv_OdoUUi6XaWO3fx8z7nUiFNXg=w930-h1240-no"/>
+<img class="status-photo" src="/status-photos/2020-03-13-torrey.jpg"/>
 
 ## Completed (work)
 
