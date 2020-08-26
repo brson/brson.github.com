@@ -7,6 +7,79 @@ _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
 
+# 2020-08-26
+
+- Clock in (PingCAP)
+- 5:15 PM
+- Sent invoices for August
+- 5:38 PM
+- Clock out (PingCAP)
+
+# 2020-08-25
+
+- Clock in (PingCAP)
+- 12:26 PM
+- [Closed raftstore refactoring patch](https://github.com/tikv/tikv/pull/8493)
+- 12:34 PM
+- [Re-reviewed changes to WriteBatch](https://github.com/tikv/tikv/pull/8487#issuecomment-680175417)
+- 12:47 PM
+- [Posted pr to remove uses of RocksEngine](https://github.com/tikv/tikv/pull/8507)
+- 3:19 PM
+- Clock out (PingCAP)
+- [Commented on safe transmute rfc](https://internals.rust-lang.org/t/pre-rfc-safer-transmutation/12926/11?u=brson)
+- 5:07 PM
+
+# 2020-08-24
+
+- Clock in (PingCAP)
+- 12:00 AM
+- [Posted pr to add more raftstore generics](https://github.com/tikv/tikv/pull/8493)
+- 1:29 AM
+- Clock out (PingCAP)
+- Clock in (finance)
+- 8:54 AM
+- Placed options trades
+- 10:22 AM
+- Clock out (finance)
+
+# 2020-08-23
+
+- Clock in (PingCAP)
+- 12:38 PM
+- [Reviewed write batch cleanup](https://github.com/tikv/tikv/pull/8487#pullrequestreview-473037254)
+- 2:48 PM
+- Hacked on making raftstore testable with multiple engines
+- Hacked on removing more RocksEngine deps from raftstore
+- 7:24 PM
+- Filed daily report
+- Filed weekly todos
+- 9:01 PM
+- Attended storage mtg
+- 9:53 PM PM
+- Hacked on removing more RocksEngine deps from raftstore
+- 11:59 PM
+- Clock out (PingCAP)
+
+# 2020-08-20
+
+- Clock in (PingCAP)
+- 11:17 AM
+- Began converting raftstore to use engine_test
+- 12:37 PM
+- [Reviewed jemalloc upgrade](https://github.com/tikv/tikv/pull/8463#pullrequestreview-471889629)
+- 12:47 PM
+- Removed more uses of RocksEngine from raftstore
+- 3:26 PM
+- Clock out (PingCAP)
+
+# 2020-08-18
+
+- Clock in (finance)
+- 1:30 PM
+- Placed options trades
+- 2:10 PM
+- Clock out (finance)
+
 # 2020-08-16
 
 - Clock in (PingCAP)
@@ -21,6 +94,8 @@ is not public, and there are some gaps here from 2017-2019._
 - Hacked on Rust history
 - 5:48 PM
 - [Published weekly report](https://brson.github.io/status-reports/2020/08/16/status-report)
+- Updated list of personal writings
+- 9:08 PM
 
 # 2020-08-13
 
@@ -92,7 +167,8 @@ is not public, and there are some gaps here from 2017-2019._
 - Clock in (PingCAP)
 - 11:38 PM
 - Chatted w/ Qupeng
-- 11:38 PM
+- 11:39 PM
+- Clock out (PingCAP)
 
 # 2020-07-30
 
