@@ -81,7 +81,7 @@ I create a testnet account,
 `floopy.testnet`,
 and a recovery phrase.
 
-The NEAR explorer page for my this account is
+The NEAR explorer page for my account is
 
 > <https://explorer.testnet.near.org/accounts/floopy.testnet>
 
@@ -702,7 +702,7 @@ not explaining the SDK's custom data types,
 but it's a bit misleading.
 It's probably not too confusing to say something more like,
 "status messages are stored in an `UnorderedMap`,
-which is similar to the standard rust `HashMap`".
+which is similar to the standard Rust `HashMap`".
 
 I note that the value returned from
 `env::signer_account_id()` appears to be a `String`,
