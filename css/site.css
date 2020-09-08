@@ -70,6 +70,7 @@ pre code {
     white-space: pre;
     margin-left: 0;
     margin-right: 0;
+    line-height: 1.8rem;
 }
 
 blockquote > p {
@@ -77,6 +78,14 @@ blockquote > p {
     margin-top: 1em;
     margin-bottom: 1em;
     margin-left: 2rem;
+}
+
+blockquote > ul {
+    font-size: 0.8rem;
+}
+
+blockquote > ul > li {
+    margin-left: 4rem;
 }
 
 ul > li {
