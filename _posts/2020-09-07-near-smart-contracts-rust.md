@@ -492,8 +492,7 @@ I am going to proceed to set a status message for a second account.
 Seems like good NEAR practice to get used to juggling multiple accounts.
 
 I create another account,
-this time from the command line:
-
+this time from the command line.
 The `rust-status-message` docs indicate the command for creating a new account is
 
 ```
