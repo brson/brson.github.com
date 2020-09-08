@@ -7,6 +7,77 @@ _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
 
+# 2020-09-07
+
+- Practiced coq via software foundations
+- 3:21 AM
+- Clock in
+- 4:15 PM
+- Clock out
+
+# 2020-09-06
+
+- Clock in
+- 4:00 PM
+- Worked through NEAR beginner docs
+- 6:27 PM
+- Clock out
+- Clock in (PingCAP)
+- 9:30 PM
+- Attended storage mtg
+- 10:01 PM
+- Clock out (PingCAP)
+
+# 2020-09-05
+
+- Clock in (PingCAP)
+- 4:08 PM
+- Rebased CompactedEvent abstraction branch
+- 4:33 PM
+- Completed security awareness training
+- 4:45 PM
+- [Posted CompactedEvent pr](https://github.com/tikv/tikv/pull/8601)
+- Posted daily status report
+- 7:31 PM
+- Clock out (PingCAP)
+
+# 2020-09-02
+
+- Clock in (finance)
+- 12:00 PM
+- Placed options trades
+- 1:09 PM
+- Clock out (finance)
+- Clock in (rib)
+- 2:31 PM
+- Hacked on rib
+- 7:41 PM
+- Clock out (rib)
+
+# 2020-08-31
+
+- Clock in (finance)
+- 2:00 PM
+- Placed options trades
+- 3:00 PM
+- Clock out (finance)
+
+# 2020-08-30
+
+- Clock in (PingCAP)
+- 3:53 PM
+- Investigated abstraction of PerfContext
+- Investigated abstraction of CompactedEvent
+- 4:44 PM
+- Began abstracting CompactedEvent
+- 6:45 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:28 PM
+- Attended storage mtg
+- 9:56 PM
+- Clock out (PingCAP)
+
 # 2020-08-26
 
 - Clock in (PingCAP)
