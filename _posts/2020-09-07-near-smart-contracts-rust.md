@@ -889,7 +889,7 @@ I go through the build-deploy process again,
 and this time I get a different result.
 
 This time,
-after delpoying the new contract,
+after deploying the new contract,
 I see that I no longer have a status message:
 
 ```
