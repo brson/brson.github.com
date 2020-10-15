@@ -6,6 +6,207 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-10-14
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Hacked on simple storage engine
+- 4:20 AM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 11:36 PM
+
+
+# 2020-10-13
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Hacked on simple storage engine
+- 3:00 AM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 4:00 PM
+- Hacked on simple storage engine
+- 4:30 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 5:20 PM
+- Hacked on simple storage engine
+- 8:00 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 8:33 PM
+- Hacked on simple storage engine
+- 8:41 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 10:00 PM
+- Hacked on simple storage engine
+- 11:59 PM
+- Clock out (PingCAP)
+
+# 2020-10-12
+
+- Clock in (finance)
+- 8:55 AM
+- Placed options trades
+- 12:40 PM
+- Clock out (finance)
+- Clock in (PingCAP)
+- 6:50 PM
+- Sketch out API for simple tikv-specific storage engine
+- 7:39 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:11 PM
+- Hacked on simple storage engine
+- 11:59 PM
+- Clock out (PingCAP)
+
+# 2020-10-11
+
+- Clock in (PingCAP)
+- 12:31 AM
+- Implement sled iterators
+- 3:42 AM
+- Clock out (PingCAP)
+- Hacked on docuverse
+- 8:12 PM
+
+# 2020-10-10
+
+- Clock in (writing)
+- 3:11 PM
+- Hacked on Rust is for Blockchain
+- 4:55 PM
+- Clock out (writing)
+- Clock in (PingCAP)
+- 5:40 PM
+- Hacked on engine_sled and engine_traits_tests
+- 6:50 PM
+- Clock out (PingCAP)
+
+# 2020-10-08
+
+- Clock in (PingCAP)
+- 3:42 PM
+- Rebased engine_test patch and asked for review
+- Continued implementing engine_sled
+- Continued removing CFNamesExt
+- 6:54 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:00 PM
+- Attended storage mtg
+- 9:18 PM
+- Hacked on engine_traits_tests
+- 9:26 PM
+- Clock out (PingCAP)
+
+# 2020-10-05
+
+- Clock in (finance)
+- 8:30 AM
+- Placed options trades
+- 10:33 AM
+- Clock out (finance)
+
+# 2020-10-01
+
+- Clock in (PingCAP)
+- 3:13 PM
+- [Updated engine_test PR for makefile integration](https://github.com/tikv/tikv/pull/8725#issuecomment-702416246)
+- 4:49 PM
+- Integrated engine_sled into engine_test
+- Created engine_traits_tests and began writing tests for engine_traits
+- Hacked on removing column family handles from engine_traits
+- 7:09 PM
+- Clock out (PingCAP)
+
+# 2020-09-27
+
+- Clock in (PingCAP)
+- 9:00 PM
+- Attended storage mtg
+- 9:49 PM
+- Clock out (PingCAP)
+
+# 2020-09-23
+
+- Clock in (PingCAP)
+- 5:26 PM
+- [Attempted to merge tikv generics patch](https://github.com/tikv/tikv/pull/8704#issuecomment-698004866)
+- 5:29 PM
+- Rebased engine_test patch
+- 5:33 PM
+- [Posted engine_test patch](https://github.com/tikv/tikv/pull/8725)
+- 6:17 PM
+- 7:48 PM
+- Clock out (PingCAP)
+
+# 2020-09-21
+
+- Clock in (finance)
+- 8:30 AM
+- Placed options orders
+- 10:54 AM
+- Clock out (finance)
+
+# 2020-09-20
+
+- Clock in (PingCAP)
+- 4:33 PM
+- Rebased engine_test patch
+- Continued abstracting raftstore tests over engine_test
+- [Posted small patch for abstracting tikv crate](https://github.com/tikv/tikv/pull/8704)
+- Hacked on abstracting tikv rocksdb_engine module over engines
+- 9:18 PM
+- Attended storage mtg
+- 9:49 PM
+- Clock out (PingCAP)
+- Clock in (finance)
+- 11:34 PM
+- Reviewed last week's performance
+- Planned tomorrow's moves
+- 11:52 PM
+- Clock out (finance)
+
+# 2020-09-18
+
+- Clock in (cocoverse)
+- 3:00 PM
+- Added recipes
+- 4:04 PM
+- Clock out (cocoverse)
+- Clock in (finance)
+- 4:05 PM
+- 6:54 PM
+- Clock out (finance)
+
+# 2020-09-14
+
+- Clock in (finance)
+- 10:00 AM
+- Placed options orders
+- 12:51 PM
+- Clock out (finance)
+
+# 2020-09-13
+
+- Clock in (PingCAP)
+- 3:47 PM
+- Rebased engine_test patch
+- [Fixed CompactedEvent PR](https://github.com/tikv/tikv/pull/8601#issuecomment-691731858)
+- Continued converting raftstore tests to engine_test
+- 5:04 PM
+- Posted weekly todos
+- 6:12 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 8:21 PM
+- Continued converting raftstore tests to engine_test
+- 9:17 PM
+- Clock out (PingCAP)
 
 # 2020-09-07
 
@@ -13,6 +214,8 @@ is not public, and there are some gaps here from 2017-2019._
 - 3:21 AM
 - Clock in
 - 4:15 PM
+- [Postetd blog about NEAR contract development](https://brson.github.io/2020/09/07/near-smart-contracts-rust)
+- 10:32 PM
 - Clock out
 
 # 2020-09-06
