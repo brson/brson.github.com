@@ -6,6 +6,140 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-10-28
+
+- Reviewed Ayinger Bavarian Pils
+- 4:17 PM
+
+# 2020-10-26
+
+- Hacked on blam
+- 12:41 AM
+- Clock in (finance)
+- 8:30 AM
+- Placed options trades
+- 11:07 AM
+- Clock out (finance)
+- Clock in (personal)
+- 11:08 AM
+- Hacked on blam
+- 1:14 PM
+- Clock out (personal)
+- Clock in (personal)
+- 4:50 PM
+- Hacked on blam parser
+- 6:35 PM
+- Clock out (personal)
+- Clock in (personal)
+- 8:22 PM
+- Hacked on blam parser
+- 10:40 PM
+- Clock out (personal)
+
+# 2020-10-23
+
+- Clock in (personal)
+- 3:28 PM
+- Worked on ctk
+- 5:41 PM
+- Clock out (personal)
+
+# 2020-10-22
+
+- Hacked on website for CHTK
+- 12:35 AM
+- Clock in (PingCAP)
+- 4:28 PM
+- Rebased engine_traits_tests
+- Hacked on removing RocksEngine from tikv
+- [Posted engine abstraction status update](https://github.com/tikv/tikv/issues/6402#issuecomment-714802531)
+- 5:43 PM
+- [Closed old leak fix](https://github.com/tikv/tikv/pull/6120#issuecomment-714805886)
+- 5:53 PM
+- Hacked on removing RocksEngine from tikv
+- 6:50 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 8:06 PM
+- Hacked on removing RocksEngine from tikv
+- 8:13 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 8:58 PM
+- Attended storage mtg
+- 9:25 PM
+- Clock out (PingCAP)
+
+# 2020-10-20
+
+- Clock in (PingCAP)
+- 5:50 PM
+- Merged engine_test patch with master
+- Continued removing CFNamesEXt
+- Built and tested agatedb
+- 6:50 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- Merged engine_test PR
+- 7:45 PM
+- Chatted w/ LittleWallace about link time
+- 8:28 PM
+- [Fixed ub in agatedb](https://github.com/tikv/agatedb/pull/24)
+- 8:35 PM
+- Rebased engine_traits_tests / sled patch
+- Rebased cfhandle removal patch
+- 8:37 PM
+- [Posted patch to remove CFHandle from engine_traits](https://github.com/tikv/tikv/pull/8856)
+- 9:39 PM
+- Clock out (PingCAP)
+
+# 2020-10-19
+
+- Clock in (finance)
+- 10:22 AM
+- Placed options trades
+- 12:42 PM
+- Clock out (finance)
+
+# 2020-10-17
+
+- Clock in (PingCAP)
+- 10:30 AM
+- Hacked on simple storage engine
+- 12:24 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 5:30 AM
+- Hacked on simple storage engine
+- 6:56 PM
+- Clock out (PingCAP)
+
+# 2020-10-16
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Hacked on simple storage engine
+- 12:56 PM
+- Clock out (PingCAP)
+
+# 2020-10-15
+
+- Clock in (PingCAP)
+- 6:00 PM
+- Submitted invoices
+- 6:48 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:00 PM
+- Attended storage mtg
+- 9:30 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 11:00 PM
+- Hacked on simple storage engine
+- 11:59 PM
+- Clock out (PingCAP)
+
 # 2020-10-14
 
 - Clock in (PingCAP)
@@ -13,9 +147,6 @@ is not public, and there are some gaps here from 2017-2019._
 - Hacked on simple storage engine
 - 4:20 AM
 - Clock out (PingCAP)
-- Clock in (PingCAP)
-- 11:36 PM
-
 
 # 2020-10-13
 
