@@ -106,6 +106,7 @@ hr {
     margin-bottom: 2rem;
 }
 
-img.status-photo {
+img.status-photo,
+img.beer-photo {
     max-width: 100%;
 }

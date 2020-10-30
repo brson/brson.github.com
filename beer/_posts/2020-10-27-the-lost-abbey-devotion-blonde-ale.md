@@ -8,6 +8,9 @@ San Marcos, California.
 
 "Belgian-inspired blonde ale".
 
+<img class="beer-photo" src="/beer/images/2020-10-27-the-lost-abbey-devotion-blonde-ale.jpg"/>
+
+
 ## Appearance
 
 Copper, deepr than gold, but not amber.
@@ -16,11 +19,13 @@ Slightly cloudy.
 
 4
 
+
 ## Smell
 
 Slightly sweet and fruity, peach. Typical of Belgian styles.
 
 4
+
 
 # Taste
 
@@ -33,9 +38,13 @@ Bitterness lingers, coating the back of the mouth.
 
 4
 
+
 ## Mouthfeel
 
 Smooth.
+
+3
+
 
 ## Overall
 
@@ -44,9 +53,5 @@ Although I don't think this tastes like a blonde,
 I like the lack of sweetness,
 have been tired of sweet Belgian styles lately.
 I drank it fast and still want more.
-
-4
-
-## Grade
 
 4

@@ -6,6 +6,7 @@ Bavarian Pils.
 Ayinger.
 Aying, Germany.
 
+<img class="beer-photo" src="/beer/images/2020-10-28-ayinger-bavarian-pils.jpg"/>
 
 
 ## Appearance
@@ -15,6 +16,7 @@ Bubbly.
 Decently thick head that clings to glass as it recedes.
 
 4
+
 
 ## Smell
 
@@ -29,6 +31,7 @@ Citrusy, acidic.
 "I love this smell".
 
 5
+
 
 ## Taste
 
@@ -49,6 +52,7 @@ Could drink this all day.
 
 5
 
+
 ## Mouthfeel
 
 Goes down easy.
@@ -60,15 +64,12 @@ at least not as strongly.
 
 4
 
+
 ## Overall
 
 I've avoided pilsners for the most part because they are not "interesting",
 but I'm super impressed with this beer.
 
 Definitely something I could drink a lot of.
-
-5
-
-## Grade
 
 5

@@ -6,6 +6,8 @@ Nut Brown Ale.
 Samuel Smith.
 Yorks, England.
 
+<img class="beer-photo" src="/beer/images/2020-10-30-samuel-smith-nut-brown-ale.jpg"/>
+
 
 ## Appearance
 
@@ -17,6 +19,7 @@ Tiny bubbles trickling upward.
 Creates an expectation of complex flavor.
 
 4
+
 
 ## Smell
 
@@ -36,6 +39,7 @@ Need to remember to swirl before smelling.
 
 3
 
+
 ## Taste
 
 Unexpectedly sour.
@@ -44,6 +48,7 @@ Although, it does taste fruity,
 and it does _smell_ fruity.
 
 3
+
 
 ## Mouthfeel
 
@@ -68,8 +73,3 @@ it's fine, but not the version of the style I would pick off the shelf.
 I think this brewer is overrated.
 
 2
-
-
-## Grade
-
-3

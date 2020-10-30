@@ -10,6 +10,9 @@ Portland, Maine.
 
 Brewed with coriander.
 
+<img class="beer-photo" src="/beer/images/2020-10-27-allagash-river-trip.jpg"/>
+
+
 ## Appearance
 
 Hazy, gold, orange tint.
@@ -17,11 +20,13 @@ Hazy, gold, orange tint.
 
 5
 
+
 ## Smell
 
 Citrusy. Lemon. Pomelo. Smells like it will be crisp and refreshing.
 
 5
+
 
 ## Taste
 
@@ -45,6 +50,7 @@ and my impression just gets worse.
 
 2
 
+
 ## Mouthfeel
 
 Bitterness lingers on the tongue.
@@ -52,6 +58,7 @@ My mouth feels a bit numb.
 I'm smacking my tongue around to try to clean my mouth out.
 
 2
+
 
 ## Overall
 
@@ -65,9 +72,5 @@ I said outlout that I don't like it,
 a rarity.
 
 "This is a disgusting beer".
-
-2
-
-## Grade
 
 2
