@@ -3,12 +3,12 @@ layout: post
 ---
 
 Three Philosophers.
-Omme Gang brewery.
+Ommegang brewery.
 Cooperstown, NY.
 
 "A blend of quadrupel ale and kriek ale with cherries".
 
-<img class="beer-photo" src="/beer/images/2020-10-30-omme-gang-three-philosophers.jpg"/>
+<img class="beer-photo" src="/beer/images/2020-10-30-ommegang-three-philosophers.jpg"/>
 
 
 ## Appearance
