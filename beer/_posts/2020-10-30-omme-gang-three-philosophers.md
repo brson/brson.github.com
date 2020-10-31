@@ -14,6 +14,7 @@ Cooperstown, NY.
 ## Appearance
 
 Mahogany.
+Apple cider.
 Good head.
 
 Attractive can.
