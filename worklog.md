@@ -6,6 +6,15 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-11-01
+
+- Clock in (PingCAP)
+- 4:37 PM
+- Rebased patches
+- Replaced a few more rocksisms in tikv
+- 6:10 PM
+- Clock out (PingCAP)
+
 # 2020-10-28
 
 - Reviewed Ayinger Bavarian Pils
