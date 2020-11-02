@@ -10,4 +10,5 @@
 .blog-index .row span {
     margin-right: 1rem;
     font-family: 'Open Sans';
+    white-space: nowrap; /* don't break on date hyphens */
 }
