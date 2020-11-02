@@ -13,7 +13,7 @@ naturally fermented,
 aged for over two years,
 with added raspberry.
 
-I am expecting it to bee very sweet and sour.
+I am expecting it to be very sweet and sour.
 
 <img class="beer-photo" src="/beer/images/2020-11-01-allagash-coolship-red.jpg"/>
 
