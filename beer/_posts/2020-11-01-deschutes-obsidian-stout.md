@@ -37,7 +37,7 @@ Not as strong as I'd hope.
 ## Taste
 
 That is a good stout.
-No adjuncts like any popular stouts right now,
+No adjuncts like many popular stouts right now,
 but not as dull as many traditional stouts.
 
 Aimee says it's "quite a balanced beer".

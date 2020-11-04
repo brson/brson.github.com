@@ -68,7 +68,7 @@ Not something I would seek out,
 but I would try it again
 to see if my opinion of it improved.
 
-I said outlout that I don't like it,
+I said outloud that I don't like it,
 a rarity.
 
 "This is a disgusting beer".
