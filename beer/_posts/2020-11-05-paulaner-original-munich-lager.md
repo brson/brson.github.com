@@ -38,7 +38,7 @@ Only notable for its absense.
 
 Plain.
 Traditional.
-Almost like an American macro,
+Somewhat like an American macro,
 but not as metallic and boring.
 A slight bitterness,
 but this is not a beer with a strong hops character.
