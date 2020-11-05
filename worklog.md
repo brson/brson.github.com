@@ -6,6 +6,13 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-11-05
+
+- Clock in (PingCAP)
+- 4:24 PM
+- Rebased patches
+- 4:27 PM
+
 # 2020-11-04
 
 - Clock in (rib)
@@ -18,6 +25,7 @@ is not public, and there are some gaps here from 2017-2019._
 - 5:52 PM
 - Wrote a spotlight for rib
 - 6:28 PM
+- Clock out (rib)
 
 # 2020-11-02
 
