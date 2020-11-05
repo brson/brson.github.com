@@ -6,6 +6,19 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-11-04
+
+- Clock in (rib)
+- 4:16 PM
+- [Merged rib job posting](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/30)
+- 4:32 PM
+- [Merged a rib contribution](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/29#issuecomment-722016751)
+- 4:49 PM
+- [Merged a rib contribution](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/31#issuecomment-722036913)
+- 5:52 PM
+- Wrote a spotlight for rib
+- 6:28 PM
+
 # 2020-11-02
 
 - Clock in (finance)
