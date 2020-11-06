@@ -32,7 +32,9 @@ not a urine beer.
 
 ## Smell
 
-Surprisingly light smell :-l
+Surprisingly light smell.
+
+3
 
 
 ## Taste

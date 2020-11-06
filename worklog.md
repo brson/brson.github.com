@@ -12,6 +12,13 @@ is not public, and there are some gaps here from 2017-2019._
 - 4:24 PM
 - Rebased patches
 - 4:27 PM
+- [Posted patch to convert tikv crate to engine crates](https://github.com/tikv/tikv/pull/8980)
+- 5:03 PM
+- Hacked on PerfContext abstraction
+- 5:26 PM
+- Added task tracking document for engine traits
+- 5:47 PM
+- Clock out (PingCAP)
 
 # 2020-11-04
 
