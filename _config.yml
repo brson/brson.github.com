@@ -28,5 +28,8 @@ future: true
 #
 production_url : https://brson.github.io
 
+# used by jekyll-feed
+url : https://brson.github.io
+
 gems:
   - jekyll-feed
