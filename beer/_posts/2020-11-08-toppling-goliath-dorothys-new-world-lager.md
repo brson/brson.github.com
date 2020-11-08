@@ -86,7 +86,8 @@ Oh, that funk I think reminds me a bit of a Budweiser
 or some other cheap American lager that I don't often taste.
 That's interesting and connects with the "new world lager" name.
 
-So this is kind of like if Budweiser was really good.
+So this is kind of like if Budweiser was really good,
+and made with modern American craft hopping techniques.
 
 5
 
