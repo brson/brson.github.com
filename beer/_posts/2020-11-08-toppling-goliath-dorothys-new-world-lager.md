@@ -83,7 +83,7 @@ It's not awful,
 but kind of betrays the refreshing initial flavor.
 
 Oh, that funk I think reminds me a bit of a Budweiser
-or some other cheap American lager that I don't often taste.
+or some other cheap American lager that I don't often experience.
 That's interesting and connects with the "new world lager" name.
 
 So this is kind of like if Budweiser was really good,
