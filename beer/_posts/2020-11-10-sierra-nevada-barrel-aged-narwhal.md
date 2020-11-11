@@ -60,6 +60,11 @@ I have had,
 there is something kicking my tastebuds here.
 Maybe "tart" would describe it better.
 
+An hour later,
+as I dump the warm dregs at the bottom of the glass into my mouth,
+I taste something burned,
+like the char left in the frying pan after cooking.
+
 4
 
 
