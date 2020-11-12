@@ -38,7 +38,7 @@ I can smell it from two feet away.
 Sweet and alcoholic chocolate.
 
 Aimee loves the smell,
-and likens it too a room-freshening perfume.
+and likens it to a room-freshening perfume.
 
 5
 
