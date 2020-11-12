@@ -115,7 +115,7 @@ I don't think I like it,
 but I'm reluctant to give it less than a 3
 since this it has a unique flavor worth experiencing.
 
-As a slowly finish the beer over the course of the afternoon
+As I slowly finish the beer over the course of the afternoon
 I am increasingly repulsed.
 
 It reminds me of my terrible experiments mixing whatever I have
