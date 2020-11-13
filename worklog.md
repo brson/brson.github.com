@@ -6,6 +6,19 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-11-12
+
+- Clock in (PingCAP)
+- 4:40 PM
+- Rebased patches
+- Integrated blocksy2 into engine_simple
+- 5:45 PM
+- Updated weekly tasks
+- 5:59 PM
+- Began making engine_traits_tests work with blocksy2
+- 6:18 PM
+- Clock out (PingCAP)
+
 # 2020-11-11
 
 - Hacked on polkadot contract impressions
