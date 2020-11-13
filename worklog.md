@@ -6,6 +6,24 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-11-13
+
+- Clock in (PingCAP)
+- 12:07 AM
+- Implemented more engine_traits_tests
+- 1:24 AM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 2:05 AM
+- Hacked on engine_traits_tests
+- 2:59 AM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 3:51 PM
+- Hacked on engine_traits_tests
+- 5:24 PM
+- Clock out (PingCAP)
+
 # 2020-11-12
 
 - Clock in (PingCAP)
@@ -17,6 +35,13 @@ is not public, and there are some gaps here from 2017-2019._
 - 5:59 PM
 - Began making engine_traits_tests work with blocksy2
 - 6:18 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 8:00 PM
+- Attended storage mtg
+- 8:15 PM
+- Implemented features for engine_traits_tests for engine_simple
+- 8:49 PM
 - Clock out (PingCAP)
 
 # 2020-11-11
