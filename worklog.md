@@ -6,6 +6,67 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-11-17
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Modularized implementation of RaftEngine
+- 1:18 AM
+- Clock out (PingCAP)
+- Clock in (rib)
+- 2:54 PM
+- Drafted ink blog
+- [Submitted fix to ink tutorial](https://github.com/substrate-developer-hub/substrate-contracts-workshop/pull/88)
+- 4:28 PM
+- Drafted ink blog
+- 5:23 PM
+- Clock out (rib)
+
+# 2020-11-16
+
+- Clock in (finance)
+- 10:00 AM
+- Placed options orders
+- 11:46 AM
+- Clock out (finance)
+- Clock in (PingCAP)
+- 7:57 PM
+- Attended all-hands
+- 9:43 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 11:32 PM
+- Modularized implementation of RaftEngine
+- 11:59 PM
+- Clock out (PingCAP)
+
+# 2020-11-15
+
+- Clock in (PingCAP)
+- 1:52 AM
+- Hacked on engine_traits_tests
+- Refactored WriteBatch api
+- 4:01 AM
+- Clock out (PingCAP)
+- Clock in (personal)
+- 4:09 PM
+- Explored substrate programming
+- 6:39 PM
+- Clock out (personal)
+
+# 2020-11-14
+
+- Clock in (personal)
+- 12:00 AM
+- Hacked on moment
+- 1:48 AM
+- Clock out (personal)
+- Clock in (PingCAP)
+- 9:03 PM
+- Hacked on engine_traits WriteBatch refactoring
+- 10:53 PM
+- Clock out (PingCAP)
+
 # 2020-11-13
 
 - Clock in (PingCAP)
@@ -23,6 +84,22 @@ is not public, and there are some gaps here from 2017-2019._
 - Hacked on engine_traits_tests
 - 5:24 PM
 - Clock out (PingCAP)
+- Clock in (PingCAP)
+- 7:49 PM
+- Added tests for delete_range_cf to engine_traits_tests
+- Implemented delete_range_cf in engine_simple
+- 9:07 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:22 PM
+- Investigated WriteBatch api
+- 9:46 PM
+- Clock out (PinGCAP)
+- Clock in (personal)
+- 11:04 PM
+- Hacked on moment
+- 11:59 PM
+- Clock out (personal)
 
 # 2020-11-12
 
