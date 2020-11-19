@@ -14,7 +14,7 @@ Oh, I'm craving it now.
 
 Anyway,
 this is the little brother of the 120 Minute,
-with the 60 minute being the baby of the family.
+with the 60 Minute being the baby of the family.
 
 I'm psyched.
 
