@@ -6,6 +6,34 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-11-22
+
+- Clock in (PingCAP)
+- 2:03 AM
+
+# 2020-11-20
+
+- Clock in (rib)
+- 6:44 PM
+- Drafted parity ink blog
+- 10:30 PM
+- Clock out (rib)
+
+# 2020-11-19
+
+- Clock in (PingCAP)
+- 3:47 PM
+- Rebased patches
+- [Posted generic raft engine patch](https://github.com/tikv/tikv/pull/9075)
+- [Posted writebatch api cleanup](https://github.com/tikv/tikv/pull/9076)
+- 5:52 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 7:57 PM
+- Attended storage mtg
+- 8:15 PM
+- Clock out (PingCAP)
+
 # 2020-11-17
 
 - Clock in (PingCAP)
