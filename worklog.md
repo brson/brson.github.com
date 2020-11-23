@@ -6,10 +6,7 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
-# 2020-11-22
-
-- Clock in (PingCAP)
-- 2:03 AM
+ 
 
 # 2020-11-20
 
