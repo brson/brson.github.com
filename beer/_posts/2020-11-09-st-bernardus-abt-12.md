@@ -21,7 +21,7 @@ after previously reviewing their Tripel and Christmas ale.
 
 ## Appearance
 
-Typically frothy poor for a Belgian strong ale.
+Typically frothy pour for a Belgian strong ale.
 Almost uncontrollable.
 Big bubbles that hold their shape well.
 Looks like the very best polluted lake.
