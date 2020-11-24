@@ -6,6 +6,25 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-11-24
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Hacked on write batches
+- 1:11 AM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 11:20 AM
+- Hacked on write batches
+- 11:45 AM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 12:44 PM
+- Wrote more tests for write batches
+- [Updated writebatch pr](https://github.com/tikv/tikv/pull/9076)
+- 1:36 PM
+- Clock out (PingCAP)
+
 # 2020-11-23
 
 - Clock in (finance)
@@ -13,6 +32,14 @@ is not public, and there are some gaps here from 2017-2019._
 - Placed options orders
 - 12:47 PM
 - Clock out (finance)
+- Clock in (PingCAP)
+- 11:25 PM
+- Rebased engine_traits_tests
+- [Commented on reddit markdown guide](https://www.reddit.com/r/rust/comments/jz2trz/reddits_markdown_guide_has_rust_as_its_example/gdew2pe?utm_source=share&utm_medium=web2x&context=3)
+- 11:35 PM
+- Hacked on write batches
+- 11:59 PM
+- Clock out (PingCAP)
 
 # 2020-11-20
 
