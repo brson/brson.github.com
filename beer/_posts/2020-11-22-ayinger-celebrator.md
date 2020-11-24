@@ -64,7 +64,7 @@ It's fun to smell but I'm kind of trepidatious about tasting it.
 It's very one-dimensional.
 It's a mouthful of malt drink.
 
-It's no so bad that I won't finish the bottle.
+It's not so bad that I won't finish the bottle though.
 
 2
 

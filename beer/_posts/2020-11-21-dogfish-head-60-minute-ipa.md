@@ -32,7 +32,7 @@ more comparable to Two Hearted's 7%.
 
 ## Appearance
 
-Poors easily to a perfect pillowy head.
+Pours easily to a perfect pillowy head.
 
 Bright orange and cloudy.
 

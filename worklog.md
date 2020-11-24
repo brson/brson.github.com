@@ -6,7 +6,13 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
- 
+# 2020-11-23
+
+- Clock in (finance)
+- 9:55 AM
+- Placed options orders
+- 12:47 PM
+- Clock out (finance)
 
 # 2020-11-20
 
