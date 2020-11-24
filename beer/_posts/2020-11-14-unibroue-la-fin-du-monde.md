@@ -13,7 +13,7 @@ Chambly, Canada.
 Had this one sitting in the refrigerator for a while,
 since we were super into strong Belgian ales.
 
-I've been trying to prove to Aimee that American's
+I've been trying to prove to Aimee that Americans
 (or in this case, Canadians)
 can brew a strong Belgian ale the equal of a Belgian Abbey,
 and so far have failed badly.
