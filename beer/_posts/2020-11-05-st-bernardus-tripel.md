@@ -6,7 +6,7 @@ Tripel.
 St. Bernardus.
 Watau, Belgium.
 
-I've hard their Abt 12 quadruppel a lot recently,
+I've had their Abt 12 quadruppel a lot recently,
 which is one of my favorite Belgian abbey ales,
 and recently tried their Christmas ale.
 
