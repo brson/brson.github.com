@@ -55,7 +55,7 @@ Curiously spicy aftertaste!
 Long-lived aftertaste.
 
 Aimee disagrees about the "spicyness",
-but comared to the other bourbon-barrel-aged stouts
+but compared to the other bourbon-barrel-aged stouts
 I have had,
 there is something kicking my tastebuds here.
 Maybe "tart" would describe it better.
