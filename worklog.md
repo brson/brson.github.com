@@ -6,6 +6,22 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-11-26
+
+- Clock in (PingCAP)
+- 4:50 PM
+- Updated weekly report
+- 4:59 PM
+- Clock out (PingCAP)
+
+# 2020-11-25
+
+- Clock in (PingCAP)
+- 3:23 AM
+- Wrote more tests for write batches
+- 4:24 AM
+- Clock out (PingCAP)
+
 # 2020-11-24
 
 - Clock in (PingCAP)
@@ -24,6 +40,11 @@ is not public, and there are some gaps here from 2017-2019._
 - [Updated writebatch pr](https://github.com/tikv/tikv/pull/9076)
 - 1:36 PM
 - Clock out (PingCAP)
+- Clock in (rib)
+- 5:43 PM
+- Continued ink blog
+- 6:42 PM
+- Clock out (rib)
 
 # 2020-11-23
 
