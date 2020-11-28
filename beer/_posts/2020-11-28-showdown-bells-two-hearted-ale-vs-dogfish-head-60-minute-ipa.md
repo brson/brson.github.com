@@ -39,7 +39,7 @@ Winner: BTH
 Surprisingly light smell.
 
 BTH is also surprisingly light.
-They are noticably diferent.
+They are noticably different.
 
 I feel there's a little more fruit in the BTH;
 Aimee says "grapes".
