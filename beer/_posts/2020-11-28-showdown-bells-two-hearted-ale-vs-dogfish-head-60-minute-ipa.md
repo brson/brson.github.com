@@ -22,7 +22,7 @@ Both pour a creamy white head.
 
 Both hazy orange,
 but 60 Minute is a little more yellow,
-Two Hearted more caramel
+Two Hearted more caramel.
 
 Two Hearted looks yummer.
 
