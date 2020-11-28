@@ -41,7 +41,7 @@ Surprisingly light smell.
 BTH is also surprisingly light.
 They are noticably different.
 
-I feel there's a little more fruit in the BTH;
+I think there's a little more fruit in the BTH;
 Aimee says "grapes".
 
 Now after smelling them both my nose is just confused.
