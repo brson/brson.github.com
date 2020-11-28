@@ -74,7 +74,7 @@ We've had plenty of beers that were challenging and complex,
 but were disgusting.
 This is the opposite.
 
-Twho hearted is clearly fruitier.
+Two Hearted is clearly fruitier.
 Aimee still says "grapes".
 
 The thing that is so great about the BTH is that the hoppy bitterness
