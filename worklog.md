@@ -6,6 +6,17 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-11-27
+
+- [Commented on libm license](https://github.com/rust-lang/libm/issues/215#issuecomment-734782761)
+- 5:13 AM
+- [Commented on the rust license](https://github.com/rust-lang/rust/issues/63232#issuecomment-734784695)
+- 5:24 AM
+- Hacked on parity for a while
+- 6:15 AM
+- Foolishly hacked on wasi all night
+- 9:01 AM
+
 # 2020-11-26
 
 - Clock in (PingCAP)
