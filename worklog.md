@@ -6,6 +6,12 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-11-28
+
+- Clock in (rib)
+- 5:29 PM
+- Blogged about parity
+
 # 2020-11-27
 
 - [Commented on libm license](https://github.com/rust-lang/libm/issues/215#issuecomment-734782761)
