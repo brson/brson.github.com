@@ -6,11 +6,28 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-11-29
+
+- Clock in (personal)
+- 12:00 AM
+- [Posted patch to upgrade libm in wasmi](https://github.com/paritytech/wasmi/pull/241)
+- 12:32 AM
+- Clock out (personal)
+- Hacked on stupid-paxos
+- 2:57 AM
+
 # 2020-11-28
 
 - Clock in (rib)
 - 5:29 PM
 - Blogged about parity
+- 9:00 PM
+- Clock out (rib)
+- Clock in (personal)
+- 11:00 PM
+- Hacked on wasi
+- 11:59 PM
+- Clock out (personal)
 
 # 2020-11-27
 
