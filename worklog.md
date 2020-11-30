@@ -15,6 +15,8 @@ is not public, and there are some gaps here from 2017-2019._
 - Clock out (personal)
 - Hacked on stupid-paxos
 - 2:57 AM
+- Drafted more substrate blog
+- 7:00 PM
 
 # 2020-11-28
 
