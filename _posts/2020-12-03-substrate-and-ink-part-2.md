@@ -57,7 +57,7 @@ Oh neat:
   blockchain's storage state - this enables one of the defining features of a
   Substrate-based blockchain: forkless runtime upgrades."
 
-So you customize a substrate blockchain my writing its logic in WASM,
+So you customize a substrate blockchain by writing its logic in WASM,
 which is itself stored on-chain.
 That's fun.
 
