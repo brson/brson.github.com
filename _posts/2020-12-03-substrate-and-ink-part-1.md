@@ -78,7 +78,7 @@ they implemented the main alternative Ethereum implementation,
 [OpenEthereum].
 With that experience,
 they moved on to create Polkadot,
-a proof-of-work sharded blockchain,
+a proof-of-stake sharded blockchain,
 that is in many ways similar to Ethereum 2,
 while also making several different design choices.
 
