@@ -6,6 +6,147 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2020-12-29
+
+- Clock in (PingCAP)
+- 3:21 PM
+- Rebased engine_traits_tests
+- Rebased def_raft_engine macro patch
+- Investigated `cargo check` failure on master
+- 5:45 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 6:35 PM
+- Investigated `cargo check` failure on master
+- 718 PM
+- Clock out (PingCAP)
+
+# 2020-12-27
+
+- Clock in (personal)
+- 3:40 PM
+- Hacked on contract-game
+- 4:51 PM
+- Clock out (personal)
+
+# 2020-12-26
+
+- Clock in (personal)
+- 1:52 PM
+- Hacked on nervos bugs
+- 3:24 PM
+- Clock out (personal)
+
+# 2020-12-25
+
+- Clock in (personal)
+- 4:21 PM
+- Hacked on contract-game
+- 5:26 PM
+- Clock out (personal)
+
+# 2020-12-22
+
+- Clock in (personal)
+- 3:40 PM
+- Did some more parity bounty work
+- 4:50 PM
+- Clock out (personal)
+- Clock in (personal)
+- 8:00 PM
+- Hacked on nervos bugs
+- 11:30 PM
+- Clock out (personal)
+
+# 2020-12-20
+
+- Clock in (PingCAP)
+- 7:25 PM
+- Rebased engine_traits_tests
+- 8:45 PM
+- Clock out (PingCAP)
+- Investigated Nervos bugs
+- 11:32 PM
+
+# 2020-12-18
+
+- Clock in (personal)
+- 3:13 PM
+- Submitted bug bounty report to parity
+- 6:32 PM
+- Clock out (personal)
+
+# 2020-12-17
+
+- Clock in (PingCAP)
+- 4:53 PM
+- [Commented on perfcontext pr](https://github.com/tikv/tikv/pull/9243#issuecomment-747774726)
+- 5:42 PM
+- Ran miri on agatedb skiplist again
+- Reworked perfcontext patch
+- 7:46 PM
+- Attended storage mtg
+- [Updated perfcontext pr](https://github.com/tikv/tikv/pull/9243#issuecomment-747823433)
+- 8:20 PM
+- Clock out (PingCAP)
+
+# 2020-12-14
+
+- Clock in (PingCAP)
+- 4:52 PM
+- Rebased writebatch pr
+- Rebased raftengine pr
+- 5:12 PM
+- [Investigated feedback on perfcontext pr](https://github.com/tikv/tikv/pull/9243)
+- 5:29 PM
+- Clock out (PingCAP)
+
+# 2020-12-13
+
+- Clock in (PingCAP)
+- 2:10 PM
+- [Updated writebatch pr](https://github.com/tikv/tikv/pull/9076)
+- [Updated raftengine pr](https://github.com/tikv/tikv/pull/9075)
+- 2:16 PM
+- Updated engine_traits_tests patch
+- Updated perfcontext patch
+- 2:38 PM
+- Chatted about engine_rocks::config
+- [Filed issue about engine_rocks::config](https://github.com/tikv/tikv/issues/9242)
+- 4:13 PM
+- [Posted pr to abstract PerfContext](https://github.com/tikv/tikv/pull/9243)
+- 5:42 PM
+- Clock out (PingCAP)
+
+# 2020-12-10
+
+- Clock in (PingCAP)
+- 8:56 AM
+- Updated and submitted all invoices
+- Send email to liu cong
+- 10:09 AM
+- Clock in (PingCAP)
+- Clock in (finance)
+- 10:11 AM
+- 1:04 PM
+- Clock out (finance)
+- Clock in (PingCAP)
+- 5:35 PM
+- [Updated WriteBatch patch](https://github.com/tikv/tikv/pull/9076)
+- 5:49 PM
+- [Commented on little-wallace's type parameter patch](https://github.com/tikv/tikv/pull/8983#issuecomment-742875899)
+- 5:58 PM
+- Updated report on engine traits
+- 6:18 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 7:56 PM
+- [Updated raftengine pr](https://github.com/tikv/tikv/pull/9075#issuecomment-742919715)
+- 8:14 PM
+- Attended storage mtg
+- 8:37 PM
+- Clock out (PingCAP)
+
 # 2020-11-29
 
 - Clock in (personal)
@@ -209,7 +350,7 @@ is not public, and there are some gaps here from 2017-2019._
 - 9:22 PM
 - Investigated WriteBatch api
 - 9:46 PM
-- Clock out (PinGCAP)
+- Clock out (PingCAP)
 - Clock in (personal)
 - 11:04 PM
 - Hacked on moment
@@ -360,6 +501,7 @@ is not public, and there are some gaps here from 2017-2019._
 - 6:50 PM
 - Clock out (PingCAP)
 - Clock in (PingCAP)
+- 7:10 PM
 - Merged engine_test PR
 - 7:45 PM
 - Chatted w/ LittleWallace about link time
