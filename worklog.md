@@ -6,6 +6,158 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-01-10
+
+- Clock in (PingCAP)
+- 10:29 AM
+- [Filed issue about simplifying kv module](https://github.com/tikv/tikv/issues/9480)
+- [Filed issue about merging Mutable with WriteBatch](https://github.com/tikv/tikv/issues/9481)
+- 11:02 AM
+- Rebased engine_traits_tests
+- 11:17 AM
+- Wrote tests for write batch save points
+- 1:23 PM
+- [Submitted PR for delete_range](https://github.com/tikv/tikv/pull/9482)
+- 2:25 PM
+- [Rebased generic raft engine patch](https://github.com/tikv/tikv/pull/9075)
+- 3:02 PM
+- [Rebased perfcontext patch](https://github.com/tikv/tikv/pull/9243)
+- 3:11 PM
+- Clock out (PingCAP)
+- [Mentioned 'mustprogress' llvm attribute on loop miscompilation issue](https://github.com/rust-lang/rust/issues/28728#issuecomment-757550183)
+- 3:52 PM
+- Clock in (PingCAP)
+- 5:00 PM
+- Thought a lot about how to implement range queries in engine_simple
+- Thought a lot about how to implement range properties in engine_simple
+- 6:00 PM
+- Clock out (PingCAP)
+
+# 2021-01-08
+
+- Clock in (personal)
+- 12:00 AM
+- Reviewed substrate code
+- 12:44 AM
+- Clock out (personal)
+- Clock in (personal)
+- 4:44 PM
+- Hacked on substrate
+- 6:58 PM
+- Clock out (personal)
+
+# 2021-01-07
+
+- Clock in (PingCAP)
+- 2:43 PM
+- [Rebased fix for feature build opts](https://github.com/tikv/tikv/pull/9430)
+- 2:48 PM
+- [Updated perfcontext pr](https://github.com/tikv/tikv/pull/9243#issuecomment-756397632)
+- 3:31 PM
+- [Updated raftengine macro pr](https://github.com/tikv/tikv/pull/9075#issuecomment-756424070)
+- 4:23 PM
+- Updated weekly report
+- 4:32 PM
+- Wrote more engine_traits tests
+- Wrote more engine_traits docs
+- 5:28 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 7:55 PM
+- Attended storage mtg
+- 8:19 PM
+- Clock out (PingCAP)
+- Clock in (personal)
+- 11:20 PM
+- Hacked on memstuff
+- 11:59 PM
+- Clock out (personal)
+
+# 2021-01-05
+
+- Hacked on memstuff
+- 1:09 AM
+- Clock in (personal)
+- 1:30 PM
+- Read some substrate code
+- 3:57 PM
+- Clock out (personal)
+
+# 2021-01-04
+
+- Clock in (PingCAP)
+- 3:16 PM
+- Hacked on cargo feature build fix
+- [Opened PR to fix cargo features](https://github.com/tikv/tikv/pull/9430)
+- 6:11 PM
+- Clock out (PingCAP)
+
+# 2021-01-03
+
+- Clock in (personal)
+- 4:52 PM
+- Hacked on contract-game
+- 6:37 PM
+- Clock out (personal)
+
+# 2021-01-02
+
+- Clock in (PingCAP)
+- 12:40 AM
+- Hacked on cargo feature build fix
+- 12:50 AM
+- Clock out (PingCAP)
+
+# 2021-01-01
+
+- Clock in (PingCAP)
+- 12:00 AM
+- [Hacked on cargo feature build fix](https://github.com/tikv/tikv/issues/9406)
+- 12:33 AM
+- Clock out (PingCAP)
+- Clock in (personal)
+- 1:13 PM
+- Hacked on contract-game
+- 6:54 PM
+- Clock out (personal)
+- Clock in (PingCAP)
+- 7:27 PM
+- Hacked on cargo feature build fix
+- 7:43 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 8:42 PM
+- Hacked on cargo feature build fix
+- 9:28 PM
+- Clock out (PingCAP)
+
+# 2020-12-31
+
+- Clock in (PingCAP)
+- 1:45 PM
+- [Hacked on cargo feature build fix](https://github.com/tikv/tikv/issues/9406)
+- 5:30 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 11:29 PM
+- [Hacked on cargo feature build fix](https://github.com/tikv/tikv/issues/9406)
+- 11:59 PM
+- Clock out (PingCAP)
+
+# 2020-12-30
+
+- Clock in (PingCAP)
+- 4:02 PM
+- Merged some prs to my-rust-lists
+- 6:01 PM
+- Hacked on fixing use of cargo features
+- 7:41 PM
+- [Filed issue about cargo feature build problems](https://github.com/tikv/tikv/issues/9406)
+- 8:19 PM
+- Hacked on fixing use of cargo features
+- 9:10 PM
+- Clock out (PingCAP)
+
 # 2020-12-29
 
 - Clock in (PingCAP)
@@ -125,7 +277,7 @@ is not public, and there are some gaps here from 2017-2019._
 - Updated and submitted all invoices
 - Send email to liu cong
 - 10:09 AM
-- Clock in (PingCAP)
+- Clock out (PingCAP)
 - Clock in (finance)
 - 10:11 AM
 - 1:04 PM
