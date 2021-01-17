@@ -16,7 +16,7 @@ Most languages don't have it.
 Instead, loop constructs usually have some kind of termination condition,
 your `while` and `for` loops.
 Apparently _[Sather]_ has an unconditional `loop` keyword like Rust.
-I only know this because a programming language historian mentioned it [on the bug tracker][bug].
+I only know this because a programming language historian mentioned it [on the bug tracker][bug2].
 
 Why do I love `loop`?
 
@@ -161,6 +161,7 @@ The [meeting minutes][mins] where it was approved
 just say there was consensus to add it.
 
 [bug]: https://github.com/rust-lang/rust/issues/1906
+[bug2]: https://github.com/rust-lang/rust/issues/1906#issuecomment-4240501
 [mins]: https://github.com/rust-lang/meeting-minutes/blob/master/weekly-meetings/2012-03-06.md
 [Sather]: https://en.wikipedia.org/wiki/Sather
 

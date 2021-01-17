@@ -15,6 +15,14 @@ is not public, and there are some gaps here from 2017-2019._
 - Clock out (PingCAP)
 - Wrote up some more ink notes
 - 3:18 PM
+- [Merged website PR](https://github.com/brson/brson.github.com/pull/12)
+- 5:42 PM
+- [Posted "unconditional loops are unconditionally awesome"](https://brson.github.io/2021/01/17/rust-unconditional-loops)
+- 5:42 PM
+- [Merged another old website PR](https://github.com/brson/brson.github.com/pull/11)
+- 5:43 PM
+- Tweeted my loop post
+- 5:45 PM
 
 # 2021-01-16
 
