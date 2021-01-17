@@ -6,6 +6,151 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-01-17
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Hacked on new engine_simple backend
+- 1:39 AM
+- Clock out (PingCAP)
+- Wrote up some more ink notes
+- 3:18 PM
+
+# 2021-01-16
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Hacked on new engine_simple backend
+- 1:14 AM
+- Clock out (PingCAP)
+- Clock in (personal)
+- 1:47 PM
+- Hacked on contract-game
+- 5:22 PM
+- Clock out (personal)
+- Drafted blog about `loop`
+- 6:00 PM
+- Clock in (PingCAP)
+- 10:28 PM
+- Hacked on new engine_simple backend
+- 11:59 PM
+- Clock out (PingCAP)
+
+# 2021-01-15
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Hacked on new engine_simple backend
+- 1:04 M
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 1:39 AM
+- Hacked on new engine_simple backend
+- 2:05 AM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 7:36 PM
+- Hacked on new engine_simple backend
+- 11:59 PM
+- Clock out (PingCAP)
+
+# 2021-01-14
+
+- Clock in (PingCAP)
+- 4:17 PM
+- [Reviewed metrics flusher pr](https://github.com/tikv/tikv/pull/9458#issuecomment-760515831)
+- 4:29 PM
+- [Responded to issue about Mutable/WriteBatch trait design](https://github.com/tikv/tikv/issues/9481#issuecomment-760519806)
+- 4:36 PM
+- [Pinged Little-Wallace on old typaram reduction pr](https://github.com/tikv/tikv/pull/8983#issuecomment-760521086)
+- 4:37 PM
+- [Updated tikv engine_traits pr indicate what it's blocked on](https://github.com/tikv/tikv/pull/8980#issuecomment-760525882)
+- 4:49 PM
+- [Rebased and requested review on delete_range pr](https://github.com/tikv/tikv/pull/9482#issuecomment-760526647)
+- 4:51 PM
+- [Updated generic raftstore pr](https://github.com/tikv/tikv/pull/9075#issuecomment-760528334)
+- 4:55 PM
+- [Updated perf context pr to master](https://github.com/tikv/tikv/pull/9243#issuecomment-760537095)
+- 5:14 PM
+- Ran check-build-opts.py against master
+- 5:21 PM
+- Rebased engine_traits_tests
+- 5:22 PM
+- [Posted pr to delete impl EngineIterator for DBIterator](https://github.com/tikv/tikv/pull/9507)
+- 5:57 PM
+- Began extracting tikv::storage::kv
+- [Filed issue to extract tikv::storage::kv](https://github.com/tikv/tikv/issues/9508)
+- 6:40 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 7:56 PM
+- Attended storage mtg
+- 8:19 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 11:00 PM
+- Hacked on new engine_simple backend
+- 11:59 PM
+- Clock out (PingCAP)
+
+# 2021-01-13
+
+- Clock in (PingCAP)
+- 2:23 AM
+- Hacked on commit process for engine_simple
+- 4:09 AM
+- Clock out (PingCAP)
+- [Added a readme to archaea](https://github.com/brson/archaea)
+- 6:19 PM
+
+# 2021-01-12
+
+- Clock in (PingCAP)
+- 1:32 AM
+- Experimented with new log structure for engine_simple
+- 3:03 AM
+- Clock in (PingCAP)
+- Clock in (personal)
+- 5:39 PM
+- Drafted some blog about substrate
+- 7:32 PM
+- Clock out (personal)
+- Drafted more blogs
+- 9:44 PM
+
+# 2021-01-11
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Experimented with new index structure for engine_simple
+- 12:29 AM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 1:33 AM
+- Experimented with new index structure for engine_simple
+- 2:32 AM
+- Clock out (PingCAP)
+- Clock in (finance)
+- 9:00 AM
+- Placed options orders
+- 12:15 PM
+- Clock out (finance)
+- Clock in (PingCAP)
+- 5:30 PM
+- Experimented with new index structure for engine_simple
+- 5:50 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 8:15 PM
+- Experimented with new log structure for engine_simple
+- 9:10 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 11:01 PM
+- Experimented with new log structure for engine_simple
+- 11:47 PM
+- Clock out (PingCAP)
+
 # 2021-01-10
 
 - Clock in (PingCAP)
@@ -31,6 +176,16 @@ is not public, and there are some gaps here from 2017-2019._
 - Thought a lot about how to implement range queries in engine_simple
 - Thought a lot about how to implement range properties in engine_simple
 - 6:00 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:25 PM
+- Experimented with new index structure for engine_simple
+- 10:42 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 11:22 PM
+- Experimented with new index structure for engine_simple
+- 11:59 PM
 - Clock out (PingCAP)
 
 # 2021-01-08
@@ -170,7 +325,7 @@ is not public, and there are some gaps here from 2017-2019._
 - Clock in (PingCAP)
 - 6:35 PM
 - Investigated `cargo check` failure on master
-- 718 PM
+- 7:18 PM
 - Clock out (PingCAP)
 
 # 2020-12-27
