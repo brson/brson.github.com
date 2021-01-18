@@ -147,7 +147,7 @@ issues; try to alter the example as suggested in the comments.
 
 Bonus Rust trivia:
 did you know that `loop` is an expression,
-with the same type as its `break` statements
+with the same type as its `break` statements,
 and the result of `loop` can be [assigned to a value][lv]?
 
 I did not!
