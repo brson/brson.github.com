@@ -123,7 +123,7 @@ with `while (true) { }`.
 I'm steeped enough in Rust that I don't know if writing `while (true) { }`
 brings others the same satisfaction as I get from `loop { }`,
 but I suspect not: it looks and feels just like a tiny bit of a hack.
-If I go into writing a loop by first writing `while …`
+And if I go into writing a loop by first writing `while …`
 then I am immediately presented with the question,
 "while _what_?",
 and sometimes I just don't want to think about that yet.

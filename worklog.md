@@ -23,6 +23,8 @@ is not public, and there are some gaps here from 2017-2019._
 - 5:43 PM
 - Tweeted my loop post
 - 5:45 PM
+- Clock in (PingCAP)
+- 7:16 PM
 
 # 2021-01-16
 
