@@ -67,7 +67,7 @@ Anecdotally, a small project I'm working on right now
 contains 2 instances of `loop`, 2 of [`while let`],
 and 8 of `for … in`;
 no standard `while` loops.
-And I think the loops read better than if I had
+And I think the `loop` loops read better than if I had
 tried to convert them to `while` loops.
 
 [`while let`]: https://doc.rust-lang.org/rust-by-example/flow_control/while_let.html
