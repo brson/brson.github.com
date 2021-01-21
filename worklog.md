@@ -6,6 +6,41 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-01-20
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Hacked on simple_engine
+- 1:29 AM
+- Clock out (PingCAP)
+
+# 2021-01-19
+
+- [Merged resume pr](https://github.com/brson/brson.github.com/pull/13)
+- 1:27 PM
+- [Updated my old rust syntax reference](https://gist.github.com/brson/9dec4195a88066fa42e6#gistcomment-3599639)
+- 1:43 PM
+- Clock in (PingCAP)
+- 10:58 PM
+- Hacked on simple_engine
+- 11:59 PM
+- Clock out (PingCAP)
+
+# 2021-01-18
+
+- Clock in (personal)
+- 12:00 AM
+- [Filed PR to fix a build bug in lalrpop](https://github.com/lalrpop/lalrpop/pull/581)
+- 12:42 AM
+- [Filed a build bug against pikelet](https://github.com/pikelet-lang/pikelet/issues/242)
+- 1:13 AM
+- Clock out (personal)
+- Clock in (personal)
+- 12:54 PM
+- Hacked on ink blog
+- 2:30 PM
+- Clock out (personal)
+
 # 2021-01-17
 
 - Clock in (PingCAP)
@@ -28,6 +63,11 @@ is not public, and there are some gaps here from 2017-2019._
 - Hacked on new engine_simple backend
 - 7:50 PM
 - Clock out (PingCAP)
+- Clock in (personal)
+- 9:00 PM
+- Hacked on bloop
+- 11:59 PM
+- Clock out (personal)
 
 # 2021-01-16
 
