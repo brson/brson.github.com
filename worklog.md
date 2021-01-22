@@ -6,6 +6,41 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-01-22
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Offered suggestions to gregweber about dynamic loading and plugins
+- 12:38 AM
+- Clock out (PingCAP)
+- Updated meal-swap
+- 2:30 PM
+- Clock in (PingCAP)
+- [Commented on cargo dependency deduplication](https://github.com/rust-lang/cargo/issues/6921#issuecomment-765673486)
+- 2:43 PM
+- [Filed a cargo feature request to help with feature propagation](https://github.com/rust-lang/cargo/issues/9094)
+- 3:15 PM
+- Clock out (PingCAP)
+
+
+# 2021-01-21
+
+- Clock in (PingCAP)
+- 12:49 AM
+- Hacked on simple_engine
+- 1:39 AM
+- Clock in (PingCAP)
+- Clock in (PingCAP)
+- 4:56 PM
+- [Reviewed unsafe code in MetricsFlusher patch](https://github.com/tikv/tikv/pull/9458#issuecomment-765040194)
+- 6:57 PM
+- Followed up / rebased all prs
+- Updated weekly report
+- 7:39 PM
+- Attended storage mtg
+- 8:21 PM
+- Clock out (PingCAP)
+
 # 2021-01-20
 
 - Clock in (PingCAP)
