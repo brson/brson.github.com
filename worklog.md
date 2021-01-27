@@ -6,6 +6,48 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-01-25
+
+- Clock in (finance)
+- 9:16 AM
+- Placed options trades
+- 12:47 PM
+- Clock out (finance)
+
+# 2021-01-24
+
+- Clock in (PingCAP)
+- 1:47 AM
+- Hacked on engine_simple
+- 2:53 AM
+- Clock out (PingCAP)
+- Clock in (personal)
+- 11:20 AM
+- Explored dfinity
+- 1:19 PM
+- Clock out (personal)
+- Clock in (personal)
+- 5:57 PM
+- Explored dfinity
+- [Posted PR to fix dfinity doc bug](https://github.com/dfinity/docs/pull/289)
+- 7:27 PM
+- Clock out (personal)
+
+# 2021-01-23
+
+- Updated meal-swap
+- 5:44 PM
+- Clock in (personal)
+- 5:57 PM
+- Explored dfinity programming
+- 9:04 PM
+- Clock out (personal)
+- Clock in (PingCAP)
+- 11:40 PM
+- Hacked on engine_simple
+- 11:50 PM
+- Clock out (PingCAP)
+
 # 2021-01-22
 
 - Clock in (PingCAP)
@@ -21,7 +63,11 @@ is not public, and there are some gaps here from 2017-2019._
 - [Filed a cargo feature request to help with feature propagation](https://github.com/rust-lang/cargo/issues/9094)
 - 3:15 PM
 - Clock out (PingCAP)
-
+- Clock in (personal)
+- 6:45 PM
+- Watched some dfinity videos
+- 8:00 PM
+- Clock out (personal)
 
 # 2021-01-21
 
