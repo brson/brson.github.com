@@ -1059,7 +1059,7 @@ The quick start documentation also includes a page on [network deployment][nwdm]
 [nwdm]: https://sdk.dfinity.org/docs/quickstart/network-quickstart.html
 
 Aimee tries to follow these instructions.
-Many of the instructions are the same,
+Many of the instructions are the same as for local deployment,
 except they need to specify `--network=ic`,
 or something similar.
 
