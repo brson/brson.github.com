@@ -11,7 +11,7 @@ this time [Aimee] and I are going to dive into [DFINITY].
 [Aimee]: https://github.com/Aimeedeer/
 [DFINITY]: https://github.com/dfinity
 
-I have been aware of dfinity for a while,
+I have been aware of Dfinity for a while,
 but have not looked at it closely.
 I know that they are building a programmable blockchain,
 and that they have their own smart contract programming language.
@@ -35,6 +35,7 @@ our [closing thoughts][clt] may be worthwhile.
 - [Deploying to the live network](#deploying-to-the-live-network)
 - [Writing our own contract](#writing-our-own-contract)
 - [Writing a contract in Rust?](#writing-a-contract-in-rust)
+- [Successfully completing a tutorial](#successfully-completing-a-tutorial)
 - [Closing thoughts](#closing-thoughts)
 
 
@@ -65,7 +66,7 @@ about "building on the Internet Computer".
 It's a basic introductory series,
 but I did have some takeaways:
 mostly,
-that programming for dfinity appears to look a lot like traditional programming,
+that programming for Dfinity appears to look a lot like traditional programming,
 and _not_ like Solidity-descendant smart contract programming.
 Gas was not mentioned at all,
 and I am curious whether that means the programmer doesn't neeed to worry about gas,
@@ -81,7 +82,7 @@ The code I've seen in the video reads pretty easily.
 
 [Motoko]: https://sdk.dfinity.org/docs/language-guide/motoko.html
 
-I read a blog post by dfinity's Johan Granström:
+I read a blog post by Dfinity's Johan Granström:
 [A Closer Look at Software Canisters, an Evolution of Smart Contracts][canblog].
 
 [canblog]: https://medium.com/dfinity/software-canisters-an-evolution-of-smart-contracts-internet-computer-f1f92f1bfffb
@@ -108,12 +109,12 @@ A few that stand out to me though:
 
 - Still no mention of gas.
 
-I begin to read another post by dfinity's Dominic Williams,
+I begin to read another post by Dfinity's Dominic Williams,
 [Announcing the Internet Computer "Mainnet" and a 20-Year Roadmap][twenty].
-This is a good "vision statement" about what dfinity is aiming for,
+This is a good "vision statement" about what Dfinity is aiming for,
 but it's verbose,
 and without technical details.
-Definitely worth a read for anybody interested in dfinity.
+Definitely worth a read for anybody interested in Dfinity.
 I did not finish it.
 
 [twenty]: https://medium.com/dfinity/announcing-internet-computer-mainnet-and-a-20-year-roadmap-790e56cbe04a
@@ -153,7 +154,7 @@ as _I wrote_ most of rustup's install script.
 I also know smart people have carefully improved it over time &mdash;
 it is a very battle-tested piece of tricky shell script.
 That gives me some immediate confidence in this script.
-There is though a lot of dfinity-specific code here,
+There is though a lot of Dfinity-specific code here,
 and it is not as lovingly-maintained as rustup's,
 with bizarre spacing and stripped comments
 (it looks like it has been machine-processed).
@@ -171,14 +172,14 @@ and it needs to give them confidence.
 I run the installation and see:
 
 ```
-$ sh -ci "$(curl -fsSL https://sdk.DFINITY.org/install.sh)"
+$ sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
 Executing DFINITY SDK install script, commit: 55f1bbedee393411e1ae3a6eaeb449a6dd047c00
 The DFINITY Canister SDK
 Copyright 2021 DFINITY Stiftung. All Rights Reserved.
 The DFINITY Canister SDK (the "Software") is licensed under the Alpha DFINITY
 Canister SDK License Agreement (the "License"). You may not use the Software
 except in compliance with the License. You may obtain a copy of the License at
-    https://sdk.DFINITY.org/sdk-license-agreement.txt
+    https://sdk.dfinity.org/sdk-license-agreement.txt
 The Software is provided to you AS IS and WITHOUT WARRANTY.
 Do you agree and wish to install the DFINITY Canister SDK [y/N]?
 ```
@@ -208,7 +209,7 @@ and I think the answer is "no".
 There's another issue here &mdash;
 the installer's text claims
 
-> "The dfinity Canister SDK is licensed under the Alpha dfinity
+> "The DFINITY Canister SDK is licensed under the Alpha dfinity
   Canister SDK License Agreement"
 
 But also, the source for at least _part_ of the Canister SDK
@@ -297,7 +298,7 @@ In other words,
 in the command
 
 ```
-$ sh -ci "$(curl -fsSL https://sdk.DFINITY.org/install.sh)"
+$ sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
 ```
 
 That initial `sh` command is still running after I kill the script.
@@ -314,7 +315,7 @@ trap exit 2
 Though it should probably do more cleanup than just `exit`.
 I note that rustup does not do this though,
 and I am not sure offhand why rustup's handling of CTRL-C
-works correctly where dfinity's does not.
+works correctly where Dfinity's does not.
 
 The next step is to install a VSCode plugin.
 I don't use VSCode,
@@ -325,7 +326,7 @@ so I skip it.
 ## Aimee upgrades her `dfx`
 
 Aimee has previously installed `dfx`.
-Today when she ran `dfx new firsttest` to create a dfinity project,
+Today when she ran `dfx new firsttest` to create a Dfinity project,
 she had a confusing experience.
 
 This is what she saw:
@@ -333,7 +334,7 @@ This is what she saw:
 ```
 $ dfx new firsttest
 
-The dfinity Canister SDK sends anonymous usage data to dfinity Stiftung by
+The Dfinity Canister SDK sends anonymous usage data to Dfinity Stiftung by
 default. If you wish to disable this behavior, then please set the environment
 variable DFX_TELEMETRY_DISABLED=1. Learn more at https://sdk.dfinity.org.
 
@@ -1342,7 +1343,7 @@ The two problems I see:
 - The build is for the `wasm32-unknown-unknown` target,
   but there's no explaination or example of how to structure the code
   to export the correct symbols or otherwise interact
-  with the dfinity runtime.
+  with the Dfinity runtime.
 
 Somebody knowledgable could probably figure it out by
 cribbing off of the [C examples][cex].
@@ -1350,9 +1351,81 @@ cribbing off of the [C examples][cex].
 [cex]: https://github.com/dfinity/examples/tree/master/c/
 
 
-## Final thoughts
+## Successfully completing a tutorial
 
-This was a frustrating experience.
+Ok, by this time I was personally done,
+and wanted to stop,
+but Aimee just kept going.
+
+She next tried the ["add a stylesheet" tutorial][stylet].
+
+[stylet]: https://sdk.dfinity.org/docs/developers-guide/tutorials/my-contacts.html
+
+The great news is that Aimee worked all the way through
+this tutorial and got her frontend working,
+which is live here:
+
+> [https://5jw7w-wiaaa-aaaab-qacza-cai.ic0.app/](https://5jw7w-wiaaa-aaaab-qacza-cai.ic0.app/)
+
+She had some opinions along the way.
+
+This tutorial is about creating a frontend in React.
+We're not super excited about using React &mdash;
+we just want to test-drive the interaction between a webpage
+and a contract,
+and React is overkill.
+Frankly,
+we don't _know_ React,
+and are resisting learning it just for this purpose.
+Still,
+we keep running into this situation across multiple projects,
+where all the frontend examples are written in React.
+
+We are probably just going to have to learn React.
+
+There were some steps in this tutorial that seemed
+either redundant or could have been automated:
+
+- Installing these things via npm:
+
+  ```
+  npm install --save react react-dom
+  npm install --save typescript ts-loader
+  npm install --save style-loader css-loader
+  ```
+
+  Can this be done automatically by `package.json` scripts?
+
+- Renaming `main.mo` to `contacts.mo` and `index.js` to index.jsx`.
+
+  Several steps in this tutorial focused on these file renamings.
+  The `main.mo` to `contacts.mo` renaming seems superflous &mdash;
+  if renaming the main source file is important,
+  maybe `dfx new` should be doing that renaming itself.
+  The `index.js` to `index.jsx` renaming is probably necessary but unfortunate.
+
+In total,
+it _felt_ like we weren't getting a lot of mileage out of the `dfx new`
+template,
+since so much had to be changed.
+It would have though been much harder to do without the template as a starting point.
+
+There was no pre-written example source code for this tutorial
+to cheat off of,
+and Aimee said she wished there were.
+
+Though if the example did exist,
+would she actually have done the steps manually herself?
+
+
+
+
+## Closing thoughts
+
+As usual for me,
+I got way bogged down in the details
+of the onboarding experience,
+and didn't get far into the actual work of hacking.
 
 Looking back,
 I can see that a lot of the mistakes we made were our own,
@@ -1361,25 +1434,62 @@ and I also know we've been frustrated with the experience of
 programming on almost every single blockchain we've tried.
 
 And I see that there were several moments where I was
-intrigued by the design of Dfinity.
+intrigued by the design of Dfinity,
+and could imagine it being a fun experience.
+In particular,
+the programming model here appears to be more traditional
+than I expect from smart contracts,
+giving me hope that I could think less about blockchain mechanics
+and more about the logic of the services I want to write.
 
-The dev tooling here though is quite immature,
-and needs a few passes of polish.
+The application logic being bundled with the contract
+logic has potential &mdash;
+other blockchains don't have such a wholistic view
+on application programming,
+providing a javascript library to RPC with a node,
+and having no opinion about the rest of the application development experience.
+It also though limits how developers can work with the system &mdash;
+the tutorial we worked through explained that
+"currently, you can only use Javascript to implement the front-end for your canister".
 
+By the time we finished the quick start,
+I felt like I was done for now,
+that Dfinity needs some more time to polish the developer experience
+before I would want to try it more extensively.
 
-As they roll out their mainnet,
-I expect the dfinity devs will put some fresh focus on the development experience.
+Aimee made it further than I did &mdash;
+there are [many tutorials][tuts] beyond the quickstart
+that I didn't even see.
+And from experience,
+I know that once one has pushed past the
+initial onboarding phase,
+that one can be productive with just about any platform,
+so there still may be a lot worth diving into in Dfinity
+right now.
 
-- Programming in Motoko,
-  dfinity's smart contract language,
-  looks more fun than in Solidity,
-  or programming smart contracts in Rust.
-- The dfinity storage model uniquely involves saving and
-  restoring a program's entire memory space,
-  such that the program behaves as if it were running
-  forever.
-- The code is mostly not open source yet,
-  which hindered our ability to debug and contribute.
-- The toolchain is more immature than others we have tried,
-  and we hit many bugs in both the tools and docs.
+[tuts]: https://sdk.dfinity.org/docs/developers-guide/tutorials-intro.html
+
+Even though there were a lot of challenges
+to overcome in the onboarding process,
+unlike e.g. Substrate,
+at no point here did I think the challenges were _because of Rust_.
+Writing Dfinity contracts doesn't require Rust knowledge.
+Working with the tools doesn't require Rust knowledge.
+
+I didn't dwell on it much in the body of this post,
+but that Dfinity's source code is mostly still closed
+was offputting to me.
+Looking at the GitHub before starting this experiment,
+I did not have the impression Dfinity was even ready for
+casual testing &mdash;
+it looks like a project that is still stealthily incubating.
+As an open source developer,
+I expect to be able to dig into my tooling and investigate
+why things are behaving the way they are,
+and to fix the bugs I run into and participate in the upstream project.
+
+Dfinity does not have a particularly open-source posture right now.
+If attracting developers is an immediate goal,
+then that's a disadvantage compared to the many blockchains
+that are developed completely openly.
 
