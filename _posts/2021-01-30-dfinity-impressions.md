@@ -222,7 +222,7 @@ Just to make sure it _is_ possible to opt out at this
 stage of the script,
 I hit _enter_,
 which should default to not accepting the license
-(that is what the "y/N" convention means &mdash
+(that is what the "y/N" convention means &mdash;
 "N" is the default).
 
 It says the following and exits:
