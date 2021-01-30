@@ -6,6 +6,50 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-01-30
+
+- Clock in (personal)
+- 11:15 AM
+- Continued drafting dfinity experience report
+- 
+
+# 2021-01-29
+
+- Clock in (PingCAP)
+- 10:05 PM
+- Hacked on engine_simple
+- 11:14 PM
+- Clock out (PingCAP)
+
+# 2021-01-28
+
+- Clock in (PingCAP)
+- 5:08 PM
+- [Filed PR to remove engine_rocks from raftstore](https://github.com/tikv/tikv/pull/9600)
+- 5:22 PM
+- Updated weekly report
+- 5:31 PM
+- Rebased engine_traits_tests
+- 6:11 PM
+- Chatted w/ nrc
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 7:56 PM
+- Attended storage mtg
+- 8:15 PM
+- Clock out (PingCAP)
+
+# 2021-01-27
+
+- Clock in (PingCAP)
+- 4:15 PM
+- [Reviewed cloud provider PR](https://github.com/tikv/tikv/pull/9576#issuecomment-768643065)
+- 5:23 PM
+- Rebased engine_traits_tests
+- Hacked on removing engine_rocks from raftstore
+- 6:50 PM
+- Clock out (PingCAP)
+
 # 2021-01-22
 
 - Clock in (PingCAP)
