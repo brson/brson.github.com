@@ -421,7 +421,7 @@ Several things appear to be going wrong here.
 
 - The command has printed "you are strongly encouraged to upgrade by running 'dfx upgrade',
   then it goes on to just do the upgrade on its own, saying
-  "Version v0.6.0 installed successfully".
+  "Version v0.6.20 installed successfully".
 
 - Ever after checking for and installing a `dfx` upgrade,
   some process continues "Checking for latest dfx version".
