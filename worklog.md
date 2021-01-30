@@ -11,7 +11,9 @@ is not public, and there are some gaps here from 2017-2019._
 - Clock in (personal)
 - 11:15 AM
 - Continued drafting dfinity experience report
-- 
+- [Published dfinity blog](https://brson.github.io/2021/01/30/dfinity-impressions)
+- 5:22 PM
+- Clock out (personal)
 
 # 2021-01-29
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Impressions of Programming on DFINITY
+title: First impressions of programming on DFINITY
 tags: [rust, blockchain]
 ---
 
