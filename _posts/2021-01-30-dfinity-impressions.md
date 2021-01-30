@@ -563,12 +563,12 @@ We notice one other problem with the banner:
 it is not colored correctly on this terminal.
 Here's a screenshot:
 
-![dfx banner](images/dfx-new-sth.png)
+<img class="blog-photo" src="/images/dfx-new-sth.png"/>
 
 I've seen this banner in a 256 color terminal
 and it is properly colored with a gradient:
 
-![dfx banner](images/dfx-correct-black.png)
+<img class="blog-photo" src="/images/dfx-correct-black.png"/>
 
 That's actually really cool,
 but I still don't want to see it more than once.
