@@ -91,7 +91,7 @@ Many of the capabilities described here sound similar to other smart contract pl
 A few that stand out to me though:
 
 - _The memory space of a wasm canister is saved and restored every execution_!
-  This should makes it behave as if it were a long-running process,
+  This should make it behave as if it were a long-running process,
   even though each invocation may be years apart,
   and on different nodes.
   There is apparently no explicit storage.
