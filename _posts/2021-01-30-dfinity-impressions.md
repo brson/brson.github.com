@@ -971,7 +971,7 @@ I load the app in the web browser and it runs.
 
 Aimee, a day after deploying "hello",
 comes back to the tutorial,
-restarts here node with `dfx start`.
+restarts her node with `dfx start`.
 She realizes she no longer knows the ID
 of the canister she deployed yesterday.
 This is information shee needs to open it in the web UI
