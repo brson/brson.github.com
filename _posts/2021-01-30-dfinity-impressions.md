@@ -248,7 +248,7 @@ Installed /home/ubuntu/bin/dfx
 
 This looks pretty standard.
 
-It's curious that it first said the version it found,
+It's curious that it first said the version is found,
 then later said it was checking for the latest release.
 Didn't it already do that in order to find the version?
 
