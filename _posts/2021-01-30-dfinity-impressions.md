@@ -198,7 +198,7 @@ It's not a free-software license.
 
 It is called the "Alpha DFINITY ..." license,
 so I am assuming this is a temporary license,
-and it will change to open source in the future.
+and it will change to a standard free license in the future.
 The terms in it are ominous enough that,
 if I weren't here to blog about it,
 I would stop immediately.
