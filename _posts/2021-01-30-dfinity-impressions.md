@@ -52,8 +52,7 @@ It is a simple program that lets the caller bid to set a singleton string messag
 
 ## Starting by doing some research
 
-Myself,
-when I start a project,
+When I start a project,
 I usually just jump in,
 without informing myself of anything at all really.
 Aimee though likes to read,
