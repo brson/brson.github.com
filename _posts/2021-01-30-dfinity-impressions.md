@@ -1396,7 +1396,7 @@ either redundant or could have been automated:
 
   Can this be done automatically by `package.json` scripts?
 
-- Renaming `main.mo` to `contacts.mo` and `index.js` to index.jsx`.
+- Renaming `main.mo` to `contacts.mo` and `index.js` to `index.jsx`.
 
   Several steps in this tutorial focused on these file renamings.
   The `main.mo` to `contacts.mo` renaming seems superflous &mdash;
