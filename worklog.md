@@ -6,6 +6,67 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-02-06
+
+- Clock in (personal)
+- 1:13 PM
+- Hacked on contract-game
+- 4:22 PM
+- Clock out (personal)
+- Clock in (personal)
+- 5:27 PM
+- Hacked on contract-game
+- 9:34 PM
+- Clock out (personal)
+
+# 2021-02-05
+
+- Clock in (PingCAP)
+- 12:33 PM
+- Ran check-build-opts.py
+- Rebased kv extraction pr
+- 1:17 PM
+- Clock out (PingCAP)
+
+# 2021-02-04
+
+- Clock in (PingCAP)
+- 3:08 PM
+- [Merged raftstore engine_rocks removal](https://github.com/tikv/tikv/pull/9600#issuecomment-773607430)
+- 3:14 PM
+- Updated weekly report
+- 3:22 PM
+- [Posted engine_traits_tests](https://github.com/tikv/tikv/pull/9630)
+- 5:48 PM
+- Attended global all hands
+- 7:26 PM
+- Attended storage mtg
+- 8:14 PM
+- Clock out (PingCAP)
+
+# 2021-02-02
+
+- Clock in (personal)
+- 4:56 PM
+- [Closed rib pr](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/43)
+- 5:38 PM
+- Drafted rib issue
+- 6:49 PM
+- Clock out (personal)
+
+# 2021-01-31
+
+- Clock in (PingCAP)
+- 11:05 AM
+- Rebased engine_traits_tests
+- Hacked on extracting kv module from tikv
+- 11:10 AM
+- [Filed PR to extract tikv_kv](https://github.com/tikv/tikv/pull/9608)
+- 1:43 PM
+- [Updated engine abstraction issue op](https://github.com/tikv/tikv/issues/6402)
+- 1:48 PM
+- Clock out (PingCAP)
+
 # 2021-01-30
 
 - Clock in (personal)
