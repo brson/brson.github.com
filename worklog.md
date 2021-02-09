@@ -6,6 +6,38 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-02-11
+
+- Clock in (Nervos)
+- 5:03 PM
+- [Reviewed mohanson's instruction decoding pr](https://github.com/mohanson/ckb-vm/pull/1)
+- 7:23 PM
+- Reported progress to mohanson
+- 牛年快乐!
+- 7:29 PM
+- Clock out (Nervos)
+
+# 2021-02-08
+
+- Clock in (finance)
+- 10:30 AM
+- Placed option orders
+- 2:04 PM
+- Clock out (finance)
+- Clock in (Nervos)
+- 4:50 PM
+- [Read the B extension patches](https://github.com/nervosnetwork/ckb-vm/pull/108)
+- 7:04 PM
+- Clock out (Nervos)
+
+# 2021-02-07
+
+- Clock in (Nervos)
+- 9:15 PM
+- Read half of the risc-v b spec
+- 10:18 PM
+- Clock out (Nervos)
+
 # 2021-02-06
 
 - Clock in (personal)
