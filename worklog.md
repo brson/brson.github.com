@@ -127,6 +127,7 @@ is not public, and there are some gaps here from 2017-2019._
 - Rebased engine_traits_tests
 - 6:11 PM
 - Chatted w/ nrc
+- 6:20 PM
 - Clock out (PingCAP)
 - Clock in (PingCAP)
 - 7:56 PM
@@ -197,6 +198,7 @@ is not public, and there are some gaps here from 2017-2019._
 - Updated meal-swap
 - 2:30 PM
 - Clock in (PingCAP)
+- 2:30 PM
 - [Commented on cargo dependency deduplication](https://github.com/rust-lang/cargo/issues/6921#issuecomment-765673486)
 - 2:43 PM
 - [Filed a cargo feature request to help with feature propagation](https://github.com/rust-lang/cargo/issues/9094)
@@ -214,7 +216,7 @@ is not public, and there are some gaps here from 2017-2019._
 - 12:49 AM
 - Hacked on simple_engine
 - 1:39 AM
-- Clock in (PingCAP)
+- Clock out (PingCAP)
 - Clock in (PingCAP)
 - 4:56 PM
 - [Reviewed unsafe code in MetricsFlusher patch](https://github.com/tikv/tikv/pull/9458#issuecomment-765040194)
@@ -314,7 +316,7 @@ is not public, and there are some gaps here from 2017-2019._
 - Clock in (PingCAP)
 - 12:00 AM
 - Hacked on new engine_simple backend
-- 1:04 M
+- 1:04 AM
 - Clock out (PingCAP)
 - Clock in (PingCAP)
 - 1:39 AM
@@ -382,7 +384,7 @@ is not public, and there are some gaps here from 2017-2019._
 - 1:32 AM
 - Experimented with new log structure for engine_simple
 - 3:03 AM
-- Clock in (PingCAP)
+- Clock out (PingCAP)
 - Clock in (personal)
 - 5:39 PM
 - Drafted some blog about substrate
