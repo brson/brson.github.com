@@ -388,7 +388,7 @@ which don't actually exist on the chain they are currently connected to.
 This is maddening every time I restart my devnet and see a bunch of
 hashes of old contracts that I can't distinguish from the new contracts.
 
-These apps should either verify these code hashes actually exist on
+I wish these apps would either verify these code hashes actually exist on
 chain, or at least give me a big red "reset" button to purge all
 this incorrect info.
 
