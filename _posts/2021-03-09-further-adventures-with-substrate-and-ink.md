@@ -1862,11 +1862,14 @@ Otherwise I don't know much about JavaScript modules.
 Using mostly just the [polkadot.js docs][pjsdocs] I quickly
 figure out how to
 
-* connect to a node,
-* connect to a keyring, at least for the `//Alice` and `//Bob` test accounts,
-* call a method on the game contract
+* [connect to a node](https://github.com/brson/contract-game/blob/387caff1e2e966b5eb7cf15d99e3cf55d9844d16/www/dist/js/script.js#L179),
+* [connect to a keyring](https://github.com/brson/contract-game/blob/387caff1e2e966b5eb7cf15d99e3cf55d9844d16/www/dist/js/script.js#L125),
+  at least for the `//Alice` and `//Bob` test accounts,
+* [call a method on the game contract](https://github.com/brson/contract-game/blob/387caff1e2e966b5eb7cf15d99e3cf55d9844d16/www/dist/js/script.js#L215)
 
 [pjsdocs]: https://polkadot.js.org/docs/
+
+
 
 I run into problems with calling contracts,
 and it turns out that
