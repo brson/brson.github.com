@@ -1928,6 +1928,7 @@ but we're taking a break for a while.
   and you will need to be committed to keep up with
   its changes. Beyond my own experience, I have
   heard this mentioned by many substrate developers.
+- Instantiated contracts have their own account IDs.
 - Logs from `debug_println` only appear if you run
   `canvas-node` with `-lruntime=debug`.
 - Run `canvas-node --dev --tmp -lerror,runtime=debug`.
