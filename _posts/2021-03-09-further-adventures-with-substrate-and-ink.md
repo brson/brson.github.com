@@ -1802,7 +1802,7 @@ into learning "proper" node development.
 
 My webpacked JS file, under `src/index.js` just contains this:
 
-```JavaScript
+```javascript
 "use strict";
 
 import { ApiPromise, WsProvider } from "@polkadot/api";
@@ -1842,7 +1842,7 @@ The script loading for this page looks like this:
 
 That first synchronously-loaded `polyfill.js` is the hack I made last time:
 
-```JavaScript
+```javascript
 "use strict";
 
 let global = window;
@@ -1876,7 +1876,7 @@ it is not the same address that I see for Bob in the polkadot.js explorer.
 It was because I wasn't specifying a "sr25519" keyring.
 I thought "sr25519" was the default but I had to specify it as
 
-```JavaScript
+```javascript
 keyring = new polkadot.Keyring({ type: "sr25519" });
 ```
 
