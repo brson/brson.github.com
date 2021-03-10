@@ -1904,11 +1904,13 @@ to a more recent substrate.
 
 ## We fail to complete the prototype
 
-That is as far as we got before we lost our enthusiasm
-and got completely distracted with other projects.
+That is as far as we got before we lost our enthusiasm,
+got distracted with other projects,
+and decided we had to publish this bitrotting blog post before finishing the prototype.
+
 The game contract itself has all the features we aimed to implement,
 though we didn't implement any actual game levels;
-the UI does not yet fully drive the contract though;
+the UI is not implemented though;
 and we have never deployed to the live network.
 
 I am not happy to say it,
