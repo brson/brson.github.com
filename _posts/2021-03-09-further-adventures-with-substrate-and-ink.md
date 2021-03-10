@@ -1079,14 +1079,6 @@ but in code they must be valid Rust identifiers,
 so the dashes are converted to underscores;
 and the code is where the docs originate.
 
-(This one is actually probably _my_ fault &mdash;
-I remember when the Rust team was deciding what characters
-would be valid crate names,
-and I argued hard for the aesthetic benifits of the dash.
-In retrospect,
-I think it's a terrible decision which has resulted
-in tons of accidental complexity.)
-
 Finally,
 after quite a lot of digging we find
 the [`scale::Error` docs][sed].
