@@ -167,7 +167,7 @@ It lives on the blockchain.
 
 We begin by defining our storage requirements as simply
 a map from the substrate account IDs owned by individual players
-to the game-specific state for theat player.
+to the game-specific state for that player.
 
 We write it
 
@@ -179,7 +179,7 @@ pub struct Game {
 ```
 
 The substrate `AccountId` represents multiple important pieces for us:
-users have accounts, and contracts on the blockchains have acounts.
+users have accounts, and contracts on the blockchains have accounts.
 
 In ink, `AccountId`, along with some other types, is just magically in scope,
 probably thanks to the `#[ink:contract]` macro.
@@ -320,7 +320,7 @@ but when we use it we don't see any output anywhere.
 
 [`ink_env::debug_println`]: https://paritytech.github.io/ink/ink_env/fn.debug_println.html
 
-I aske in the `#ink:matrix.parity.io` channel where to see the output,
+I ask in the `#ink:matrix.parity.io` channel where to see the output,
 and Alexander Theißen replies:
 
 > "They are printed to the console. You need to raise the log level for `runtime`
@@ -942,7 +942,7 @@ but should [eventually be possible][dyntrait] through
 `#[ink::trait_definition]`.
 For now what we are trying to do
 by manually manipulating method selectors
-and using the low-lewel `CallBuilder`
+and using the low-level `CallBuilder`
 should work &mdash; we just haven't understood how yet.
 
 [dyntrait]: https://github.com/paritytech/ink/issues/631
