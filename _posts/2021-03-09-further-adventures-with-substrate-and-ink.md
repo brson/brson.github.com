@@ -1793,7 +1793,7 @@ and everything else is just a static website, served by `yarn start`.
 I am doing this because I like and understand static websites:
 I want to be in the web platform world, not the npm/yarn/node world.
 If this were to progress beyond a prototype I would put more effort
-into learning "proper" node development.
+into learning proper node development.
 
 [Here is the source][jssrc] as of the current commit.
 
