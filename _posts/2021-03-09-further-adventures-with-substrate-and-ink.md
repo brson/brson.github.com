@@ -1384,7 +1384,7 @@ and the last time I looked it failed to build,
 but I'm curious if I can improve my workflow by doing a little
 yak shaving, get this feature working.
 
-Start ing at `cargo-contract` commit 79dbcb655dd77701c79b2f1b459767ac3108cc58
+Starting at `cargo-contract` commit 79dbcb655dd77701c79b2f1b459767ac3108cc58
 I try to build with the following command line:
 
 ```
