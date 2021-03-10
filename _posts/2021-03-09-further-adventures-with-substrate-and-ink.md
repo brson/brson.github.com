@@ -1617,7 +1617,7 @@ in the expected way.
 As someone mostly unfamiliar with npm I immediately encounter more problems.
 I know how to add `@polkadot/api` to a yarn project,
 but I don't know how to set yarn up to run a server on `yarn start`.
-From Googling, as with most things in the npm ecosystem,
+From Googling,
 there seem to be many options.
 
 Similar to the Ethereum docs,
