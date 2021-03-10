@@ -1956,6 +1956,11 @@ but we're taking a break for a while.
   it will use as much gas as needed,
   and on the canvas chain,
   you should have more than enough gas in the test accounts.
+- A frontend react template:
+  - [https://github.com/substrate-developer-hub/substrate-front-end-template](https://github.com/substrate-developer-hub/substrate-front-end-template)
+
+
+
 
 
 ## Some thoughts
