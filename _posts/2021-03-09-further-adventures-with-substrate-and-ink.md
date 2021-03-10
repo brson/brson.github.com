@@ -1028,10 +1028,10 @@ to see what we're in for.
 
 It suddenly occurs to me that I don't know where
 to find the Substrate API docs.
-I know the Ink API docs are self hosted in one place,
+I know the Ink API docs are self hosted,
 and not on docs.rs.
-Rust API docs should be on docs.rs &mdash;
-it's just expected by Rust programmers.
+
+Rust API docs that aren't on docs.rs are a minor annoyance.
 
 I go to substrate.dev,
 and click the prominent "API Reference" link.
