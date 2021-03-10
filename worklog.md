@@ -6,6 +6,141 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-03-04
+
+- [Merged rib pr](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/47#issuecomment-790293502)
+- 12:03 PM
+- Clock in (PingCAP)
+- 5:06 PM
+- [Updated arm fix pr](https://github.com/tikv/tikv/pull/9717)
+- 5:09 PM
+- [Updated kv extraction pr](https://github.com/tikv/tikv/pull/9608)
+- 5:14 PM
+- [Updated generic raft engine pr](https://github.com/tikv/tikv/pull/9075)
+- 5:15 PM
+- [Updated engine test suite pr](https://github.com/tikv/tikv/pull/9630)
+- 5:45 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 8:56 PM
+- Attended storage mtg
+- 9:30 PM
+- Clock out (PingCAP)
+
+# 2021-03-01
+
+- Clock in (finance)
+- 11:23 AM
+- Placed options orders
+- 1:32 PM
+- Clock out (finance)
+- Clock in (personal)
+- 5:16 PM
+- Hacked on ink draft
+- 7:15 PM
+- Clock out (personal)
+
+# 2021-02-28
+
+- Clock in (Nervos)
+- 4:56 PM
+- [Posted regex fix for test suite](https://github.com/nervosnetwork/ckb-vm-test-suite/pull/4)
+- 5:40 PM
+- [Reported b-extension crash](https://github.com/nervosnetwork/ckb-vm/pull/108#issuecomment-787548281)
+- 6:48 PM
+- Clock out (Nervos)
+
+# 2021-02-27
+
+- Clock in (Nervos)
+- 3:21 PM
+- Ran unit tests under miri and valgrind
+- 5:26 PM
+- Clock out (Nervos)
+- Clock in (Nervos)
+- 6:12 PM
+- Continued valgrinding ckb-vm
+- [Attempted to cherry-pick fix to riscv-bitmanip toolchain](https://github.com/riscv/riscv-bitmanip/issues/93#issuecomment-787207686)
+- 7:09 PM
+- Chatted w/ Xiao
+- 7:56 PM
+- Hacked on running ckb-vm-test-suite with miri
+- Investigated bug in ckb-vm-test-suite regex on osx
+- 8:35 PM
+- Clock out (Nervos)
+
+# 2021-02-25
+
+- Clock in (PingCAP)
+- 6:33 PM
+- [Updated engine_traits_tests PR for reviews](https://github.com/tikv/tikv/pull/9630#issuecomment-786315434)
+- 7:07 PM
+- [Pinged volunteer about Mutable trait](https://github.com/tikv/tikv/issues/9481#issuecomment-786318146)
+- 7:14 PM
+- [Commented on tikv arm64 bug](https://github.com/tikv/tikv/issues/6639#issuecomment-786324326)
+- 7:31 PM
+- [Fixed extract-kv PR build](https://github.com/tikv/tikv/pull/9608#issuecomment-786335323)
+- 8:01 PM
+- [Updated generic raft engine PR](https://github.com/tikv/tikv/pull/9075#issuecomment-786344824)
+- 8:25 PM
+- [Posted PR to fix arm build](https://github.com/tikv/tikv/pull/9717)
+- 8:43 PM
+- Attended storage mtg
+- 9:19 PM
+- Clock out (PingCAP)
+
+# 2021-02-22
+
+- Clock in (Nervos)
+- 9:39 PM
+- [Submitted PR to add names to CI jobs](https://github.com/nervosnetwork/ckb-vm/pull/127)
+- 10:38 PM
+- [Posted some testing ideas](https://gist.github.com/brson/a6bff3323a37e895834a8ee1f6a9f83f)
+- Chatted a bit with xiao
+- 11:26 PM
+- Clock out (Nervos)
+
+# 2021-02-21
+
+- Clock in (personal)
+- 2:05 PM
+- Hacked on taxes
+- 4:58 PM
+- Clock out (personal)
+
+# 2021-02-19
+
+- Clock in (Nervos)
+- 3:45 PM
+- [Looked at mohanson's rfuzzing project](https://github.com/mohanson/rfuzzing)
+- 3:49 PM
+- Continued debugging the ckb-vm-test-suite build
+- 4:48 PM
+- SUcceeded at running and passing the test suite
+- 5:39 PM
+- Clock out (Nervos)
+
+# 2021-02-16
+
+- Clock in (finance)
+- 11:17 AM
+- Placed options orders
+- 2:59 PM
+- Clock out (finance)
+- Clock in (Nervos)
+- 5:21 PM
+- Run ckb-vm-test-suite
+- 8:42 PM
+- Clock out (Nervos)
+
+# 2021-02-13
+
+- Clock in (personal)
+- 6:32 PM
+- Hacked on contract-game
+- 7:33 PM
+- Clock out (personal)
+
 # 2021-02-11
 
 - Clock in (Nervos)
