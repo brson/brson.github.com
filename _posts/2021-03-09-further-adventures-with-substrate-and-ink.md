@@ -1072,8 +1072,7 @@ Searching for `parity-scale-codec` yields no results.
 
 _Searching for `parity_scale_codec` (with underscores) finds the crate._
 
-This one is pretty much Rust's fault,
-not Parity's &mdash;
+This search failure seems to be rustdoc's fault &mdash;
 crates can have dashes in their names,
 but in code they must be valid Rust identifiers,
 so the dashes are converted to underscores;
