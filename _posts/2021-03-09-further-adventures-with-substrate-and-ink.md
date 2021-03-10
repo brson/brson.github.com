@@ -1621,7 +1621,7 @@ From Googling,
 there seem to be many options.
 
 Similar to the Ethereum docs,
-I'm finding that the polkadot-js docs completely gloss over topics
+I'm finding that the polkadot-js docs gloss over topics
 about setting up npm/parn projects,
 and I am completely lost.
 
