@@ -913,7 +913,7 @@ cargo install --path .
 
 ### Errors in ink, and a `CallBuilder` miracle
 
-This will be our 4th attempt to successfully call another conract with `CallBuilder`.
+This will be our 4th attempt to successfully call another contract with `CallBuilder`.
 
 In the meantime Robin responded to more of my questions in chat.
 
