@@ -419,7 +419,7 @@ Sometimes canvas-ui doesn't know how to interpret the results
 of a method call and gives no feedback.
 
 We're going to have to add logging _everywhere_
-to have any clue what the hell is going on.
+to have any clue what is going on.
 
 
 
