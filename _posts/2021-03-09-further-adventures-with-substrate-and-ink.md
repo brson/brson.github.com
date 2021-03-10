@@ -987,7 +987,7 @@ let return_value = build_call::<DefaultEnvironment>()
 ink_env::debug_println(&format!("return value {:?}", return_value));
 ```
 
-First up, the [`fire`] method.
+First up, let's investigate the errors we're getting from the [`fire`] method.
 
 Compared to the rest of `CallBuilder`,
 which is very generic,
