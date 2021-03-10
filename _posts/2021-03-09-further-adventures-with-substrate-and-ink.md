@@ -144,7 +144,7 @@ Maybe I'm overthinking this.
 
 ## Implementing the contract
 
-We use `cargo contract new` to create our new,
+We use `cargo contract new` to create our new contract,
 then immediately delete most of the contents,
 leaving just the contract module and its decorating
 `ink::contract` attribute:
