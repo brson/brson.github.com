@@ -1890,7 +1890,7 @@ to write code that is sometimes incompatible with canvas
 is that canvas is using a several-months-old revision of substrate.
 Unfortunately, simply reading the canvas-ui code looking
 for examples is pretty tough since that code is
-extremely abstract, built on react components.
+pretty big and abstract, built on react components.
 The few times I looked through it trying to figure out
 how to use the polkadot.js APIs I just gave up,
 and continued guessing and searching through substrate GitHub
