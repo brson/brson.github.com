@@ -6,6 +6,24 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-03-10
+
+- Clock in (PingCAP)
+- 4:03 PM
+- [Updated arm pr](https://github.com/tikv/tikv/pull/9717)
+- 4:05 PM
+- [Updated engine_traits_tests pr](https://github.com/tikv/tikv/pull/9630#issuecomment-796108660)
+- 4:07 PM
+- [Updated generic raft engine traits](https://github.com/tikv/tikv/pull/9075#issuecomment-796122516)
+- 4:15 PM
+- Ran agatedb under miri
+- 4:58 PM
+- Ran agatedb under valgrind
+- 5:23 PM
+- [Rebased tikv_kv pr](https://github.com/tikv/tikv/pull/9608#issuecomment-796257505)
+- 5:47 PM
+- Clock out (PingCAP)
+
 # 2021-03-04
 
 - [Merged rib pr](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/47#issuecomment-790293502)
