@@ -6,6 +6,21 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-03-12
+
+- Hacked on cocoverse storybook
+- 4:11 PM
+
+# 2021-03-11
+
+- Clock in (PingCAP)
+- 7:43 PM
+- [Attempted to merge engine_traits_tests](https://github.com/tikv/tikv/pull/9630#issuecomment-797155234)
+- 7:50 PM
+- Updated weekly report
+- 7:54 PM
+- Clock out (PingCAP)
+
 # 2021-03-10
 
 - Clock in (PingCAP)
