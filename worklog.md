@@ -6,12 +6,30 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-03-13
+
+- Clock in (Nervos)
+- 3:22 PM
+- Investigated assembly calls into `inited_memory` for unwind safety
+- Set up computer to run mohanson's rfuzzing fuzzer
+- Tried to get a working b-extension toolchain
+- 4:23 PM
+- Clock out (Nervos)
+
 # 2021-03-12
 
 - Hacked on cocoverse storybook
 - 4:11 PM
 - [Posted another beer tasting](https://brson.github.io/beer/2021/03/12/braxton-bavarian-style-select-lager)
 - 4:43 PM
+- Clock in (PingCAP)
+- 5:14 PM
+- [Updated kv extraction pr](https://github.com/tikv/tikv/pull/9608#issuecomment-797809147)
+- 6:18 PM
+- Clock out (PingCAP)
+- Attended band practice
+- Hacked on dsp
+- 11:23 PM
 
 # 2021-03-11
 
