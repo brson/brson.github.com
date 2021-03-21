@@ -6,6 +6,62 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-03-19
+
+- Hacked on synthtest
+- 1:23 AM
+- Hacked on geonft
+- 7:36 PM
+- [Posted pr editing the rand book](https://github.com/rust-random/book/pull/36)
+- 8:15 PM
+- Hacked on synthtest
+- 11:30 PM
+
+# 2021-03-18
+
+- Clock in (PingCAP)
+- 3:51 PM
+- [Updated arm pr](https://github.com/tikv/tikv/pull/9717)
+- 3:53 PM
+- [Updated raft engine pr](https://github.com/tikv/tikv/pull/9075)
+- 4:02 PM
+- [Updated kv extraction pr](https://github.com/tikv/tikv/pull/9608)
+- 4:03 PM
+- [Attempted to merge kv extraction pr](https://github.com/tikv/tikv/pull/9608#issuecomment-802250008)
+- 4:04 PM
+- [Commented on state of engine abstraction](https://github.com/tikv/tikv/issues/6402#issuecomment-802280926)
+- 4:41 PM
+- [Opened engine_agate issue](https://github.com/tikv/tikv/issues/9844)
+- 4:46 PM
+- Hacked on removing engine_rocks deps from tikv crate
+- 5:15 PM
+- [Reviewed mutable refactor pr](https://github.com/tikv/tikv/pull/9814#issuecomment-802306949)
+- 5:20 PM
+- [Posted pr removing some of engine_rocks from tikv_kv](https://github.com/tikv/tikv/pull/9845)
+- 5:41 PM
+- [Posted pr to remove a use of rocks engine from tikv](https://github.com/tikv/tikv/pull/9846)
+- 5:46 PM
+- Updated status report
+- 5:46 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:43 PM
+- Installed new chat tool
+- 9:57 PM
+- Attended storage meeting
+- 10:26 PM
+- [Posted a PR adding tests of engine ctor behavior](https://github.com/tikv/tikv/pull/9848)
+- 11:06 PM
+- Clock out (PingCAP)
+
+# 2021-03-17
+
+- Clock in (personal)
+- 9:17 PM
+- Played with Rocket
+- 10:14 PM
+- Clock out (personal)
+
 # 2021-03-13
 
 - Clock in (Nervos)
