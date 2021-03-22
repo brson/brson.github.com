@@ -60,6 +60,8 @@ It tastes like mediocre lager.
 I can say it tastes different from the Durtmunder Gold we've been enjoying lately,
 and not better.
 
+2
+
 
 ## Mouthfeel
 
