@@ -6,6 +6,22 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-03-22
+
+- Clock in (Nervos)
+- 4:08 PM
+- Rebuilt b-extension gcc with mohanson's instructions
+- Set up ec2 fuzzing machine
+- Began running ckb-vm/fuzz with corpus
+- Created miri CI patch
+- [Posted pr to upgrade libfuzzer-sys](https://github.com/nervosnetwork/ckb-vm/pull/138)
+- 5:29 PM
+- [Pested pr to run ci under miri](https://github.com/nervosnetwork/ckb-vm/pull/139)
+- 5:38 PM
+- Posted updates to telegram group
+- 5:54 PM
+- Clock out (Nervos)
+
 # 2021-03-19
 
 - Hacked on synthtest
