@@ -6,6 +6,21 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-03-24
+
+- Clock in (PingCAP)
+- 5:09 PM
+- [Requested reviews and updated engine_traits_tests pr](https://github.com/tikv/tikv/pull/9848)
+- 5:10 PM
+- Hacked on abstracting StatsCollector
+- 6:45 PM
+- Clock out (PingCAP)
+
+# 2021-03-23
+
+- Hacked on webtool
+- 12:30 AM
+
 # 2021-03-22
 
 - Clock in (Nervos)
@@ -21,6 +36,16 @@ is not public, and there are some gaps here from 2017-2019._
 - Posted updates to telegram group
 - 5:54 PM
 - Clock out (Nervos)
+- Clock in (Nervos)
+- 8:25 PM
+- Continued setting up ec2 for fuzzing
+- 8:47 PM
+- Investigated no_panic attribute
+- Investigated firecracker for running virtualized ckb-vm
+- 9:20 PM
+- Clock out (Nervos)
+- Add a rustbelt post to rust-anthology
+- 11:42 PM
 
 # 2021-03-19
 
