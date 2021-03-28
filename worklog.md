@@ -6,6 +6,32 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-03-29
+
+- Hacked on webtools
+- 12:04 AM
+
+# 2021-03-28
+
+- Submitted Nervos invoice
+- 8:00 PM
+
+# 2021-03-25
+
+- Clock in (PingCAP)
+- 7:02 PM
+- Updated engine prs and issues
+- Updated status report
+- Hacked on removing PerfContext from Cursor
+- Hacked on miri support for agatedb
+- 7:46 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:57 PM
+- Attended storage mtg
+- 10:23 PM
+- Clock out (PingCAP)
+
 # 2021-03-24
 
 - Clock in (PingCAP)
@@ -266,7 +292,7 @@ is not public, and there are some gaps here from 2017-2019._
 - 3:49 PM
 - Continued debugging the ckb-vm-test-suite build
 - 4:48 PM
-- SUcceeded at running and passing the test suite
+- Succeeded at running and passing the test suite
 - 5:39 PM
 - Clock out (Nervos)
 
@@ -279,7 +305,7 @@ is not public, and there are some gaps here from 2017-2019._
 - Clock out (finance)
 - Clock in (Nervos)
 - 5:21 PM
-- Run ckb-vm-test-suite
+- Ran and experimented with ckb-vm-test-suite
 - 8:42 PM
 - Clock out (Nervos)
 
