@@ -32,7 +32,7 @@ and when I don't respond says,
 The flower she googles is jasmine.
 
 I can get down with the idea of the beer smelling like flowers or plants,
-but it's not what I get
+but it's not what I get.
 
 She also says "candy".
 
