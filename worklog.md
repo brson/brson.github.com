@@ -6,6 +6,11 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-03-30
+
+- Clock in (rib)
+- 4:05 PM
+
 # 2021-03-29
 
 - Hacked on webtools
