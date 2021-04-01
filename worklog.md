@@ -6,10 +6,20 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
-# 2021-03-30
+# 2021-03-31
 
 - Clock in (rib)
-- 4:05 PM
+- 5:45 PM
+- [Merged rib pr](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/50)
+- 6:03 PM
+- Updated ribbot
+- 7:00 PM
+- Clock out (rib)
+- Clock in (rib)
+- 9:15 PM
+- Hacked on rib edition
+- 11:00 PM
+- Clock out (rib)
 
 # 2021-03-29
 
