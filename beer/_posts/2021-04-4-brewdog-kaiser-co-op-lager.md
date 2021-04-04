@@ -1,15 +1,12 @@
 ---
 layout: post
-title: Brewdog Kaiser Co-op German Style Dortmunder
+title: Brewdog Kaiser Co-op German Style Dortmunder Lager
 ---
-Kaiser Co-op German Style Dortmunder.
+Kaiser Co-op German Style Dortmunder Lager.
 Brewdog.
 Winchester, OH.
 
 5.8% ABV.
-
-I assume this is a lager,
-though it doesn't say so explicitly.
 
 <img class="beer-photo" src="/beer/images/2021-04-04-brewdog-kaiser-co-op-lager.jpg"/>
 
