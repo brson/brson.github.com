@@ -6,6 +6,66 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-04-08
+
+- Clock in (PingCAP)
+- 3:18 PM
+- [Reviewed a talent plan pr](https://github.com/pingcap/talent-plan/pull/386#issuecomment-816094614)
+- 3:28 PM
+- Checked ARM build
+- 3:37 PM
+- Implemented last function in blocksy3
+- 3:57 PM
+- Ran check-build-opts.py
+- 3:59 PM
+- [Posted pr to fix check-build-opts.py](https://github.com/tikv/tikv/pull/9985)
+- 5:37 PM
+- Hacked on removing engine_rocks from stats_collector
+- 6:13 PM
+- Clock out (PingCAP)
+
+# 2021-04-06
+
+- Clock in (Nervos)
+- 11:20 AM
+- Checked on running fuzzer
+- Adjusted miri config to allow running slow tests
+- 11:46 AM
+- Clock out (Nervos)
+- Clock in (Nervos)
+- 10:55 PM
+- Sent mohanson goblin overflow test case
+- 11:03 PM
+- [Updated miri pr](https://github.com/nervosnetwork/ckb-vm/pull/139#issuecomment-814568013)
+- 11:10 PM
+- Clock out (Nervos)
+
+# 2021-04-05
+
+- Clock in (Nervos)
+- 2:40 PM
+- Updated fuzzer for b-spec
+- Built a b-spec fuzz corpus
+- Ran fuzzer on ec2
+- Timed a full miri run
+- 3:59 PM
+- Clock out (Nervos)
+- Clock in (Nervos)
+- 6:02 PM
+- Investigated and reported on goblin overflow bug
+- [Posted issue to upgrade goblin](https://github.com/nervosnetwork/ckb-vm/issues/143)
+- 6:34 PM
+- Clock out (Nervos)
+
+# 2021-04-04
+
+- Clock in (Nervos)
+- 7:40 PM
+- Checked in on fuzzer running on ec2
+- Investigated fuzzing bug found in goblin
+- 8:11 PM
+- Clock out (Nervos)
+
 # 2021-03-31
 
 - Clock in (rib)
