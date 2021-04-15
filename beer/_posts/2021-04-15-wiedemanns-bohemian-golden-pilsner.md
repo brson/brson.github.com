@@ -28,7 +28,7 @@ and there's good news ahead.
 
 Easy pour.
 Not a lot of frothing on the head.
-Classing golden effervescent color.
+Classic golden effervescent color.
 
 Handsome old school can.
 
