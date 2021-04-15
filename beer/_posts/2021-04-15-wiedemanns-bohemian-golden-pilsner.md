@@ -58,7 +58,7 @@ So balanced.
 I insist on a tiny hint of banana.
 Real tiny.
 
-It's so simple that I feel strang giving it a 5 of 5 for taste,
+It's so simple that I feel strange giving it a 5 of 5 for taste,
 but it's such a great example of a simple classic.
 
 5
