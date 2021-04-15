@@ -6,6 +6,35 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-04-15
+
+- Clock in (PingCAP)
+- 4:16 PM
+- [Updated RaftKv pr](https://github.com/tikv/tikv/pull/10013#issuecomment-820722392)
+- 4:51 PM
+- Hacked on removing rocks from resolve module
+- 5:02 PM
+- Hacked on blocksy3
+- 5:24 PM
+- Clock out (PingCAP)
+
+# 2021-04-14
+
+- [Commented on tikv-jemalloc](https://github.com/gnzlbg/jemallocator/pull/162#issuecomment-819232576)
+- 1:13 PM
+
+# 2021-04-13
+
+- Clock in (PingCAP)
+- 5:07 PM
+- Ran check-build-opts.py
+- 5:14 PM
+- [Posted PR to abstract RaftKv over engines](https://github.com/tikv/tikv/pull/10013)
+- 6:19 PM
+- [Posted Pr to abstract snap module over engines](https://github.com/tikv/tikv/pull/10014)
+- 6:42 PM
+- Clock out (PingCAP)
+
 # 2021-04-08
 
 - Clock in (PingCAP)
@@ -22,6 +51,11 @@ is not public, and there are some gaps here from 2017-2019._
 - 5:37 PM
 - Hacked on removing engine_rocks from stats_collector
 - 6:13 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:40 PM
+- Attended storage mtg
+- 10:08 PM
 - Clock out (PingCAP)
 
 # 2021-04-06
