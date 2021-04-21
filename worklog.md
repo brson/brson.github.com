@@ -6,6 +6,38 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-04-20
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Fix bugs in blocksy3
+- 12:47 AM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:30 PM
+- Hacked more on blocksy3
+- Began creating engine_traits bindings for blocksy3
+- 9:49 PM
+- Passed a bunch of engine_traits_tests with blocksy3
+- 11:48 PM
+- Clock out (PingCAP)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   - Clock out (PingCAP)
+
+# 2021-04-19
+
+- Clock in (PingCAP)
+- 10:00 PM
+- Fix bugs in blocksy3
+- 11:59 PM
+- Clock out (PingCAP)
+
+# 2021-04-18
+
+- Clock in (PingCAP)
+- 12:24 AM
+- Hacked on blocksy3
+- 1:03 AM
+- Clock out (PingCAP)
+
 # 2021-04-15
 
 - Clock in (PingCAP)
@@ -16,6 +48,20 @@ is not public, and there are some gaps here from 2017-2019._
 - 5:02 PM
 - Hacked on blocksy3
 - 5:24 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 8:54 PM
+- [Commented on engine_agatedb](https://github.com/tikv/tikv/issues/9844#issuecomment-820834581)
+- Chatted on lark about agatedb
+- 9:00 PM
+- Asked qupeng for a review
+- 9:17 PM
+- [Posted PR to abstract resolve module](https://github.com/tikv/tikv/pull/10026)
+- 9:27 PM
+- [Commented on tikv_kv issue](https://github.com/tikv/tikv/issues/9609#issuecomment-820844286)
+- 9:33 PM
+- Attended storage meeting
+- 10:31 PM
 - Clock out (PingCAP)
 
 # 2021-04-14
