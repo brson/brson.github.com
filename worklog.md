@@ -6,6 +6,46 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-04-22
+
+- Clock in (PingCAP)
+- 3:54 PM
+- [Posted pr to remove a rocks dep from tikv tests](https://github.com/tikv/tikv/pull/10069)
+- 5:11 PM
+- [Asked nrc to review my old raftengine patch](https://github.com/tikv/tikv/pull/9075)
+- 5:20 PM
+- [Closed old PR](https://github.com/tikv/tikv/pull/8980#issuecomment-825196633)
+- 5:26 PM
+- Updated weekly report
+- 5:51 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:59 PM
+- Attended storage mtg
+- 10:25 PM
+- Clock out (PingCAP)
+
+# 2021-04-21
+
+- Clock in (PingCAP)
+- 12:26 PM
+- Hacked on engine_simple
+- 1:00 PM
+- Clock in (PingCAP)
+- Clock in (PingCAP)
+- 2:22 PM
+- Continued trying to get engine_simple to pass the engine_traits_tests
+- [Posted a new write batch test case](https://github.com/tikv/tikv/pull/10058)
+- 4:43 PM
+- Experiented running raftstore tests with engine_simple
+- 6:10 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 10:21 PM
+- Began writing range_properties tests
+- 11:24 PM
+- Clock out (PingCAP)
+
 # 2021-04-20
 
 - Clock in (PingCAP)
