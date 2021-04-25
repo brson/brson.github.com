@@ -69,7 +69,7 @@ Aimee: "I think it's sweet."
 
 Me: "You think it's sweet?!"
 
-Aimee: "I think it's _veny_ sweet."
+Aimee: "I think it's _very_ sweet."
 
 Aimee: "It tastes a little bit bitter, but the bitter is hidden in the sweetness. It tastes good".
 
