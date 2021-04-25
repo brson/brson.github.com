@@ -6,6 +6,24 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-04-25
+
+- Clock in (PingCAP)
+- 12:10 AM
+- Hacked on memory log for blocksy3
+- 12:59 AM
+- Clock out (PingCAP)
+
+# 2021-04-24
+
+- Clock in PingCAP)
+- 9:37 PM
+- Hacked on compaction for blocksy3
+- 11:28 PM
+- Hacked on memory log for blocksy3
+- 11:51 PM
+- Clock out (PingCAP)
+
 # 2021-04-22
 
 - Clock in (PingCAP)
