@@ -37,7 +37,7 @@ It's mango!
 
 I say "it's nothing but mango".
 
-Aimee dares to say, "do you smell a little bit of sweet potato".
+Aimee dares to say, "do you smell a little bit of sweet potato?"
 
 I smell it. I do not.
 
