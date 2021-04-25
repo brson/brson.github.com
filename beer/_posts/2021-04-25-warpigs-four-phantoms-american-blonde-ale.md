@@ -44,9 +44,10 @@ Mostly tranclucent dark pee.
 
 Aimee says "oh, sweet. Smells like yòuzi",
 but she has just prior eaten some yòuzi,
-and it has tainted her tastebuds.
+and her hands are yòuzi-y,
+and her tastebuds are tainted.
 
-I too have just eated some yutze and my tastebuds are compromised as well.
+I too have just eated some yòuzi and my tastebuds are compromised as well.
 
 Fruity.
 Now with clean hands, Aimee says "melon: cantaloupe".
