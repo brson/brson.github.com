@@ -2,7 +2,7 @@
 layout: post
 title: Rochester Mills Mango Kiss Milkshake IPA
 ---
-Mango Kiss
+Mango Kiss.
 Rochester Mills Beer Co.
 Auburn Hils, MI.
 
