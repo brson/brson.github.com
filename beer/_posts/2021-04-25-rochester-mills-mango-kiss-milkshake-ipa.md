@@ -17,6 +17,14 @@ That is, the business of badly-reviewing good beers.
 
 <img class="beer-photo" src="/beer/images/2021-04-25-rochester-mills-mango-kiss-milkshake-ipa.jpg"/>
 
+I love this:
+
+<img class="beer-photo" src="/beer/images/2021-04-25-rochester-mills-mango-kiss-milkshake-ipa-label.jpg"/>
+
+So great.
+I want to know what hops are in my beer.
+It helps me a lot to understand why the beer tastes like it does.
+
 
 ## Appearance
 
@@ -104,5 +112,10 @@ I notice Aimee has stopped sipping.
 I have stopped sipping.
 There's about a quarter of the beer left in the glass.
 
-3
+I initially give this a 3
+(and after many minutes we still haven't finished the glass),
+but this is interesting and "good",
+so I feel bad to just shrug it off with a middle-of-the-road 3.
+
+4
 
