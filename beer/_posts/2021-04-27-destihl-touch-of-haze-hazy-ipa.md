@@ -13,7 +13,7 @@ We've had a few of these in recent days.
 
 Look at that can.
 Look how it says the kind of hops in it
-(it says "mosaic & cascade hops"; my photography is especially incopetant today).
+(it says "mosaic & cascade hops"; my photography is especially incompetent today).
 Love it.
 
 Let's see if we can pick out any "lemon", "green apple", "pear", or "melon".
