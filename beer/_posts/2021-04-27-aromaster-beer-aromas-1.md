@@ -89,6 +89,7 @@ It's a rounder scent, doesn't suggest acid like the lemon or pear.
 
 Aimee is distracted with her laptop,
 a final-generation Intel MacBook that she has been supremely disappointed.
+Presently the mouse cursor is stuck.
 
 
 ## Thoughts
