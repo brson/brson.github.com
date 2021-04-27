@@ -13,6 +13,13 @@ is not public, and there are some gaps here from 2017-2019._
 - Hacked on memory log for blocksy3
 - 12:59 AM
 - Clock out (PingCAP)
+- [Commented on deleting .rustup directory](https://www.reddit.com/r/rust/comments/mym7nl/can_i_remove_rustup_eventhough_i_have_installed_a/gvw095v?utm_source=share&utm_medium=web2x&context=3)
+- 10:57 PM
+- Clock in (PingCAP)
+- 11:18 PM
+- Hacked on compaction for blocksy3
+- 11:53 PM
+- Clock out (PingCAP)
 
 # 2021-04-24
 
