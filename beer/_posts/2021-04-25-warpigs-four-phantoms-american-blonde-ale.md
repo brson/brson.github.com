@@ -2,7 +2,7 @@
 layout: post
 ---
 Four Phantoms American Blonde Ale.
-Warpigs Prewing.
+Warpigs Brewing.
 Munster, MN.
 
 First thing I notice about this is the black top of the can.
