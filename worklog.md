@@ -6,6 +6,38 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-04-29
+
+- Clock in (PingCAP)
+- 4:22 PM
+- [Commented about raftengine](https://github.com/tikv/tikv/pull/9075#issuecomment-829572453)
+- 4:27 PM
+
+# 2021-04-28
+
+- Clock in (PingCAP)
+- 1:09 PM
+- Hacked on range_properties tests
+- Hacked on removing rocks from server mod
+- 1:59 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 2:43 PM
+- Hacked on removing rocks from server mod
+- 3:09 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 5:24 PM
+- Hacked on removing rocks from server mod
+- 6:52 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:05 PM
+- [Posted pr to remove rocks from server mod](https://github.com/tikv/tikv/pull/10096)
+- 9:17 PM
+- Clock out (PingCAP)
+
+
 # 2021-04-25
 
 - Clock in (PingCAP)
