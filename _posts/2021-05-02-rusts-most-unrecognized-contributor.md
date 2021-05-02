@@ -32,7 +32,7 @@ while establishing relationships with the academic computer science community.
 The first big idea Mozilla Research was formed around was [Servo].
 And in turn, Rust.
 
-[Servo]: https://github.com/brson/project-servo-talk
+[Servo]: http://venge.net/graydon/talks/intro-talk-2.pdf
 
 One of the people chosen to lead this department was [Dave Herman].
 

@@ -10,6 +10,8 @@ is not public, and there are some gaps here from 2017-2019._
 
 - [Commented on obsolete irc channel list](https://gist.github.com/brson/ad9cdfdec9a58a1f7fa2#gistcomment-3728885)
 - 12:22 PM
+- [Posted a blog post about dave](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
+- 1:14 PM
 
 # 2021-04-30
 
