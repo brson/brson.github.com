@@ -83,7 +83,7 @@ With all the ingredients spelled out on the can I was expecting something ... so
 This does have three types of hops I haven't heard of before,
 so it seems quite an experimental beer.
 
-There's probably too many ingredients in this beer,
+There are probably too many ingredients in this beer,
 and the sum is not greater than the parts.
 
 2
