@@ -6,12 +6,53 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-05-02
+
+- [Commented on obsolete irc channel list](https://gist.github.com/brson/ad9cdfdec9a58a1f7fa2#gistcomment-3728885)
+- 12:22 PM
+
+# 2021-04-30
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Hacked on blocksy3 range deletes
+- 12:22 AM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:11 PM
+- Hacked on blocksy3 range deletes
+- 9:19 PM
+- Clock out (PingCAP)
+
 # 2021-04-29
 
 - Clock in (PingCAP)
 - 4:22 PM
 - [Commented about raftengine](https://github.com/tikv/tikv/pull/9075#issuecomment-829572453)
 - 4:27 PM
+- Hacked on removing rocks from tikv
+- 5:31 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 6:57 PM
+- [Posted PR to replace RocksEngine with KvEngine in lock manager](https://github.com/tikv/tikv/pull/10105)
+- 7:30 PM
+- Hacked on removing rocks from tikv
+- Hacked on improving range delete in blocksy3
+- 7:47 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:51 PM
+- Updated weekly report
+- 9:57 PM
+- Attended storage meeting
+- 10:16 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 11:07 PM
+- Hacked on blocksy3 range deletes
+- 11:59 PM
+- Clock out (PingCAP)
 
 # 2021-04-28
 
