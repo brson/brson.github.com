@@ -271,4 +271,4 @@ Rust is a success for a lot of reasons,
 from thousands of contributors,
 thousands of tiny miracles coalescing into one coherent whole.
 
-But tiny miracles don't become giant miracles by accident.
+But tiny miracles don't become big miracles by accident.
