@@ -26,7 +26,7 @@ and the company entered a period of rapid expansion.
 
 As part of that expansion Mozilla created a new department, Mozilla Research.
 The mission of this department would be to experiment with ambitious new ideas,
-indepenently of the Firefox product,
+independently of the Firefox product,
 while establishing relationships with the academic computer science community.
 
 The first big idea Mozilla Research was formed around was [Servo].
