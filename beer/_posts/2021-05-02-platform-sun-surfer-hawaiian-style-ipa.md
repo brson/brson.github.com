@@ -27,6 +27,9 @@ Surprisingly this isn't a hazy IPA.
 
 Golden to amber.
 
+3
+
+
 ## Smell
 
 Wow. It's sweet like juice.
