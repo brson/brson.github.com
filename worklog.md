@@ -6,6 +6,14 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-05-05
+
+- [Merged rib pr](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/60)
+- 6:26 PM
+- Merged rib prs
+- Did rib stuff
+- 8:17 PM
+
 # 2021-05-02
 
 - [Commented on obsolete irc channel list](https://gist.github.com/brson/ad9cdfdec9a58a1f7fa2#gistcomment-3728885)
