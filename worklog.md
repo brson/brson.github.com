@@ -6,6 +6,14 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-05-06
+
+- Clock in (PingCAP)
+- 6:03 PM
+- Rebuilt and retested current patches
+- 6:57 PM
+- Clock out (PingCAP)
+
 # 2021-05-05
 
 - [Merged rib pr](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/60)
