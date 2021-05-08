@@ -20,7 +20,7 @@ Brewed in 2016.
 
 Cute tiny can.
 
-I said "oh, while" on the pour.
+I said "oh, wow" on the pour.
 It looks thick and rich.
 Caramel.
 Or apple cider.
