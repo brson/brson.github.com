@@ -6,6 +6,14 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-05-07
+
+- Clock in (geonft)
+- 5:44 PM
+- Hacked on geonft accounts
+- 7:17 PM
+- Clock out (geonft)
+
 # 2021-05-06
 
 - Clock in (PingCAP)
