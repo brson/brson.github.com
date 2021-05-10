@@ -28,7 +28,7 @@ Almost no head, but what's there is very brown.
 
 Vanilla, caramel, molasses, cocoa.
 
-We are foolishly dooring a tasting while preparing a meat-heavy dinner in the kitchen.
+We are foolishly doing a tasting while preparing a meat-heavy dinner in the kitchen.
 We periodically open the door and step outside to smell the fresh air,
 and the stout beer.
 
