@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wiedemann's Behemian Golden Pilsner
+title: Wiedemann's Bohemian Golden Pilsner
 ---
 Bohemian Golden Pilsner.
 Wiedemann Brewing.
