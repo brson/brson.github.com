@@ -91,6 +91,6 @@ We don't finish it.
 This is bad beer dressed up with a bad gimmick.
 Make a good beer first,
 then add the garbage.
-I remain willing to dry a delicious NEIPA with some habanero in it.
+I remain willing to try a delicious NEIPA with some habanero in it.
 
 1
