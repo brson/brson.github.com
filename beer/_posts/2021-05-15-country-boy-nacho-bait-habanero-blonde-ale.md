@@ -44,7 +44,7 @@ It's hard to make any tasting notes when the aftertaste is just peppery-hot.
 
 It's not complex or interesting,
 just slightly hot and tastes like habanero,
-but it also tastes lie the worst habanero-derived food flavoring you've ever eaten,
+but it also tastes like the worst habanero-derived food flavoring you've ever eaten,
 not like a deliciously fresh habanero.
 
 I can't appreciate the beer qualities of this in any way.
