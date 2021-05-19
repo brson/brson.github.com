@@ -10,6 +10,11 @@ is not public, and there are some gaps here from 2017-2019._
 
 - Clock in (geonft)
 - 12:58 PM
+- Hacked on solana
+- 7:32 PM
+- Clock out (geonft)
+- Hacked on streamlet
+- 9:39 PM
 
 # 2021-05-17
 
