@@ -6,6 +6,19 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-05-19
+
+- Clock in (geonft)
+- 12:58 PM
+
+# 2021-05-17
+
+- Clock in (geonft)
+- 7:47 PM
+- Hacked on solana
+- 9:19 PM
+- Clock out (geonft)
+
 # 2021-05-16
 
 - Hacked on streamlet
