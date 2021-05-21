@@ -6,6 +6,23 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-05-20
+
+- Clock in (PingCAP)
+- 2:41 PM
+- Hacked on removing RocksEngine from server
+- Hacked on removing TableProperties abstractions
+- 6:26 PM
+- Clock out (PingCAP)
+- Drafted rust license post
+- 8:47 PM
+- Clock in (PingCAP)
+- 9:54 PM
+- Attended storage mtg
+- Hacked on removing rocks from server
+- 10:41 PM
+- Clock out (PingCAP)
+
 # 2021-05-19
 
 - Clock in (geonft)
