@@ -11,7 +11,7 @@ Aged in oak casks used to age 18 year scotch.
 
 I know nothing about this brewery,
 but I like barrel-aged beers,
-and this super fancy,
+and this looks super-fancy,
 so I have high expectations.
 
 Bottle 00770, bottled July 2020.
