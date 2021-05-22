@@ -25,6 +25,8 @@ Faintly sweet with a bit of fruit. Apple.
 Bottle smells more malty than the glass,
 and herbal.
 
+4
+
 
 ## Taste
 
