@@ -76,7 +76,7 @@ Aftertaste is burnt.
 
 ## Mouthfeel
 
-Not as think as I expected,
+Not as thick as I expected,
 but noticably little carbonation
 really makes it a boring experience.
 
