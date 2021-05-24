@@ -40,7 +40,7 @@ at first, but
 there's something unusual here:
 olives, or scallions or garlic.
 
-It's more bitter than expect from a pilsner,
+It's more bitter than I expect from a pilsner,
 but I don't mind that.
 
 4
