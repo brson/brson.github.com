@@ -6,6 +6,61 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-05-28
+
+- [Filed bug about binary_search_by](https://github.com/rust-lang/rust/issues/85773)
+- 1:46 AM
+- Clock in (PingCAP)
+- 4:00 PM
+- Rebased TableProperties patch
+- 5:57 PM
+- Clock out (PingCAP)
+
+# 2021-05-27
+
+- Clock in (PingCAP)
+- 12:23 PM
+- Hacked on removing TableProperties abstractions
+- 1:26 PM
+- Hacked on generic tikv::server
+- 2:08 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:10 PM
+- [Posted PR to remove RocksEngine from tikv::server](https://github.com/tikv/tikv/pull/10260)
+- 9:40 PM
+- Attended storage mtg
+- 10:37 PM
+- Clock out (PingCAP)
+
+# 2021-05-26
+
+- Clock in (PingCAP)
+- 12:47 PM
+- Hacked on removing TableProperties
+- 1:45 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 2:20 PM
+- Hacked on removing TableProperties
+- 2:55 PM
+- Clock out (PingCAP)
+
+# 2021-05-25
+
+- Clock in (PingCAP)
+- 11:50 AM
+- Rebased generic-server patch
+- 1:44 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 6:41 PM
+- Hacked on removing TableProperties abstraction
+- 8:15 PM
+- Clock out (PingCAP)
+- Hacked on solana
+- 8:16 PM
+
 # 2021-05-22
 
 - Clock in (geonft)
