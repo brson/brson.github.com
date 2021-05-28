@@ -10,7 +10,7 @@ Leipzig, Germany.
 This is a gose "brewed with coriander and salt, and filtered over pine needles".
 Fascinating.
 
-Having a difficult today today.
+Having a difficult day today.
 Will this cheer me up?
 
 <img class="beer-photo" src="/beer/images/2021-05-28-bayerischer-bahnhof-pineus.jpg"/>
