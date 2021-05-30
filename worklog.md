@@ -6,6 +6,19 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-05-30
+
+- Clock in (geonft)
+- 12:34 PM
+- Hacked on solana
+- 2:00 PM
+- Clock out (geonft)
+
+# 2021-05-29
+
+- Hacked on solana
+- 11:59 PM
+
 # 2021-05-28
 
 - [Filed bug about binary_search_by](https://github.com/rust-lang/rust/issues/85773)
@@ -15,6 +28,8 @@ is not public, and there are some gaps here from 2017-2019._
 - Rebased TableProperties patch
 - 5:57 PM
 - Clock out (PingCAP)
+- Hacked on solana
+- 10:36 PM
 
 # 2021-05-27
 
