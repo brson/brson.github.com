@@ -6,6 +6,24 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-06-02
+
+- Hacked on rib
+- 2:42 PM
+
+# 2021-06-01
+
+- Clock in (PingCAP)
+- 9:00 PM
+- Attended ibg mtg
+- 10:39 PM
+- Clock out (PingCAP)
+
+# 2021-05-31
+
+- Hacked on solana
+- 11:36 PM
+
 # 2021-05-30
 
 - Clock in (geonft)
