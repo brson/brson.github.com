@@ -6,6 +6,26 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-06-03
+
+- Clock in (PingCAP)
+- 5:19 PM
+- Rebased TableProperties patch
+- 5:19 PM
+- Rebased generic-server patch
+- 7:36 PM
+- [Posted PR to remove TableProperties abstraction](https://github.com/tikv/tikv/pull/10300)
+- 7:49 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:48 PM
+- Updated weekly report
+- 9:52 PM
+- Attended storage team mtg
+- Hacked on abstract tikv-server
+- 10:23 PM
+- Clock out (PingCAP)
+
 # 2021-06-02
 
 - Hacked on rib
