@@ -53,7 +53,7 @@ and looked forward to writing more.
 - Solana programs are called "programs", not "smart contracts".
 - The Solana programming model doesn't impose typical smart contract abstractions
   on the implementation; it just gives you a low-level entry point
-  function, a buffer of data for your program to interepret,
+  function, a buffer of data for your program to interpret,
   and an SDK full of tools. No DSLs here.
 - The developer channels on the Solana Discord are active.
 - Although at the time it _felt_ like a lot of the questions we
