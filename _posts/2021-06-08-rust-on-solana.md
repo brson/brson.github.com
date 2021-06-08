@@ -50,11 +50,11 @@ and looked forward to writing more.
 - The Solana toolset and custom toolchain installed easily and
   didn't cause us any grief.
 - Setting up a devnet is easy.
+- Solana programs are called "programs", not "smart contracts".
 - The Solana programming model doesn't impose typical "smart contract" abstractions
   on the implementation; it just gives you a low-level entry point
   function, a buffer of data for your program to interepret,
   and an SDK full of tools. No DSLs here.
-- Solana programs are called "programs", not "smart contracts".
 - The developer channels on the Solana Discord are active.
 - Although at the time it _felt_ like a lot of the questions we
   asked in Discord went unanswered, in retrospect, many of them
@@ -83,8 +83,8 @@ and looked forward to writing more.
   panics when the buffer is not exactly the right size.
 - The instruction budget is very limited &mdash;
   we were not able to verify a single K-256 ECDSA signature on-chain
-  within the limit, as such
-- doing your own signature verification in-program is probably not
+  within the limit, as such:
+- Doing your own signature verification in-program is probably not
   the way to use Solana. The Solana runtime can verify multiple account signatures
   before your program ever runs, so a Solana program seemingly needs to be designed
   to leverage that capability when signature verification is needed.
