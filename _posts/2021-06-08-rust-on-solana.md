@@ -40,8 +40,8 @@ and looked forward to writing more.
 
 ### Things we liked
 
-- The main documentation at [docs.solana.com] are a good entry point for
-  most Solana subjects, are up to date, and interesting to read.
+- The main documentation at [docs.solana.com] is a good entry point for
+  most Solana subjects, is up to date, and interesting to read.
 - The [Solana Program Library][spl] is a great resource for learning
   Solana programming the hard way.
   It contains a bunch of production Solana code,
