@@ -6,6 +6,11 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-06-08
+
+- [Posted solana blog](https://brson.github.io/2021/06/08/rust-on-solana)
+- 3:37 PM
+
 # 2021-06-03
 
 - Clock in (PingCAP)
