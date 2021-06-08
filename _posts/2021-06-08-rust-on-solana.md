@@ -168,7 +168,7 @@ Neither of these are easy or proper to do on Solana:
 signature verification just requires too many CPU cycles;
 and programs have fixed storage space.
 
-As it stands our Solana contract does not properly verify the
+As it stands our Solana program does not properly verify the
 signatures it needs to &mdash;
 it just accepts its input as valid.
 To fix this we need to restructure our cryptographic code within the rest
