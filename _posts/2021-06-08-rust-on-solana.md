@@ -107,7 +107,7 @@ and looked forward to writing more.
 - Solana programs have access to the standard library,
   but it is a not-quite compatible version of the standard library.
   This was the source of multiple confusions, including:
-- `HashMap` seems to just panic on any operation,
+- `HashMap` seems to just fail on any operation,
   which manifests as a mysterious access violation.
   We spent hours looking for our bug when we should have just not
   used `HashMap`; and
