@@ -51,7 +51,7 @@ and looked forward to writing more.
   didn't cause us any grief.
 - Setting up a devnet is easy.
 - Solana programs are called "programs", not "smart contracts".
-- The Solana programming model doesn't impose typical "smart contract" abstractions
+- The Solana programming model doesn't impose typical smart contract abstractions
   on the implementation; it just gives you a low-level entry point
   function, a buffer of data for your program to interepret,
   and an SDK full of tools. No DSLs here.
