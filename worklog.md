@@ -6,10 +6,248 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+
+# 2021-07-09
+
+- Clock in (Solana)
+- 3:48 PM
+- [Posted pr to get rid of doc warnings in spl](https://github.com/solana-labs/solana-program-library/pull/2058)
+- 6:03 PM
+- [Posted pr to fix doc warnings in solana](https://github.com/solana-labs/solana/pull/18566)
+- 6:21 PM
+- Clock out (Solana)
+
+# 2021-07-08
+
+- Clock in (PingCAP)
+- 8:40 PM
+- Updated status report
+- 8:44 PM
+- Attended ibg meeting
+- 10:02 PM
+- Attended storage mtg
+- 10:26 PM
+- Clock out (PingCAP)
+
+# 2021-07-06
+
+- Clock in (PingCAP)
+- 2:26 PM
+- Rebased branches
+- [Posted engine_traits_tests pr](https://github.com/tikv/tikv/pull/10527)
+- 2:44 PM
+- Hacked on generic-tikv-server branch
+- 3:06 PM
+- [Posted issue to launch tikv-server with PanicEngine](https://github.com/tikv/tikv/issues/10528)
+- 3:46 PM
+- [Posted generic-tikv-server pr](https://github.com/tikv/tikv/pull/10529)
+- 4:07 PM
+- Clock out (PingCAP)
+
+# 2021-07-05
+
+- Clock in (PingCAP)
+- 9:33 PM
+- Hacked on removing dynamic casts from engine startup
+- Attempted to run tikv-server with engine_simple
+- 10:36 PM
+- Got tikv-server to start with engine_simple
+- 11:55 PM
+- Clock out (PingCAP)
+
+# 2021-07-04
+
+- Clock in (PingCAP)
+- 12:36 PM
+- Rebased generic-tikv-server branch
+- 1:07 PM
+- Rebased engine-simple-try-2 branch
+- 1:43 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 3:21 PM
+- Hacked on engine_simple
+- 3:44 PM
+- Clock out (PingCAP)
+
+# 2021-07-02
+
+- Clock in (Solana)
+- 3:37 PM
+- Drafted RpcClient crate and ctor docs
+- 4:40 PM
+- Clock out (Solana)
+
+# 2021-07-01
+
+- Clock in (PingCAP)
+- 7:33 PM
+- [Rebased generic-cdc patch](https://github.com/tikv/tikv/pull/10344#issuecomment-872624343)
+- 8:12 PM
+- Hacked on blocksy3 compaction
+- 8:15 PM
+- [Rebased generic-server patch](https://github.com/tikv/tikv/pull/10260#issuecomment-872645830)
+- 9:20 PM
+- [Pushed rework for generic-server patch](https://github.com/tikv/tikv/pull/10260#discussion_r662689638)
+- 10:08 PM
+- Attended storage meeting
+- 10:23 PM
+- Wrote more sst tests
+- 10:53 PM
+- Clock out (PingCAP)
+
+# 2021-06-30
+
+- Clock in (Solana)
+- 4:05 PM
+- Collected resources for documenting Solana Rust APIs
+- Drafted initial Solana API doc plan
+- Learned to build and test Solana Rust API docs
+- 5:51 PM
+- Clock out (Solana)
+
+# 2021-06-27
+
+- Clock in (PingCAP)
+- 12:30 AM
+- A bit of hacking on blocksy3
+- 1:00 AM
+- Clock out (PingCAP)
+
+# 2021-06-24
+
+- Clock in (PingCAP)
+- 9:15 PM
+- [Responded to table properties review](https://github.com/tikv/tikv/pull/10375#discussion_r658396486)
+- 9:20 PM
+- Attended storage mtg
+- 10:42 PM
+- [Rebased generic-cdc branch](https://github.com/tikv/tikv/pull/10344#issuecomment-868159341)
+- 10:44 PM
+- Clock out (PingCAP)
+
+# 2021-06-21
+
+- Clock in (PingCAP)
+- 8:33 PM
+- Hacked on engine_traits_tests
+- 9:30 PM
+- Clock out (PingCAP)
+
+# 2021-06-17
+
+- Clock in (PingCAP)
+- 1:36 PM
+- Hacked on engine_traits_tests sst tests
+- 1:58 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 2:20 PM
+- Hacked on engine_traits_tests sst tests
+- 4:47 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:41 PM
+- Updated weekly report
+- 9:48 PM
+- Attended storage mtg
+- 10:40 PM
+- Hacked on engine_traits_tests
+- 10:48 PM
+- Hacked on engine-simple-in-tikv
+- 11:46 PM
+- Clock out (PingCAP)
+
+
+# 2021-06-16
+
+- Clock in (PingCAP)
+- 6:57 PM
+- [Rebased generic-cdc pr](https://github.com/tikv/tikv/pull/10344#issuecomment-862785356)
+- 7:00 PM
+- [Rebased and re-created table-properties abstraction pr](https://github.com/tikv/tikv/pull/10375)
+- 7:04 PM
+- [Rebased generic-server pr](https://github.com/tikv/tikv/pull/10260#issuecomment-862787962)
+- 7:06 PM
+- Hacked on engine-simple-try-2
+- 7:31 PM
+- Clock out (PingCAP)
+
+# 2021-06-15
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Hacked on blocksy3
+- 1:01 AM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 4:21 PM
+- Resumed work on engine-simple-try-2
+- 4:26 PM
+- Hacked on engine_traits_tests
+- 6:57 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 10:35 PM
+- Hacked on engine_traits_tests
+- 11:59 PM
+- Clock out (PingCAP)
+
+# 2021-06-14
+
+- Clock in (PingCAP)
+- 10:50 PM
+- Hacked on blocksy3
+- 11:59 PM
+- Clock out (PingCAP)
+
+# 2021-06-11
+
+- Clock in (PingCAP)
+- 11:22 AM
+- Got tikv-server to start with PanicEngine
+- 1:43 PM
+- Clock out (PingCAP)
+
+# 2021-06-10
+
+- Clock in (PingCAP)
+- 3:15 PM
+- Continued hacking on cdc crate
+- [Posted pr to abstract cdc over engines](https://github.com/tikv/tikv/pull/10344)
+- 4:24 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 7:06 PM
+- Hacked on removing rocks from tikv-server
+- 8:49 PM
+- Updated weekly report
+- 8:56 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 9:59 PM
+- Attended storage mtg
+- 10:22 PM
+- Clock out (PingCAP)
+
+# 2021-06-09
+
+- Clock in (PingCAP)
+- 12:26 PM
+- Hacked on generic-tikv-server-2-branch
+- Rebased no-table-properties branch
+- Started hacking on removing rocks from cdc crate
+- 1:19 PM
+- Rebased generic-server branch
+- 2:43 PM
+- Clock out (PingCAP)
+
 # 2021-06-08
 
 - [Posted solana blog](https://brson.github.io/2021/06/08/rust-on-solana)
 - 3:37 PM
+- [Commented about solana](https://www.reddit.com/r/RustInBlockchain/comments/nvccaq/first_impressions_of_rust_programming_on_solana/h13iv14?utm_source=share&utm_medium=web2x&context=3)
+- 8:57 PM
 
 # 2021-06-03
 
@@ -308,7 +546,7 @@ is not public, and there are some gaps here from 2017-2019._
 
 # 2021-04-24
 
-- Clock in PingCAP)
+- Clock in (PingCAP)
 - 9:37 PM
 - Hacked on compaction for blocksy3
 - 11:28 PM
@@ -341,7 +579,7 @@ is not public, and there are some gaps here from 2017-2019._
 - 12:26 PM
 - Hacked on engine_simple
 - 1:00 PM
-- Clock in (PingCAP)
+- Clock out (PingCAP)
 - Clock in (PingCAP)
 - 2:22 PM
 - Continued trying to get engine_simple to pass the engine_traits_tests
