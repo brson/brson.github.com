@@ -41,6 +41,9 @@ boring.
 
 Yeah the aftertaste is gross.
 
+Aimee completely forgets about her glass and walks off to arrange the closets.
+I am tempted not to finish my glass.
+
 As much as we loved Marina,
 and as much as the brewpub itself has a nice vibe,
 the beers of Briar Common are not excellent.
