@@ -19,7 +19,7 @@ the beers for which we didn't write down reviews.
 In Denver, we are happy to discover there are very many breweries.
 Last night we ate at Briar Common Brewery,
 and talked a bunch with charming bartender Marina.
-Although the beers we had there were not amazing,
+Although the beers we had there were not great,
 this one,
 a Belgian golden ale type,
 was good,
