@@ -25,7 +25,7 @@ a Belgian golden ale type,
 was good,
 and we took a crowler home with us.
 
-The can is classy, kind a art deco.
+The can is classy, kind of art deco.
 The beer's appearance is classic golden.
 
 Smell is sour apple.
