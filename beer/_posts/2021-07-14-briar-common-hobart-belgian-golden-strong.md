@@ -33,8 +33,7 @@ Smell is sour apple.
 The taste has the characteristic of Belgian yeasts.
 Sweet and sour.
 Noticable alcohol flavor,
-especially in the afterstaste,
-almost like it was a distilled spirit.
+especially in the afterstaste.
 
 The flavor is one-dimensional,
 boring.
