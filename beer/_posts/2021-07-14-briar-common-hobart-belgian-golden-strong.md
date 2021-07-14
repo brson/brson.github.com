@@ -43,9 +43,12 @@ Yeah the aftertaste is gross.
 
 As much as we loved Marina,
 and as much as the brewpub itself has a nice vibe,
-the beers of Briar Common are below average quality.
+the beers of Briar Common are not excellent.
 
-2/5
+This brewpub,
+like so many,
+I think suffers from the expectation of always needing to serve something unique to the beer connoiseur,
+with the result of failing at the basics of making good beer.
 
-Aimee disagrees &mdash; she would probably give it a three.
+3/5
 
