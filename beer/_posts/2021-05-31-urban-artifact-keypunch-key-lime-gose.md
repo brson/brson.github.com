@@ -44,7 +44,7 @@ It's a pretty mellow sour.
 
 But it's a wierd taste.
 Definitely some key lime,
-the it's not the refrishing taste I expect from fresh lime.
+though it's not the refrishing taste I expect from fresh lime.
 
 The limeness is kinda ruined.
 
