@@ -60,6 +60,6 @@ but sometimes used in both winemaking and beermaking.
 It's a few Belgian beer styles that use them the most,
 including lambics and saisons.
 
-It must be challenging to control all these living things in a way that produces a delicious product,
+It must be challenging to control all these living things in a way that produces a palatable product,
 so that's some potential basis for appreciating sour ales,
 even when they are not so pleasant to drink.
