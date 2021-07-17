@@ -43,7 +43,7 @@ Totally dominated by the sourness from the yeasts.
 It does though bring to mind another aged sour
 beer we experienced,
 though that was a much worse beer.
-It has a bit of muted, earthy, muddiness to it,
+It shares a muted, earthy, muddy quality,
 as opposed to being bright, crisp, refreshing.
 Could be an effect of barrel aging.
 
