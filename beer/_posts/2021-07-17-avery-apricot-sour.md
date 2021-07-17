@@ -40,6 +40,13 @@ The apricot doesn't really come through.
 The barrel aging doesn't speak here either.
 Totally dominated by the sourness from the yeasts.
 
+It does though bring to mind another aged sour
+beer we experienced,
+though that was a much worse beer.
+It has a bit of muted, earthy, muddiness to it,
+as opposed to being bright, crisp, refreshing.
+Could be an effect of barrel aging.
+
 Super fizzy mouthfeel.
 
 It's not great fun to drink.
