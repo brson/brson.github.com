@@ -6,11 +6,56 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-07-17
+
+- Clock in (Solana)
+- 10:51 AM
+- Edited RpcClient docs
+- 11:31 AM
+- Clock out (Solana)
+- Clock in (Solana)
+- 11:49 AM
+- Edited RpcClient docs
+- 1:10 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 4:52 PM
+- [Posted RpcClient pr](https://github.com/solana-labs/solana/pull/18748)
+- 5:18 PM
+- Clock out (Solana)
+
+# 2021-07-16
+
+- Clock in (Solana)
+- 9:01 AM
+- Hacked on RpcClient docs
+- 11:44 AM
+- Clock out (Solana)
+- Hacked on stateright
+- 9:21 PM
+- Hacked on blocksy
+- 11:59 PM
 
 # 2021-07-15
 
 - Clock in (Solana)
 - 3:38 PM
+- [Reworked doc warnings pr](https://github.com/solana-labs/solana/pull/18566#discussion_r670826934)
+- [Rebased doc warnings pr](https://github.com/solana-labs/solana/pull/18566#issuecomment-881052537)
+- 4:17 PM
+- Hacked on RpcClient examples
+- 5:10 PM
+- Clock out (Solana)
+- Clock in (PingCAP)
+- 6:51 PM
+- [Fixed errors in engine_traits_tests pr](https://github.com/tikv/tikv/pull/10527#issuecomment-881115242)
+- 7:42 PM
+- [Fixed errors in tikv-server p](https://github.com/tikv/tikv/pull/10529#issuecomment-881124914)
+- 8:11 PM
+- Attended storage mtg
+- Reviewed Jay's multi-kv patch
+- 8:45 PM
+- Clock out (PingCAP)
 
 # 2021-07-09
 
