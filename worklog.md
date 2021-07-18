@@ -6,6 +6,13 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-07-18
+
+- Clock in (Solana)
+- 3:58 PM
+- [Ran rustfmt on rpcclient pr](https://github.com/solana-labs/solana/pull/18748)
+- 4:02 PM
+
 # 2021-07-17
 
 - Clock in (Solana)
