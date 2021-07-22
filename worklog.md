@@ -6,12 +6,41 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-07-21
+
+- Clock in (PingCAP)
+- 10:35 AM
+- [Reworked TableProperties pr](https://github.com/tikv/tikv/pull/10375#issuecomment-884470953)
+- 12:32 PM
+- Clock out (PingCAP)
+
+# 2021-07-20
+
+- Clock in (Solana)
+- 10:45 AM
+- [Reworked RpcClient pr](https://github.com/solana-labs/solana/pull/18748#issuecomment-883545217)
+- 10:54 AM
+- Clock out (Solana)
+- Clock in (PingCAP)
+- 11:11 AM
+- Rebased TableProperties pr
+- 12:02 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 2:02 PM
+- [Rebased TableProperties pr](https://github.com/tikv/tikv/pull/10375#issuecomment-883705822)
+- 3:02 PM
+- Hacked on removing more TableProperties abstractions from engine_rocks
+- 4:59 PM
+- Clock out (PingCAP)
+
 # 2021-07-18
 
 - Clock in (Solana)
 - 3:58 PM
 - [Ran rustfmt on rpcclient pr](https://github.com/solana-labs/solana/pull/18748)
 - 4:02 PM
+- Clock out (Solana)
 
 # 2021-07-17
 
