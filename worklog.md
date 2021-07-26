@@ -6,6 +6,41 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-07-25
+
+- Clock in (Solana)
+- 2:54 PM
+- Merged my changes with Aimee's
+- Rebased docs-rpc-client patch
+- 3:48 PM
+- Clock out (Solana)
+
+# 2021-07-23
+
+- Clock in (Solana)
+- 10:47 AM
+- [Posted PR to fix hyperlinks in feature_set docs](https://github.com/solana-labs/solana/pull/18874)
+- 11:04 AM
+- Drafted RpcClient API docs
+- 11:48 AM
+- Clock out (Solana)
+
+# 2021-07-22
+
+- Clock in (PingCAP)
+- 6:05 AM
+- [Rebased tikv-server pr](https://github.com/tikv/tikv/pull/10529#issuecomment-885323802)
+- 6:29 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 7:12 PM
+- Filled out weekly report
+- Rebased engine-simple branch
+- 7:56 PM
+- Attended storage mtg
+- 8:28 PM
+- Clock out (PingCAP)
+
 # 2021-07-21
 
 - Clock in (PingCAP)
