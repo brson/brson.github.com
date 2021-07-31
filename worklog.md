@@ -6,6 +6,70 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-07-31
+
+- Clock in (Solana)
+- 12:18 PM
+- Wrote more docs for RpcClient
+- 1:16 PM
+- Clock out (Solana)
+
+# 2021-07-30
+
+- Clock in (Solana)
+- 11:18 AM
+- Hacked on RpcClient examples and tests
+- [Submitted pr to fix get_block_production_with_config](https://github.com/solana-labs/solana/pull/18998)
+- 12:57 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 4:08 PM
+- Rebased docs-rpc-client branch
+- 4:54 PM
+- Clock out (Solana)
+
+# 2021-07-29
+
+- Clock in (PingCAP)
+- 2:36 PM
+- [Asked for second review of tableproperties removal pr](https://github.com/tikv/tikv/pull/10375)
+- 2:40 PM
+- [Attempted to merge engine_traits_tests pr](https://github.com/tikv/tikv/pull/10527#issuecomment-889441385)
+- 2:42 PM
+- [Rebased generic-tikv-server patch](https://github.com/tikv/tikv/pull/10529#issuecomment-889467019)
+- 3:19 PM
+- [Merged engine-traits-tests pr](https://github.com/tikv/tikv/pull/10527)
+- [Merged tableproperties abstraction removal pr](https://github.com/tikv/tikv/pull/10375)
+- 3:30 PM
+- Updated status report
+- 3:50 PM
+- [Rebased generic-tikv-server patch](https://github.com/tikv/tikv/pull/10529#issuecomment-889500512)
+- 4:25 PM
+- Rebased engine-simple-try-2 branch
+- 4:54 PM
+- Clock out (PingCAP)
+- Clock in (Solana)
+- 9:00 PM
+- Hacked on RpcClient examples
+- 10:00 PM
+- Clock out (Solana)
+
+# 2021-07-28
+
+- Clock in (Solana)
+- 11:44 AM
+- Hacked on tests and docs for RpcClient::get_signature_statuses
+- 1:36 PM
+- Clock out (Solana)
+
+# 2021-07-27
+
+- Clock in (Solana)
+- 2:23 PM
+- Wrote test cases for RpcClient
+- 4:38 PM
+- Clock out (Solana)
+
 # 2021-07-25
 
 - Clock in (Solana)

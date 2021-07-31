@@ -62,6 +62,9 @@ interests as time passes.
   Bogus]. The success of This Week in Rust has been influential on
   other open source projects.
 
+* Started the TWIR [Quote of the Week] tradition,
+  with its epic forum thread.
+
 * Created the [Friend of the Tree] tradition (after Mozilla's own) for
   acknowleding community contributions. It has since died.
 
@@ -155,3 +158,4 @@ interests as time passes.
 [rust-skeptic]: https://github.com/brson/rust-skeptic
 [blitz]: https://blog.rust-lang.org/2017/05/05/libz-blitz.html
 [Diggory Blake]: https://github.com/Diggsey
+[Quote of the Week]: https://users.rust-lang.org/t/twir-quote-of-the-week/328/8
