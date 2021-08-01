@@ -6,6 +6,19 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-08-01
+
+- Clock in (Solana)
+- 1:52 PM
+- Wrote more docs for RpcClient
+- 2:24 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 3:05 PM
+- Wrote more docs for RpcClient
+- 3:28 PM
+- Clock out (Solana)
+
 # 2021-07-31
 
 - Clock in (Solana)
