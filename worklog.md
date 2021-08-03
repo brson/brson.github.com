@@ -6,6 +6,28 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-08-03
+
+- Clock in (PingCAP)
+- 12:07 PM
+- Rebased engine-simple-try2 branch
+- [Rebased generic-tikv-server pr](https://github.com/tikv/tikv/pull/10529#issuecomment-892084031)
+- 12:57 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 5:21 PM
+- Made tikv-server launch with SimpleEngine
+- 6:16 PM
+- Clock out (PingCAP)
+
+# 2021-08-02
+
+- Clock in (Solana)
+- 4:59 PM
+- [Posted PR for more RpcClient docs](https://github.com/solana-labs/solana/pull/19021)
+- 6:25 PM
+- Clock out (Solana)
+
 # 2021-08-01
 
 - Clock in (Solana)
@@ -18,6 +40,8 @@ is not public, and there are some gaps here from 2017-2019._
 - Wrote more docs for RpcClient
 - 3:28 PM
 - Clock out (Solana)
+- Published a beer review
+- 7:52 PM
 
 # 2021-07-31
 
