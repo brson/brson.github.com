@@ -6,6 +6,327 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-09-16
+
+- Clock in (PingCAP)
+- 4:31 PM
+- [Responded to review of generic tikv patch](https://github.com/tikv/tikv/pull/10945#discussion_r710542655)
+- 4:47 PM
+- Clock out (PingCAP)
+- Clock in (Solana)
+- 4:45 PM
+- Rebuilt rpc-docs-patch
+- 5:26 PM
+- Clock out (Solana)
+
+# 2021-09-14
+
+- Clock in (PingCAP)
+- 6:56 PM
+- Attended ibg all hands
+- 8:16 PM
+- Clock out (PingCAP)
+
+# 2021-09-13
+
+- Clock in (PingCAP)
+- 4:33 PM
+- [Merged old PR](https://github.com/tikv/tikv/pull/10785)
+- 4:34 PM
+- [Posted new generic tikv-server PR](https://github.com/tikv/tikv/pull/10945)
+- 4:51 PM
+- Pushed more changes to generic-tikv-server PR
+- 6:46 PM
+- Clock out (PingCAP)
+
+# 2021-09-10
+
+- Clock in (Solana)
+- 1:05 PM
+- Edited docs-rpc-client patch
+- 2:26 PM
+- [Submited RpcClient doc PR](https://github.com/solana-labs/solana/pull/19771)
+- 2:38 PM
+- Clock out (Solana)
+
+# 2021-09-09
+
+- Clock in (PingCAP)
+- 2:19 PM
+- Drafted refactoring blog
+- 2:42 PM
+- Attempted to make FlowController work without rocks
+- 3:11 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 5:20 PM
+- Began rewriting patches to boot generic tikv-server
+- 6:16 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 8:03 PM
+- Continued rewriting generic-tikv-server patch
+- 9:15 PM
+- Clock out (PingCAP)
+
+# 2021-09-01
+
+- Clock in (Solana)
+- 10:30 AM
+- Wrote more RpcClient docs
+- 11:14 AM
+- Clock out (Solana)
+
+# 2021-08-31
+
+- Clock in (Solana)
+- 1:05 PM
+- Wrote more RpcClient docs
+- 1:55 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 4:45 PM
+- Rebased docs-rpc-client patch
+- Wrote more RpcClient docs
+- 5:52 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 6:49 PM
+- Wrote more RpcClient docs
+- 7:15 PM
+- Clock out (Solana)
+
+# 2021-08-29
+
+- Clock in (Solana)
+- 2:52 PM
+- Merged Aimee's work into mine
+- 2:57 PM
+- Wrote a bunch more RpcClient docs
+- 4:05 PM
+- Clock out (Solana)
+
+# 2021-08-28
+
+- Clock in (PingCAP)
+- 1:58 PM
+- Attended IBG team building
+- 3:09 PM
+- Clock out (PingCAP)
+
+# 2021-08-27
+
+- Clock in (Solana)
+- 9:00 AM
+- Wrote more RpcClient examples
+- 10:00 AM
+- Clock out (Solana)
+
+# 2021-08-26
+
+- Clock in (PingCAP)
+- 3:09 PM
+- Looked again at FlowController
+- 3:19 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 7:56 PM
+- Wrote weekly report
+- 7:58 PM
+- Attended storage mtg
+- 8:36 PM
+- Clock out (PingCAP)
+
+# 2021-08-25
+
+- Clock in (PingCAP)
+- 1:00 PM
+- [Reworked tivk-server PR](https://github.com/tikv/tikv/pull/10785#issuecomment-905808237)
+- Attempted to rebase broken generic-tikv-server patch
+- Investigated how to abstract FlowController
+- 2:12 PM
+- Clock out (PingCAP)
+
+# 2021-08-20
+
+- Clock in (Solana)
+- 4:23 PM
+- Debugged example for RpcClient::get_account
+- 5:06 PM
+- [Asked for re-review of docs pr](https://github.com/solana-labs/solana/pull/19236#issuecomment-903000657)
+- 5:07 PM
+- [Posted PR to fix getSlot specs](https://github.com/solana-labs/solana/pull/19355)
+- 5:52 PM
+- Clock out (Solana)
+
+# 2021-08-19
+
+- Clock in (PingCAP)
+- 10:27 AM
+- Rebased generic-tikv-server patch
+- 11:26 AM
+- [Posted new tikv-server PR](https://github.com/tikv/tikv/pull/10785)
+- [Closed old tikv-server PR](https://github.com/tikv/tikv/pull/10529#issuecomment-902122752)
+- 11:57 AM
+- [Attempted to merge an old test pr](https://github.com/tikv/tikv/pull/10069#issuecomment-902123988)
+- 11:59 AM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 7:30 PM
+- Wrote weekly report
+- Attended storage mtg
+- 8:32 PM
+- Clock out (PingCAP)
+
+- Clock in (Solana)
+- 10:27 AM
+- Wrote RpcClient examples
+- 11:26 AM
+- Clock out (Solana)
+
+# 2021-08-17
+
+- Clock in (Solana)
+- 2:09 PM
+- [Reworked docs-rpc-client-checkpoint-3 pr](https://github.com/solana-labs/solana/pull/19236#issuecomment-900599884)
+- 2:15 PM
+- Clock out (Solana)
+- Clock in (PingCAP)
+- 4:00 PM
+- Chatted w/ Bijun
+- 4:51 PM
+- Clock out (PingCAP)
+- Clock in (Solana)
+- 5:56 PM
+- Reviewed rpc handler code
+- 6:54 PM
+- Clock out (Solana)
+
+# 2021-08-14
+
+- Clock in (Solana)
+- 2:18 PM
+- Rebased docs-rpc-client patch
+- 3:28 PM
+- [Posted new RpcClient doc pr](https://github.com/solana-labs/solana/pull/19236)
+- 4:02 PM
+- Clock out (Solana)
+
+# 2021-08-12
+
+- Clock in (Solana)
+- 11:26 AM
+- Wrote RpcClient docs for simulate_transaction, etc
+- 12:24 PM
+- Wrote more RpcClient examples
+- Rebased docs-rpc-client branch
+- 12:44 PM
+- Clock out (Solana)
+- Clock in (PingCAP)
+- 4:55 PM
+- [Attempted to rebase tikv-server pr](https://github.com/tikv/tikv/pull/10529#issuecomment-898049812)
+- 5:58 PM
+- Wrote weekly report
+- 6:01 PM
+- Clock out (PingCAP)
+
+# 2021-08-11
+
+- Clock in (Solana)
+- 12:21 PM
+- Squashed and rebased docs-rpc-client patch
+- 1:47 PM
+- Wrote more RpcClient docs
+- 2:33 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 3:34 PM
+- Hacked on tests and examples for RpcClient::get_stake_activation
+- 5:08 PM
+- Clock out (Solana)
+
+# 2021-08-10
+
+- Clock in (Solana)
+- 12:23 PM
+- [Submitted readme fix to anchor](https://github.com/project-serum/anchor/pull/595)
+- 12:24 PM
+- Clock out (Solana)
+- Clock in (PingCAP)
+- 6:53 PM
+- Attended ibg meeting
+- 9:00 PM
+- Clock out (PingCAP)
+
+# 2021-08-09
+
+- Clock in (Solana)
+- 4:06 PM
+- Wrote more RpcClient examples
+- Followed up on RPC deserialization PR
+- Rebased docs-rpc-client branch
+- Asked questions on discord
+- 5:20 PM
+- Wrote docs and tests for RpcClient::send_transaction
+- 6:40 PM
+- Clock out (Solana)
+- Clock in (PingCAP)
+- 10:03 PM
+- Hacked on engine-agate
+- 10:38 PM
+- Clock out (PingCAP)
+
+# 2021-08-06
+
+- Clock in (Solana)
+- 5:46 PM
+- Rebased docs-rpc-client branch
+- 5:57 PM
+- Investigated HttpSender error decoding failures
+- 7:15 PM
+- [Posted PR to fix deserialization of RPC errors](https://github.com/solana-labs/solana/pull/19110)
+- 8:07 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 9:08 PM
+- [Commented on RPC error deserialization](https://github.com/solana-labs/solana/pull/19110#issuecomment-894596847)
+- 9:15 PM
+- Clock out (Solana)
+
+# 2021-08-05
+
+- Clock in (Solana)
+- 11:54 AM
+- [Reworked RpcClient doc pr](https://github.com/solana-labs/solana/pull/19021#issuecomment-893675767)
+- 12:11 PM
+- Clock out (Solana)
+- [Responded to isis re ed25519 stack frames](https://github.com/dalek-cryptography/curve25519-dalek/issues/355#issuecomment-893685984)
+- 12:28 PM
+- Clock in (PingCAP)
+- 1:43 PM
+- [Rebased agatedb-engine patch](https://github.com/tikv/tikv/issues/9844#issuecomment-893758906)
+- 2:01 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 7:56 PM
+- Wrote progress report
+- Attended storage meeting
+- 8:39 PM
+- Clock out (PingCAP)
+
+# 2021-08-04
+
+- Clock in (PingCAP)
+- 12:00 AM
+- Experimented with tikv_client
+- 12:11 AM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 10:33 PM
+- Experimented with tikv_client
+- 11:24 PM
+- Clock out (PingCAP)
+
 # 2021-08-03
 
 - Clock in (PingCAP)
@@ -18,6 +339,15 @@ is not public, and there are some gaps here from 2017-2019._
 - 5:21 PM
 - Made tikv-server launch with SimpleEngine
 - 6:16 PM
+- Clock out (PingCAP)
+- Clock in (PingCAP)
+- 10:01 PM
+- Experimented with tikv_client
+- 10:24 PM
+- Fixed some methods in engine_simple
+- 10:26 PM
+- Experimented with tivk-server on engine-simple
+- 10:58 PM
 - Clock out (PingCAP)
 
 # 2021-08-02
@@ -111,7 +441,6 @@ is not public, and there are some gaps here from 2017-2019._
 
 - Clock in (Solana)
 - 2:54 PM
-- Merged my changes with Aimee's
 - Rebased docs-rpc-client patch
 - 3:48 PM
 - Clock out (Solana)
@@ -131,7 +460,7 @@ is not public, and there are some gaps here from 2017-2019._
 - Clock in (PingCAP)
 - 6:05 AM
 - [Rebased tikv-server pr](https://github.com/tikv/tikv/pull/10529#issuecomment-885323802)
-- 6:29 PM
+- 6:29 AM
 - Clock out (PingCAP)
 - Clock in (PingCAP)
 - 7:12 PM
