@@ -10,7 +10,7 @@ Boulder, CO.
 <img class="beer-photo" src="/beer/images/2021-09-17-wild-provisions-blauw-brett.jpg"/>
 
 Found this brewery on our first visit to Boulder this week
-and liked their brews and their taproop.
+and liked their brews and their taproom.
 
 In the photos for the taproom were some hazy opaque purple beers that we really wanted to try.
 This isn't the one from the pictures, which they were out of, and its not as psychadelically colored, but it is purple.
