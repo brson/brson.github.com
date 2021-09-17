@@ -19,7 +19,7 @@ Contains blueberries and blackberries.
 Gorgeous purple, maroon. Cloudy. Fine head.
 Bottle is left with a layer of purple sediment.
 
-Sour, with a typical tangy brett smell.
+Sour, with a typical tangy brettanomyces smell.
 I don't pick up the fruit that's actually in the beer.
 But strong passionfruit notes.
 Aimee says it smells like hawthorn.
