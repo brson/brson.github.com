@@ -6,6 +6,14 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-09-18
+
+- Clock in (Solana)
+- 7:57 PM
+- [Reworked rpc_client PR](https://github.com/solana-labs/solana/pull/19771#issuecomment-922408143)
+- 9:13 PM
+- Clock out (Solana)
+
 # 2021-09-16
 
 - Clock in (PingCAP)
