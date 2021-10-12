@@ -6,6 +6,85 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-10-11
+
+- Clock in (Solana)
+- 5:38 PM
+- Wrote docs for signer_from_path and friends
+- 7:39 PM
+- Clock out (Solana)
+
+# 2021-10-07
+
+- Clock in (Solana)
+- 11:28 AM
+- [Submitted pr to reorder rpcclient methods](https://github.com/solana-labs/solana/pull/20549)
+- 11:55 AM
+- Rebased docs-keypair branch
+- Investigated nix upgrade
+- 12:34 PM
+- Clock out (Solana)
+
+# 2021-10-06
+
+- Clock in (PingCAP)
+- 12:45 PM
+- Sent tison an email about community building
+- 1:50 PM
+- Clock out (PingCAP)
+
+# 2021-10-05
+
+- Clock in (Solana)
+- 11:45 AM
+- Hacked on example for signer_from_path
+- 1:28 PM
+- Clock out (Solana)
+
+# 2021-10-02
+
+- [Commented on ink pr](https://github.com/paritytech/cargo-contract/pull/79#issuecomment-932840851)
+- 6:41 PM
+
+# 2021-10-01
+
+- Clock in (Solana)
+- 11:17 AM
+- Wrote some keypair docs
+- 12:45 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 1:48 PM
+- [Filed bug about missing SIGNER_SOURCE_PUBKEY case](https://github.com/solana-labs/solana/issues/20383)
+- 2:46 PM
+- Wrote more docs for signer_from_path
+- 3:32 PM
+- Clock out (Solana)
+
+# 2021-09-26
+
+- Clock in (Solana)
+- 11:57 AM
+- Hacked on solana-clap-utils examples
+- 1:11 PM
+- Clock out (Solana)
+
+# 2021-09-24
+
+- Clock in (Solana)
+- 3:48 PM
+- [Reworked rpc-client doc pr](https://github.com/solana-labs/solana/pull/19771#issuecomment-926958061)
+- 4:50 PM
+- Clock out (Solana)
+
+# 2021-09-20
+
+- Clock in (finance)
+- 12:00 PM
+- Placed options orders
+- 12:56 PM
+- Clock out (finance)
+
 # 2021-09-18
 
 - Clock in (Solana)
