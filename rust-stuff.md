@@ -29,13 +29,10 @@ interests as time passes.
   rustc test driver. Compiletest was the the first "real" parallel
   Rust program and barely worked.
 
-* Wrote a lot of documentation.
+* Wrote a lot of documentation, including the [crate-level docs
+  for the standard library][stddocs].
 
 * Created the [original website] that survived until about 2018.
-
-* Created the [rustup.rs] website that remains live as of 2021.
-
-* Created the [Rust Forge].
 
 * Added an easter egg to the runtime that output [random Lovecraft
   quotes during fatal errors][lovecraft]. The worthiness of Lovecraft
@@ -69,6 +66,8 @@ interests as time passes.
 * Started the TWIR [Quote of the Week] tradition,
   with its epic forum thread.
 
+* Created the [Rust Forge].
+
 * Created the [Friend of the Tree] tradition (after Mozilla's own) for
   acknowleding community contributions. It has since died.
 
@@ -77,6 +76,9 @@ interests as time passes.
 
 * Created, with [Diggory Blake], the unified [rustup] installer, the current
   preferred installation method on all supported platforms.
+
+* Wrote the [rustup.rs] website that remains live as of 2021, and the the rustup
+  docs, which others improved and converted into [a book][rustupbook].
 
 * Created [Servo], the web browser written in Rust, along with
   [Patrick Walton], back when Rust barely worked.
@@ -103,7 +105,7 @@ interests as time passes.
   with [crater] and [cargobomb].
 
 * Created the widely-used [error-chain] crate for ergonamic error handling. It
-  has sense been deprecated by better crates and practices.
+  has since been deprecated by better crates and practices.
 
 * Coordinated with Linux distributions to [get their Rust packaging
   in order][prp] in time for Rust to be adopted in Firefox.
@@ -166,3 +168,5 @@ interests as time passes.
 [rustup.rs]: https://rustup.rs
 [original website]: https://prev.rust-lang.org/
 [Rust Forge]: https://forge.rust-lang.org/
+[rustupbook]: https://rust-lang.github.io/rustup/
+[stddocs]: https://doc.rust-lang.org/std/index.html
