@@ -31,7 +31,9 @@ interests as time passes.
 
 * Wrote a lot of documentation.
 
-* Created the original website that survived at least into 2017.
+* Created the [original website] that survived until about 2018.
+
+* Created the [rustup.rs] website that remains live as of 2021.
 
 * Added an easter egg to the runtime that output [random Lovecraft
   quotes during fatal errors][lovecraft]. The worthiness of Lovecraft
@@ -159,3 +161,5 @@ interests as time passes.
 [blitz]: https://blog.rust-lang.org/2017/05/05/libz-blitz.html
 [Diggory Blake]: https://github.com/Diggsey
 [Quote of the Week]: https://users.rust-lang.org/t/twir-quote-of-the-week/328/8
+[rustup.rs]: https://rustup.rs
+[original website]: https://prev.rust-lang.org/
