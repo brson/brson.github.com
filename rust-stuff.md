@@ -35,6 +35,8 @@ interests as time passes.
 
 * Created the [rustup.rs] website that remains live as of 2021.
 
+* Created the [Rust Forge].
+
 * Added an easter egg to the runtime that output [random Lovecraft
   quotes during fatal errors][lovecraft]. The worthiness of Lovecraft
   in a systems language was [hotly debated].
@@ -163,3 +165,4 @@ interests as time passes.
 [Quote of the Week]: https://users.rust-lang.org/t/twir-quote-of-the-week/328/8
 [rustup.rs]: https://rustup.rs
 [original website]: https://prev.rust-lang.org/
+[Rust Forge]: https://forge.rust-lang.org/
