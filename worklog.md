@@ -6,12 +6,138 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-11-04
+
+- Clock in (PingCAP)
+- 11:42 PM
+- [Attempted to merge engine pr](https://github.com/tikv/tikv/pull/10945#issuecomment-961358555)
+- 1:38 PM
+- Clock out (PingCAP)
+
+# 2021-10-29
+
+- Clock in (Solana)
+- 10:19 AM
+- Hacked on next_account_info docs
+- 10:41 AM
+- Clock out (Solana)
+- Clock in (Solana)
+- 11:39 AM
+- [Posted pr for next_account_info](https://github.com/solana-labs/solana/pull/21076)
+- 12:09 PM
+- Clock out (Solana)
+
+# 2021-10-28
+
+- Clock in (MASQ)
+- 8:45 PM
+- Investigated actix upgrade
+- 10:08 PM
+- Clock out (MASQ)
+
+# 2021-10-27
+
+- Clock in (Solana)
+- 12:40 PM
+- [Responded to review](https://github.com/solana-labs/solana/pull/21007#issuecomment-953217916)
+- 12:57 PM
+- Clock out (Solana)
+
+# 2021-10-26
+
+- Clock in (Solana)
+- 2:12 PM
+- [Commented on rpcclient tests](https://github.com/solana-labs/solana/pull/20674#issuecomment-952288398)
+- 2:14 PM
+- [Posted pr for entrypoint docs](https://github.com/solana-labs/solana/pull/21003)
+- 3:24 PM
+- Wrote examples for next_account_info
+- 4:27 PM
+- [Submitted pr for sol_memcpy](https://github.com/solana-labs/solana/pull/21007)
+- 4:36 PM
+- Minor rework
+- 4:53 PM
+- Clock out (Solana)
+
+# 2021-10-24
+
+- [Merged a rib PR](https://github.com/rust-in-blockchain/awesome-blockchain-rust/pull/19)
+
+# 2021-10-22
+
+- Clock in (Solana)
+- 3:45 PM
+- [Updated rpc-client test pr](https://github.com/solana-labs/solana/pull/20674#issuecomment-949979370)
+- 3:52 PM
+- Wrote docs for entrypoint macro
+- Wrote examples for next_account_info
+- 4:38 PM
+- Clock out (Solana)
+
+# 2021-10-21
+
+- Clock in (Solana)
+- 2:22 PM
+- [Posted updates to 'Developing with Rust'](https://github.com/solana-labs/solana/pull/20860)
+- 3:37 PM
+- [Posted PR to fix attribute](https://github.com/solana-labs/solana/pull/20861)
+- 3:45 PM
+- Read some entrypoint code
+- 3:54 PM
+- Clock out (Solana)
+
+# 2021-10-20
+
+- Clock in (Solana)
+- 3:59 PM
+- [Reworked rpc_client tests pr](https://github.com/solana-labs/solana/pull/20674#issuecomment-948095177)
+- 5:18 PM
+- Clock out (Solana)
+- Clock in (PingCAP)
+- 5:53 PM
+- [Rebased tikv-server pr](https://github.com/tikv/tikv/pull/10945#issuecomment-948148762)
+- 6:57 PM
+- Clock out (PingCAP)
+
+# 2021-10-18
+
+- Clock in (Solana)
+- 2:33 PM
+- [Updated clap_utils pr](https://github.com/solana-labs/solana/pull/20665#issuecomment-946149164)
+- 2:42 PM
+- [Rebased clap_utils pr](https://github.com/solana-labs/solana/pull/20665#issuecomment-946172568)
+- 3:15 PM
+- [Fixed clippy in rpc-client-test pr](https://github.com/solana-labs/solana/pull/20674#issuecomment-946194245)
+- 3:49 PM
+- [Posted PR to remove @brief](https://github.com/solana-labs/solana/pull/20769)
+- 4:51 PM
+- [Posted PR to expand rust docs entry point](https://github.com/solana-labs/solana/pull/20770)
+- 5:20 PM
+- Clock out (Solana)
+
+# 2021-10-13
+
+- Clock in (Solana)
+- 10:58 AM
+- [Posted pr to document solana_clap_utils::keypair](https://github.com/solana-labs/solana/pull/20665)
+- 11:27 AM
+- Edited typos in solana_clap_utils pr
+- 11:57 AM
+- Clock out (Solana)
+- Clock in (Solana)
+- 3:50 PM
+- Rebased rpc client integration tests
+- 4:03 PM
+- [Posted pr for rpc client integration tests](https://github.com/solana-labs/solana/pull/20674)
+- 4:54 PM
+- Clock out (Solana)
+
 # 2021-10-11
 
 - Clock in (Solana)
 - 5:38 PM
 - Wrote docs for signer_from_path and friends
-- 7:39 PM
+- 8:29 PM
 - Clock out (Solana)
 
 # 2021-10-07
