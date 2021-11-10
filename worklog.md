@@ -6,6 +6,33 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-11-09
+
+- Clock in (Solana)
+- 12:03 AM
+- Wrote more solana-cli-config docs
+- 12:20 AM
+- Clock out (Solana)
+- Clock in (Solana)
+- 5:59 PM
+- [Posted docs for solana-cli-config](https://github.com/solana-labs/solana/pull/21227)
+- 7:14 PM
+- Clock out (Solana)
+
+# 2021-11-08
+
+- Clock in (Solana)
+- 12:30 AM
+- Wrote some docs for solana-cli-config
+- 12:47 AM
+- Clock out (Solana)
+- Clock in (Solana)
+- 5:31 PM
+- Investigated implementation of create/find_program_address
+- Asked Typera questions about create_program_address
+- 5:49 PM
+- Clock out (Solana)
+
 # 2021-11-04
 
 - Clock in (PingCAP)
