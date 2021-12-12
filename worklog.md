@@ -6,6 +6,131 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-12-12
+
+- Clock in (Solana)
+- 9:08 AM
+- Rebased Instruction docs
+- [Posted instruction docs patch](https://github.com/solana-labs/solana/pull/21817)
+- 11:53 AM
+- Clock out (Solana)
+
+# 2021-12-09
+
+- Clock in (Solana)
+- 11:45 AM
+- [Posted create_program_address docs pr](https://github.com/solana-labs/solana/pull/21750)
+- 1:23 PM
+- Clock out (Solana)
+
+# 2021-12-07
+
+- Clock in (Solana)
+- 11:08 AM
+- Hacked on Instruction docs
+- 12:46 PM
+- Clock out (Solana)
+
+# 2021-12-05
+
+- Clock in (Solana)
+- 11:58 AM
+- [Reworked find_program_address pr](https://github.com/solana-labs/solana/pull/21528#issuecomment-986291457)
+- 12:04 PM
+- Hacked on Instruction docs
+- 12:24 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:31 PM
+- Hacked on instruction docs
+- [Submitted PR to fix 'borsh' spelling](https://github.com/solana-labs/solana/pull/21622)
+- 3:46 PM
+- [Updated memcpy fix pr](https://github.com/solana-labs/solana/pull/21007#issuecomment-986330947)
+- 4:14 PM
+- Clock out (Solana)
+
+# 2021-12-01
+
+- Clock in (rib)
+- 10:58 AM
+- Hacked on rib
+- 12:30 AM
+- Clock out (rib)
+
+# 2021-11-30
+
+- Clock in (Solana)
+- 11:04 AM
+- Hacked on docs for find_program_address
+- 12:55 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 4:06 PM
+- [Submitted pr for find_program_address](https://github.com/solana-labs/solana/pull/21528)
+- 6:05 PM
+- [Removed circular dependency from find_program_address pr](https://github.com/solana-labs/solana/pull/21528#issuecomment-983220679)
+- 6:19 PM
+- Clock out (Solana)
+- [Posted states update for tikv engine abstraction](https://github.com/tikv/tikv/issues/6402#issuecomment-983263123)
+- 8:00 PM
+
+# 2021-11-23
+
+- Clock in (PingCAP)
+- 12:54 PM
+- [Closed old check-build-opts.py](https://github.com/tikv/tikv/pull/9985)
+- 12:55 PM
+- Clock out (PingCAP)
+
+# 2021-11-22
+
+- Clock in (Solana)
+- 3:08 PM
+- [Rebased memcpy fix](https://github.com/solana-labs/solana/pull/21007#issuecomment-975898200)
+- 3:37 PM
+- [Closed RpcClient test pr](https://github.com/solana-labs/solana/pull/20674#issuecomment-975898757)
+- 3:38 PM
+- [Updated solana-cli-config pr](https://github.com/solana-labs/solana/pull/21227#issuecomment-975913557)
+- 4:00 PM
+- Clock out (Solana)
+
+# 2021-11-19
+
+- Clock in (Solana)
+- 10:55 AM
+- [Added a feature gate to memcpy fix](https://github.com/solana-labs/solana/pull/21007#issuecomment-974394262)
+- 1:05 PM
+- Clock out (Solana)
+
+# 2021-11-17
+
+- Clock in (Solana)
+- 11:18 AM
+- Added a feature gate to memcpy syscall fix
+- Asked questions about testing bpf
+- 11:45 AM
+- Clock out (Solana)
+
+# 2021-11-15
+
+- Clock in (Solana)
+- 2:58 PM
+- Continued trying to write an example for find_program_address
+- 5:29 PM
+- [Updated nonoverlapping memory pr](https://github.com/solana-labs/solana/pull/21007#issuecomment-969596579)
+- 6:23 PM
+- Continued trying to write an example for find_program_address
+- 7:24 PM
+- Clock out (Solana)
+
+# 2021-11-10
+
+- Clock in (Solana)
+- 4:00 PM
+- [Repsonded to cli-config feedback](https://github.com/solana-labs/solana/pull/21227#discussion_r747056852)
+- 4:21 PM
+- Clock out (Solana)
+
 # 2021-11-09
 
 - Clock in (Solana)
