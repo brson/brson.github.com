@@ -6,6 +6,103 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2021-12-29
+
+- Clock in (Solana)
+- 10:58 AM
+- Hacked on transaction docs
+- [Updated transaction ctor issue](https://github.com/solana-labs/solana/issues/22012#issuecomment-1002754778)
+- 12:24 PM
+- Hacked on invoke/invoke_signed examples
+- 12:35 PM
+- Hacked on message examples
+- 1:00 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 3:37 PM
+- Hacked on message examples
+- Hacked on transaction docs
+- 5:46 PM
+- Clock out (Solana)
+
+# 2021-12-23
+
+- Deployed realtps
+- 5:03 PM
+
+# 2021-12-22
+
+- Clock in (realtps)
+- 10:00 AM
+- Filtered solana vote txs
+- 12:49 PM
+- Clock out (realtps)
+
+# 2021-12-21
+
+- Clock in (realtps)
+- 2:13 PM
+- Investigated rpc for cosmos, substrate, near, avalanche
+- Investigated solana rate limiting
+- 3:59 PM
+- Clock out (realtps)
+
+# 2021-12-19
+
+- Clock in (Solana)
+- 1:07 PM
+- [Filed issue about transaction ctor naming](https://github.com/solana-labs/solana/issues/22012)
+- 1:10 PM
+- Clock out (Solana)
+- Hacked on realtps
+- 6:02 PM
+
+# 2021-12-18
+
+- Clock in (Solana)
+- 11:14 AM
+- Hacked on transaction docs
+- 1:06 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 4:10 PM
+- Hacked on transaction docs
+- 5:49 PM
+- Clock out (Solana)
+
+# 2021-12-15
+
+- Clock in (Solana)
+- 11:12 AM
+- Hacked on transaction docs
+- 12:19 PM
+- Clock out (Solana)
+
+# 2021-12-14
+
+- Clock in (Solana)
+- 10:23 AM
+- [Reworked instruction pr](https://github.com/solana-labs/solana/pull/21817#issuecomment-993859680)
+- 10:26 AM
+- Hacked on transaction docs
+- 11:52 AM
+- Hacked on invoke docs
+- 12:15 PM
+- Clock out (Solana)
+
+# 2021-12-13
+
+- Clock in (Solana)
+- 10:57 AM
+- [Posted PR to list solana-cli-config in Rust docs](https://github.com/solana-labs/solana/pull/21840)
+- 11:22 AM
+- Clock out (Solana)
+- Clock in (realtps)
+- 6:49 PM
+- Added tps calculations and more chains
+- 8:49 PM
+- Clock out (realtps)
+
 # 2021-12-12
 
 - Clock in (Solana)
