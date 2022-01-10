@@ -6,6 +6,27 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2022-01-09
+
+- Hacked on slq
+- [Submitted typo pr to dada](https://github.com/dada-lang/dada/pull/24)
+- 8:20 PM
+
+# 2022-01-07
+
+- Clock in (Solana)
+- 10:48 AM
+- Researched `_with_seed` functions.
+- 11:23 AM
+- Wrote more transaction docs
+- 12:22 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 4:31 PM
+- Reviewed transaction examples
+- 5:13 PM
+- Clock out (Solana)
+
 # 2021-12-29
 
 - Clock in (Solana)
@@ -24,6 +45,8 @@ is not public, and there are some gaps here from 2017-2019._
 - Hacked on transaction docs
 - 5:46 PM
 - Clock out (Solana)
+- Hacked on substrate support for realtps
+- 6:57 PM
 
 # 2021-12-23
 
