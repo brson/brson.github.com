@@ -6,11 +6,27 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2022-01-11
+
+- [Submitted some parser additions to dada](https://github.com/dada-lang/dada/pull/29)
+- 1:15 AM
+- [Fixed dada-web](https://github.com/dada-lang/dada/pull/29)
+- 1:15 AM
+- Clock in (Solana)
+- 2:41 PM
+- [Posted transaction docs pr](https://github.com/solana-labs/solana/pull/22440)
+- 5:10 PM
+- Clock out (Solana)
+- [Fixed some dada typos](https://github.com/dada-lang/dada/pull/36)
+- 8:40 PM
+
 # 2022-01-09
 
 - Hacked on slq
 - [Submitted typo pr to dada](https://github.com/dada-lang/dada/pull/24)
 - 8:20 PM
+- [Submitted another small dada pr](https://github.com/dada-lang/dada/pull/25)
+- 8:36 PM
 
 # 2022-01-07
 
