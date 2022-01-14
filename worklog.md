@@ -6,6 +6,43 @@ title: brson's worklog
 _This contains much of my open source activity since 2015. Some of my work
 is not public, and there are some gaps here from 2017-2019._
 
+# 2022-01-14
+
+- Hack on dada binops
+- [Posted PR to gitignore dada test directory walk](https://github.com/dada-lang/dada/pull/53)
+- 1:07 AM
+
+# 2022-01-13
+
+- Hacked an slq initialize command
+- 12:29 PM
+- Clock in (Solana)
+- 4:05 PM
+- Hacked on message docs
+- 4:32 PM
+- Clock out (Solana)
+
+# 2022-01-12
+
+- [Commented on dada license](https://github.com/dada-lang/dada/pull/38#issuecomment-1011396344)
+- Clock in (Solana)
+- 11:35 AM
+- [Rework transaction pr](https://github.com/solana-labs/solana/pull/22440#issuecomment-1011411957)
+- 12:13 PM
+- Read about Solana messages
+- 12:53 PM
+- Clock out (Solana)
+- [Posted a dada-web pr](https://github.com/dada-lang/dada/pull/45)
+- 4:04 PM
+- [Fixed some doc warnings in dada](https://github.com/dada-lang/dada/pull/46)
+- 5:28 PM
+- [Posted pr to make dada the default bin](https://github.com/dada-lang/dada/pull/47)
+- 9:29 PM
+- [Fixed if lowering](https://github.com/dada-lang/dada/pull/48)
+- 9:50 PM
+- [Fixed more dada typos](https://github.com/dada-lang/dada/pull/49)
+- 10:42 PM
+
 # 2022-01-11
 
 - [Submitted some parser additions to dada](https://github.com/dada-lang/dada/pull/29)
