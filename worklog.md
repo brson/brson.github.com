@@ -3,14 +3,111 @@ layout: basic
 title: brson's worklog
 ---
 
-_This contains much of my open source activity since 2015. Some of my work
-is not public, and there are some gaps here from 2017-2019._
+_This contains much of my open source activity since 2015._
+
+# 2022-01-22
+
+- Clock in (Solana)
+- 10:12 AM
+- Hacked on nonce accounts
+- Wrote more message docs
+- 1:08 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 1:53 PM
+- Continued learning how to work with nonce accounts
+- 2:15 PM
+- Hacked on message docs
+- 3:01 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 3:54 PM
+- Hacked on message docs
+- 4:06 PM
+- Clock out (Solana)
+
+# 2022-01-21
+
+- Clock in (Solana)
+- 11:37 AM
+- Asked about v0 messages
+- 11:53 AM
+- Worked on decompiling messages
+- 12:42 PM
+- Wrote more message docs
+- 1:12 PM
+- Clock out (Solana)
+
+# 2022-01-20
+
+- Clock in (Solana)
+- 3:30 PM
+- Wrote more nonce account code
+- 4:43 PM
+- Asked for review of transaction pr
+- 4:49 PM
+- Revised message docs
+- 5:32 PM
+- Clock out (Solana)
+- [Commented on dada test harness issue](https://github.com/dada-lang/dada/issues/6#issuecomment-1018098386)
+- [Commented on dada playground pr](https://github.com/dada-lang/dada/pull/85#issuecomment-1018097690)
+- 6:12 PM
+
+# 2022-01-19
+
+- Clock in (Solana)
+- 11:30 AM
+- Continued hacking on a nonce account demo
+- 12:45 PM
+- Clock out (Solana)
+
+# 2022-01-17
+
+- Hacked on dada repl
+- 12:31 AM
+- [Commented on fn value syntax](https://github.com/dada-lang/dada/issues/54#issuecomment-1014259893)
+- 12:32 AM
+- Clock in (Solana)
+- 11:18 AM
+- Continued hacking on nonce account programs
+- 12:46 PM
+- Clock out (Solana)
+- [Closed bad tt debug patch](https://github.com/dada-lang/dada/pull/75#issuecomment-1014982575)
+- 5:00 PM
+- [Filed a dada repl issue](https://github.com/dada-lang/dada/issues/78)
+- 9:54 PM
+- [Fixed == parsing](https://github.com/dada-lang/dada/pull/79)
+- 10:42 PM
+- [Reviewed a string escape pr](https://github.com/dada-lang/dada/pull/77#issuecomment-1015118501)
+- 10:50 PM
+
+# 2022-01-16
+
+- [Closed operators issue](https://github.com/dada-lang/dada/issues/8)
+- 5:37 PM
+- [Posted a pr to debug print token trees](https://github.com/dada-lang/dada/pull/75)
+- 7:34 PM
+
+# 2022-01-15
+
+- Clock in (Solana)
+- 11:24 AM
+- Researched nonce accounts for implementing multisig transactions
+- 12:53 PM
+- Clock out (Solana)
+- [Updated dada binops pr](https://github.com/dada-lang/dada/pull/56#issuecomment-1013780894)
+- Filed some dada issues
+- 4:34 PM
+- [Commented on dada fn syntax](https://github.com/dada-lang/dada/issues/54#issuecomment-1013791906)
+- 5:45 PM
 
 # 2022-01-14
 
 - Hack on dada binops
 - [Posted PR to gitignore dada test directory walk](https://github.com/dada-lang/dada/pull/53)
 - 1:07 AM
+- [Posted PR to interepret dada binops](https://github.com/dada-lang/dada/pull/56)
+- 11:28 AM
 
 # 2022-01-13
 
