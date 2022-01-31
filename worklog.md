@@ -12,6 +12,8 @@ _This contains much of my open source activity since 2015._
 - [Submitted pr documenting solana message APIs](https://github.com/solana-labs/solana/pull/22873)
 - 12:32 PM
 - Clock out (Solana)
+- [Added apache to dada](https://github.com/dada-lang/dada/pull/101)
+- 4:59 PM
 
 # 2022-01-31
 
