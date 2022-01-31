@@ -5,6 +5,28 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-02-01
+
+- Clock in (Solana)
+- 11:41 AM
+- [Submitted pr documenting solana message APIs](https://github.com/solana-labs/solana/pull/22873)
+- 12:32 PM
+- Clock out (Solana)
+
+# 2022-01-31
+
+- Merged a my-rust-lists pr
+- 12:26 PM
+- Drafted a doc crediting past rust core team members
+- 3:14 PM
+- [Submitted runtime diagnostics test harness patch for dada](https://github.com/dada-lang/dada/pull/100)
+- 5:56 PM
+
+# 2022-01-26
+
+- [Commented on dada repl issue](https://github.com/dada-lang/dada/issues/78#issuecomment-1022856248)
+- 9:22 PM
+
 # 2022-01-22
 
 - Clock in (Solana)
