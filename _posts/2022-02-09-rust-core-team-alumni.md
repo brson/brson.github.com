@@ -55,7 +55,7 @@ team at that point was:
 That was a time of extensive internal discussion about Rust's long-term
 sustainability and governance structure. These people became the core team by
 fiat, with the blessing of [Dave Herman], still all employees of Mozilla
-Research. During 2014, [Huon Wilson] and then [Aaron Turon], were added to the core
+Research. During 2014 [Huon Wilson] and then [Aaron Turon] were added to the core
 team, the first deliberate decisions by the team to expand, Aaron's appointment
 announced [on the forum][aforum], Huon's seemingly not mentioned anywhere; and
 in December 2014 [Yehuda Katz] and [Steve Klabnik] were added to the team,
