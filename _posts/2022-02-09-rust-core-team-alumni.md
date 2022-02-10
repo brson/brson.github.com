@@ -80,7 +80,7 @@ here is a full list of those who have been on the Rust core team:
 - [Alex Crichton]
 - [Ashley Williams]
 - [Brian Anderson]
-- [Caral Nichols]
+- [Carol Nichols]
 - [Erick Tryzelaar]
 - [Florian Gilcher]
 - [Huon Wilson]
