@@ -110,7 +110,7 @@ here is a full list of those who have been on the Rust core team:
 [Alex Crichton]: https://github.com/alexcrichton
 [Ashley Williams]: https://github.com/ashleygwilliams
 [Brian Anderson]: https://github.com/brson
-[Caral Nichols]: https://github.com/carols10cents
+[Carol Nichols]: https://github.com/carols10cents
 [Erick Tryzelaar]: https://github.com/erickt
 [Florian Gilcher]: https://github.com/skade
 [Huon Wilson]: https://github.com/huonw
