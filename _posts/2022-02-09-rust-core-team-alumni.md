@@ -4,8 +4,8 @@ title: Rust core team alumni
 tags: [rust]
 ---
 
-There doesn't seem to be a record of who was on individual teams in the Rust
-project, with past members historically being recorded simply as [Rust team
+There doesn't seem to be a complete record of who was on individual teams in the
+Rust project, with past members historically being recorded simply as [Rust team
 alumni][rta]. So I've read through the resources that do exist to make a list of
 past members of the Rust core team and document the history of its formation.
 
