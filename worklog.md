@@ -5,6 +5,45 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-02-09
+
+- Clock in (Solana)
+- 10:51 AM
+- [Updated message pr](https://github.com/solana-labs/solana/pull/22873#issuecomment-1034043263)
+- 11:00 AM
+- Hacked on solana-program crate docs
+- 1:30 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:52 PM
+- Wrote solana-program crate docs
+- Wrote nonce account examples
+- Researched bpf loader
+- 5:35 PM
+- Clock out (Solana)
+
+# 2022-02-08
+
+- [Filed unit parse issue](https://github.com/dada-lang/dada/issues/117)
+- 4:49 PM
+- [Added another float test](https://github.com/dada-lang/dada/pull/115#issuecomment-1033283245)
+- 7:36 PM
+
+# 2022-02-07
+
+- [Commented on dada repl](https://github.com/dada-lang/dada/issues/78#issuecomment-1032092399)
+- 5:44 PM
+- [Fixed a typo](https://github.com/dada-lang/dada/pull/114)
+- 7:07 PM
+- [Posted dada float pr](https://github.com/dada-lang/dada/pull/115)
+- 10:34 PM
+
+# 2022-02-02
+
+- Hacked on rib issue
+- [Merged pr adding stellar to realtps](https://github.com/Aimeedeer/realtps/pull/2#issuecomment-1028451402)
+- 3:23 PM
+
 # 2022-02-01
 
 - Clock in (Solana)
