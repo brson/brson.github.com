@@ -5,6 +5,145 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-02-26
+
+- Clock in (Solana)
+- 3:09 PM
+- Finished solana-program crate docs
+- [Submitted solana-program crate doc pr](https://github.com/solana-labs/solana/pull/23363)
+- 6:42 PM
+- Clock out (Solana)
+
+# 2022-02-25
+
+- Clock in (Solana)
+- 12:08 PM
+- Hacked on solana-program crate docs re cpi
+- 12:49 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:00 PM
+- Hacked on solana-program crate docs re cpi
+- 2:24 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 8:10 PM
+- A little more hacking on solana-program docs
+- 8:27 PM
+- Clock out (Solana)
+
+# 2022-02-24
+
+- Clock in (Solana)
+- 5:12 PM
+- Documented sysvars in solana-program crate docs
+- 6:49 PM
+- Clock out (Solana)
+
+# 2022-02-23
+
+- Clock in (Solana)
+- 3:06 PM
+- [Rebased solana stdout patch](https://github.com/solana-labs/rust/pull/49#issuecomment-1049262171)
+- 3:09 PM
+- Hacked on solana-program crate docs
+- 5:10 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 8:25 PM
+- Made some revisions to solana-program crate docs
+- 8:48 PM
+- Clock out (Solana)
+
+# 2022-02-21
+
+- [Documented dada CLI options](https://github.com/dada-lang/dada/pull/138)
+- 6:38 PM
+
+# 2022-02-20
+
+- [Added xtasks for dada reference grammar](https://github.com/dada-lang/dada/issues/17#issuecomment-1046461715)
+- 9:23 PM
+- Hacked on dada reference grammar
+- 10:42 PM
+
+# 2022-02-19
+
+- Clock in (Solana)
+- 12:00 AM
+- Fixed string invariants in solana stdout/stderr
+- 1:54 AM
+- Clock out (Solana)
+- Clock in (Solana)
+- 10:43 AM
+- [Posted pr to not create invalid strings](https://github.com/solana-labs/rust/pull/49)
+- 10:51 AM
+- Clock out (Solana)
+
+# 2022-02-18
+
+- Clock in (Solana)
+- 1:28 PM
+- Read Solana patches to Rust std
+- Wrote more solana-program docs
+- 4:16 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 9:58 PM
+- Fixed string invariants in solana stdout/stderr
+- 11:59 PM
+- Clock out (Solana)
+
+# 2022-02-17
+
+- Clock in (Solana)
+- 4:04 PM
+- Hacked on nonce docs
+- 5:10 PM
+- Clock out (Solana)
+
+# 2022-02-15
+
+- Clock in (Solana)
+- 11:09 AM
+- Hacked on solana-program crate docs
+- 12:19 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:40 PM
+- Hacked on solana-program crate docs
+- 4:30 PM
+- Clock out (Solana)
+
+# 2022-02-13
+
+- Hacked on dada grammar
+- 9:59 PM
+
+# 2022-02-12
+
+- [Started hacking on dada reference grammar](https://github.com/dada-lang/dada/issues/17#issuecomment-1037070189)
+- 5:30 AM
+- Clock in (Solana)
+- 3:43 PM
+- Documented solana-program crate
+- 4:43 PM
+- Clock out (Solana)
+
+# 2022-02-10
+
+- Investigated soundness of rbpf
+- 12:28 AM
+- Clock in (Solana)
+- 4:12 PM
+- Wrote documentation for the log module.
+- 4:34 PM
+- Wrote docs for solana-program crate
+- 5:50 PM
+- Clock out (Solana)
+- [Posted dada repl pr](https://github.com/dada-lang/dada/pull/125/files)
+- 11:23 PM
+
 # 2022-02-09
 
 - Clock in (Solana)
@@ -20,6 +159,15 @@ _This contains much of my open source activity since 2015._
 - Wrote nonce account examples
 - Researched bpf loader
 - 5:35 PM
+- Clock out (Solana)
+- [Updated dada float pr](https://github.com/dada-lang/dada/pull/115)
+- 9:00 PM
+- [Filed issue about dada float total order](https://github.com/dada-lang/dada/issues/123)
+- 9:03 PM
+- Clock in (Solana)
+- 9:57 PM
+- Wrote solana-program crate-docs
+- 10:44 PM
 - Clock out (Solana)
 
 # 2022-02-08
