@@ -5,13 +5,30 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-03-01
+
+- Hacked on dada repl
+- 10:36 PM
+- [Filed bug about invalidated dada diagnostics](https://github.com/dada-lang/dada/issues/145)
+- 11:19 PM
+
+# 2022-02-28
+
+- [Fixed cargo install for dada](https://github.com/dada-lang/dada/pull/144)
+- 8:57 PM
+
+# 2022-02-27
+
+- [Commented on dada binop disambiguation](https://github.com/dada-lang/dada/issues/134#issuecomment-1053894764)
+- 10:08 PM
+
 # 2022-02-26
 
 - Clock in (Solana)
 - 3:09 PM
 - Finished solana-program crate docs
 - [Submitted solana-program crate doc pr](https://github.com/solana-labs/solana/pull/23363)
-- 6:42 PM
+- 6:51 PM
 - Clock out (Solana)
 
 # 2022-02-25
