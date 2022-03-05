@@ -5,6 +5,36 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-03-06
+
+- Clock in (Solana)
+- 11:19 AM
+- Reworked solana-program crate docs pr
+- 12:52 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:40 PM
+- [Reworked solana-program crate docs pr](https://github.com/solana-labs/solana/pull/23363#issuecomment-1060056052)
+- 4:00 PM
+- Clock out (Solana)
+
+# 2022-03-05
+
+- [Commented on ed25519-dalek on solana issue](https://github.com/dalek-cryptography/curve25519-dalek/issues/355#issuecomment-1059815428)
+- 12:04 PM
+- [Added `:load` command to dada repl](https://github.com/dada-lang/dada/pull/125#issuecomment-1059835841)
+- 2:46 PM
+
+# 2022-03-04
+
+- Clock in (Solana)
+- 3:31 PM
+- [Posted PR to make Pubkey::find_program_address example runnable](https://github.com/solana-labs/solana/pull/23492)
+- 4:21 PM
+- Clock out (Solana)
+- [Updated dada repl pr](https://github.com/dada-lang/dada/pull/125#issuecomment-1059706755)
+- 11:38 PM
+
 # 2022-03-01
 
 - Hacked on dada repl
