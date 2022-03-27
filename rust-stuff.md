@@ -32,7 +32,9 @@ interests as time passes.
 * Wrote a lot of documentation, including the [crate-level docs
   for the standard library][stddocs].
 
-* Created the [original website] that survived until about 2018.
+* Created the [original website] that survived until about 2018,
+  along with the phrase,
+  “Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety”.
 
 * Added an easter egg to the runtime that output [random Lovecraft
   quotes during fatal errors][lovecraft]. The worthiness of Lovecraft

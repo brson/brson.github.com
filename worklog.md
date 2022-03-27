@@ -5,6 +5,157 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-03-29
+
+- [Updated tendermint-rs spec url](https://github.com/informalsystems/tendermint-rs/pull/1110)
+- 11:45 AM
+
+# 2022-03-28
+
+- [Commented on dada logo](https://github.com/dada-lang/dada/issues/155#issuecomment-1080234340)
+- 12:10 AM
+- Clock in (Solana)
+- 2:15 PM
+- Tested solana rust std backtrace apis
+- 2:58 PM
+- Clock out (Solana)
+
+# 2022-03-26
+
+- Clock in (Solana)
+- 12:10 PM
+- Experimented with nonce account error conditions
+- 12:46 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 1:07 PM
+- Experimented with nonce account error conditions
+- 1:26 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:15 PM
+- [Filed issue about solana-client not building on docs.rs](https://github.com/solana-labs/solana/issues/23959)
+- 2:57 PM
+- [Posted pr for nonce APIs](https://github.com/solana-labs/solana/pull/23960)
+- 3:31 PM
+- Ran tests on rust std backtrace APIs
+- 3:32 PM
+- Clock out (Solana)
+
+# 2022-03-25
+
+- Clock in (Solana)
+- 10:52 AM
+- Hacked on nonce_utils docs
+- Hacked on solana std backtrace api
+- 12:38 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 3:34 PM
+- Hacked on nonce docs
+- 4:41 PM
+- Clock out (Solana)
+
+# 2022-03-24
+
+- Clock in (Solana)
+- 11:05 AM
+- Hacked on transaction nonce docs
+- Attempted to build solana rust toolchain on macos
+- 11:45 AM
+- [Fixed example mock Signer API](https://github.com/solana-labs/solana/pull/23911)
+- 12:50 PM
+- Hacked on transaction nonce docs
+- 1:19 PM
+- Clock out (Solana)
+
+# 2022-03-23
+
+- Clock in (Solana)
+- 10:22 AM
+- Wrote docs for transaction nonces
+- Hacked on backtrace support
+- 1:23 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 4:03 PM
+- Wrote docs for transaction nonces
+- 4:58 PM
+- Clock out (Solana)
+
+# 2022-03-17
+
+- [Merged rib pr](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/108)
+- 3:19 PM
+- Clock in (Solana)
+- 3:28 PM
+- [Reworked C syscall pr](https://github.com/solana-labs/solana/pull/23624)
+- 3:43 PM
+- [Reworked solana-program crate docs pr](https://github.com/solana-labs/solana/pull/23363)
+- 3:46 PM
+- Clock out (Solana)
+
+# 2022-03-12
+
+- Clock in (Solana)
+- 10:59 AM
+- Hacked on nonce docs
+- [Investigated f64::powi compiler bug](https://github.com/solana-labs/solana/issues/23588)
+- 1:13 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 1:32 PM
+- Investigated powi compiler bug
+- 1:47 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 1:57 PM
+- Investigated powi compiler bug
+- 2:06 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:59 PM
+- [Diagnosed the powi compiler bug](https://github.com/solana-labs/solana/issues/23588#issuecomment-1065977009)
+- 3:35 PM
+- Hacked on llvm fix for powi
+- 5:30 PM
+- Clock out (Solana)
+
+# 2022-03-11
+
+- Clock in (Solana)
+- 3:19 PM
+- Sent Tyera two issues in the Solana runtime
+- 3:33 PM
+- Fixed some type definitions in C syscalls
+- 4:25 PM
+- [Posted PR to imrove Rust type definitions in C syscalls](https://github.com/solana-labs/solana/pull/23624)
+- 5:54 PM
+- Clock out (Solana)
+
+# 2022-03-10
+
+- Clock in (Solana)
+- 11:20 AM
+- Wrote descriptions of some bugs
+- 12:55 PM
+- Clock out (Solana)
+
+# 2022-03-09
+
+- Clock in (Solana)
+- 11:05 AM
+- [Posted fix for RpcClient::new_sender](https://github.com/solana-labs/solana/pull/23561)
+- 11:33 AM
+- [Reworked RpcClient doc link fixes](https://github.com/solana-labs/solana/pull/23503#issuecomment-1063272441)
+- 12:25 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 3:10 PM
+- [Updated solana-client doc patch](https://github.com/solana-labs/solana/pull/23503#issuecomment-1063427979)
+- 3:17 PM
+- Clock out (Solana)
+
 # 2022-03-06
 
 - Clock in (Solana)
@@ -16,7 +167,15 @@ _This contains much of my open source activity since 2015._
 - 2:40 PM
 - [Reworked solana-program crate docs pr](https://github.com/solana-labs/solana/pull/23363#issuecomment-1060056052)
 - 4:00 PM
+- [Fixed solana-client doc links](https://github.com/solana-labs/solana/pull/23503)
+- 5:07 PM
+- [Fixed solana-runtime doc links](https://github.com/solana-labs/solana/pull/23504)
+- 5:19 PM
+- Wrote system instruction examples
+- 5:27 PM
 - Clock out (Solana)
+- [Posted dada pr to upgrade eyre](https://github.com/dada-lang/dada/pull/151)
+- 11:19 PM
 
 # 2022-03-05
 
