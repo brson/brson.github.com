@@ -5,6 +5,88 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-04-14
+
+- Clock in (Solana)
+- 11:54 AM
+- Reworked solana-program-cleanup pr
+- 12:22 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:10 PM
+- [Updated backtrace issue](https://github.com/solana-labs/rust/issues/51#issuecomment-1099588628)
+- 2:21 PM
+- [Posted PR for program_memory API changes](https://github.com/solana-labs/solana/pull/24362)
+- Began researching secp256k native program
+- 5:11 PM
+- Clock out (Solana)
+
+# 2022-04-13
+
+- [Posted xoshiro typo fix](https://github.com/rust-random/rngs/pull/37)
+- 12:16 AM
+
+# 2022-04-05
+
+- Clock in (Solana)
+- 11:29 AM
+- [Filed pr for solana-program module descriptions](https://github.com/solana-labs/solana/pull/24128)
+- 12:03 PM
+- Clock out (Solana)
+- [Reviewed dada pr](https://github.com/dada-lang/dada/pull/157#issuecomment-1089827055)
+- 11:11 PM
+
+# 2022-04-04
+
+- Updated ribbot for new config structure
+- 6:34 PM
+
+# 2022-04-03
+
+- Clock in (Solana)
+- 3:42 PM
+- Continued testing the std backtrace api
+- 3:54 PM
+- [Fixed a data race in slot_hashes](https://github.com/solana-labs/solana/pull/24091)
+- 4:31 PM
+- Wrote more solana-program module short docs
+- 5:33 PM
+- Clock out (Solana)
+
+# 2022-04-01
+
+- Clock in (Solana)
+- 2:56 PM
+- Continued debugging the std backtrace api
+- 3:27 PM
+- Wrote more solana-program module short docs
+- 4:01 PM
+- Clock out (Solana)
+
+# 2022-03-31
+
+- Clock in (Solana)
+- 11:44 AM
+- Hacked on solana-program module descriptions
+- Attempted to remove statics from std backtrace API for solana cfg
+- 12:50 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:59 PM
+- [Removed unused clippy lint](https://github.com/solana-labs/solana/pull/24031)
+- 3:44 PM
+- [Closed unused clippy lint pr](https://github.com/solana-labs/solana/pull/24031#issuecomment-1085162880)
+- 3:54 PM
+- Wrote more module short descriptions for solana-program
+- Wrote docs for solana_program::program_memory
+- Inestigated safety bugs in solana_program::program_memory
+- Investigated overflow in host sol_memcpy
+- 5:04 PM
+- Continued testing backtrace APIs
+- [Filed issue about unsafe sol_memcpy etc](https://github.com/solana-labs/solana/issues/24035)
+- 6:04 PM
+- Clock out (Solana)
+
 # 2022-03-29
 
 - [Updated tendermint-rs spec url](https://github.com/informalsystems/tendermint-rs/pull/1110)
