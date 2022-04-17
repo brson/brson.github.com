@@ -5,6 +5,26 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-04-17
+
+- Clock in (Solana)
+- 11:31 AM
+- Investigated changes in binary size with backtrace API
+- 12:49 PM
+- Clock out (Solana)
+
+# 2022-04-16
+
+- Clock in (Solana)
+- 1:57 PM
+- [Rebased and updated program_memory PR](https://github.com/solana-labs/solana/pull/24362)
+- 2:18 PM
+- [Investigated missing system_instruction module in solana-sdk docs](https://github.com/solana-labs/solana/issues/23326#issuecomment-1100748551)
+- 2:32 PM
+- Investigated more unsound APIs in solana_program::program_stubs
+- 2:38 PM
+- Clock out (Solana)
+
 # 2022-04-14
 
 - Clock in (Solana)
@@ -20,6 +40,8 @@ _This contains much of my open source activity since 2015._
 - Began researching secp256k native program
 - 5:11 PM
 - Clock out (Solana)
+- [Closed realtps elrond issue](https://github.com/Aimeedeer/realtps/issues/3#issuecomment-1099710198)
+- 5:16 PM
 
 # 2022-04-13
 
