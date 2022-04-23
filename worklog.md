@@ -5,6 +5,65 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-04-24
+
+- Clock in (Solana)
+- 9:57 AM
+- Debugged extra bin space after backtrace API patch
+- Wrote examples for secp256k1 program
+- 12:32 PM
+- Clock out (Solana)
+
+# 2022-04-22
+
+- Clock in (Solana)
+- 11:27 AM
+- Researched secp256k1 key recovery and Solana's implementation
+- 12:55 PM
+- Clock out (Solana)
+
+# 2022-04-21
+
+- Clock in (Solana)
+- 9:54 PM
+- [Filed bug to fix missing solana_sdk module docs](https://github.com/solana-labs/solana/pull/24577)
+- 10:10 PM
+- Clock out (Solana)
+
+# 2022-04-20
+
+- Clock in (Solana)
+- 11:25 AM
+- [Closed unsound program_memory API patch](https://github.com/solana-labs/solana/pull/24362#issuecomment-1104066365)
+- 11:28 AM
+- [Began building rust to investigate rustdoc bug](https://github.com/solana-labs/solana/issues/23326)
+- 11:32 AM
+- [Updated solana-program docs pr](https://github.com/solana-labs/solana/pull/24128#issuecomment-1104078128)
+- 11:38 AM
+- [Investigated rustdoc bug](https://github.com/solana-labs/solana/issues/23326)
+- Continued characterizing binary size changes due to backtrace API
+- 2:07 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 4:00 PM
+- [Diagnosted problem with missing solana_sdk module docs](https://github.com/solana-labs/solana/issues/23326#issuecomment-1104469118)
+- Continued characterizing binary size changes due to backtrace API
+- 5:28 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 7:32 PM
+- [Hacked on a solution to missing solana_sdk module docs](https://github.com/solana-labs/solana/issues/23326#issuecomment-1104561713)
+- 7:56 PM
+- Clock out (Solana)
+
+# 2022-04-19
+
+- Clock in (Solana)
+- 9:18 PM
+- [Investigated missing system_instruction docs](https://github.com/solana-labs/solana/issues/23326)
+- 9:48 PM
+- Clock out (Solana)
+
 # 2022-04-17
 
 - Clock in (Solana)
