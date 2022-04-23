@@ -5,13 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
-# 2022-04-24
+# 2022-04-23
 
 - Clock in (Solana)
 - 9:57 AM
 - Debugged extra bin space after backtrace API patch
 - Wrote examples for secp256k1 program
 - 12:32 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:50 PM
+- Hacked on removing rustc_demangle / backtrace_rs dependencies from bpf std
+- Hacked on examples for secp256k1 program
+- 5:47 PM
 - Clock out (Solana)
 
 # 2022-04-22
