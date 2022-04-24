@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-04-25
+
+- Clock in (Solana)
+- 4:16 PM
+- Continued refining backtrace API patch
+- Refactored solana-sysvar-printing for secp256k1 demo
+- 5:08 PM
+- Clock out (Solana)
+
 # 2022-04-23
 
 - Clock in (Solana)
