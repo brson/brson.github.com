@@ -5,6 +5,35 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-04-30
+
+- Clock in (Solana)
+- 2:43 PM
+- [Rebased backtrace patch](https://github.com/solana-labs/rust/pull/56#issuecomment-1114051862)
+- 2:49 PM
+- Began fixing nonblocking RpcClient examples
+- Continued hacking on secp256k1 examples
+- 3:17 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 3:29 PM
+- Experimented with sol_secp256k1_recover syscall
+- 4:28 PM
+- Clock out (Solana)
+
+# 2022-04-26
+
+- Clock in (Solana)
+- 10:43 AM
+- Cleaned up backtrace API patch
+- 1:02 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:06 PM
+- [Posted patch to enable backtrace API on bpf targets](https://github.com/solana-labs/rust/pull/56)
+- 3:03 PM
+- Clock out (Solana)
+
 # 2022-04-25
 
 - Clock in (Solana)
@@ -13,6 +42,8 @@ _This contains much of my open source activity since 2015._
 - Refactored solana-sysvar-printing for secp256k1 demo
 - 5:08 PM
 - Clock out (Solana)
+- Rebased dada repl branch
+- 8:56 PM
 
 # 2022-04-23
 
