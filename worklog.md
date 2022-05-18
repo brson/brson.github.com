@@ -5,6 +5,97 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-06-18
+
+- Clock in (Solana)
+- 2:50 PM
+- Wrote docs for get/set_return_data
+- 4:04 PM
+- [Submitted pr to document solana_program::program](https://github.com/solana-labs/solana/pull/25352)
+- 4:50 PM
+- Clock out (Solana)
+
+# 2022-06-16
+
+- Clock in (Solana)
+- 6:11 PM
+- Wrote more invoke/program module docs
+- 7:12 PM
+- Clock out (Solana)
+
+# 2022-05-15
+
+- Clock in (Solana)
+- 11:53 AM
+- Wrote docs for invoke etc
+- 1:22 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:27 PM
+- Wrote invoke examples
+- 4:01 PM
+- Wrote more invoke docs
+- 4:46 PM
+- Clock out (Solana)
+
+# 2022-05-07
+
+- Clock in (Solana)
+- 10:02 AM
+- Hacked on return data docs
+- 10:36 AM
+- Debugged problems deploying to devnet
+- 11:44 AM
+- Hacked on return data examples
+- 12:37 PM
+- Hacked on example of secp256k1_recover
+- 1:38 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 3:44 PM
+- Hacked on sysvar examples
+- Read existing production uses of secp256k1 APIs
+- 4:25 PM
+- [Filed pr to fix sysvar module short docs](https://github.com/solana-labs/solana/pull/25070)
+- 4:58 PM
+- Clock out (Solana)
+
+# 2022-05-06
+
+- Clock in (Solana)
+- 12:25 PM
+- [Postetd pr to fix message example indentation](https://github.com/solana-labs/solana/pull/25051)
+- 12:53 PM
+- Clock out (Solana)
+
+# 2022-05-04
+
+- [Fixed typo in MyCitadel org readme](https://github.com/mycitadel/.github/pull/1)
+- 3:00 PM
+- [Merged rust bitcoin updates to rib](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/126#issuecomment-1117960958)
+- 3:39 PM
+
+# 2022-05-02
+
+- Clock in (Solana)
+- 3:40 PM
+- [Submitted fix for nonblocking RpcClient examples](https://github.com/solana-labs/solana/pull/24916)
+- 4:35 PM
+- [Rebased backtrace patch](https://github.com/solana-labs/rust/pull/56#issuecomment-1115492489)
+- Continued hacking on secp256k1 examples
+- 4:57 PM
+- Clock out (Solana)
+- [Merged realtps stellar pr](https://github.com/Aimeedeer/realtps/pull/11)
+- 6:59 PM
+
+# 2022-05-01
+
+- Clock in (Solana)
+- 12:27 PM
+- Hacked on example of sol_secp256k1_recover
+- 1:26 PM
+- Clock out (Solana)
+
 # 2022-04-30
 
 - Clock in (Solana)
