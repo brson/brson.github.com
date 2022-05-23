@@ -5,7 +5,41 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
-# 2022-06-18
+# 2022-05-22
+
+- Clock in (Solana)
+- 4:35 PM
+- [Filed bug about invoke_unchecked unsafety](https://github.com/solana-labs/solana/issues/25465)
+- 4:36 PM
+- Clock out (Solana)
+
+# 2022-05-21
+
+- Clock in (Solana)
+- 3:16 PM
+- Wrote more secp256k1 docs
+- 4:35 PM
+- Clock out (Solana)
+
+# 2022-05-20
+
+- Clock in (Solana)
+- 3:00 PM
+- Wrote more secp256k1 docs
+- Reviewed use of secp256k1_recover in neon
+- [Posted minor neon-evm ecrecover pr](https://github.com/neonlabsorg/neon-evm/pull/683)
+- 5:49 PM
+- Clock out (Solana)
+
+# 2022-05-19
+
+- Clock in (Solana)
+- 4:47 PM
+- Wrote secp256k1 docs
+- 5:47 PM
+- Clock out (Solana)
+
+# 2022-05-18
 
 - Clock in (Solana)
 - 2:50 PM
@@ -15,7 +49,7 @@ _This contains much of my open source activity since 2015._
 - 4:50 PM
 - Clock out (Solana)
 
-# 2022-06-16
+# 2022-05-16
 
 - Clock in (Solana)
 - 6:11 PM
