@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-05-23
+
+- Clock in (Solana)
+- 1:20 PM
+- Investigated shutdown behavior of pubsub client
+- 2:27 PM
+- Clock out (Solana)
+
 # 2022-05-22
 
 - Clock in (Solana)
