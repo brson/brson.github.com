@@ -5,6 +5,38 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-05-29
+
+- Clock in (Solana)
+- 1:56 PM
+- [Responded to neon review](https://github.com/neonlabsorg/neon-evm/pull/683#discussion_r884317583)
+- 2:00 PM
+- [Responded to invoke review](https://github.com/solana-labs/solana/pull/25352#issuecomment-1140518997)
+- 2:24 PM
+- Continued trying to understand how to use the pubsub client
+- Wrote more secp256k1 documentation
+- 3:52 PM
+- Clock out (Solana)
+
+# 2022-05-28
+
+- Clock in (Solana)
+- 2:26 PM
+- Attempted to get pubsub client working
+- Read through pubsub code
+- 4:04 PM
+- Clock out (Solana)
+
+# 2022-05-27
+
+- Hacked on icp project
+- 3:21 PM
+
+# 2022-05-24
+
+- Hacked on icp project
+- 6:19 PM
+
 # 2022-05-23
 
 - Clock in (Solana)
