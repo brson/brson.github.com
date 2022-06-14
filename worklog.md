@@ -5,6 +5,84 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-06-13
+
+- Clock in (Solana)
+- 3:07 PM
+- [Filed pr to fix doc warnings](https://github.com/solana-labs/solana/pull/25953)
+- Wrote more secp256k1 example code
+- Wrote more async pubsubclient code
+- Wrote test of secp256k1 program signature malleability
+- 7:42 PM
+- Clock out (Solana)
+
+# 2022-06-12
+
+- Clock in (Solana)
+- 3:56 PM
+- Hacked on async pubsubclient examples
+- Wrote test for secp256k1_recover malleability
+- Wrote more docs about secp256k1 malleability
+- Hacked on secp256k1 program examples
+- 6:37 PM
+- Clock out (Solana)
+
+# 2022-06-09
+
+- Hacked on icp project
+- 6:19 PM
+
+# 2022-06-08
+
+- [Posted palkadot blog draft](https://github.com/kris524/Polkadot-Hackathon-North-America-Edition/pull/19)
+- 2:44 PM
+- [Reviewed Aimee's ink pr](https://github.com/kris524/Polkadot-Hackathon-North-America-Edition/pull/18)
+- 3:17 PM
+
+# 2022-06-07
+
+- [Posted polkadot hackathon cleanup pr](https://github.com/kris524/Polkadot-Hackathon-North-America-Edition/pull/13)
+- 1:35 PM
+
+# 2022-06-04
+
+- Clock in (Solana)
+- 1:00 PM
+- Researched secp256k1 signature malleability
+- Tested secp256k1 signature malleability
+- Wrote docs about secp256k1 signature malleability
+- 4:25 PM
+- Clock out (Solana)
+
+# 2022-06-03
+
+- [Reviewed polkadot hackathon pr](https://github.com/kris524/Polkadot-Hackathon-North-America-Edition/pull/10)
+- [Responded to dylint-link mold issue](https://github.com/trailofbits/dylint/issues/337#issuecomment-1146680790)
+- 2:00 PM
+- Clock in (Solana)
+- 2:11 PM
+- Wrote more about the secp256k1 native program
+- 4:16 PM
+- Clock out (Solana)
+
+# 2022-05-31
+
+- [Commented on dylint-link / mold issue](https://github.com/trailofbits/dylint/issues/337#issuecomment-1142611473)
+- 2:32 PM
+- Reviewed a polkadot hackathon pr
+- 3:21 PM
+- [Merged an awesome-blockchain-rust pr](https://github.com/rust-in-blockchain/awesome-blockchain-rust/pull/24)
+- 4:01 PM
+
+# 2022-05-30
+
+- Outlined some tasks for polkadot hackathon
+- 2:31 PM
+- [Filed issue about dylint-link / mold interaction](https://github.com/trailofbits/dylint/issues/337)
+- 5:36 PM
+- [Reviewed polkadot hackathon pr](https://github.com/kris524/Polkadot-Hackathon-North-America-Edition/pull/2#issuecomment-1141556058)
+- 6:26 PM
+
 # 2022-05-29
 
 - Clock in (Solana)
@@ -16,6 +94,11 @@ _This contains much of my open source activity since 2015._
 - Continued trying to understand how to use the pubsub client
 - Wrote more secp256k1 documentation
 - 3:52 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 5:45 PM
+- Read a bunch of secp256k1 source trying to understand malleability
+- 7:00 PM
 - Clock out (Solana)
 
 # 2022-05-28
