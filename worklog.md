@@ -5,6 +5,29 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-06-16
+
+- Tried to figure out how to call IC canisters with blob arguments from the command line
+- Asked where the source code to the dfx tool is
+- 12:58 PM
+- Clock in (Solana)
+- 2:32 PM
+- Converted secp256k1_recover demos into API examples
+- 3:25 PM
+- Polished secp256k1_instruction docs
+- 4:17 PM
+- Clock out (Solana)
+
+# 2022-06-15
+
+- [Fixed typo in nih-plug](https://github.com/robbert-vdh/nih-plug/pull/11)
+- 11:29 PM
+
+# 2022-06-14
+
+- [Posted pr to add tailwind and svelte components to polkadot project](https://github.com/kris524/Polkadot-Hackathon-North-America-Edition/pull/21)
+- 6:12 PM
+
 # 2022-06-13
 
 - Clock in (Solana)
