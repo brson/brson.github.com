@@ -5,6 +5,30 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-06-18
+
+- Clock in (Solana)
+- 4:15 PM
+- Added another example to secp256k1_instruction
+- 5:15 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 8:33 PM
+- [Posted pr for secp256k1 APIs](https://github.com/solana-labs/solana/pull/26065)
+- 11:10 PM
+- Clock out (Solana)
+
+# 2022-06-17
+
+- Clock in (Solana)
+- 1:49 PM
+- Wrote more secp256k1_instruction docs
+- Fixed a bug in secp256k1_instruction malleability test
+- Wrote complex secp256k1 program example
+- Wrote async pubsubclient examples
+- 5:52 PM
+- Clock out (Solana)
+
 # 2022-06-16
 
 - Tried to figure out how to call IC canisters with blob arguments from the command line
