@@ -40,7 +40,7 @@ team as:
 
 These were again the full-time employees of Mozilla Research working on Rust.
 
-It was in early 2014 when the roster that mantains clear continuity with
+It was in early 2014 when the roster that maintains clear continuity with
 today's core team was established, and the only record I see of it is [this
 commit that removes core team members][rm] from the wiki. The core
 team at that point was:
