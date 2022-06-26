@@ -5,6 +5,26 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-06-24
+
+- Clock in (Solana)
+- 1:33 PM
+- Wrote more async pubsub examples
+- [Closed neon pr](https://github.com/neonlabsorg/neon-evm/pull/683)
+- 2:58 PM
+- Planned next items to document
+- 3:43 PM
+- [Filed bug about duplicated modules and function docs in solana_sdk](https://github.com/solana-labs/solana/issues/26211)
+- 4:12 PM
+- Hacked on fixing duplicated modules in solana_sdk
+- 4:24 PM
+- Clock out (Solana)
+
+# 2022-06-22
+
+- [Hacked on polkadot project frontend](https://github.com/kris524/Polkadot-Hackathon-North-America-Edition/pull/23)
+- 4:49 PM
+
 # 2022-06-18
 
 - Clock in (Solana)
