@@ -5,6 +5,33 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-07-10
+
+- Clock in (Solana)
+- 4:08 PM
+- [Updated secp256k1 pr](https://github.com/solana-labs/solana/pull/26065)
+- 4:31 PM
+- Clock out (Solana)
+
+# 2022-06-30
+
+- Clock in (Solana)
+- 2:54 PM
+- Investigated duplicate module docs issue
+- Hacked on pubsubclient docs
+- 3:56 PM
+- Clock out (Solana)
+
+# 2022-06-28
+
+- Worked on deploying uniswap factory contract
+- 7:30 PM
+
+# 2022-06-27
+
+- [Posted pr cleaning up ink uniswap factory](https://github.com/kris524/Polkadot-Hackathon-North-America-Edition/pull/24)
+- 6:36 PM
+
 # 2022-06-24
 
 - Clock in (Solana)
