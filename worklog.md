@@ -5,6 +5,52 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-07-14
+
+- Clock in (Solana)
+- 2:35 PM
+- Hacked on clock / epoch schedule sysvar docs
+- 3:24 PM
+- Hacked on ed25519 examples
+- 5:14 PM
+- Clock out (Solana)
+
+# 2022-07-13
+
+- Clock in (Solana)
+- 1:53 PM
+- [Pushed a fix to secp356k1 pr](https://github.com/solana-labs/solana/pull/26065)
+- 1:58 PM
+- [Commented on duplicate docs pr](https://github.com/solana-labs/solana/pull/26588#issuecomment-1183622612)
+- 2:00 PM
+- Hacked on sysvar docs
+- 2:42 PM
+- Clock out (Solana)
+
+# 2022-07-12
+
+- Clock in (Solana)
+- 10:32 AM
+- [Filed bug to fix duplicate solana_sdk docs](https://github.com/solana-labs/solana/pull/26588)
+- 11:03 AM
+- Updated secp256k1 pr
+- Hacked on sysvar docs
+- 11:28 AM
+- Clock out (Solana)
+- Clock in (Solana)
+- 4:47 PM
+- Wrote more sysvar docs
+- 5:29 PM
+- Clock out (Solana)
+
+# 2022-07-11
+
+- Clock in (Solana)
+- 6:12 PM
+- Hacked on fixing dupe solana_sdk docs
+- 6:45 PM
+- Clock out (Solana)
+
 # 2022-07-10
 
 - Clock in (Solana)
