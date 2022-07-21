@@ -38,7 +38,8 @@ interests as time passes.
 
 * Added an easter egg to the runtime that output [random Lovecraft
   quotes during fatal errors][lovecraft]. The worthiness of Lovecraft
-  in a systems language was [hotly debated].
+  in a systems language was [hotly debated]. This was mentioned
+  in [an ACM Queue article][acm] in 2022.
 
 * Wrote much of the Rust build system, after Graydon Hoare, which is a
   notoriously brain-searing abuse of make. It does though have an
@@ -123,6 +124,7 @@ interests as time passes.
 
 <!-- links -->
 
+[acm]: https://queue.acm.org/detail.cfm?id=3534857&doi=10.1145%2F3534857
 [api]: https://rust-lang-nursery.github.io/api-guidelines/
 [cook]: https://rust-lang-nursery.github.io/rust-cookbook/
 [rustup]: https://github.com/rust-lang-nursery/rustup.rs

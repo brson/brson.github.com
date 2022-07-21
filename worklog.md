@@ -5,6 +5,45 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-07-20
+
+- Clock in (wasm-opt)
+- 2:42 PM
+- Hacked on building wasm-opt
+- 3:41 PM
+- Signed w3f cla
+- 3:46 PM
+- Clock out (wasm-opt)
+
+# 2022-07-19
+
+- [Updated wasm-opt proposal pr](https://github.com/w3f/Grants-Program/pull/1070#issuecomment-1189700020)
+- 7:18 PM
+
+# 2022-07-17
+
+- [Closed dada repl pr](https://github.com/dada-lang/dada/pull/125)
+- 10:01 AM
+- Hacked on wasm-opt-rs poc
+- 11:57 AM
+- [Posted pr for wasm-opt proposal](https://github.com/w3f/Grants-Program/pull/1070)
+- 6:05 PM
+- [Posted pr to fix dada doc bug](https://github.com/dada-lang/dada/pull/200)
+- 8:21 PM
+
+# 2022-07-16
+
+- [Filed pr to improve nih-plug xtask](https://github.com/robbert-vdh/nih-plug/pull/16)
+- 11:19 PM
+
+# 2022-07-15
+
+- Clock in (Solana)
+- 5:40 PM
+- Continued documenting clock and epochschedule sysvars
+- 6:04 PM
+- Clock out (Solana)
+
 # 2022-07-14
 
 - Clock in (Solana)
