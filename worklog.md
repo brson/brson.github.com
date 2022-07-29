@@ -5,6 +5,102 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-07-29
+
+- Clock in (wasm-opt)
+- 12:24 PM
+- Wrote some blog
+- Began testing on windows
+- 12:31 PM
+- Clock out (wasm-opt)
+- Clock in (Solana)
+- 12:51 PM
+- [Filed PR to add sysvar docs](https://github.com/solana-labs/solana/pull/26849)
+- 1:34 PM
+- [Updated secp256k1 pr](https://github.com/solana-labs/solana/pull/26065#issuecomment-1199885910)
+- 1:44 PM
+- Clock out (Solana)
+
+# 2022-07-28
+
+- Clock in (wasm-opt)
+- 10:50 AM
+- Hacked on passmanager bindings
+- 12:09 PM
+- Clock out (wasm-opt)
+- Clock in (Solana)
+- 4:02 PM
+- Updated secp256k1 pr
+- 4:07 PM
+- Updated sysvar docs
+- 4:22 PM
+- Clock out (Solana)
+
+# 2022-07-27
+
+- Clock in (wasm-opt)
+- 3:15 PM
+- Hacked on moudel reader/writer bindings
+- 6:29 PM
+- Clock out (wasm-opt)
+
+# 2022-07-25
+
+- Clock in (wasm-opt)
+- 3:59 PM
+- Hacked on wasm-opt cxx bindings
+- 5:40 PM
+- Clock out (wasm-opt)
+
+# 2022-07-24
+
+- Clock in (wasm-opt)
+- 2:25 PM
+- Hacked on wasm-opt-sys linkage
+- 3:49 PM
+- Clock out (wasm-opt)
+
+# 2022-07-23
+
+- Clock in (Solana)
+- 1:46 PM
+- Hacked on sysvar docs
+- 2:36 PM
+- Clock out (Solana)
+- Clock in (wasm-opt)
+- 2:36 PM
+- Hacked on wasm-opt build
+- 4:30 PM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 5:21 PM
+- Hacked on wasm-opt main function
+- 6:10 PM
+- Clock out (wasm-opt)
+
+# 2022-07-22
+
+- Clock in (Solana)
+- 3:35 PM
+- [Filed pr to delete unused test function](https://github.com/solana-labs/solana/pull/26748)
+- 4:00 PM
+- Hacked on sysvar docs
+- 4:06 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 4:37 PM
+- Hackeed on sysvar docs
+- 5:06 PM
+- Clock out (Solana)
+
+# 2022-07-21
+
+- Clock in (Solana)
+- 2:55 PM
+- Wrote more sysvar docs
+- 4:51 PM
+- Clock out (Solana)
+
 # 2022-07-20
 
 - Clock in (wasm-opt)
