@@ -5,6 +5,22 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-08-01
+
+- Clock in (Solana)
+- 5:03 PM
+- Updated sysvar docs pr
+- 5:07 PM
+- Clock out (Solana)
+
+# 2022-07-31
+
+- Clock in (Solana)
+- 3:24 PM
+- [Updated duplicate docs pr](https://github.com/solana-labs/solana/pull/26588#issuecomment-1200505329)
+- 3:51 PM
+- Clock out (Solana)
+
 # 2022-07-30
 
 - Clock in (wasm-opt)
@@ -12,11 +28,6 @@ _This contains much of my open source activity since 2015._
 - Added PassOptions bindings
 - 12:30 PM
 - Clock out (wasm-opt)
-- Clock in (Solana)
-- 3:24 PM
-- [Updated duplicate docs pr](https://github.com/solana-labs/solana/pull/26588#issuecomment-1200505329)
-- 3:40 PM
-- Clock out (Solana)
 - Hacked on midi parsing
 - 11:19 PM
 
