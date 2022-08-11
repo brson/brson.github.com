@@ -5,6 +5,64 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-08-11
+
+- Clock in (Solana)
+- 2:07 PM
+- Wrote more pubsub docs and exaples
+- 3:09 PM
+- Clock out (Solana)
+
+# 2022-08-10
+
+- Clock in (wasm-opt)
+- 12:15 PM
+- Wrote some blog notes for wasm-opt
+- 12:37 PM
+- Wrote a readme
+- Downgraded to rust 1.48
+- 2:50 PM
+- Clock out (wasm-opt)
+
+# 2022-08-09
+
+- Clock in (Solana)
+- 10:48 AM
+- Wrote pubsub docs
+- 11:53 AM
+- Clock out (Solana)
+
+# 2022-08-07
+
+- Clock in (Solana)
+- 3:36 PM
+- [Removed println's from examples](https://github.com/solana-labs/solana/pull/26849#issuecomment-1207491442)
+- 3:49 PM
+- Hacked on pubsub api
+- 5:13 PM
+- Clock out (Solana)
+
+# 2022-08-05
+
+- [Posted salsa example fixes](https://github.com/salsa-rs/salsa/pull/324)
+- 9:17 PM
+
+# 2022-08-04
+
+- Clock in (wasm-opt)
+- 2:05 PM
+- Outlined Rust API
+- 4:23 PM
+- Clock out (wasm-opt)
+
+# 2022-08-02
+
+- Clock in (wasm-opt)
+- 4:50 PM
+- Reveiwed and filed issues on wasm-opt-rs
+- 6:19 PM
+- Clock out (wasm-opt)
+
 # 2022-08-01
 
 - Clock in (Solana)
