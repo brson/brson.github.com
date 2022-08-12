@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-08-12
+
+- Clock in (Solana)
+- 11:56 AM
+- Hacked on async pubsub example
+- 1:11 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 1:57 PM
+- Hacked on async pubsub example
+- 3:13 PM
+- Clock out (Solana)
+
 # 2022-08-11
 
 - Clock in (Solana)
@@ -12,6 +25,11 @@ _This contains much of my open source activity since 2015._
 - Wrote more pubsub docs and exaples
 - 3:09 PM
 - Clock out (Solana)
+- Clock in (wasm-opt)
+- 3:20 PM
+- Transcribed pass names to enums
+- 3:58 PM
+- Clock out (wasm-opt)
 
 # 2022-08-10
 
