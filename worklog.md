@@ -5,6 +5,34 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-08-14
+
+- Clock in (wasm-opt)
+- 5:35 PM
+- Reviewed run function
+- 6:41 PM
+- Clock out (wasm-opt)
+- Clock in (Solana)
+- 6:42 PM
+- [Updated sysvar pr](https://github.com/solana-labs/solana/pull/26849#issuecomment-1214496772)
+- 7:09 PM
+- Clock out (Solana)
+
+# 2022-08-13
+
+- Clock in (Solana)
+- 12:06 PM
+- Hacked on async pubsub example
+- 1:06 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:40 PM
+- [Filed pr to fix macro links](https://github.com/solana-labs/solana/pull/27125)
+- 2:51 PM
+- Wrote more pubsub docs
+- 3:25 PM
+- Clock out (Solana)
+
 # 2022-08-12
 
 - Clock in (Solana)
@@ -17,6 +45,13 @@ _This contains much of my open source activity since 2015._
 - Hacked on async pubsub example
 - 3:13 PM
 - Clock out (Solana)
+- Clock in (wasm-opt)
+- 3:54 PM
+- Filled in more apis
+- 4:09 PM
+- Clock out (wasm-opt)
+- [Filed rust simd bug](https://github.com/rust-lang/rust/issues/100474)
+- 8:37 PM
 
 # 2022-08-11
 
