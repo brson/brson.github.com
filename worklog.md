@@ -5,6 +5,264 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-09-21
+
+- [Commented on realtps algorand contribution](https://github.com/Aimeedeer/realtps/pull/35#issuecomment-1253182588)
+- 12:16 PM
+
+# 2022-09-18
+
+- Clock in (Solana)
+- 3:19 PM
+- Read [about solana compared to move](https://medium.com/@kklas/smart-contract-development-move-vs-rust-4d8f84754a8f)
+- Learned more about the move prover
+- 4:46 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 6:05 PM
+- Read the move paper
+- 7:10 PM
+- Clock out (Solana)
+
+# 2022-09-17
+
+- Clock in (Solana)
+- 3:29 PM
+- Learned how to use the move prover
+- Learned about how Move types relate to storage
+- 4:56 PM
+- Clock out (Solana)
+
+# 2022-09-16
+
+- Clock in (wasm-opt)
+- 1:42 PM
+- Hacked on binaryen error handling
+- 3:38 PM
+- Clock out (wasm-opt)
+
+# 2022-09-14
+
+- Clock in (wasm-opt)
+- 1:29 PM
+- Hacked on conformance tests
+- 2:34 PM
+- Clock out (wasm-opt)
+
+# 2022-09-12
+
+- [Responded to realtps optimism banning](https://github.com/Aimeedeer/realtps/issues/17#issuecomment-1244130739)
+- 12:27 PM
+- Investigated realtps memory leak
+
+# 2022-09-11
+
+- Clock in (Solana)
+- 1:40 PM
+- Continued with move tutorial
+- 3:12 PM
+- Clock out (Solana)
+
+# 2022-09-10
+
+- Clock in (Solana)
+- 11:09 AM
+- Worked on setting up move dev environment
+- 12:17 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 3:10 PM
+- Worked through move tutorial
+- 4:40 PM
+- Clock out (Solana)
+
+# 2022-09-09
+
+- Clock in (Solana)
+- 1:55 PM
+- Began learning how to build and run move
+- 3:03 PM
+- Clock out (Solana)
+
+# 2022-09-08
+
+- Clock in (wasm-opt)
+- 4:18 PM
+- [Posted cargo-contract wasm-opt integration issue](https://github.com/paritytech/cargo-contract/issues/733)
+- 5:33 PM
+- Clock out (wasm-opt)
+- [Commented on rustsec advisories](https://github.com/rustsec/rustsec/issues/685#issuecomment-1241406042)
+- 7:44 PM
+- [Commented on rustsec advisories](https://github.com/rustsec/rustsec/issues/686#issuecomment-1241405294)
+- 7:44 PM
+
+# 2022-09-07
+
+- Clock in (rib)
+- 2:52 PM
+- Hacked on rib updates
+- [Merged rib bitcoin updates](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/158/)
+- 4:08 PM
+- Clock out (rib)
+
+# 2022-09-06
+
+- Clock in (Solana)
+- 3:23 PM
+- [Updated docs-pubsub pr](https://github.com/solana-labs/solana/pull/27188#issuecomment-1238666787)
+- 3:26 PM
+- [Fixed solana_program::vote docs](https://github.com/solana-labs/solana/pull/27621)
+- 3:34 PM
+- Updated docs-system-instruction branch
+- Read through rpf code for call instructions
+- 4:57 PM
+- Clock out (Solana)
+
+# 2022-09-05
+
+- Clock in (wasm-opt)
+- 1:10 PM
+- Hacekd on wasm-opt CLI integration module
+- 2:40 PM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 4:36 PM
+- Hacked on wasm-opt CLI integration module
+- Hacked on cargo-contract patch
+- 6:00 PM
+- Clock out (wasm-opt)
+
+# 2022-09-04
+
+- Clock in (wasm-opt)
+- 7:52 PM
+- Hacked on cargo-contract/wasm-opt integration
+- Hacked on features api
+- 9:19 PM
+- Clock out (wasm-opt)
+
+# 2022-09-01
+
+- [Commented on binaryen path handling](https://github.com/WebAssembly/binaryen/issues/4995#issuecomment-1234532874)
+- 10:50 AM
+- Clock in (Solana)
+- 10:50 AM
+- [Rebased patch to fix broken links](https://github.com/solana-labs/solana/pull/27125#issuecomment-1234553568)
+- 11:07 AM
+- [Rebased pubsub doc patch](https://github.com/solana-labs/solana/pull/27188#issuecomment-1234568360)
+- 11:21 AM
+- Worked on system_instruction docs
+- 11:38 AM
+- Clock out (Solana)
+- Clock in (wasm-opt)
+- 11:38 AM
+- Triaged issues
+- 12:39 PM
+- Clock out (wasm-opt)
+
+# 2022-08-30
+
+- Clock in (wasm-opt)
+- 2:30 PM
+- [Commented on binaryen exception handling](https://github.com/WebAssembly/binaryen/issues/4938#issuecomment-1232167231)
+- 3:06 PM
+- [Filed binaryen unicode windows bug](https://github.com/WebAssembly/binaryen/issues/4995)
+- 3:55 PM
+
+# 2022-08-29
+
+- [Commented on wasm-opt m1 review](https://github.com/w3f/Grant-Milestone-Delivery/pull/552#issuecomment-1230644458)
+- 11:45 AM
+
+# 2022-08-25
+
+- Clock in (wasm-opt)
+- 11:39 AM
+- Published wasm-opt v0.0.1-preview.2
+- 12:12 AM
+- Clock out (wasm-opt)
+- [Posted milestone 1 pr](https://github.com/w3f/Grant-Milestone-Delivery/pull/552)
+- 4:17 PM
+
+# 2022-08-24
+
+- Clock in (Solana)
+- 11:00 AM
+- Updated pubsub docs
+- 11:32 AM
+- Started hacking on sdk docs
+- 12:12 PM
+- Clock out (Solana)
+
+# 2022-08-23
+
+- Clock in (Solana)
+- 5:38 PM
+- [Reviewed solana-client refactor pr](https://github.com/solana-labs/solana/pull/27246#issuecomment-1225031940)
+- 6:42 PM
+- [Rewored pubsub doc pr](https://github.com/solana-labs/solana/pull/27188#issuecomment-1225037174)
+- 6:54 PM
+- Clock out (Solana)
+
+# 2022-08-22
+
+- [Merged a rust-anthology fix](https://github.com/brson/rust-anthology/pull/24)
+- 5:57 PM
+
+# 2022-08-21
+
+- Clock in (wasm-opt)
+- 11:34 AM
+- Reworked submodule detection
+- 12:36 PM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 1:35 PM
+- [Filed ammendment for payment in dot instead of ausd](https://github.com/w3f/Grants-Program/pull/1134)
+- 3:07 PM
+- Published preview crates
+- Wrote milestone 1 submission
+- 3:17 PM
+- Clock out (wasm-opt)
+
+# 2022-08-20
+
+- Clock in (wasm-opt)
+- 11:44 AM
+- Wrote more docs
+- 12:12 PM
+- Clock out (wasm-opt)
+
+# 2022-08-19
+
+- Clock in (wasm-opt)
+- 1:41 PM
+- Wrote docs
+- 3:07 PM
+- Clock out (wasm-opt)
+
+# 2022-08-18
+
+- Clock in (wasm-opt)
+- 11:20 AM
+- Wrote some docs
+- 11:55 AM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 3:42 PM
+- Debugged unicode paths on windows
+- [Filed binaryen issue about file exception handling](https://github.com/WebAssembly/binaryen/issues/4938)
+- 5:01 PM
+- Clock out (wasm-opt)
+
+# 2022-08-16
+
+- Clock in (Solana)
+- 4:23 PM
+- [Submitted pubsub doc pr](https://github.com/solana-labs/solana/pull/27188)
+- 5:03 PM
+- Clock out (Solana)
+
 # 2022-08-14
 
 - Clock in (wasm-opt)
