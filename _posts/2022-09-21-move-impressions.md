@@ -1095,11 +1095,11 @@ but maybe in Move a "single smart contract" is composed of multiple modules.
 
 The tutorial contains this helpful illustration:
 
-![Move blockchain state illustration](https://raw.githubusercontent.com/move-language/move/f3cba16754a0b986c24ce06b4bf698f86ccc65b9/language/documentation/tutorial/diagrams/move_state.png "move blockchain state illustration")
+<img class="blog-photo" src="https://raw.githubusercontent.com/move-language/move/f3cba16754a0b986c24ce06b4bf698f86ccc65b9/language/documentation/tutorial/diagrams/move_state.png"/>
 
 Which it contrasts to how Solidity maps data to addresses:
 
-![Solidity blockchain state illustration](https://raw.githubusercontent.com/move-language/move/f3cba16754a0b986c24ce06b4bf698f86ccc65b9/language/documentation/tutorial/diagrams/solidity_state.png "solidity blockchain state illustration")
+<img class="blog-photo" src="https://raw.githubusercontent.com/move-language/move/f3cba16754a0b986c24ce06b4bf698f86ccc65b9/language/documentation/tutorial/diagrams/solidity_state.png"/>
 
 (From https://github.com/move-language/move/tree/f3cba16754a0b986c24ce06b4bf698f86ccc65b9/language/documentation/tutorial)
 
