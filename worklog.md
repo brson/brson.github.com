@@ -5,6 +5,24 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-09-24
+
+- Clock in (Solana)
+- 3:51 PM
+- [Submitted pr with system_instruction docs](https://github.com/solana-labs/solana/pull/28052)
+- 5:30 PM
+- Clock out (Solana)
+
+# 2022-09-22
+
+- Clock in (Solana)
+- 12:19 PM
+- Wrote docs for system_instruction
+- Starting writing new demos for system_instruction
+- Investigated breakage of solana-syscall-demos
+- 2:46 PM
+- Clock out (Solana)
+
 # 2022-09-21
 
 - [Commented on realtps algorand contribution](https://github.com/Aimeedeer/realtps/pull/35#issuecomment-1253182588)
