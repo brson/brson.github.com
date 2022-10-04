@@ -107,6 +107,8 @@ interests as time passes.
 * Pioneered Rust's practice of ecosystem-wide regression testing
   with [crater] and [cargobomb].
 
+* Created the infamous [`weird-exprs`] test case.
+
 * Created the widely-used [error-chain] crate for ergonamic error handling. It
   has since been deprecated by better crates and practices.
 
@@ -174,3 +176,4 @@ interests as time passes.
 [Rust Forge]: https://forge.rust-lang.org/
 [rustupbook]: https://rust-lang.github.io/rustup/
 [stddocs]: https://doc.rust-lang.org/std/index.html
+[`weird-exprs`]: https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs
