@@ -5,6 +5,156 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-10-09
+
+- Clock in (Solana)
+- 2:57 PM
+- Reviewed "solana-move" doc for aditya
+- 4:07 PM
+- Clock out (Solana)
+- [Filed realtps solana versioned transactions issue](https://github.com/Aimeedeer/realtps/issues/44)
+- 4:16 PM
+- Clock in (wasm-opt)
+- 4:55 PM
+- Updated wasm-opt-rs readme
+- 5:05 PM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 7:11 PM
+- Drafted more blog
+- 8:35 PM
+- Clock out (wasm-opt)
+
+# 2022-10-07
+
+- Clock in (realtps)
+- 4:09 PM
+- [Merged algorand realtps fixes](https://github.com/Aimeedeer/realtps/pull/43)
+- 4:10 PM
+- Investigated realtps memleak
+- Investigated adding ICP to realtps
+- 7:02 PM
+- Clock out (realtps)
+
+# 2022-10-06
+
+- Clock in (wasm-opt)
+- 1:19 PM
+- Wrote some wasm-opt blog
+- 2:07 PM
+- Clock out (wasm-opt)
+
+# 2022-10-05
+
+- Clock in (rib)
+- 4:00 PM
+- Merged rib prs
+- Wrote rib updates
+- 4:47 PM
+- Clock out (rib)
+
+# 2022-10-04
+
+- Clock in (wasm-opt)
+- 10:00 AM
+- Published wasm-opt 0.110.0-beta.2
+- 11:08 AM
+- Hacked on various
+- 1:28 PM
+- Clock out (wasm-opt)
+- [Posted update to wasm-builder pr](https://github.com/paritytech/substrate/pull/12280#issuecomment-1267769708)
+- 8:40 PM
+- [Commented on debuginfo bug](https://github.com/brson/wasm-opt-rs/issues/81#issuecomment-1267770445)
+- 8:41 PM
+- [Posted pr to integrate wasm-opt with cargo-contract](https://github.com/paritytech/cargo-contract/pull/766)
+- 9:00 PM
+
+# 2022-10-03
+
+- Clock in (wasm-opt)
+- 12:09 PM
+- Hacked on docs and fixes
+- 12:48 PM
+- Clock out (wasm-opt)
+
+# 2022-10-02
+
+- Clock in (Solana)
+- 12:08 PM
+- [Reworked system_instruction pr](https://github.com/solana-labs/solana/pull/28052#issuecomment-1264681191)
+- 12:25 PM
+- Started building the Solana move fork and its llvm
+- 1:14 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 3:43 PM
+- Read through the solana move llvm branch
+- Chatted with aditya
+- 4:15 PM
+- Clock out (Solana)
+
+# 2022-10-01
+
+- Clock in (wasm-opt)
+- 11:03 AM
+- [Added `THROW_ON_FATAL` to binaryen wiki](https://github.com/WebAssembly/binaryen/wiki/Compiling-to-WebAssembly-with-Binaryen#catching-fatal-errors)
+- 12:10 PM
+- [Ammended wasm-opt-for-rust for no-fuzzing](https://github.com/w3f/Grants-Program/pull/1195).
+- 12:55 PM
+- Closed some small issues
+- 1:22 PM
+- Clock out (wasm-opt)
+
+# 2022-09-30
+
+- Clock in (wasm-opt)
+- 9:41 AM
+- [Commented on wasm-builder integration](https://github.com/paritytech/substrate/pull/12280#issuecomment-1263598285)
+- 9:47 AM
+- [Posted binaryen readme fix](https://github.com/WebAssembly/binaryen/pull/5097)
+- 10:15 AM
+- [Updated binaryen patch](https://github.com/WebAssembly/binaryen/pull/5087#issuecomment-1263665530)
+- 10:48 AM
+- Hacked on wasm-opt
+- 10:58 AM
+- Clock out (wasm-opt)
+- [Updated binaryen pr](https://github.com/WebAssembly/binaryen/pull/5087#issuecomment-1263993658)
+- 4:28 PM
+
+# 2022-09-28
+
+- [Deployed algorand to realtps](https://github.com/Aimeedeer/realtps/pull/35#issuecomment-1261220729)
+- 1:18 PM
+- [Filed algorand issue](https://github.com/Aimeedeer/realtps/issues/40)
+- 1:31 PM
+
+# 2022-09-27
+
+- Clock in (wasm-opt)
+- 6:55 PM
+- [Posted fatal error binaryen patch](https://github.com/WebAssembly/binaryen/pull/5087)
+- 7:41 PM
+- Clock out (wasm-opt)
+
+# 2022-09-26
+
+- Clock in (wasm-opt)
+- 12:35 PM
+- Hacked on converting exit to Fatal in binaryen
+- 1:10 PM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 1:35 PM
+- Hacked on converting exit to Fatal in binaryen
+- 2:12 PM
+- Reviewed code
+- 3:31 PM
+- Wrote docs
+- Upgraded binaryen
+- Closed issues
+- 5:07 PM
+- Clock out (wasm-opt)
+
 # 2022-09-24
 
 - Clock in (Solana)
