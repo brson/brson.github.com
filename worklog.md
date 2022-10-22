@@ -5,6 +5,146 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-10-22
+
+- Clock in (Solana)
+- 1:46 PM
+- [Hacked on move-mv-llvm-compiler test harness](https://github.com/solana-labs/move/issues/9)
+- 3:33 PM
+- Clock out (Solana)
+
+# 2022-10-21
+
+- Clock in (wasm-opt)
+- 2;40 PM
+- [Commented on binaryen version](https://github.com/brson/wasm-opt-rs/issues/106#issuecomment-1287432243)
+- 3:05 PM
+- [Closed dtolnay's notes issue](https://github.com/brson/wasm-opt-rs/issues/95)
+- 5:10 PM
+- Hacked on wasm-opt ci
+- 7:16 PM
+- [Posted amendment to not provide ARM CI](https://github.com/w3f/Grants-Program/pull/1230)
+- 8:05 PM
+- Updated CI for i686 and alt compilers
+- 8:41 PM
+- Clock out (wasm-opt)
+
+# 2022-10-20
+
+- Clock in (wasm-opt)
+- 12:16 PM
+- Hacked on blog
+- 11:41 PM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 3:25 PM
+- Hacked on blog
+- 4:30 PM
+- Clock out (wasm-opt)
+
+# 2022-10-17
+
+- Clock in (wasm-opt)
+- 11:28 AM
+- Updated blog notes
+- 11:48 AM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 6:45 PM
+- Wrote more blog notes
+- 8:17 PM
+- Clock out (wasm-opt)
+- [Lowered the realtps rescan delay](https://github.com/Aimeedeer/realtps/issues/50#issuecomment-1281755053)
+- 9:10 PM
+
+# 2022-10-15
+
+- Clock in (wasm-opt)
+- 11:48 PM
+- Merged prs and issues
+- Prepared 0.110.1
+- 1:04 PM
+- Clock out (wasm-opt)
+- Clock in (realtps)
+- 1:05 PM
+- Deployed new build of realtps
+- 2:14 PM
+- [Commented on icp transactions](https://github.com/Aimeedeer/realtps/issues/41#issuecomment-1279827443)
+- 2:32 PM
+- Filed more realtps issues
+- 2:42 PM
+- Clock out (realtps)
+- Published wasm-opt 0.110.1
+- [Told substrate devs about 0.110.1](https://github.com/paritytech/substrate/pull/12280)
+- [Updated cargo-contract for 0.110.1](https://github.com/paritytech/cargo-contract/pull/786)
+- 6:47 PM
+
+# 2022-10-14
+
+- Clock in (wasm-opt)
+- 5:30 PM
+- [Merged wasm-opt pr](https://github.com/brson/wasm-opt-rs/pull/91)
+- 5:54 PM
+- Triaged wasm-opt-rs issues
+- 6:13 PM
+- Clock ouc (wasm-opt)
+
+# 2022-10-13
+
+- Clock in (realtps)
+- 9:50 AM
+- [Redesigned courtesy_delay in realtps](https://github.com/Aimeedeer/realtps/issues/45#issuecomment-1277840285)
+- 9:59 AM
+- Clock out (realtps)
+- Clock in (wasm-opt)
+- 10:00 AM
+- Wrote more blog
+- Hacked on fix for wasm_opt_main exceptions
+- 12:24 PM
+- Clock out (wasm-opt)
+
+# 2022-10-12
+
+- [Filed wasm-opt exception issue](https://github.com/brson/wasm-opt-rs/issues/89)
+- 7:13 PM
+
+# 2022-10-11
+
+- Clock in (wasm-opt)
+- 10:14 AM
+- Wrote more blog
+- 11:26 AM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 12:00 PM
+- Wrote more blog
+- 1:35 PM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 3:45 PM
+- Wrote more blog
+- 4:10 PM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 5:40 PM
+- Wrote more blog
+- 8:42 PM
+- Clock out (wasm-opt)
+
+
+# 2022-10-10
+
+- Clock in (wasm-opt)
+- 12:00 PM
+- Hacked on notes
+- 12:18 PM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 5:25 PM
+- Hacked on blog post
+- 6:47 PM
+- Clock out (wasm-opt)
+
 # 2022-10-09
 
 - Clock in (Solana)
@@ -336,6 +476,7 @@ _This contains much of my open source activity since 2015._
 - 3:06 PM
 - [Filed binaryen unicode windows bug](https://github.com/WebAssembly/binaryen/issues/4995)
 - 3:55 PM
+- Clock out (wasm-opt)
 
 # 2022-08-29
 
@@ -347,7 +488,7 @@ _This contains much of my open source activity since 2015._
 - Clock in (wasm-opt)
 - 11:39 AM
 - Published wasm-opt v0.0.1-preview.2
-- 12:12 AM
+- 12:12 PM
 - Clock out (wasm-opt)
 - [Posted milestone 1 pr](https://github.com/w3f/Grant-Milestone-Delivery/pull/552)
 - 4:17 PM
