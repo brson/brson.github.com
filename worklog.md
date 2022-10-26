@@ -5,18 +5,64 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-10-26
+
+- Clock in (Solana)
+- 10:48 AM
+- [Filed issue about AccountInfo::assign being unsound](https://github.com/solana-labs/solana/issues/28607)
+- 11:12 AM
+- [Updated system_instruction pr](https://github.com/solana-labs/solana/pull/28052#issuecomment-1292357590)
+- 11:16 PM
+- [Submitted pr for move-llvm test harness](https://github.com/solana-labs/move/pull/10)
+- 11:33 PM
+- Clock out (Solana)
+
+# 2022-10-25
+
+- Clock in (Solana)
+- 8:42 PM
+- Read backscroll of #move-project chat
+- Responded to aditya about move->llvm test harness
+- [Responded to review of system_instruction docs](https://github.com/solana-labs/solana/pull/28052)
+- 9:08 PM
+- Clock out (Solana)
+
+# 2022-10-23
+
+- Tweaked realtps delay times for arbitrum and optimism
+- 12:36 PM
+- [Merged wasm-opt-rs pr](https://github.com/brson/wasm-opt-rs/pull/110)
+- 12:56 PM
+- Clock in (Solana)
+- 6:01 PM
+- [Hacked on move-mv-llvm-compiler test harness](https://github.com/solana-labs/move/issues/9#issuecomment-1288241929)
+- 6:23 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 6:23 PM
+- Hacked on move-mv-llvm-compiler test harness
+- 6:30 PM
+- [Converted system_instruction examples to PDAs](https://github.com/solana-labs/solana/pull/28052#issuecomment-1288258718)
+- 6:52 PM
+- Clock out (Solana)
+
 # 2022-10-22
+
+- Clock in (Solana)
+- 2:39 PM
+- Hacked on rework of system_instruction pr
+- 5:33 PM
+- Clock out (Solana)
+
+# 2022-10-21
 
 - Clock in (Solana)
 - 1:46 PM
 - [Hacked on move-mv-llvm-compiler test harness](https://github.com/solana-labs/move/issues/9)
 - 3:33 PM
 - Clock out (Solana)
-
-# 2022-10-21
-
 - Clock in (wasm-opt)
-- 2;40 PM
+- 2:40 PM
 - [Commented on binaryen version](https://github.com/brson/wasm-opt-rs/issues/106#issuecomment-1287432243)
 - 3:05 PM
 - [Closed dtolnay's notes issue](https://github.com/brson/wasm-opt-rs/issues/95)
@@ -60,7 +106,7 @@ _This contains much of my open source activity since 2015._
 # 2022-10-15
 
 - Clock in (wasm-opt)
-- 11:48 PM
+- 11:48 AM
 - Merged prs and issues
 - Prepared 0.110.1
 - 1:04 PM
@@ -87,7 +133,7 @@ _This contains much of my open source activity since 2015._
 - 5:54 PM
 - Triaged wasm-opt-rs issues
 - 6:13 PM
-- Clock ouc (wasm-opt)
+- Clock out (wasm-opt)
 
 # 2022-10-13
 
