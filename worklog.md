@@ -5,6 +5,98 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-11-07
+
+- Clock in (Solana)
+- 12:19 PM
+- Wrote docs for clone_zeroed
+- 12:56 PM
+- Chatted with tyera and jack
+- [Merged move-llvm compiler error handling pr](https://github.com/solana-labs/move/pull/11)
+- 1:09 PM
+- Revised llvm-test-harness move PR
+- 1:16 PM
+- Updated move-native helper functions
+- 1:39 PM
+- Wrote up plan for move-native runtime
+- 2:55 PM
+- Clock out (Solana)
+
+# 2022-11-05
+
+- Clock in (Solana)
+- 12:59 PM
+- Hacked on move native runtime prototype
+- 2:51 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 3:05 PM
+- Hacked on sdk docs
+- Updated solana-program docs
+- 4:14 PM
+- Clock out (Solana)
+
+# 2022-11-04
+
+- [Commented on stellar tps](https://github.com/Aimeedeer/realtps/issues/55#issuecomment-1304198602)
+- [Filed issue about wrong icp tps numbers](https://github.com/Aimeedeer/realtps/issues/66)
+- 2:35 PM
+- Clock in (Solana)
+- 3:03 PM
+- Outlined what llvm-based move natives would look like
+- 4:44 PM
+- Clock out (Solana)
+
+# 2022-11-03
+
+- [Filed cargo-clean-all issue](https://github.com/dnlmlr/cargo-clean-all/issues/2)
+- 1:03 PM
+- [Fixed broken ink doc link](https://github.com/paritytech/ink/pull/1465)
+- 1:24 PM
+- Investigated monomarphization bloat in ink
+- 3:29 PM
+
+# 2022-11-01
+
+- 5:07 PM
+- [Filed issue about missing karura errors in realtps](https://github.com/Aimeedeer/realtps/issues/64)
+- Clock in (Solana)
+- 5:38 PM
+- [Posted pr to fix doc links in solana-client](https://github.com/solana-labs/solana/pull/28714)
+- Hacked on solana-sdk docs
+- 6:16 PM
+- Researched how move stdlib interacts with native code
+- 6:34 PM
+- Clock out (Solana)
+
+# 2022-10-31
+
+- Chatted about monomorphization in ink
+- 1:10 PM
+
+# 2022-10-30
+
+- Clock in (Solana)
+- 2:18 PM
+- [Posted pr to handle errors in move-llvm compiler](https://github.com/solana-labs/move/pull/11)
+- 2:43 PM
+- [Investigated restricting call targets in rbpf](https://github.com/solana-labs/solana/issues/20323)
+- 4:09 PM
+- Clock out (Solana)
+
+# 2022-10-27
+
+- [Backported empty memories binaryen patch to wasm-opt-rs](https://github.com/brson/wasm-opt-rs/pull/111)
+- 12:05 PM
+- Released wasm-opt-rs 0.110.2
+- 1:37 PM
+- [Posted wasm-opt upgrade to cargo-contract](https://github.com/paritytech/cargo-contract/pull/802)
+- 2:05 PM
+- [Mentioned 0.110.2 on wasm-builder pr](https://github.com/paritytech/substrate/pull/12280#issuecomment-1294008198)
+- 2:06 PM
+- [Mentioned 0.110.2 on soroban pr](https://github.com/stellar/soroban-cli/pull/236#issuecomment-1294010031)
+- 2:08 PM
+
 # 2022-10-26
 
 - Clock in (Solana)
@@ -12,10 +104,12 @@ _This contains much of my open source activity since 2015._
 - [Filed issue about AccountInfo::assign being unsound](https://github.com/solana-labs/solana/issues/28607)
 - 11:12 AM
 - [Updated system_instruction pr](https://github.com/solana-labs/solana/pull/28052#issuecomment-1292357590)
-- 11:16 PM
+- 11:16 AM
 - [Submitted pr for move-llvm test harness](https://github.com/solana-labs/move/pull/10)
-- 11:33 PM
+- 11:33 AM
 - Clock out (Solana)
+- [Submitted wasm-opt m2 report](https://github.com/w3f/Grant-Milestone-Delivery/pull/611)
+- 7:15 PM
 
 # 2022-10-25
 
