@@ -5,6 +5,23 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-11-08
+
+- Clock in (Solana)
+- 1:21 PM
+- [Added more solana-program docs](https://github.com/solana-labs/solana/pull/28770)
+- 1:27 PM
+- Wrote more sdk docs
+- 1:43 PM
+- Clock out (Solana)
+- [Filed realtps issue](https://github.com/Aimeedeer/realtps/issues/68)
+- 1:49 PM
+- Clock in (Solana)
+- 2:10 PM
+- Wrote more sdk docs
+- 2:29 PM
+- Clock out (Solana)
+
 # 2022-11-07
 
 - Clock in (Solana)
@@ -20,6 +37,11 @@ _This contains much of my open source activity since 2015._
 - 1:39 PM
 - Wrote up plan for move-native runtime
 - 2:55 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 4:05 PM
+- Linked move-native in #proj-move
+- 4:16 PM
 - Clock out (Solana)
 
 # 2022-11-05
