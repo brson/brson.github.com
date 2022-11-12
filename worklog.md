@@ -5,6 +5,53 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-11-12
+
+- Clock in (Solana)
+- 1:01 PM
+- Hacked on sdk docs
+- 1:26 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 3:39 PM
+- Implemented vec serialization for move-native
+- Wrote more docs for move-native
+- 4:10 PM
+- Clock out (Solana)
+
+# 2022-11-11
+
+- Resubmitted wasm-opt-for-rust invoice
+- 11:27 AM
+- Clock in (wasm-opt)
+- 12:57 PM
+- [Responded to wasm-opt opt-level=s issue](https://github.com/brson/wasm-opt-rs/issues/115#issuecomment-1312197626)
+- 2:19 PM
+- Clock out (wasm-opt)
+
+# 2022-11-10
+
+- Clock in (wasm-opt)
+- 12:52 PM
+- Drafted wasm-opt maintenance grant
+- 2:52 PM
+- Clock out (wasm-opt)
+
+# 2022-11-09
+
+- Clock in (Solana)
+- 12:57 PM
+- [Rebased solana-program doc pr](https://github.com/solana-labs/solana/pull/28770#issuecomment-1309305997)
+- 1:04 PM
+- Hacked on move-native
+- 2:42 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 4:02 PM
+- Hacked on move-native
+- 5:30 PM
+- Clock out (Solana)
+
 # 2022-11-08
 
 - Clock in (Solana)
