@@ -16,7 +16,8 @@ _This contains much of my open source activity since 2015._
 - 3:39 PM
 - Implemented vec serialization for move-native
 - Wrote more docs for move-native
-- 4:40 PM
+- Implemented some vector native calls
+- 5:02 PM
 - Clock out (Solana)
 
 # 2022-11-11
