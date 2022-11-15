@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-11-14
+
+- Clock in (Solana)
+- 2:01 PM
+- Wrote vector natives for move-llvm
+- Wrote tydesc reference cases for move-native
+- 5:46 PM
+- Clock out (Solana)
+
 # 2022-11-12
 
 - Clock in (Solana)
