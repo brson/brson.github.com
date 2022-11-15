@@ -13,6 +13,13 @@ _This contains much of my open source activity since 2015._
 - Wrote tydesc reference cases for move-native
 - 5:46 PM
 - Clock out (Solana)
+- [Commented on wasm-opt build size issue](https://github.com/brson/wasm-opt-rs/issues/115#issuecomment-1314633466)
+- 6:30 PM
+- Clock in (Solana)
+- 6:45 PM
+- Hacked on move-native
+- 7:11 PM
+- Clock out (Solana)
 
 # 2022-11-12
 
