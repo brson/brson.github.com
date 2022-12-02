@@ -5,6 +5,168 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-01
+
+- Clock in (Stellar)
+- 12:32 PM
+- Documented goals and resources for soroban fuzzing
+- Installed docker desktop for windows
+- Investigated how to regenerate rs-stellar-xdr
+- 2:00 PM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 3:51 PM
+- Wrote hello_world fuzz test with ScSymbol
+- 5:31 PM
+- Reported my progress to graydon
+- 5:40 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 5:38 PM
+- Debugged vector test cases in move-native
+- 6:08 PM
+- Clock out (Solana)
+
+# 2022-11-30
+
+- Clock in (Solana)
+- 10:48 AM
+- Hacked on solana-sdk docs
+- 11:20 AM
+- Clock out (Solana)
+- Clock in (Solana)
+- 11:58 AM
+- Implemented type_name::get native function
+- Tested move-native under miri
+- 1:13 PM
+- Clock out (Solana)
+
+# 2022-11-28
+
+- [Commented on wasm-opt maintenence grant](https://github.com/w3f/Grants-Program/pull/1305#issuecomment-1329911940)
+- 4:21 PM
+- [Filed issue about the wasm-opt-rs CI matrix](https://github.com/brson/wasm-opt-rs/issues/118)
+- 4:48 PM
+- [Commented on wasm-opt cargo clean bug](https://github.com/brson/wasm-opt-rs/issues/116#issuecomment-1329934961)
+- 4:53 PM
+- Clock in (Stellar)
+- 5:10 PM
+- Chatted w/ graydon about xdr
+- 5:34 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 5:34 PM
+- Debugged move-native tests
+- 5:58 PM
+- Clock out (Solana)
+
+# 2022-11-27
+
+- [Commeted on dada and 'let'](https://github.com/dada-lang/dada/issues/217#issuecomment-1328349860)
+- 2:02 PM
+- [Attempted to rebase dada parallel testing branch](https://github.com/dada-lang/dada/issues/9#issuecomment-1328351199)
+- 2:07 PM
+- Clock in (Solana)
+- 2:43 PM
+- Hacked on move test cases
+- 3:02 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 3:02 PM
+- Studied soroban examples
+- Made notes about types needing arbitrary impls
+- 4:51 PM
+- Chatted w/ graydon
+- 5:01 PM
+- Clock out (Stellar)
+
+# 2022-11-26
+
+- Clock in (Solana)
+- 12:40 PM
+- Fixed bugs in move-native
+- 2:24 PM
+- Clock out (Solana)
+
+# 2022-11-25
+
+- Clock in (Solana)
+- 10:09 AM
+- Implemented more vector-of-struct move-native calls
+- 1:13 PM
+- Clock out (Solana)
+
+# 2022-11-24
+
+- Clock in (Solana)
+- 10:05 AM
+- Hacked on struct interpreters for move-native
+- 1:12 PM
+- Clock out (Solana)
+- [Commented on failure to delete wasm-opt output](https://github.com/brson/wasm-opt-rs/issues/116#issuecomment-1326891815)
+- 3:32 PM
+- [Commented on wasm-opt build script cleanup](https://github.com/brson/wasm-opt-rs/issues/115#issuecomment-1326901929)
+- 4:07 PM
+- [Filed wasm-opt-rs maintenance grant](https://github.com/w3f/Grants-Program/pull/1305)
+- 4:47 PM
+- Clock in (Solana)
+- 4:50 PM
+- Reworked test cases for move-native
+- 5:42 PM
+- Clock out (Solana)
+
+# 2022-11-22
+
+- Clock in (Solana)
+- 5:31 PM
+- Rebased move-native branch onto aditya's llvm-sys branch
+- 5:36 PM
+- Hacked on struct interpretation in move-native
+- 6:48 PM
+- Clock out (Solana)
+
+# 2022-11-21
+
+- Clock in (Stellar)
+- 2:10 PM
+- Implement Arbitrary for Symbol
+- 3:30 PM
+- Clock out (Stellar)
+
+# 2022-11-20
+
+- Clock in (Stellar)
+- 1:42 PM
+- Learned how to test soroban examples
+- 2:56 PM
+- Clock out (Stellar)
+
+# 2022-11-19
+
+- [Commented on nervos realtps issue](https://github.com/Aimeedeer/realtps/issues/28#issuecomment-1320965256)
+- 12:42 PM
+- [Thanked dnlmlr for publishing new cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all/issues/2#issuecomment-1320965326)
+- 12:43 PM
+- Clock in (Stellar)
+- 2:32 PM
+- Learned how to build soroban repos
+- 3:31 PM
+- Clock out (Stellar)
+
+# 2022-11-17
+
+- Clock in (ink)
+- 2:39 PM
+- Experimented with debloating parity-scale-codec
+- Reported on parity-scale-codec experiments
+- 5:03 PM
+- Clock out (ink)
+
+# 2022-11-15
+
+- [Deployed realtps ICP removal](https://github.com/Aimeedeer/realtps/pull/70)
+- 1:13 PM
+
 # 2022-11-14
 
 - Clock in (Solana)
