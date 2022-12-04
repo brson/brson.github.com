@@ -5,6 +5,24 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-04
+
+- Clock in (wasm-opt)
+- 12:30 PM
+- Hacked on binaryen upgrade
+- 1:29 PM
+- Clock out (wasm-opt)
+- Clock in (Stellar)
+- 1:30 PM
+- [Updated crate-git-revision pr](https://github.com/stellar/crate-git-revision/pull/9)
+- 2:52 PM
+- Clock out (Stellar)
+- Clock in (wasm-opt)
+- 2:53 PM
+- Hacked on binaryen upgrade
+- 3:37 PM
+- Clock out (wasm-opt)
+
 # 2022-12-03
 
 - Clock in (wasm-opt)
