@@ -5,6 +5,31 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-03
+
+- Clock in (wasm-opt)
+- 12:28 PM
+- Hacked on binaryen upgrade
+- 1:28 PM
+- Clock out (wasm-opt)
+- Clock in (Stellar)
+- 1:29 PM
+- [Submitted patch to crate-git-revision](https://github.com/stellar/crate-git-revision/pull/8)
+- 2:50 PM
+- [Reworked crate-git-revision patch](https://github.com/stellar/crate-git-revision/pull/8#issuecomment-1336282644)
+- 4:07 PM
+- Clock out (Stellar)
+
+# 2022-12-02
+
+- Clock in (Solana)
+- 5:32 PM
+- [Submitted solana-sdk doc pr](https://github.com/solana-labs/solana/pull/29063)
+- 5:45 PM
+- Upgraded move muild to llvm 15
+- 6:08 PM
+- Clock out (Solana)
+
 # 2022-12-01
 
 - Clock in (Stellar)
