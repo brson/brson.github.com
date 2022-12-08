@@ -5,6 +5,81 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-08
+
+- Clock in (wasm-opt)
+- 11:22 AM
+- [Attempted to fix CI matrix](https://github.com/brson/wasm-opt-rs/issues/118)
+- 12:39 PM
+- [Made changes to the v111 upgrade PR](https://github.com/brson/wasm-opt-rs/pull/119#issuecomment-1343423705)
+- 2:05 PM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 3:10 PM
+- [Merged CI fixes](https://github.com/brson/wasm-opt-rs/pull/125)
+- 3:11 PM
+- [Rebased binaryen upgrade](https://github.com/brson/wasm-opt-rs/pull/119#issuecomment-1343493188)
+- 3:12 PM
+- Chatted with azakai about changes to default features
+- 3:15 PM
+- Clock out (wasm-opt)
+
+# 2022-12-07
+
+- Clock in (wasm-opt)
+- 11:35 AM
+- [Filed issue about removing test code](https://github.com/brson/wasm-opt-rs/issues/121)
+- [Filed issue about binaryen const-correctness](https://github.com/brson/wasm-opt-rs/issues/122)
+- [Reviewed string moving patch](https://github.com/brson/wasm-opt-rs/pull/120)
+- 11:54 AM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 3:21 PM
+- Made fixes to string-handling shims
+- 3:36 PM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 4:14 PM
+- [Merged string handling fixes](https://github.com/brson/wasm-opt-rs/pull/120)
+- 4:34 PM
+- Clock out (wasm-opt)
+- Clock in (rib)
+- 4:35
+- Wrote security updates for rib
+- [Filed mir issue to rib](https://github.com/rust-in-blockchain/rust-in-blockchain/issues/168)
+- 6:24 PM
+- Clock out (rib)
+- Clock in (rib)
+- 8:32 PM
+
+# 2022-12-06
+
+- Clock in (Solana)
+- 3:43 PM
+- [Rebased Move compiler test harness](https://github.com/solana-labs/move/pull/12)
+- 3:59 PM
+- Clock out (Solana)
+
+# 2022-12-05
+
+- Clock in (Stellar)
+- 2:26 PM
+- [Upgraded crate-git-revision in rs-soroban-env](https://github.com/stellar/rs-soroban-env/pull/598)
+- 2:54 PM
+- [Upgraded crate-git-revision in rs-stellar-xdr](https://github.com/stellar/rs-stellar-xdr/pull/213)
+- 2:58 PM
+- [Upgraded crate-git-revision in soroban-tools](https://github.com/stellar/soroban-tools/pull/292)
+- 3:13 PM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 3:33 PM
+- Chatted with Graydon
+- Followed up on soroban-tools pr
+- 3:35 PM
+- [Investigated test failure in soroban-tools pr](https://github.com/stellar/soroban-tools/pull/292#issuecomment-1338376743)
+- 3:51 PM
+- Clock out (Stellar)
+
 # 2022-12-04
 
 - Clock in (wasm-opt)
@@ -44,7 +119,7 @@ _This contains much of my open source activity since 2015._
 - 5:32 PM
 - [Submitted solana-sdk doc pr](https://github.com/solana-labs/solana/pull/29063)
 - 5:45 PM
-- Upgraded move muild to llvm 15
+- Upgraded move build to llvm 15
 - 6:08 PM
 - Clock out (Solana)
 
