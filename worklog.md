@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-09
+
+- Clock in (Stellar)
+- 11:22 AM
+- Learned how to modify xdrgen and rebuild rs-stellar-xdr
+- Investigated fixing the impl of Arbitrary for ScSymbol
+- 1:42 PM
+- Chatted wit Leigh, Graydon, and Giuliano about fuzzing and arbitrary impls
+- 1:56 PM
+- Clock out (Stellar)
+
 # 2022-12-08
 
 - Clock in (wasm-opt)
@@ -23,6 +34,11 @@ _This contains much of my open source activity since 2015._
 - Chatted with azakai about changes to default features
 - 3:15 PM
 - Clock out (wasm-opt)
+- Clock in (Stellar)
+- 4:32 PM
+- Updated soroban-examples arbitrary branch
+- 5:06 PM
+- Clock out (Stellar)
 
 # 2022-12-07
 
