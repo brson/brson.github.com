@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-10
+
+- Clock in (Stellar)
+- 2:39 PM
+- [Merged rs-stellar-xdr build improvements](https://github.com/stellar/rs-stellar-xdr/pull/221)
+- 2:41 PM
+- Hacked on patterns for arbitrary impls of objects
+- 5:55 PM
+- Clock out (Stellar)
+
 # 2022-12-09
 
 - Clock in (Stellar)
@@ -13,7 +23,9 @@ _This contains much of my open source activity since 2015._
 - Investigated fixing the impl of Arbitrary for ScSymbol
 - 1:42 PM
 - Chatted wit Leigh, Graydon, and Giuliano about fuzzing and arbitrary impls
-- 1:56 PM
+- 2:03 PM
+- [Submitted pr to rs-stellar-xdr makefile](https://github.com/stellar/rs-stellar-xdr/pull/221)
+- 2:25 PM
 - Clock out (Stellar)
 
 # 2022-12-08
