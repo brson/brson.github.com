@@ -5,6 +5,30 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-13
+
+- Clock in (Stellar)
+- 1:01 PM
+- Implemented Arbitrary for BytesN
+- Introduced SorobanArbitrary trait
+- Drafted a pattern for deriving SorobanArbitrary, etc.
+- Chatted w/ graydon
+- 4:30 PM
+- Clock out (Stellar)
+
+# 2022-12-12
+
+- Clock in (wasm-opt)
+- 3:46 PM
+- Began hacking on wide char support in binaryen
+- 4:11 PM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 5:16 PM
+- Hacked on wide char support in binaryen
+- 5:44 PM
+- Clock out (wasm-opt)
+
 # 2022-12-10
 
 - Clock in (Stellar)
