@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-16
+
+- Clock in (Stellar)
+- 11:55 PM
+- Implemented Arbitrary for AccountId
+- 12:26 PM
+- Chatted with tomer
+- 12:47 PM
+- Squashed arbitrary branches
+- 12:54 PM
+- Clock out (Stellar)
+
 # 2022-12-15
 
 - Clock in (Stellar)
