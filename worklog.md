@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-15
+
+- Clock in (Stellar)
+- 1:37 PM
+- Implemented arbitrary for maps
+- Implemented arbitrary derive for user datatypes
+- 3:42 PM
+- Sent tomer a status update
+- 3:52 PM
+- Reviewed the proptest-arbitrary-interop and fuzzcheck crates
+- 4:15 PM
+- Clock out (Stellar)
+
 # 2022-12-13
 
 - Clock in (Stellar)
