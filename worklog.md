@@ -8,7 +8,7 @@ _This contains much of my open source activity since 2015._
 # 2022-12-16
 
 - Clock in (Stellar)
-- 11:55 PM
+- 11:55 AM
 - Implemented Arbitrary for AccountId
 - 12:26 PM
 - Chatted with tomer
