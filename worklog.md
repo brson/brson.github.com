@@ -5,6 +5,38 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-19
+
+- Clock in (Stellar)
+- 1:29 PM
+- Implemented Arbitrary for BitSet, Static, Status, Address
+- 3:09 PM
+- Clock out (Stellar)
+
+# 2022-12-18
+
+- Clock in (Stellar)
+- 3:15 PM
+- Sent status update
+- 3:36 PM
+- Investigated fuzzing the built-in token contract
+- 3:59 PM
+- Clock out (Stellar)
+
+# 2022-12-17
+
+- Clock in (Solana)
+- 2:09 PM
+- [Reworked solana-sdk docs pr](https://github.com/solana-labs/solana/pull/29063#issuecomment-1356491127)
+- 2:42 PM
+- [Made improvements to move ir-tests](https://github.com/solana-labs/move/pull/15)
+- 4:03 PM
+- [Cleaned up error handling in move-mv-llvm-compiler](https://github.com/solana-labs/move/pull/16)
+- 4:24 PM
+- [Cleaned up bitcode writing in move-mv-llvm-compiler](https://github.com/solana-labs/move/pull/17)
+- 5:37 PM
+- Clock out (Solana)
+
 # 2022-12-16
 
 - Clock in (Stellar)
