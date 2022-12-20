@@ -5,12 +5,22 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-20
+
+- Hacked on music-grammar
+- 2:25 AM
+
 # 2022-12-19
 
 - Clock in (Stellar)
 - 1:29 PM
 - Implemented Arbitrary for BitSet, Static, Status, Address
 - 3:15 PM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 8:34 PM
+- [Fixed contractimpl for empty contracts](https://github.com/stellar/rs-soroban-sdk/pull/811)
+- 9:28 PM
 - Clock out (Stellar)
 
 # 2022-12-18
