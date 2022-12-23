@@ -5,6 +5,21 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-23
+
+- Clock in (wasm-opt)
+- 9:37 AM
+- Reworked feature API
+- 10:29 AM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- 10:48 AM
+- [Fixed wasm-opt feature selection](https://github.com/brson/wasm-opt-rs/pull/126)
+- [Removed wasm_opt_sys::init](https://github.com/brson/wasm-opt-rs/pull/127)
+- [Closed featureset doc issue](https://github.com/brson/wasm-opt-rs/issues/124)
+- 11:56 AM
+- Clock out (wasm-opt)
+
 # 2022-12-21
 
 - Clock in (Stellar)
