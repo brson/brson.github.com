@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-21
+
+- Clock in (Stellar)
+- 3:09 PM
+- Reviewed implementation of `contractimport!`
+- 3:40 PM
+- Investigated how `contractimport!`, `cargo check`, and build profiles interact
+- 4:27 PM
+- Clock out (Stellar)
+- Hacked on soroban-uniswap
+- 5:26 PM
+
 # 2022-12-20
 
 - Hacked on music-grammar
