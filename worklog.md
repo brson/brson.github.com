@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-24
+
+- Clock in (Stellar)
+- 10:39 AM
+- Rebased arbitrary patches
+- 11:24 AM
+- Clock out (Stellar)
+
 # 2022-12-23
 
 - Clock in (wasm-opt)
