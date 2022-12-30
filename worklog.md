@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - [Submitted fix for overriding panic hook](https://github.com/stellar/rs-soroban-env/pull/620)
 - 12:21 PM
 - Clock out (Stellar)
+- Clock in (Solana)
+- 5:18 PM
+- Researched client crate organization
+- 5:32 PM
+- Clock out (Solana)
 
 # 2022-12-28
 
