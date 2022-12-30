@@ -5,6 +5,32 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-29
+
+- Clock in (Stellar)
+- 11:41 AM
+- [Submitted fix for overriding panic hook](https://github.com/stellar/rs-soroban-env/pull/620)
+- 12:21 PM
+- Clock out (Stellar)
+
+# 2022-12-28
+
+- Clock in (Stellar)
+- 4:01 PM
+- Hacked on tests for arbitrary impls
+- 4:47 PM
+- Fixed handling of panic hook during cross-contract testing
+- 6:58 PM
+- Clock out (Stellar)
+
+# 2022-12-27
+
+- Clock in (Stellar)
+- 10:59 AM
+- Outlined tests for soroban-sdk arbitrary impls
+- 11:26 AM
+- Clock out (Stellar)
+
 # 2022-12-24
 
 - Clock in (Stellar)
