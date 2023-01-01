@@ -13,6 +13,9 @@ _This contains much of my open source activity since 2015._
 - Wrote up fuzzing rfc
 - 1:34 PM
 - Clock out (Stellar)
+- Submitted w3f invoice
+- [Submitted wasm-opt December 2022 delivery](https://github.com/w3f/Grant-Milestone-Delivery/pull/672)
+- 2:23 PM
 
 # 2022-12-31
 
