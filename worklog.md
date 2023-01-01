@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-01
+
+- Wrote invoices
+- Clock in (Stellar)
+- 12:35 PM
+- Wrote up fuzzing rfc
+- 1:34 PM
+- Clock out (Stellar)
+
 # 2022-12-31
 
 - Clock in (wasm-opt)
