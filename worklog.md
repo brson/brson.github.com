@@ -5,6 +5,25 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2022-12-31
+
+- Clock in (wasm-opt)
+- 2:13 PM
+- Tested new build with cargo-contract
+- [Bumped version to 0.111.0](https://github.com/brson/wasm-opt-rs/pull/128)
+- 3:48 PM
+- Released wasm-opt v0.111.0
+- 4:20 PM
+- [Upgraded cargo-contract to wasm-opt 0.111.0](https://github.com/paritytech/cargo-contract/pull/888)
+- 4:43 PM
+- [Upgraded wasm-builder to wasm-opt 0.111.0](https://github.com/paritytech/substrate/pull/13038)
+- 5:33 PM
+- Clock out (wasm-opt)
+- [Upgraded soroban-tools to wasm-opt 0.111.0](https://github.com/stellar/soroban-tools/pull/331)
+- 5:34 PM
+- Hacked on soroban-uniswap ui
+- 5:34
+
 # 2022-12-29
 
 - Clock in (Stellar)
