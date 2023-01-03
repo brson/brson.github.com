@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-03
+
+- Clock in (Stellar)
+- 1:59 PM
+- Merged arbitrary test cases
+- Renamed SorobanArbitraryInto to SorobanArbitraryPrototype
+- 2:08 PM
+- Clock out (Stellar)
+
 # 2023-01-01
 
 - Wrote invoices
