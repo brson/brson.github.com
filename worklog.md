@@ -5,6 +5,31 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-05
+
+- Clock in (Solana)
+- 10:53 AM
+- [Fixed doc warnings](https://github.com/solana-labs/solana/pull/29537)
+- 11:10 AM
+- Clock out (Solana)
+- Clock in (wasm-opt)
+- 11:11 AM
+- [Commented on mvp_features_only for cargo-contract](https://github.com/paritytech/cargo-contract/pull/888#issuecomment-1372570110)
+- 11:17 AM
+- [Commented on binaryen default features](https://github.com/paritytech/cargo-contract/pull/891#issuecomment-1372584997)
+- [Commented about mvp_features_only in substrate](https://github.com/paritytech/cargo-contract/pull/891)
+- 11:36 AM
+- [Filed issue to document mvp_features_only better](https://github.com/brson/wasm-opt-rs/issues/129)
+- 11:37 AM
+- Clock out (wasm-opt)
+- Clock in (Stellar)
+- 11:38 AM
+- [Disabled optional features in wasm-opt](https://github.com/stellar/soroban-tools/pull/335)
+- 12:18 PM
+- [Updated panic-hook patch](https://github.com/stellar/rs-soroban-env/pull/620#issuecomment-1372632321)
+- 12:20 PM
+- Clock out (Stellar)
+
 # 2023-01-04
 
 - Clock in (Stellar)
@@ -12,6 +37,13 @@ _This contains much of my open source activity since 2015._
 - Hacked on fuzzing rfc
 - 10:16 AM
 - Clock out (Stellar)
+- Clock in (Stellar)
+- 12:07 PM
+- Hacked on fuzzing rfc
+- 12:27 PM
+- Clock out (Stellar)
+- [Merged rib bitcoin pr](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/170)
+- 7:14 PM
 
 # 2023-01-03
 
