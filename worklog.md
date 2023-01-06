@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-06
+
+- Clock in (Solana)
+- 12:45 PM
+- Debugged LLVM linking failure
+- 12:50 PM
+- [Requested review on move cleanup pr](https://github.com/solana-labs/move/pull/17)
+- 12:52 PM
+- Hacked on solana-client docs
+- 1:25 PM
+- Clock out (Solana)
+
 # 2023-01-05
 
 - Clock in (Solana)
