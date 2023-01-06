@@ -16,6 +16,13 @@ _This contains much of my open source activity since 2015._
 - Hacked on solana-client docs
 - 1:25 PM
 - Clock out (Solana)
+- Clock in (Solana)
+- 4:08 PM
+- Chatted w/ tyera about client apis
+- 4:16 PM
+- Wrote solana-client docs
+- 4:45 PM
+- Clock out (Solana)
 
 # 2023-01-05
 
