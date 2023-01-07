@@ -22,6 +22,12 @@ _This contains much of my open source activity since 2015._
 - 4:16 PM
 - Wrote solana-client docs
 - 4:45 PM
+- Switch LLVM branches to solana-rustc/15.0-2022-08-09
+- 4:55 PM
+- Chatted with aditya about rbpf move testing
+- 5:16 PM
+- Outlined an rbpf test harness based on ir-tests
+- 5:25 PM
 - Clock out (Solana)
 
 # 2023-01-05
