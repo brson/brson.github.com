@@ -5,6 +5,28 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-08
+
+- Clock in (Stellar)
+- 3:53 PM
+- [Posted fuzzing rfc](https://discord.com/channels/897514728459468821/1061786522564710451/1061786522564710451)
+- 4:23 PM
+
+# 2023-01-07
+
+- Clock in (Solana)
+- 10:39 AM
+- Debugged broken llvm build
+- 10:51 AM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 10:52 AM
+- Wrote more soroban fuzzing rfc docs
+- 11:37 AM
+- Rebased arbitrary branches
+- 12:33 PM
+- Clock out (Stellar)
+
 # 2023-01-06
 
 - Clock in (Solana)
