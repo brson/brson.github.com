@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-09
+
+- Clock in (Solana)
+- 2:35 PM
+- [Rebased move-mv-llvm-compiler cleanup](https://github.com/solana-labs/move/pull/17)
+- [Merged move-mv-llvm-compiler cleanup](https://github.com/solana-labs/move/pull/17)
+- 2:40 PM
+- [Closed on move ir-tests issue](https://github.com/solana-labs/move/issues/9#issuecomment-1376394855)
+- 3:08 PM
+- Learned how to compile .move to .mvir
+- 4:01 PM
+- Clock out (Solana)
+
 # 2023-01-08
 
 - Clock in (Stellar)
@@ -13,6 +26,17 @@ _This contains much of my open source activity since 2015._
 - 4:23 PM
 - Sent fuzzing status update
 - 4:29 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 4:36 PM
+- Hacked on client docs
+- 4:42 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 4:43 PM
+- Wrote more arbitrary tests
+- Fixed arbitrary derivition for `#[contracttype]`
+- 5:46 PM
 - Clock out (Stellar)
 
 # 2023-01-07
