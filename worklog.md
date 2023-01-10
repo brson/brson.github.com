@@ -15,6 +15,11 @@ _This contains much of my open source activity since 2015._
 - Hacked on move-ir-tests
 - 12:53 PM
 - Clock out (Solana)
+- Clock in (Solana)
+- 1:29 PM
+- [Posted pr for move-ir-tests](https://github.com/solana-labs/move/pull/18)
+- 1:58 PM
+- Clock out (Solana)
 
 # 2023-01-09
 
