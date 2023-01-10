@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-10
+
+- Clock in (Solana)
+- 10:58 AM
+- Chatted with a sui dev about move ir
+- Chatted with aditya about testing
+- 11:23 AM
+- Hacked on move-ir-tests
+- 12:53 PM
+- Clock out (Solana)
+
 # 2023-01-09
 
 - Clock in (Solana)
