@@ -5,6 +5,24 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-11
+
+- Clock in (Stellar)
+- 3:10 PM
+- Reviewed fuzzing of example timelock contract
+- 3:37 PM
+- Reviewed feedback from fuzzing rfc
+- 4:07 PM
+- Chatted with graydon about fuzzing
+- 4:33 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 4:34 PM
+- [Reviewed resources for move bytecode compilers](https://github.com/move-language/move/issues/817)
+- Wrote test for move script compilation
+- 5:22 PM
+- Clock out (Solana)
+
 # 2023-01-10
 
 - Clock in (Solana)
