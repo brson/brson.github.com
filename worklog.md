@@ -12,6 +12,14 @@ _This contains much of my open source activity since 2015._
 - Chatted w/ aditya about move bytecode
 - 11:22 AM
 - Clock out (Solana)
+- Clock in (Stellar)
+- 2:27 PM
+- Fixed build of soroban-auth for arbitrary feature
+- 3:09 PM
+- Implemented SorobanArbitrary for 64-bit and 128-bit ints
+- Implemented SorobanArbitrary for RawVal
+- 4:49 PM
+- Clock out (Stellar)
 
 # 2023-01-12
 
