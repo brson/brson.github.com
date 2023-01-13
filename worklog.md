@@ -5,6 +5,30 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-13
+
+- Clock in (Solana)
+- 10:57 AM
+- Chatted w/ aditya about move bytecode
+- 11:22 AM
+- Clock out (Solana)
+
+# 2023-01-12
+
+- Clock in (Solana)
+- 3:06 PM
+- Rebased doc-client branch
+- 3:13 PM
+- Wrote more solana-client docs
+- 3:33 PM
+- Researched the move stackless bytecode and move model
+- 4:04 PM
+- Wrote more solana-client-docs
+- 4:07 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 4:30 PM
+
 # 2023-01-11
 
 - Clock in (Stellar)
