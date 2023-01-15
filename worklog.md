@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-14
+
+- Clock in (Stellar)
+- 12:48 PM
+- Hacked on arbitrary derives for tuple structs, enums
+- 2:47 PM
+- Hacked on arbitrary derives for different visibilities
+- 4:28 PM
+- Hacked on arbitrary derives for enums
+- 5:05 PM
+- Clock out (Stellar)
+
 # 2023-01-13
 
 - Clock in (Solana)
@@ -34,8 +46,6 @@ _This contains much of my open source activity since 2015._
 - Wrote more solana-client-docs
 - 4:07 PM
 - Clock out (Solana)
-- Clock in (Stellar)
-- 4:30 PM
 
 # 2023-01-11
 
