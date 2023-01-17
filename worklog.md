@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-16
+
+- Clock in (Solana)
+- 1:36 PM
+- [Rebased move-ir-tests pr](https://github.com/solana-labs/move/pull/18#issuecomment-1384542938)
+- 1:59 PM
+- [Fixed build warnings in move-vm-llvm-compiler](https://github.com/solana-labs/move/pull/19)
+- 2:40 PM
+- Hacked on translating move stackless bytecode
+- 5:53 PM
+- Clock out (solana)
+
 # 2023-01-14
 
 - Clock in (Stellar)
