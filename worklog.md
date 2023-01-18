@@ -5,6 +5,34 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-17
+
+- Clock in (Solana)
+- 1:01 PM
+- Hacked on move ops and return statements
+- Hacked on running the llvm verifier
+- 3:50 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 5:45 PM
+- Reviewed move control flow graph
+- Chatted with aditya about move cfg
+- 6:10 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 7:46 PM
+- Got the llvm verifier running
+- 8:24 PM
+- [Merged warning pr](https://github.com/solana-labs/move/pull/19)
+- 8:25 PM
+- [Merged move-ir-tests pr](https://github.com/solana-labs/move/pull/18)
+- 8:25 PM
+- [Closed move test harness issue](https://github.com/solana-labs/move/issues/14)
+- 8:31 PM
+- [Added verification to llvm compiler](https://github.com/solana-labs/move/pull/20)
+- 8:44 PM
+- Clock out (Solana)
+
 # 2023-01-16
 
 - Clock in (Solana)
