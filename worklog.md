@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-18
+
+- Clock in (Solana)
+- 12:19 PM
+- Implemented move arguments, assignment, addition
+- 1:40 PM
+- Implemented move branching
+- 3:13 PM
+- Added move_rt_abort to move-native
+- Hacked on move abort instruction
+- 4:22 PM
+- Clock out (Solana)
+
 # 2023-01-17
 
 - Clock in (Solana)
