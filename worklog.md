@@ -22,6 +22,12 @@ _This contains much of my open source activity since 2015._
 - Fixed build breakage in soroban-sdk
 - 4:50 PM
 - Clock out (Stellar)
+- Clock in (Solana)
+- 5:26 PM
+- Added support for llvm function attributes
+- Added codegen for move abort expression
+- 6:23 PM
+- Clock out (Solana)
 
 # 2023-01-17
 
