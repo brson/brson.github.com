@@ -15,8 +15,13 @@ _This contains much of my open source activity since 2015._
 - Clock in (Solana)
 - 10:53 AM
 - Hacked on stackless move translation
-- 12:36 PM
-- Clock out (Solana)
+- [Commented on llvm verify pr](https://github.com/solana-labs/move/pull/20#issuecomment-1397541452)
+- Chatted with aditya
+- 1:13 PM
+- Read about llvm mem2reg
+- Made minor tweaks to stackless move translation
+- 2:03 PM
+- Clock out
 
 # 2023-01-18
 
