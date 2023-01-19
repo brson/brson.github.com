@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-19
+
+- Clock in (Solana)
+- 12:00 AM
+- Hacked on stackless move translation
+- 12:17 AM
+- Clock out (Solana)
+
 # 2023-01-18
 
 - Clock in (Solana)
@@ -27,6 +35,11 @@ _This contains much of my open source activity since 2015._
 - Added support for llvm function attributes
 - Added codegen for move abort expression
 - 6:23 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 8:50 PM
+- Hacked on stackless move translation
+- 11:59 PM
 - Clock out (Solana)
 
 # 2023-01-17
