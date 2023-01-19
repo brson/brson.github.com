@@ -17,6 +17,11 @@ _This contains much of my open source activity since 2015._
 - Hacked on move abort instruction
 - 4:22 PM
 - Clock out (Solana)
+- Clock in (Stellar)
+- 4:45 PM
+- Fixed build breakage in soroban-sdk
+- 4:50 PM
+- Clock out (Stellar)
 
 # 2023-01-17
 
