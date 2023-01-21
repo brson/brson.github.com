@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-20
+
+- Clock in (Solana)
+- 1:59 PM
+- Read llvm tutorials and referenc
+- 2:59 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 5:38 PM
+- Haced on arbitrary derive for enums
+- 6:53 PM
+- Clock out (Stellar)
+
 # 2023-01-19
 
 - Clock in (Solana)
@@ -22,6 +35,8 @@ _This contains much of my open source activity since 2015._
 - Made minor tweaks to stackless move translation
 - 2:03 PM
 - Clock out
+- [Responded to hedera issues](https://github.com/Aimeedeer/realtps/issues/78#issuecomment-1397710374)
+- 3:47 PM
 
 # 2023-01-18
 
