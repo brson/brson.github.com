@@ -5,6 +5,21 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-21
+
+- Clock in (Stellar)
+- 12:15 PM
+- Chatted with Leigh about contracttype
+- 12:24 PM
+- [Posted pr to improve error messages for UDTs](https://github.com/stellar/rs-soroban-sdk/pull/836)
+- 1:17 PM
+- Chatted with Leigh about contracttype
+- 1:37 PM
+- [Added another error case to contracttype enum derives](https://github.com/stellar/rs-soroban-sdk/pull/836#issuecomment-1399338583)
+- Implemented arbitrary derive for c-like enums
+- 3:18 PM
+- Clock out (Stellar)
+
 # 2023-01-20
 
 - Clock in (Solana)
@@ -20,7 +35,7 @@ _This contains much of my open source activity since 2015._
 - Clock in (Stellar)
 - 7:47 PM
 - Investigated contractimpl derivation
-- Chatted with Leigh about contractimpl for struct-like enum variants
+- Chatted with Leigh about contracttype for struct-like enum variants
 - 8:07 PM
 - Clock out (Stellar)
 
