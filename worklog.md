@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-22
+
+- Clock in (Stellar)
+- 12:11 PM
+- [Read graydon's pr changing conversion functions](https://github.com/stellar/rs-soroban-env/pull/628)
+- Rebased arbitrary branches and updated for IntoVal changes
+- Considered changes to SorobanArbitrary based on IntoVal changes
+- 2:53 PM
+- Clock out (Stellar)
+
 # 2023-01-21
 
 - Clock in (Stellar)
