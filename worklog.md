@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-23
+
+- Clock in (wasm-opt)
+- 3:18 PM
+- [Reviewed substrate-wasm-builder's use of wasm-opt for mvp-feature compatibility](https://github.com/paritytech/substrate/pull/13038#issuecomment-1401099357)
+- 3:33 PM
+- [Documented wasm-opt features and resetting to mvp features](https://github.com/brson/wasm-opt-rs/pull/130)
+- 3:51 PM
+- [Filed bug about incorrect wasm-opt --version output](https://github.com/brson/wasm-opt-rs/issues/131)
+- 4:07 PM
+- Hacked on binaryen unicode support
+- 6:26 PM
+- Clock out (wasm-opt)
+
 # 2023-01-22
 
 - Clock in (Stellar)
