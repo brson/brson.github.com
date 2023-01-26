@@ -5,6 +5,30 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-25
+
+- Clock in (wasm-opt)
+- 3:10 PM
+- [Updated wasm-opt unicode bug](https://github.com/brson/wasm-opt-rs/issues/40#issuecomment-1404309106)
+- [Updated binaryen unicode issue](https://github.com/WebAssembly/binaryen/issues/4995#issuecomment-1404314882)
+- 3:39 PM
+- Clock out (wasm-opt)
+- Clock in (Stellar)
+- 3:50 PM
+- Hacked on UDT enum derivation
+- 5:47 PM
+- Clock out (Stellar)
+
+# 2023-01-24
+
+- Clock in (wasm-opt)
+- 1:17 PM
+- [Followed up on substrate wasm-opt 111 pr](https://github.com/paritytech/substrate/pull/13038)
+- 1:19 PM
+- Hacked on binaryen unicode support
+- 6:25 PM
+- Clock out (wasm-opt)
+
 # 2023-01-23
 
 - Clock in (wasm-opt)
