@@ -5,6 +5,45 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-26
+
+- Clock in (Solana)
+- 12:29 PM
+- [Reworked llvm verifier pr](https://github.com/solana-labs/move/pull/20#issuecomment-1405589676)
+- 1:09 PM
+- Hacked on rbpf test harness
+- 2:45 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- Fixed build errors in soroban-examples
+- Investigated exports of Static/BitSet etc
+- 3:09 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 4:00 PM
+- Hacked on move rbpf test harness
+- 5:28 PM
+- Clock out (Solana)
+- Clock in (wasm-opt)
+- 5:28 PM
+- [Merged pr to fix wasm-opt build badges](https://github.com/brson/wasm-opt-rs/pull/134)
+- 5:30 PM
+- [Closed wasm-opt build badge issue](https://github.com/brson/wasm-opt-rs/issues/132)
+- 5:31 PM
+- [Filed issue about missing fmt check in CI](https://github.com/brson/wasm-opt-rs/issues/135)
+- 5:36 PM
+- [Merged wasm-opt version flag fix](https://github.com/brson/wasm-opt-rs/pull/133)
+- 5:37 PM
+- [Closed wasm-opt version flag issue](https://github.com/brson/wasm-opt-rs/issues/131)
+- 6:38 PM
+- Clock out (wasm-opt)
+- Clock in (Solana)
+- 8:28 PM
+- Hacked on move-mv-llvm-compiler object file writing
+- Hacked on move-mv-llvm-compiler linking
+- 10:37 PM
+- Clock out (Solana)
+
 # 2023-01-25
 
 - Clock in (wasm-opt)
