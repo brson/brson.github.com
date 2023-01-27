@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-27
+
+- Clock in (Stellar)
+- 1:22 PM
+- Hacked on udt enums
+- 2:12 PM
+- Clock out (Stellar)
+
 # 2023-01-26
 
 - Clock in (Solana)
