@@ -5,6 +5,33 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-29
+
+- Clock in (Solana)
+- 12:00 AM
+- Posted status report to #move-proj
+- 12:13 AM
+- Clock out (Solana)
+
+# 2023-01-28
+
+- Clock in (Stellar)
+- 12:06 PM
+- [Commented on the `_` symbol bug](https://github.com/stellar/rs-soroban-sdk/issues/843#issuecomment-1407466584)
+- 12:12 PM
+- Hacked on udt enums
+- 1:59 PM
+- [Commented on the `_` symbol](https://github.com/stellar/rs-soroban-sdk/issues/843#issuecomment-1407488439)
+- 2:08 PM
+- Clock out (Stellar)
+- Hacked on la1 parser
+- 10:06 PM
+- Clock in (Solana)
+- 10:06 PM
+- Hacked on rbpf test harness
+- 11:59 PM
+- Clock out (Solana)
+
 # 2023-01-27
 
 - Clock in (Stellar)
