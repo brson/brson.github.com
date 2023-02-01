@@ -5,6 +5,35 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-01-31
+
+- Clock in (wasm-opt)
+- 1:20 PM
+- Hacked on binaryen unicode paths
+- 2:13 PM
+- Clock out (wasm-opt)
+- Clock in (wasm-opt)
+- Hacked on binaryen unicode paths
+- 5:21 PM
+- Clock out (wasm-opt)
+
+# 2023-01-30
+
+- Clock in (Solana)
+- 10:59 AM
+- Chatted with aditya
+- 11:15 AM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:05 PM
+- [Merged move verification pass pr](https://github.com/solana-labs/move/pull/20)
+- 3:15 PM
+- [Posted pr with stackless bytecode and rbpf test harness](https://github.com/solana-labs/move/pull/24)
+- 4:10 PM
+- Filed some move llvm issues
+- 4:56 PM
+- Clock out (Solana)
+
 # 2023-01-29
 
 - Clock in (Solana)
@@ -68,6 +97,7 @@ _This contains much of my open source activity since 2015._
 - 2:45 PM
 - Clock out (Solana)
 - Clock in (Stellar)
+- 2:46 PM
 - Fixed build errors in soroban-examples
 - Investigated exports of Static/BitSet etc
 - 3:09 PM
@@ -219,7 +249,7 @@ _This contains much of my open source activity since 2015._
 - Read about llvm mem2reg
 - Made minor tweaks to stackless move translation
 - 2:03 PM
-- Clock out
+- Clock out (Solana)
 - [Responded to hedera issues](https://github.com/Aimeedeer/realtps/issues/78#issuecomment-1397710374)
 - 3:47 PM
 
@@ -290,7 +320,7 @@ _This contains much of my open source activity since 2015._
 - 2:40 PM
 - Hacked on translating move stackless bytecode
 - 5:53 PM
-- Clock out (solana)
+- Clock out (Solana)
 
 # 2023-01-14
 
