@@ -5,6 +5,30 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-02
+
+- Hacked on musicsite
+- 2:50 PM
+- Clock in (Stellar)
+- 2:51 PM
+- Hacked on soroban UDTS
+- 4:31 PM
+- [Posted pr to expand soroban UDT enums](https://github.com/stellar/rs-soroban-sdk/pull/850)
+- [Posted pr to add 13-tuple conversions to rs-soroban-env](https://github.com/stellar/rs-soroban-env/pull/658)
+- [Posted pr to add 13-tuple conversions to rs-stellar-xdr](https://github.com/stellar/rs-stellar-xdr/pull/230)
+- 5:05 PM
+- Clock out (Stellar)
+
+# 2023-02-01
+
+- [Merged rib pr](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/171)
+- [Merged rib pr](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/173)
+- 9:46 AM
+- [Closed rib pr](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/174)
+- 10:45 AM
+- [Submitted maintenance report to w3f](https://github.com/w3f/Grant-Milestone-Delivery/pull/723)
+- 12:06 PM
+
 # 2023-01-31
 
 - Clock in (wasm-opt)
@@ -13,9 +37,15 @@ _This contains much of my open source activity since 2015._
 - 2:13 PM
 - Clock out (wasm-opt)
 - Clock in (wasm-opt)
+- 3:15 PM
 - Hacked on binaryen unicode paths
 - 5:21 PM
 - Clock out (wasm-opt)
+- Clock in (Solana)
+- 5:21 PM
+- [Commented on stackless bytecode pr](https://github.com/solana-labs/move/pull/24#discussion_r1092623809)
+- 5:24 PM
+- Clock out (Solana)
 
 # 2023-01-30
 
