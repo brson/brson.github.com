@@ -5,6 +5,28 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-03
+
+- Clock in (Solana)
+- 1:03 PM
+- [Closed rbpf test issue](https://github.com/solana-labs/move/issues/23)
+- [Closed move-ir-tests issue](https://github.com/solana-labs/move/issues/22)
+- [Closed stackless bytecode issue](https://github.com/solana-labs/move/issues/21)
+- 1:05 PM
+- Chatted w/ aditya
+- 1:09 PM
+- [Posted pr to improve move compiler error message](https://github.com/solana-labs/move/pull/30)
+- 1:24 PM
+- [Commented on move ci issue](https://github.com/solana-labs/move/issues/13#issuecomment-1416365382)
+- 1:26 PM
+- [Posted pr to run cargo fmt](https://github.com/solana-labs/move/pull/31)
+- 1:30 PM
+- [Posted pr to fix rbpf tests selection](https://github.com/solana-labs/move/pull/32)
+- 3:46 PM
+- Attempted to get move-native to link and load as bpf
+- 7:02 PM
+- Clock out (Solana)
+
 # 2023-02-02
 
 - Hacked on musicsite
