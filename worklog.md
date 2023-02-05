@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-05
+
+- Clock in (Stellar)
+- 11:27 AM
+- Hacked on upgrading rs-soroban-sdk for union spec changes
+- 12:20 PM
+- [Commented on doc fields in specs](https://github.com/stellar/rs-soroban-sdk/pull/850#issuecomment-1418243465)
+- 12:21 PM
+- [Posted pr fixing negative amounts in soroban-examples token contract](https://github.com/stellar/soroban-examples/pull/202)
+- 1:36 PM
+- Clock out (Stellar)
+
 # 2023-02-03
 
 - Clock in (Solana)
