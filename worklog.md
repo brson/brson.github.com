@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-07
+
+- Clock in (Solana)
+- 11:20 AM
+- Hacked on feeding dependencies to move-mv-llvm-compiler
+- 11:51 AM
+- Clock out (Solana)
+
 # 2023-02-06
 
 - Clock in (Soroban)
