@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-06
+
+- Clock in (Soroban)
+- 2:36 PM
+- Reviewed timelock fuzz cases
+- Planned new timelock fuzz cases
+- Improved fuzz_catch_panic helper
+- 4:58 PM
+- Clock out (Soroban)
+
 # 2023-02-05
 
 - Clock in (Stellar)
@@ -16,6 +26,24 @@ _This contains much of my open source activity since 2015._
 - [Posted pr fixing negative amounts in soroban-examples token contract](https://github.com/stellar/soroban-examples/pull/202)
 - 1:36 PM
 - Clock out (Stellar)
+- Clock in (Solana)
+- 4:49 PM
+- [Commented on stackless bytecode review](https://github.com/solana-labs/move/pull/24#discussion_r1096834536)
+- 5:05 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 5:16 PM
+- Sent status report
+- 5:35 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- [Filed issue to switch to bpf target](https://github.com/solana-labs/move/issues/33)
+- 5:44 PM
+- [Merged cargo fmt pr](https://github.com/solana-labs/move/pull/31)
+- 5:50 PM
+- [Posted pr to switch to bpf target](https://github.com/solana-labs/move/issues/33)
+- 6:17 PM
+- Clock out (Solana)
 
 # 2023-02-03
 
