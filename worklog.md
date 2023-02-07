@@ -12,6 +12,15 @@ _This contains much of my open source activity since 2015._
 - Hacked on feeding dependencies to move-mv-llvm-compiler
 - 11:51 AM
 - Clock out (Solana)
+- Clock in (Solana)
+- 1:16 PM
+- Wrote code to pass dependency information to move-mv-llvm-compiler
+- 2:19 PM
+- Hacked on function calls
+- 3:32 PM
+- [Filed bug to clean up test build directory](https://github.com/solana-labs/move/issues/35)
+- 3:35 PM
+- Clock out (Solana)
 
 # 2023-02-06
 
