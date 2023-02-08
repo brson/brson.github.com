@@ -21,6 +21,13 @@ _This contains much of my open source activity since 2015._
 - [Filed bug to clean up test build directory](https://github.com/solana-labs/move/issues/35)
 - 3:35 PM
 - Clock out (Solana)
+- Clock in (Solana)
+- 9:05 PM
+- [Posted pr to clean up mv files before tests](https://github.com/solana-labs/move/pull/36)
+- 9:17 PM
+- Hacked on function calls
+- 11:10 PM
+- Clock out (Solana)
 
 # 2023-02-06
 
