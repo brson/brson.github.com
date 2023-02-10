@@ -5,6 +5,35 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-10
+
+- Clock in (wasm-opt)
+- 10:48 AM
+- Checked on status of latest delivery
+- 10:51 AM
+- Clock out (wasm-opt)
+- Clock in (Solana)
+- 10:51 AM
+- Reviewed pr comments
+- Chatted with aditya
+- 11:09 AM
+- Clock out (Solana)
+
+# 2023-02-08
+
+- Clock in (Solana)
+- 7:06 PM
+- Hacked on function calls
+- [Merged error message pr](https://github.com/solana-labs/move/pull/30)
+- [Merged rbpf-tests pr](https://github.com/solana-labs/move/pull/32)
+- [Merged test cleanup pr](https://github.com/solana-labs/move/pull/36)
+- [Filed `+solana` issue](https://github.com/solana-labs/move/issues/37)
+- [Merged sbf pr](https://github.com/solana-labs/move/pull/34)
+- 7:31 PM
+- [Filed pr to add function calls](https://github.com/solana-labs/move/pull/38)
+- 7:45 PM
+- Clock out (Solana)
+
 # 2023-02-07
 
 - Clock in (Solana)
