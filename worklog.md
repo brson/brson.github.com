@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-11
+
+- Clock in (Stellar)
+- 5:45 PM
+- [Submitted pr for UDT enum errors](https://github.com/stellar/rs-soroban-sdk/pull/863)
+- 6:20 PM
+- Clock out (Stellar)
+
 # 2023-02-10
 
 - Clock in (wasm-opt)
