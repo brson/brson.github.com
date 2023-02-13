@@ -5,12 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
-# 2023-02-11
+# 2023-02-12
 
 - Clock in (Stellar)
 - 2:05 PM
 - Hacked on converting arbitrary traits to use TryFromVal instead of IntoVal
 - 3:02 PM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 5:40 PM
+- Approved contract extension
+- Sent status report
+- 6:01 PM
 - Clock out (Stellar)
 
 # 2023-02-11
