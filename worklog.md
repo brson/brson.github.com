@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-13
+
+- Clock in (wasm-opt)
+- 11:14 AM
+- Rebased binaryen unicode patch
+- Hacked on test cases for binaryen unicode patch
+- 12:55 PM
+- Clock out (wasm-opt)
+
 # 2023-02-12
 
 - Clock in (Stellar)
@@ -18,6 +27,8 @@ _This contains much of my open source activity since 2015._
 - Sent status report
 - 6:01 PM
 - Clock out (Stellar)
+- [Closed old rust simd bug](https://github.com/rust-lang/rust/issues/100474#issuecomment-1427350456)
+- 10:05 PM
 
 # 2023-02-11
 
