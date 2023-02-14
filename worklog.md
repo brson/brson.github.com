@@ -5,6 +5,27 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-14
+
+- Clock in (wasm-opt)
+- 12:39 PM
+- Hacked on binaryen unicode cleanup
+- 1:30 PM
+- Began experimenting with integrated new binaryen apis into wasm-opt-rs
+- 1:42 PM
+- Clock out (wasm-opt)
+- Clock in (Solana)
+- 1:57 PM
+- [Merged function/module pr](https://github.com/solana-labs/move/pull/38)
+- 1:59 PM
+- Setup azure build environment
+- 2:14 PM
+- Chatted with aditya about llvm setup
+- 2:30 PM
+- Began hacking again on integrating move-native
+- 2:42 PM
+- Clock out (Solana)
+
 # 2023-02-13
 
 - Clock in (wasm-opt)
