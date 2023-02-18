@@ -5,6 +5,30 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-17
+
+- Clock in (Stellar)
+- 3:57 PM
+- Hacked on arbitrary refactoring
+- 5:07 PM
+- Clock out (Stellar)
+
+# 2023-02-16
+
+- Clock in (Stellar)
+- 11:58 AM
+- Chatted with tomer
+- 12:30 PM
+- Clock out (Stellar)
+
+# 2023-02-15
+
+- Clock in (Stellar)
+- 11:30 AM
+- Hacked on SorobanArbitrary trait
+- 12:46 PM
+- Clock out (Stellar)
+
 # 2023-02-14
 
 - Clock in (wasm-opt)
