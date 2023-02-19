@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-18
+
+- Clock in (Solana)
+- 11:36 AM
+- Closed some completed issues
+- 11:41 AM
+- Hacked on linking move-native to move programs
+- 2:05 PM
+- Clock out (Solana)
+
 # 2023-02-17
 
 - Clock in (Stellar)
