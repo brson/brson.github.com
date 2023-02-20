@@ -7,12 +7,12 @@ _This contains much of my open source activity since 2015._
 
 # 2023-02-19
 
-- Clock in (Soroban)
+- Clock in (Stellar)
 - 4:14 PM
 - Rebased soroban-examples
 - Hacked on new timelock fuzz test
 - 5:55 PM
-- Clock out (Soroban)
+- Clock out (Stellar)
 
 # 2023-02-18
 
@@ -173,13 +173,13 @@ _This contains much of my open source activity since 2015._
 
 # 2023-02-06
 
-- Clock in (Soroban)
+- Clock in (Stellar)
 - 2:36 PM
 - Reviewed timelock fuzz cases
 - Planned new timelock fuzz cases
 - Improved fuzz_catch_panic helper
 - 4:58 PM
-- Clock out (Soroban)
+- Clock out (Stellar)
 
 # 2023-02-05
 
