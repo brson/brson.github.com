@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-19
+
+- Clock in (Soroban)
+- 4:14 PM
+- Rebased soroban-examples
+- Hacked on new timelock fuzz test
+- 5:55 PM
+- Clock out (Soroban)
+
 # 2023-02-18
 
 - Clock in (Solana)
@@ -194,6 +203,7 @@ _This contains much of my open source activity since 2015._
 - 5:35 PM
 - Clock out (Stellar)
 - Clock in (Solana)
+- 5:36 PM
 - [Filed issue to switch to bpf target](https://github.com/solana-labs/move/issues/33)
 - 5:44 PM
 - [Merged cargo fmt pr](https://github.com/solana-labs/move/pull/31)
