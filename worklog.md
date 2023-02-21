@@ -5,6 +5,44 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-21
+
+- Clock in (Solana)
+- 12:49 PM
+- Responded to questions about datatest in #proj-move
+- 1:00 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 1:47 PM
+- [Merged llvm-config-path pr](https://github.com/solana-labs/move/pull/41)
+- 1:49 PM
+- [Merged move-native pr](https://github.com/solana-labs/move/pull/42)
+- 1:55 PM
+- [Submitted cleanup pr](https://github.com/solana-labs/move/pull/48)
+- 2:00 PM
+- [Commented on ignored tests](https://github.com/solana-labs/move/issues/43#issuecomment-1439091885)
+- 2:21 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 2:26 PM
+- Hacked on timelock fuzzing example
+- 4:00 PM
+- Clock out (Stellar)
+
+# 2023-02-20
+
+- [Commented on botbot.me rust irc logs](https://github.com/brson/rust-irc-logs/issues/1#issuecomment-1437664216)
+- 4:31 PM
+- Wrote a bit more about move-llvm for blog post
+- 5:19 PM
+- Clock in (Solana)
+- 5:19 PM
+- [Posted pr adding move-native](https://github.com/solana-labs/move/pull/42)
+- 6:54 PM
+- Posted status update to #proj-move
+- 6:58 PM
+- Clock out (Solana)
+
 # 2023-02-19
 
 - Clock in (Stellar)
