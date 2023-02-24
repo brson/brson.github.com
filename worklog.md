@@ -5,6 +5,30 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-24
+
+- Clock in (Stellar)
+- 1:27 PM
+- Removed "arbitrary" feature from arbitrary patches
+- 1:58 PM
+- Rebased arbitrary branches
+- 2:47 PM
+- Cleaned up arbitrary branches
+- 3:20 PM
+- Clock out (Stellar)
+
+# 2023-02-22
+
+- Clock in (wasm-opt)
+- 12:40 PM
+- [Filed issue to upgrade to binaryen 112](https://github.com/brson/wasm-opt-rs/issues/136)
+- 12:46 PM
+- Hacked on supporting unicode on windows on wasm-opt-rs
+- 3:24 PM
+- [Posted binaryen unicode patch](https://github.com/WebAssembly/binaryen/pull/5514)
+- 4:30 PM
+- Clock out (wasm-opt)
+
 # 2023-02-21
 
 - Clock in (Solana)
