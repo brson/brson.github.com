@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-26
+
+- Clock in (Stellar)
+- 1:19 PM
+- Hacked on timelock fuzzing
+- 3:44 PM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 4:31 PM
+- Made notes about advancing time in tests
+- 4:42 PM
+- Clock out (Stellar)
+
 # 2023-02-24
 
 - Clock in (Stellar)
