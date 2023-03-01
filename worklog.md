@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-03-01
+
+- Clock in (wasm-opt)
+- 9:48 AM
+- [Merged binaryen 112 upgrade](https://github.com/brson/wasm-opt-rs/pull/137)
+- 9:50 AM
+- [Posted wasm-opt-rs delivery](https://github.com/w3f/Grant-Milestone-Delivery/pull/779)
+- 10:15 AM
+- Clock out (wasm-opt)
+- Clock in (rib)
+- 10:28 AM
+- Added rustsec advisories
+- 11:01 AM
+
 # 2023-02-28
 
 - [Merged realtps pr](https://github.com/Aimeedeer/realtps/pull/95)
@@ -55,6 +69,8 @@ _This contains much of my open source activity since 2015._
 - 3:24 PM
 - [Posted binaryen unicode patch](https://github.com/WebAssembly/binaryen/pull/5514)
 - 4:30 PM
+- [Upgraded wasm-opt to binaryen 112](https://github.com/brson/wasm-opt-rs/pull/137)
+- 5:00 PM
 - Clock out (wasm-opt)
 
 # 2023-02-21
