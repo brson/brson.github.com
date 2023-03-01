@@ -14,6 +14,11 @@ _This contains much of my open source activity since 2015._
 - Wrote a bunch of docs for SorobanArbitrary
 - 5:27 PM
 - Clock out (Stellar)
+- Clock in (Stellar)
+- 5:39 PM
+- Fixed arbitrary derive for types defined in functions
+- 6:27 PM
+- Clock out (Stellar)
 
 # 2023-02-26
 
