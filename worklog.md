@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-02-28
+
+- [Merged realtps pr](https://github.com/Aimeedeer/realtps/pull/95)
+- 10:47 AM
+- Clock in (Stellar)
+- 3:51 PM
+- Wrote a bunch of docs for SorobanArbitrary
+- 5:27 PM
+- Clock out (Stellar)
+
 # 2023-02-26
 
 - Clock in (Stellar)
