@@ -14,10 +14,15 @@ _This contains much of my open source activity since 2015._
 - [Posted wasm-opt-rs delivery](https://github.com/w3f/Grant-Milestone-Delivery/pull/779)
 - 10:15 AM
 - Clock out (wasm-opt)
-- Clock in (rib)
 - 10:28 AM
 - Added rustsec advisories
 - 11:01 AM
+- Clock in (Stellar)
+- 5:03 PM
+- [Posted rs-soroban-env arbitrary patch](https://github.com/stellar/rs-soroban-env/pull/715)
+- [Posted rs-soroban-sdk arbitrary patch](https://github.com/stellar/rs-soroban-sdk/pull/878)
+- 6:28 PM
+- Clock out (Stellar)
 
 # 2023-02-28
 
