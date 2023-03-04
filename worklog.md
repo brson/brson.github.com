@@ -5,6 +5,33 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-03-03
+
+- Clock in (Solana)
+- 10:11 AM
+- [Submitted PR to upgrade move](https://github.com/solana-labs/move/pull/52)
+- 10:47 AM
+- [Commented on automatically building move-ir-compiler](https://github.com/solana-labs/move/issues/50#issuecomment-1453889130)
+- 10:53 AM
+- Filed help-wanted issues for solana-labs/move
+- 12:27 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 12:28 PM
+- Investigated need for Clone bounds on arbitrary prototypes
+- [Commented about Clone bounds](https://github.com/stellar/rs-soroban-sdk/pull/878#issuecomment-1454038217)
+- 12:38 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 3:51 PM
+- [Fixed function declarations](https://github.com/solana-labs/move/pull/61)
+- 6:27 PM
+- [Ran fmt](https://github.com/solana-labs/move/pull/62)
+- 6:28 PM
+- [Added codgen for references](https://github.com/solana-labs/move/pull/63)
+- 6:42 PM
+- Clock out (Solana)
+
 # 2023-03-01
 
 - Clock in (wasm-opt)
