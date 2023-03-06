@@ -5,11 +5,12 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
-# 2023-03-05
+# 2023-03-04
 
 - Clock in (Solana)
 - 10:35 AM
 - Hacked on blog post about move llvm translation
+- [Responded to move reference pr](https://github.com/solana-labs/move/pull/63#discussion_r1125509373)
 - 11:53 AM
 - Clock out (Solana)
 - Clock in (Stellar)
@@ -17,13 +18,15 @@ _This contains much of my open source activity since 2015._
 - [Read the "read tickets" pr](https://github.com/stellar/rs-soroban-env/pull/132)
 - 12:00 PM
 - Clock out (Stellar)
-
-# 2023-03-04
-
 - Clock in (Solana)
-- 10:58 AM
-- [Responded to move reference pr](https://github.com/solana-labs/move/pull/63#discussion_r1125509373)
-- 11:03 AM
+- 3:23 PM
+- Hacked on a blog post about move llvm translation
+- 4:27 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 5:24 PM
+- Hacked on translating native functions and tydescs
+- 6:00 PM
 - Clock out (Solana)
 
 # 2023-03-03
