@@ -815,8 +815,8 @@ The first of these I've encountered is for the `abort` Move expression.
 One might expect an abort to simply emit a machine-specific abort instruction,
 and the compiler could do that, but:
 
-1) The abort mechanism might be platform-specific
-2) Move `abort` carries with it an _abort code_, and handling that
+1. The abort mechanism might be platform-specific
+2. Move `abort` carries with it an _abort code_, and handling that
    is definitely platform-specific.
 
 So when the compiler sees `abort 5`,
