@@ -5,6 +5,21 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-03-12
+
+- Clock in (Stellar)
+- 9:34 AM
+- Hacked on soroban fuzzing blog
+- 10:46 AM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 10:55 AM
+- [Filed issue to run move-native tests under miri](https://github.com/solana-labs/move/issues/65)
+- 11:19 AM
+- Hacked on Move-LLVM blog
+- 11:27 AM
+- Clock out (Solana)
+
 # 2023-03-11
 
 - Clock in (Stellar)
@@ -76,9 +91,6 @@ _This contains much of my open source activity since 2015._
 - 11:45 AM
 - [Commented on soroban error handling](https://discord.com/channels/897514728459468821/1082594754300227614/1082738419270156358)
 - 11:59 AM
-- Clock out (Stellar)
-- Clock in (Stellar)
-- 12:30 PM
 - Rebased arbitrary patches
 - Hacked on blog outline
 - [Rebased soroban-env arbitrary patch](https://github.com/stellar/rs-soroban-env/pull/715#issuecomment-1458825699)
