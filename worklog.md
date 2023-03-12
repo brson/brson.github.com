@@ -5,10 +5,108 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-03-11
+
+- Clock in (Stellar)
+- 5:15 PM
+- Wrote down some notes on fuzzing
+- 5:25 PM
+- Clock out (Stellar)
+
+# 2023-03-10
+
+- Clock in (Solana)
+- 11:01 AM
+- Attended move team mtg
+- 11:52 AM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:59 PM
+- Hacked on move blog post
+- 4:30 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 5:04 PM
+- Hacked on move blog post
+- 5:29 PM
+- Clock out (Solana)
+
+# 2023-03-09
+
+- Clock in (wasm-opt)
+- 11:46 AM
+- Tested wasm-opt upgrade with cargo-contract, substrate-wasm-builder, and soroban-cli
+- [Bumped wasm-opt version to 112](https://github.com/brson/wasm-opt-rs/pull/138)
+- 12:39 PM
+- Published wasm-opt 0.112.0
+- 1:18 PM
+- Prepared wasm-opt upgrades for cargo-contract, substrate-wasm-builder, and soroban-cli
+- 1:30 PM
+- [Posted pr to upgrade wasm-opt in cargo-contract](https://github.com/paritytech/cargo-contract/pull/1012)
+- [Posted pr to upgrade wasm-opt in substrate-wasm-builder](https://github.com/paritytech/substrate/pull/13574)
+- 1:37 PM
+- Clock out (wasm-opt)
+- [Posted pr to upgrade wasm-opt in soroban-cli](https://github.com/stellar/soroban-tools/pull/493)
+
+# 2023-03-08
+
+- Clock in (Stellar)
+- 10:36 AM
+- Continued testing the timelock fuzzer
+- 11:16 AM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 11:39 AM
+- Made more notes for move-llvm blog post
+- 12:07 PM
+- Hacked on runtime type descriptors
+- 1:15 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 1:42 PM
+- Hacked on native function calls
+- 2:31 PM
+- Clock out (Solana)
+
+# 2023-03-07
+
+- Clock in (Stellar)
+- 11:28 AM
+- [Commented on arbitrary prototype naming conventions](https://github.com/stellar/rs-soroban-sdk/pull/878#issuecomment-1458655632)
+- 11:45 AM
+- [Commented on soroban error handling](https://discord.com/channels/897514728459468821/1082594754300227614/1082738419270156358)
+- 11:59 AM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 12:30 PM
+- Rebased arbitrary patches
+- Hacked on blog outline
+- [Rebased soroban-env arbitrary patch](https://github.com/stellar/rs-soroban-env/pull/715#issuecomment-1458825699)
+- [Rebased soroban-sdk arbitrary patch](https://github.com/stellar/rs-soroban-sdk/pull/878#issuecomment-1458826017)
+- 1:29 PM
+- Rebased soroban-example fuzz tests
+- 1:31 PM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 6:03 PM
+- Fixed a bug in timelock fuzzer
+- Run the fuzzer to test budget limits
+- 6:40 PM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 8:49 PM
+- Continued trying to reset budget in fuzz test
+- 8:52 PM
+- Clock out (Stellar)
+- Hacked on rustx
+- 10:14 PM
+
 # 2023-03-06
 
 - Hacked on resampler
 - 3:25 PM
+- Hacked on resampler
+- 4:37 PM
 
 # 2023-03-04
 
