@@ -192,8 +192,7 @@ and while one _could_ use it directly,
 I wouldn't recommend it,
 as it depends on Rust's own LLVM fork,
 and is filled with Rust-specific glue code.
-Most projects, at least those just starting out,
-will not need all the esoteric LLVM patches that `rustc` carries around.
+Most projects will not need all the esoteric LLVM patches that `rustc` carries around.
 
 The [`rustc` LLVM bindings](https://github.com/rust-lang/rust/tree/master/compiler/rustc_llvm/llvm-wrapper)
 though are a great reference for
