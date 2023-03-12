@@ -185,7 +185,7 @@ APIs is:
 
 Inwkwell uses the Rust type system to make explicit
 the ownership relationship of objects in the LLVM API.
-The Rust bindings to LLVM are much easier to navigate and search than the official API C++ API docs.
+The Rust bindings to LLVM are much easier to navigate and search than the official C++ API docs.
 
 The Rust compiler itself has its own crate of LLVM bindings,
 and while one _could_ use it directly,
