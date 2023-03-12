@@ -167,7 +167,7 @@ though it is important to understand that not all features of LLVM are exposed
 through the C bindings,
 and they are basically undocumented:
 one will often need to read the source through to the underlying C++ APIs to figure out what the C APIs do.
-In my experience compilers not written in C++ that uses LLVM as a backend ends up writing some C++ glue code to expose
+In my experience compilers not written in C++ that uses LLVM as a backend end up writing some C++ glue code to expose
 extra C APIs for their own use.
 
 In the Rust world there are a few options for interfacing to LLVM:
