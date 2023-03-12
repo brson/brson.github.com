@@ -23,7 +23,9 @@ _This contains much of my open source activity since 2015._
 - 2:04 PM
 - Hacked on move blog post
 - 3:36 PM
-
+- [Posted move blog post](https://brson.github.io/2023/03/12/move-on-llvm)
+- 3:58 PM
+- Clock out (Solana)
 
 # 2023-03-11
 

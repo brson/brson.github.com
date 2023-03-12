@@ -14,7 +14,8 @@ supported by LLVM.
 
 This work is firmly in the prototyping phase,
 but I wanted to write a bit about what we have done
-to raise awareness of the project.
+to raise awareness of the project,
+and to share what I've learned about writing LLVM compiler backends.
 
 At this point we have created the scoffolding for the LLVM backend,
 and a test harness that compiles Move bytecode,
