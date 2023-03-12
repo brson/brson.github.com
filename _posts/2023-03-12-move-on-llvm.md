@@ -242,7 +242,7 @@ In reading about compilers and code generation,
 one will quickly come across the concept of _single static assignment_
 (SSA) form. This is a common model wherein the compiler
 operates on virtual _registers_ that are assigned exactly once.
-Compilers love this form because it is easy to write optimizations against.
+Compilers love this form because it is easy to analyze.
 
 You don't need to care about SSA, or the confusing notion of
 [phi nodes](https://llvm.org/docs/LangRef.html#phi-instruction)
