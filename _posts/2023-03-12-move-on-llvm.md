@@ -757,7 +757,7 @@ module std::vector {
 
 I have implemented many of the native function calls
 needed by `std` in the [`move-native`](https://github.com/solana-labs/move/tree/llvm-sys/language/move-native) crate,
-the almost none of it is yet supported by the LLVM backend's codegen.
+though almost none of it is yet supported by the LLVM backend's codegen.
 
 The layout of e.g. the Move `vector<T>` type needs to be known to both
 the compiler and the runtime, and the runtime defines it as
