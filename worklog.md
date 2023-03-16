@@ -5,6 +5,44 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-03-16
+
+- Clock in (Solana)
+- 10:58 AM
+- Attended meeting about contracts
+- Sent email to eric
+- 11:21 AM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 12:03 PM
+- [Rebased arbitrary patches for soroban-env](https://github.com/stellar/rs-soroban-env/pull/715#issuecomment-1472628696)
+- 1:32 PM
+- [Rebased arbitrary patches for soroban-sdk](https://github.com/stellar/rs-soroban-sdk/pull/878#issuecomment-1472630973)
+- 1:34 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 3:30 PM
+- Chatted with Anatoly
+- 3:57 PM
+- Clock out (Solana)
+
+# 2023-03-15
+
+- Clock in (Solana)
+- 4:08 PM
+- [Reviewed btf project](https://github.com/orgs/solana-labs/projects/19/views/1?pane=issue&itemId=18799741)
+- 4:17 PM
+- [Commented on move-native compilation problem](https://github.com/solana-labs/move/issues/66)
+- 4:34 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 4:34 PM
+- [Responded to issue about embedding unit tests in wasm](https://github.com/stellar/rs-soroban-sdk/issues/414#issuecomment-1470957898)
+- 5:10 PM
+- Clock out (Stellar)
+- Chatted about detecting ink bloat
+- 5:29 PM
+
 # 2023-03-12
 
 - Clock in (Stellar)
@@ -24,7 +62,7 @@ _This contains much of my open source activity since 2015._
 - Hacked on move blog post
 - 3:36 PM
 - [Posted move blog post](https://brson.github.io/2023/03/12/move-on-llvm)
-- 3:58 PM
+- 4:23 PM
 - Clock out (Solana)
 
 # 2023-03-11
