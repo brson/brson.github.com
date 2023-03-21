@@ -5,6 +5,45 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-03-21
+
+- Clock in (Stellar)
+- 12:28 PM
+- [Posted PR cleaning up soroban doc page descriptions](https://github.com/stellar/soroban-docs/pull/348)
+- 1:37 PM
+- Clock out (Stellar)
+
+# 2023-03-20
+
+- Clock in (Stellar)
+- 4:07 PM
+- [Filed bug about unrendered markdown links in soroban docs](https://github.com/stellar/soroban-docs/issues/347)
+- 4:50 PM
+- Wrote descriptions of pages in stellar docs
+- 5:40 PM
+- Clock out (Stellar)
+
+# 2023-03-18
+
+- Clock in (Stellar)
+- 5:50 PM
+- [Reworked soroban-env arbitrary patch](https://github.com/stellar/rs-soroban-env/pull/715#issuecomment-1475046574)
+- 6:28 PM
+- Hacked on fuzzing blog post
+- Started relearning how to build soroban docs
+- 6:37 PM
+- Rebased soroban-examples
+- 6:54 PM
+- Clock out (Stellar)
+
+# 2023-03-17
+
+- Clock in (Stellar)
+- 9:07 PM
+- Hacked on soroban blog post
+- 9:29 PM
+- Clock out (Stellar)
+
 # 2023-03-16
 
 - Clock in (Solana)
