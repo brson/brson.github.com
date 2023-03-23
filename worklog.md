@@ -5,6 +5,24 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-03-23
+
+- Clock in (Solana)
+- 12:50 PM
+- [Fixed broken move build](https://github.com/solana-labs/move/pull/76)
+- 1:41 PM
+- [Commented on rbpf-tests build error](https://github.com/solana-labs/move/issues/66#issuecomment-1481790357)
+- 1:41 PM
+- [Filed pr to fix move lints](https://github.com/solana-labs/move/pull/77)
+- 3:19 PM
+- [Filed pr to run cargo x fmt](https://github.com/solana-labs/move/pull/78)
+- 4:05 PM
+- [Upgraded sbf-tools](https://github.com/solana-labs/move/pull/79)
+- 4:24 PM
+- [Filed issue about move-llvm CI](https://github.com/solana-labs/move/issues/80)
+- 4:37 PM
+- Clock out (Solana)
+
 # 2023-03-21
 
 - Clock in (Stellar)
