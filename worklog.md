@@ -5,6 +5,36 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-03-24
+
+- Clock in (Solana)
+- 10:58 AM
+- Attended team meeting
+- Chatted with Jan
+- 11:45 AM
+- Commented about prebuilding llvm for ci
+- 11:54 AM
+- [Merged platform-tools upgrade](https://github.com/solana-labs/move/pull/79)
+- 12:16 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 3:51 PM
+- Chatted with Jan
+- [Filed issue about fixing the move entrypoint](https://github.com/solana-labs/move/issues/81)
+- 4:18 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 4:18 PM
+- Started a fuzzing how-to for soroban docs
+- 4:51 PM
+- Rebased arbitrary branch
+- 5:02 PM
+- [Commented on soroban-sdk arbitrary patch rebase](https://github.com/stellar/rs-soroban-sdk/pull/878#issuecomment-1483562389)
+- 5:11 PM
+- [Filed issue about fuzzing RawVal / ScVal for comparison behavior](https://github.com/stellar/rs-soroban-env/issues/743)
+- 5:48 PM
+- Clock out (Stellar)
+
 # 2023-03-23
 
 - Clock in (Solana)
