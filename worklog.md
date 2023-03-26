@@ -11,6 +11,8 @@ _This contains much of my open source activity since 2015._
 - 2:47 PM
 - [Started on fuzz tests for rawval/scval comparisons](https://github.com/stellar/rs-soroban-env/issues/743#issuecomment-1484246740)
 - 4:41 PM
+- Sent Soroban status report
+- 4:58 PM
 - Clock out (Stellar)
 
 # 2023-03-24
