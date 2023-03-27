@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-03-27
+
+- Clock in (Stellar)
+- 12:50 PM
+- [Reviewed comments on rawval ord issue](https://github.com/stellar/rs-soroban-env/issues/743#issuecomment-1484246740)
+- Reviewed messages
+- 1:04 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 1:21 PM
+
 # 2023-03-26
 
 - Clock in (Stellar)

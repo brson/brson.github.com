@@ -145,7 +145,7 @@ Some useful technical blog posts about Move:
 ## Writing an LLVM backend with Rust
 
 Depending on perspective,
-when you using LLVM to emit machine code for your language you are either:
+when you are using LLVM to emit machine code for your language you are either:
 writing a _backend_ to your language's compiler,
 or writing a _frontend_ to LLVM.
 I tend to think of the LLVM component being the backend of the compiler,
