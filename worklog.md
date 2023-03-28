@@ -19,6 +19,11 @@ _This contains much of my open source activity since 2015._
 - Set up solana slack account
 - 2:43 PM
 - Clock out (Solana)
+- Clock in (wasm-opt)
+- 2:49 PM
+- [Investigated how llvm does unicode paths](https://github.com/WebAssembly/binaryen/pull/5514#issuecomment-1487625712)
+- 3:49 PM
+- Clock out (wasm-opt)
 
 # 2023-03-27
 
