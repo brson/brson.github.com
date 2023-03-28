@@ -5,16 +5,36 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-03-28
+
+- Clock in (wasm-opt)
+- 12:59 PM
+- [Investigated reported segfault in wasm-opt](https://github.com/brson/wasm-opt-rs/issues/140#issuecomment-1487542386)
+- 2:26 PM
+- Chatted with ink team about future ideas
+- 2:33 PM
+- Clock out (wasm-opt)
+
 # 2023-03-27
 
 - Clock in (Stellar)
 - 12:50 PM
 - [Reviewed comments on rawval ord issue](https://github.com/stellar/rs-soroban-env/issues/743#issuecomment-1484246740)
 - Reviewed messages
-- 1:04 PM
+- 1:06 PM
 - Clock out (Stellar)
 - Clock in (Solana)
 - 1:21 PM
+- Responded to chat in #proj-move
+- [Responded to move-native build question](https://github.com/solana-labs/move/issues/82#issuecomment-1485767381)
+- 2:03 PM
+- [Merged lint fixes](https://github.com/solana-labs/move/pull/77)
+- 2:12 PM
+- [Merged fmt pr](https://github.com/solana-labs/move/pull/78)
+- 2:12 PM
+- Rebased debug-print branch
+- 2:33 PM
+- Clock out (Solana)
 
 # 2023-03-26
 
