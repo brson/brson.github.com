@@ -14,6 +14,11 @@ _This contains much of my open source activity since 2015._
 - Chatted with ink team about future ideas
 - 2:33 PM
 - Clock out (wasm-opt)
+- Clock in (Solana)
+- 2:38 PM
+- Set up solana slack account
+- 2:43 PM
+- Clock out (Solana)
 
 # 2023-03-27
 
