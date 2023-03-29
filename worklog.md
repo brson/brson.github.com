@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-03-29
+
+- Clock in (Solana)
+- 2:52 PM
+- Hacked on emitting runtime type descriptors
+- 5:10 PM
+- Clock out (Solana)
+
 # 2023-03-28
 
 - Clock in (wasm-opt)
