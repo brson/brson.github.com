@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-04
+
+- Clock in (Solana)
+- 1:59 PM
+- Set up billing/taxes for solana labs
+- 2:10 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 2:30 PM
+- Fuzzed rawval/scval comparison functions
+- [Posted initial findings of comparison fuzzing](https://github.com/stellar/rs-soroban-env/issues/743#issuecomment-1496661230)
+- 4:54 PM
+- Clock out (Stellar)
+
 # 2023-04-02
 
 - Clock in (Stellar)
