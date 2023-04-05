@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-05
+
+- Clock in (Stellar)
+- 2:11 PM
+- [Responded to rawval comparison issue](https://github.com/stellar/rs-soroban-env/issues/743#issuecomment-1498076805)
+- 2:36 PM
+- Clock out (Stellar)
+
 # 2023-04-04
 
 - Clock in (Solana)
