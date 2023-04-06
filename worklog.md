@@ -5,6 +5,23 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-06
+
+- Clock in (Stellar)
+- 1:25 PM
+- Caught up on issues
+- 1:29 PM
+- Clock out (Stellar)
+- Clock in (wasm-opt)
+- 1:29 PM
+- [Responded to binaryen unicode pr](https://github.com/WebAssembly/binaryen/pull/5514#issuecomment-1499532768)
+- 1:49 PM
+- [Commented on binaryen filesystem::path pr](https://github.com/WebAssembly/binaryen/pull/5627#issuecomment-1499539722)
+- 1:53 PM
+- [Updated binaryen unicode issue](https://github.com/WebAssembly/binaryen/issues/4995#issuecomment-1499541508)
+- 1:54 PM
+- Clock out (wasm-opt)
+
 # 2023-04-05
 
 - Clock in (Stellar)
