@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-07
+
+- Clock in (Solana)
+- 10:45 AM
+- Prepared for move meeting
+- 11:45 AM
+- Attended move meeting
+- 12:17 PM
+- Posted updates about debug-print branch
+- Began building debug llvm
+- 12:17 PM
+- Clock out (Solana)
+
 # 2023-04-06
 
 - Clock in (Stellar)
@@ -19,8 +32,13 @@ _This contains much of my open source activity since 2015._
 - [Commented on binaryen filesystem::path pr](https://github.com/WebAssembly/binaryen/pull/5627#issuecomment-1499539722)
 - 1:53 PM
 - [Updated binaryen unicode issue](https://github.com/WebAssembly/binaryen/issues/4995#issuecomment-1499541508)
-- 1:54 PM
+- 2:29 PM
 - Clock out (wasm-opt)
+- Clock in (Solana)
+- 5:11 PM
+- Hacked on runtime typedescriptors
+- 7:10 PM
+- Clock out (Solana)
 
 # 2023-04-05
 
