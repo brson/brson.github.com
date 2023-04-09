@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-09
+
+- Clock in (Stellar)
+- 12:36 PM
+- Hacked on tests for comparison functions
+- [Closed stale arbitrary patch](https://github.com/stellar/rs-soroban-sdk/pull/878#issuecomment-1501224487)
+- 4:13 PM
+- Rebased patches
+- 4:23 PM
+- [Commented on comparison fuzzing remediations](https://github.com/stellar/rs-soroban-env/issues/743#issuecomment-1501226760)
+- 4:31 PM
+- Clock out (Stellar)
+
 # 2023-04-07
 
 - Clock in (Solana)
