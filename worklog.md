@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-12
+
+- Clock in (Solana)
+- 1:52 PM
+- Hacked on native runtime function calls
+- 4:04 PM
+- Clock out (Solana)
+
 # 2023-04-10
 
 - Clock in (Stellar)
@@ -14,6 +22,13 @@ _This contains much of my open source activity since 2015._
 - Sent status update
 - 4:58 PM
 - Clock out (Stellar)
+- Clock in (wasm-opt)
+- 5:00 PM
+- [Responded to issue about non-fs optimization](https://github.com/brson/wasm-opt-rs/issues/141)
+- 5:25 PM
+- [Commented on wasm-opt bug report](https://github.com/brson/wasm-opt-rs/issues/142#issuecomment-1502468397)
+- 5:31 PM
+- Clock out (wasm-opt)
 
 # 2023-04-09
 
