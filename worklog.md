@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-14
+
+- Clock in (Stellar)
+- 1:22 PM
+- Rebased val-fuzz branch
+- 2:18 PM
+- [Posted pr to validate large symbols](https://github.com/stellar/rs-soroban-env/pull/765)
+- 3:27 PM
+- [Updated comparison fuzzing issue](https://github.com/stellar/rs-soroban-env/issues/743#issuecomment-1509325308)
+- 3:56 PM
+- Clock out (Stellar)
+
 # 2023-04-12
 
 - Clock in (Solana)
