@@ -7,8 +7,16 @@ _This contains much of my open source activity since 2015._
 
 # 2023-04-16
 
-- Clock in (Stellarx)
+- Clock in (Stellar)
 - 5:59 PM
+- Fixed comparison of RawVals of different types and objectness.
+- 7:11 PM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 8:01 PM
+- [Posted update to comparison fuzzing issue](https://github.com/stellar/rs-soroban-env/issues/743#issuecomment-1510602539)
+- 8:43 PM
+- Clock out (Stellar)
 
 # 2023-04-14
 
