@@ -5,10 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-16
+
+- Clock in (Stellarx)
+- 5:59 PM
+
 # 2023-04-14
 
 - Clock in (Stellar)
-- 1:22 PM
+- 12:22 PM
 - Rebased val-fuzz branch
 - 2:18 PM
 - [Posted pr to validate large symbols](https://github.com/stellar/rs-soroban-env/pull/765)
