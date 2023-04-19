@@ -14,6 +14,16 @@ _This contains much of my open source activity since 2015._
 - [Re-read native function pr](https://github.com/solana-labs/move/pull/91)
 - 11:36 AM
 - Clock out (Solana)
+- Clock in (Stellar)
+- 1:13 PM
+- Started writing test for object/small comparison
+- 1:34 PM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 2:34 PM
+- [Posted fix for comparison of objects and smallvals of differing types](https://github.com/stellar/rs-soroban-env/pull/767)
+- 5:14 PM
+- Clock out (Stellar)
 
 # 2023-04-18
 
