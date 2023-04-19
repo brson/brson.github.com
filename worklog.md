@@ -5,6 +5,29 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-19
+
+- Clock in (Solana)
+- 11:11 AM
+- [Merged shift operator fixes](https://github.com/solana-labs/move/pull/92)
+- 11:14 AM
+- Clock out (Solana)
+
+# 2023-04-18
+
+- Clock in (Solana)
+- 11:30 AM
+- [Filed pr to support generic native function calls](https://github.com/solana-labs/move/pull/91)
+- 1:49 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 4:17 PM
+- Responded to emails
+- 4:26 PM
+- Fixed a bug in RawVal comparison functions
+- 4:55 PM
+- Clock out (Stellar)
+
 # 2023-04-16
 
 - Clock in (Stellar)
