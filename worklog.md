@@ -11,6 +11,8 @@ _This contains much of my open source activity since 2015._
 - 11:11 AM
 - [Merged shift operator fixes](https://github.com/solana-labs/move/pull/92)
 - 11:14 AM
+- [Re-read native function pr](https://github.com/solana-labs/move/pull/91)
+- 11:36 AM
 - Clock out (Solana)
 
 # 2023-04-18
