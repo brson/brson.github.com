@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-22
+
+- Clock in (Stellar)
+- 1:19 PM
+- [Posted RawVal::get_tag soundness fix](https://github.com/stellar/rs-soroban-env/pull/773)
+- 3:10 PM
+- [Updated RawVal comparison fixes](https://github.com/stellar/rs-soroban-env/pull/767#issuecomment-1518815740)
+- 3:47 PM
+- Clock out (Stellar)
+
 # 2023-04-21
 
 - Clock in (Stellar)
