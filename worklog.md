@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-21
+
+- Clock in (Stellar)
+- 5:25 PM
+- Fixed special cases in comparison fuzzer
+- 6:46 PM
+- Clock out (Stellar)
+
 # 2023-04-19
 
 - Clock in (Solana)
@@ -23,6 +31,8 @@ _This contains much of my open source activity since 2015._
 - 2:34 PM
 - [Posted fix for comparison of objects and smallvals of differing types](https://github.com/stellar/rs-soroban-env/pull/767)
 - 5:14 PM
+- Investigated test failures
+- 5:43 PM
 - Clock out (Stellar)
 
 # 2023-04-18
