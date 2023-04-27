@@ -5,6 +5,36 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-26
+
+- Clock in (Solana)
+- 1:06 PM
+- [Rebased and landed debug_print pr](https://github.com/solana-labs/move/pull/91)
+- 2:23 PM
+- [Posted pr to remove dbgs](https://github.com/solana-labs/move/pull/106)
+- 2:25 PM
+- [Posted fmt pr](https://github.com/solana-labs/move/pull/107)
+- 2:37 PM
+- [Reviewed move struct pr](https://github.com/solana-labs/move/pull/90#issuecomment-1524033541)
+- 2:56 PM
+- Triaged and reviewed move issues and prs
+- 3:23 PM
+- [Merged dbg pr](https://github.com/solana-labs/move/pull/106)
+- 7:44 PM
+- [Merged fmt pr](https://github.com/solana-labs/move/pull/107)
+- 7:44 PM
+- Hacked on move ci
+- 8:09 PM
+- Clock out (Solana)
+
+# 2023-04-24
+
+- Clock in (Stellar)
+- 10:50 AM
+- Sent status update
+- 11:01 AM
+- Clock out (Stellar)
+
 # 2023-04-22
 
 - Clock in (Stellar)
