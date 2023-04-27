@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-27
+
+- Clock in (Solana)
+- 1:53 PM
+- [Merged +solana feature removal pr](https://github.com/solana-labs/move/pull/108)
+- 2:04 PM
+- [Posted move CI pr](https://github.com/solana-labs/move/pull/109)
+- 2:22 PM
+- [Filed cargo xclippy bug](https://github.com/solana-labs/move/issues/110)
+- 2:33 PM
+- Clock out (Solana)
+
 # 2023-04-26
 
 - Clock in (Solana)
