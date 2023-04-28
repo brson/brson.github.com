@@ -5,6 +5,26 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-28
+
+- Clock in (Stellar)
+- 12:42 PM
+- Rebased arbitrary patches
+- 2:01 PM
+- [Updated soroban Tag pr](https://github.com/stellar/rs-soroban-env/pull/773#issuecomment-1528078778)
+- 2:52 PM
+- [Updated obj-cmp pr](https://github.com/stellar/rs-soroban-env/pull/767#issuecomment-1528086247)
+- 2:59 PM
+- Rebased soroban-docs branch
+- Rebased fuzzing branch
+- 4:16 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 5:33 PM
+- Merged pr to enable ci
+- 5:53 PM
+- Clock in (Solana)
+
 # 2023-04-27
 
 - Clock in (Solana)
