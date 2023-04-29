@@ -16,6 +16,11 @@ _This contains much of my open source activity since 2015._
 - [Merged with upstream](https://github.com/solana-labs/move/pull/112)
 - 2:15 PM
 - Clock out (Solana)
+- Clock in (Stellar)
+- 2:16 PM
+- [Reworked obj-to-small comparison pr](https://github.com/stellar/rs-soroban-env/pull/767#issuecomment-1528867322)
+- 2:45 PM
+- Clock in (Stellar)
 
 # 2023-04-28
 
