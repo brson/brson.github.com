@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-04-29
+
+- Clock in (Solana)
+- 1:29 PM
+- [Closed auto-filed rustsec issue](https://github.com/solana-labs/move/issues/111)
+- 1:31 PM
+- Disabled the "daily" gha workflow
+- 1:43 PM
+- [Merged with upstream](https://github.com/solana-labs/move/pull/112)
+- 2:15 PM
+- Clock out (Solana)
+
 # 2023-04-28
 
 - Clock in (Stellar)
