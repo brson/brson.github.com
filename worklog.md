@@ -17,6 +17,11 @@ _This contains much of my open source activity since 2015._
 - [Posted update on rawval comparisons](https://github.com/stellar/rs-soroban-env/issues/743#issuecomment-1530107431)
 - 1:25 PM
 - Clock out (Stellar)
+- Clock in (Stellar)
+- 4:35 PM
+- Wrote more fuzz blog post
+- 5:01 PM
+- Clock out (Stellar)
 
 # 2023-04-29
 
