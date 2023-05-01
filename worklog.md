@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-01
+
+- Clock in (wasm-opt)
+- 12:39 PM
+- [Posted milestone delivery](https://github.com/w3f/Grant-Milestone-Delivery/pull/847)
+- 1:10 PM
+- Clock out (wasm-opt)
+- Clock in (Stellar)
+- 1:21 PM
+- [Posted update on rawval comparisons](https://github.com/stellar/rs-soroban-env/issues/743#issuecomment-1530107431)
+- 1:25 PM
+- Clock out (Stellar)
+
 # 2023-04-29
 
 - Clock in (Solana)
@@ -20,7 +33,7 @@ _This contains much of my open source activity since 2015._
 - 2:16 PM
 - [Reworked obj-to-small comparison pr](https://github.com/stellar/rs-soroban-env/pull/767#issuecomment-1528867322)
 - 2:45 PM
-- Clock in (Stellar)
+- Clock out (Stellar)
 - Clock in (Solana)
 - 4:24 PM
 - [Merged upstream pr](https://github.com/solana-labs/move/pull/112)
@@ -45,7 +58,7 @@ _This contains much of my open source activity since 2015._
 - 5:33 PM
 - Merged pr to enable ci
 - 5:53 PM
-- Clock in (Solana)
+- Clock out (Solana)
 
 # 2023-04-27
 
