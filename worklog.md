@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-02
+
+- Clock in (Stellar)
+- 11:51 AM
+- Hacked on fuzzing blog post
+- 12:26 PM
+- Clock out (Stellar)
+
 # 2023-05-01
 
 - Clock in (wasm-opt)
