@@ -5,6 +5,25 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-03
+
+- Clock in (Solana)
+- 12:10 PM
+- [Reviewad xfail pr](https://github.com/solana-labs/move/pull/114#pullrequestreview-1411543328)
+- 12:24 PM
+- Hacked on fixing xclippy
+- 1:02 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 1:44 PM
+- [Fixed clippy errors](https://github.com/solana-labs/move/pull/118)
+- 3:12 PM
+- [Ran move-native tests under miri](https://github.com/solana-labs/move/issues/65)
+- 3:19 PM
+- Disabled the ci-post-land workflow
+- 3:22 PM
+- Clock out (Solana)
+
 # 2023-05-02
 
 - Clock in (Stellar)
