@@ -5,6 +5,28 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-04
+
+- Clock in (Stellar)
+- 12:02 PM
+- Attended ledger expiration meeting
+- 1:01 PM
+- Clock out (Stellar)
+- Clock in (wasm-opt)
+- 2:24 PM
+- [Commented on wasm-opt + gcc 13 bug report](https://github.com/brson/wasm-opt-rs/issues/143#issuecomment-1535377565)
+- 2:45 PM
+- Clock out (wasm-opt)
+- [Fixed a typo in llvm-lines](https://github.com/dtolnay/cargo-llvm-lines/pull/72)
+- 3:01 PM
+- Explored ink monomorphizations with llvm-lines
+- 5:37 PM
+- Clock in (Stellar)
+- 5:37 PM
+- Ran llvm-lines on the soroban timelock example contract
+- 5:57 PM
+- Clock out (Stellar)
+
 # 2023-05-03
 
 - Clock in (Solana)
