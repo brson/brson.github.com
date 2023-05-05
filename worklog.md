@@ -14,6 +14,11 @@ _This contains much of my open source activity since 2015._
 - [Filed issue to add bcs to move-native](https://github.com/solana-labs/move/issues/128)
 - 11:58 AM
 - Clock out (Solana)
+- Clock in (wasm-opt)
+- 3:40 PM
+- Tried building with gcc 13 on macos
+- 4:17 PM
+- Clock out (wasm-opt)
 
 # 2023-05-04
 
