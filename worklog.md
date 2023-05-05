@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-05
+
+- Clock in (Solana)
+- 10:54 AM
+- Attended move meeting
+- 11:41 AM
+- [Filed issue to add bcs to move-native](https://github.com/solana-labs/move/issues/128)
+- 11:58 AM
+- Clock out (Solana)
+
 # 2023-05-04
 
 - Clock in (Stellar)
