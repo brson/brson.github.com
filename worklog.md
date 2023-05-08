@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-07
+
+- Clock in (Stellar)
+- 1:26 PM
+- Rebased arbitrary branch
+- Wrote more arbitrary impls
+- Asked a question about detecting broken vecs on discourse
+- 4:42 PM
+- Cleaned up fuzzing patches for pr
+- 5:57 PM
+- [Fixed Status to ScStatus conversion](https://github.com/stellar/rs-soroban-env/pull/803)
+- 6:30 PM
+- Clock out (Stellar)
+
 # 2023-05-05
 
 - Clock in (Solana)
