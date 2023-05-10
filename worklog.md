@@ -5,6 +5,23 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-10
+
+- Clock in (Stellar)
+- 11:03 AM
+- Hacked on guest-side fuzzing
+- 11:44 AM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 11:48 AM
+- [Merged cleanup pr](https://github.com/solana-labs/move/pull/136)
+- 11:52 AM
+- [Reviwed IR improvements](https://github.com/solana-labs/move/pull/139#issuecomment-1542626828)
+- 12:25 PM
+- Hacked on native translation for vector::pop_back
+- 1:09 PM
+- Clock out (Solana)
+
 # 2023-05-09
 
 - Clock in (Solana)
