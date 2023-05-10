@@ -5,6 +5,37 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-09
+
+- Clock in (Solana)
+- 11:39 AM
+- [Filed a bug about StaticTypeName values being garbage](https://github.com/solana-labs/move/issues/135)
+- 1:07 PM
+- Hacked on vector translation
+- 1:24 PM
+- [Posted pr to deduplicate runtime function declarations](https://github.com/solana-labs/move/pull/136)
+- 1:38 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 8:46 PM
+- Hacked on codegen for vector::push_back
+- 9:36 PM
+- Clock out (Solana)
+
+# 2023-05-08
+
+- Clock in (Solana)
+- 5:47 PM
+- [Reviewed a pr](https://github.com/solana-labs/move/pull/129#issuecomment-1539204678)
+- 5:59 PM
+- [Reviewed a pr](https://github.com/solana-labs/move/pull/131#pullrequestreview-1417661819)
+- 6:01 PM
+- [Linked the main move readme to the fork docs](https://github.com/solana-labs/move/pull/134)
+- 6:08 PM
+- Started hacking on vector implementations
+- 6:13 PM
+- Clock out (Solana)
+
 # 2023-05-07
 
 - Clock in (Stellar)
