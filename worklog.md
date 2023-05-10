@@ -26,6 +26,17 @@ _This contains much of my open source activity since 2015._
 - Hacked on guest-side syscall fuzzing
 - 4:02 PM
 - Clock out (Stellar)
+- Clock in (Solana)
+- 4:06 PM
+- Debugged errors in vec translation
+- 5:07 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 5:07 PM
+- Debugged contractimport + RawVal
+- [Filed an issue about contractimport + RawVal](https://github.com/stellar/rs-soroban-sdk/issues/939)
+- 5:58 PM
+- Clock out (Stellar)
 
 # 2023-05-09
 
