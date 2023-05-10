@@ -21,6 +21,11 @@ _This contains much of my open source activity since 2015._
 - Hacked on native translation for vector::pop_back
 - 1:09 PM
 - Clock out (Solana)
+- Clock in (Stellar)
+- 3:30 PM
+- Hacked on guest-side syscall fuzzing
+- 4:02 PM
+- Clock out (Stellar)
 
 # 2023-05-09
 
