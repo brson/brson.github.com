@@ -17,6 +17,8 @@ _This contains much of my open source activity since 2015._
 - 4:31 PM
 - [Filed issue about vector dtors](https://github.com/solana-labs/move/issues/148)
 - 4:42 PM
+- [Reviewed logging patch](https://github.com/solana-labs/move/pull/143#issuecomment-1544814904)
+- 5:18 PM
 - Clock out (Solana)
 
 # 2023-05-10
