@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-11
+
+- Clock in (Solana)
+- 12:57 PM
+- Hacked on codegen for vector rtcalls
+- 3:31 PM
+- [Closed old debug::print issue](https://github.com/solana-labs/move/issues/54)
+- 4:13 PM
+- [Posted pr to implement vectors](https://github.com/solana-labs/move/pull/147)
+- 4:31 PM
+- [Filed issue about vector dtors](https://github.com/solana-labs/move/issues/148)
+- 4:42 PM
+- Clock out (Solana)
+
 # 2023-05-10
 
 - Clock in (Stellar)
