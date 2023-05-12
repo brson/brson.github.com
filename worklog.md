@@ -12,6 +12,10 @@ _This contains much of my open source activity since 2015._
 - [Investigated problems calling contracts with RawVal](https://github.com/stellar/rs-soroban-sdk/issues/939)
 - 12:48 PM
 - Clock out (Stellar)
+- Clock in (Solana)
+- 12:48 PM
+- [Commented on vect dtors](https://github.com/solana-labs/move/issues/148#issuecomment-1546149276)
+- Clock out (Solana)
 
 # 2023-05-11
 
