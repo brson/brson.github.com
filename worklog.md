@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-12
+
+- Clock in (Stellar)
+- 11:37 PM
+- [Investigated problems calling contracts with RawVal](https://github.com/stellar/rs-soroban-sdk/issues/939)
+- 12:48 PM
+- Clock out (Stellar)
+
 # 2023-05-11
 
 - Clock in (Solana)
