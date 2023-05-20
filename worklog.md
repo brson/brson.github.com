@@ -5,10 +5,82 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-20
+
+- Clock in (Stellar)
+- 1:34 PM
+- [Posted pr to trophy case](https://github.com/rust-fuzz/trophy-case/pull/122)
+- 2:01 PM
+- Rebased fuzzing branch
+- Investigated stack overflows with vecs
+- 3:11 PM
+- [Posted fuzzing pr](https://github.com/stellar/rs-soroban-sdk/pull/957)
+- 4:08 PM
+- Clock out (Stellar)
+
+# 2023-05-19
+
+- Clock in (Solana)
+- 11:11 AM
+- Attended move meeting
+- 11:39 AM
+- Clock out (Solana)
+- Clock in (w3f)
+- 12:07 PM
+- [Commented on utf8 support in binaryen](https://github.com/WebAssembly/binaryen/pull/5671#issuecomment-1555054441)
+- 12:15 PM
+- [Filed binaryen issue about non-fs apis](https://github.com/WebAssembly/binaryen/issues/5736)
+- [Responded to wasm-opt-rs issue about non-fs apis](https://github.com/brson/wasm-opt-rs/issues/141#issuecomment-1555068508)
+- 12:26 PM
+- Clock out (w3f)
+- Clock in (Stellar)
+- 12:43 PM
+- Hacked on fuzzing examples and howto
+- 2:35 PM
+- Clock out (Stellar)
+
+# 2023-05-17
+
+- Clock in (Solana)
+- 12:55 PM
+- [Merged vector pr](https://github.com/solana-labs/move/pull/147)
+- 3:08 PM
+- [Reviewed address_of pr](https://github.com/solana-labs/move/pull/159#pullrequestreview-1431654198)
+- 3:11 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 7:26 PM
+- [Closed stale status pr](https://github.com/stellar/rs-soroban-env/pull/803#issuecomment-1552284491)
+- 7:29 PM
+- Checked on state of error reform
+- Read emails
+- 7:35 PM
+- Clock out (Stellar)
+
+# 2023-05-15
+
+- Clock in (Stellar)
+- 10:53 AM
+- Hacked on fuzzing blog post
+- 11:59 AM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 4:34 PM
+- Hacked on guest fuzzing
+- 6:24 PM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 7:30 PM
+- Hacked on guest fuzzing
+- 7:59 PM
+- Sent status update
+- 8:02 PM
+- Clock out (Stellar)
+
 # 2023-05-12
 
 - Clock in (Stellar)
-- 11:37 PM
+- 11:37 AM
 - [Investigated problems calling contracts with RawVal](https://github.com/stellar/rs-soroban-sdk/issues/939)
 - 12:48 PM
 - Clock out (Stellar)
