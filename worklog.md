@@ -12,6 +12,14 @@ _This contains much of my open source activity since 2015._
 - Filled out syscalls for guest fuzzer
 - 1:54 PM
 - Clock out (Stellar)
+- Clock in (Stellar)
+- 3:17 PM
+- Hacked on typed syscall guest fuzzer
+- Learned how to symbolicate symbols from fuzzer
+- 4:37 PM
+- Sent status update
+- 4:46 PM
+- Clock out (Stellar)
 
 # 2023-05-20
 
