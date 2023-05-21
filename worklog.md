@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-21
+
+- Clock in (Stellar)
+- 10:44 AM
+- Filled out syscalls for guest fuzzer
+- 1:54 PM
+- Clock out (Stellar)
+
 # 2023-05-20
 
 - Clock in (Stellar)
