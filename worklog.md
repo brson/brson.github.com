@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-23
+
+- [Commented on curve25519-dalek issue](https://github.com/dalek-cryptography/curve25519-dalek/issues/355#issuecomment-1560139586)
+- Clock in (Stellar)
+- 2:13 PM
+- [Updated fuzzing pr](https://github.com/stellar/rs-soroban-sdk/pull/957/commits/684bf799461eebb66b099c4fdc8162c13c331ed6)
+- 2:57 PM
+- Hacked on guest fuzzing
+- 3:32 PM
+- Clock out (Stellar)
+
 # 2023-05-21
 
 - Clock in (Stellar)
