@@ -5,6 +5,33 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-25
+
+- [Commented on dalek stack frames](https://github.com/dalek-cryptography/curve25519-dalek/issues/355#issuecomment-1563187957)
+- 10:28 PM
+- Clock in (Stellar)
+- 10:33 PM
+- Followed up on debug_assert pr
+- 10:37 PM
+- Clock out (Stellar)
+- Clock in (wasm-opt)
+- 2:34 PM
+- [Commented on in-memory binaryen modules](https://github.com/WebAssembly/binaryen/issues/5736#issuecomment-1563481003)
+- 2:48 PM
+- Clock out (wasm-opt)
+
+# 2023-05-24
+
+- Clock in (Stellar)
+- 5:18 PM
+- Investigated ed25519 syscall panic
+- 5:32 PM
+- Investigated status conversion failure
+- 5:43 PM
+- [Posted debug_assert removal](https://github.com/stellar/rs-soroban-env/pull/819)
+- 6:45 PM
+- Clock out (Stellar)
+
 # 2023-05-23
 
 - [Commented on curve25519-dalek issue](https://github.com/dalek-cryptography/curve25519-dalek/issues/355#issuecomment-1560139586)
