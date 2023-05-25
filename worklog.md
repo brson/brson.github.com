@@ -19,6 +19,20 @@ _This contains much of my open source activity since 2015._
 - [Commented on in-memory binaryen modules](https://github.com/WebAssembly/binaryen/issues/5736#issuecomment-1563481003)
 - 2:48 PM
 - Clock out (wasm-opt)
+- Clock in (Solana)
+- 3:00 PM
+- [Commented on bumping rust toolchain](https://github.com/solana-labs/move/pull/164#issuecomment-1563505541)
+- 3:07 PM
+- [Removed a bogus todo](https://github.com/solana-labs/move/pull/168)
+- 3:39 PM
+- Chatted about generics
+- 4:13 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 4:13 PM
+- Hacked on guest-side fuzzing for object int types
+- 4:29 PM
+- Clock out (Stellar)
 
 # 2023-05-24
 
