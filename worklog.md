@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-26
+
+- Clock in (wasm-opt)
+- 12:00 PM
+- [Commented on binaryen in-memory APIs](https://github.com/WebAssembly/binaryen/issues/5736#issuecomment-1564774075)
+- 12:40 PM
+- Clock out (wasm-opt)
+- Clock in (Stellar)
+- 2:10 PM
+- Hacked on fuzzing howto
+- 3:45 PM
+- Clock out (Stellar)
+
 # 2023-05-25
 
 - [Commented on dalek stack frames](https://github.com/dalek-cryptography/curve25519-dalek/issues/355#issuecomment-1563187957)
