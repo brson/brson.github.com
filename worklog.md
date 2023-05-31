@@ -5,6 +5,21 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-05-31
+
+- Clock in (Solana)
+- 12:16 PM
+- Hacked on rttydescs
+- 1:05 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 1:56 PM
+- [Submitted more runtime type descriptor work](https://github.com/solana-labs/move/pull/177)
+- 3:22 PM
+- [Reviewed a pr](https://github.com/solana-labs/move/pull/176#pullrequestreview-1454198205)
+- 3:32 PM
+- Clock out (Solana)
+
 # 2023-05-28
 
 - Clock in (Stellar)
