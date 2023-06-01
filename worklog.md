@@ -5,6 +5,26 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-06-01
+
+- Clock in (Stellar)
+- 2:48 PM
+- Reviewed pings and pr comments
+- 3:01 PM
+- Sent invoice
+- 3:08 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 3:15 PM
+- Sent invoice
+- 3:23 PM
+- Clock out (Solana)
+- Clock in (wasm-opt)
+- 3:23 PM
+- [Posted milestone delivery](https://github.com/w3f/Grant-Milestone-Delivery/pull/875)
+- 3:45 PM
+- Clock out (wasm-opt)
+
 # 2023-05-31
 
 - Clock in (Solana)
@@ -31,8 +51,9 @@ _This contains much of my open source activity since 2015._
 - Clock out (Solana)
 - Clock in (wasm-opt)
 - 6:00 PM
+- Hacked on binaryen 113 upgrade
 - Debugged failing conformance tests
-- 6:17 PM
+- 8:17 PM
 - Clock out (wasm-opt)
 
 # 2023-05-28
@@ -206,6 +227,7 @@ _This contains much of my open source activity since 2015._
 - Clock in (Solana)
 - 12:48 PM
 - [Commented on vect dtors](https://github.com/solana-labs/move/issues/148#issuecomment-1546149276)
+- 1:10 PM
 - Clock out (Solana)
 
 # 2023-05-11
@@ -362,7 +384,7 @@ _This contains much of my open source activity since 2015._
 - Clock in (Solana)
 - 4:15 PM
 - [Merged clippy fixes](https://github.com/solana-labs/move/pull/118)
-- 4:15 PM
+- 4:16 PM
 - Clock out (Solana)
 
 # 2023-05-02
