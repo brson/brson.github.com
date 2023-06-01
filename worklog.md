@@ -24,6 +24,11 @@ _This contains much of my open source activity since 2015._
 - [Posted milestone delivery](https://github.com/w3f/Grant-Milestone-Delivery/pull/875)
 - 3:45 PM
 - Clock out (wasm-opt)
+- Clock in (Solana)
+- 3:48 PM
+- [Posted updates to runtime types](https://github.com/solana-labs/move/pull/181)
+- 4:24 PM
+- Clock out (Solana)
 
 # 2023-05-31
 
