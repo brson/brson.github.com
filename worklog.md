@@ -19,6 +19,21 @@ _This contains much of my open source activity since 2015._
 - [Reviewed a pr](https://github.com/solana-labs/move/pull/176#pullrequestreview-1454198205)
 - 3:32 PM
 - Clock out (Solana)
+- Clock in (wasm-opt)
+- 3:45 PM
+- Debugged binaryen 113 upgrade
+- 4:10 PM
+- Clock out (wasm-opt)
+- Clock in (Solana)
+- 4:11 PM
+- [Commented on runtime type descriptor work](https://github.com/solana-labs/move/pull/177#issuecomment-1571032461)
+- 4:12 PM
+- Clock out (Solana)
+- Clock in (wasm-opt)
+- 6:00 PM
+- Debugged failing conformance tests
+- 6:17 PM
+- Clock out (wasm-opt)
 
 # 2023-05-28
 
