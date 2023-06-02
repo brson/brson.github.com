@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-06-02
+
+- Clock in (Solana)
+- 10:58 AM
+- Attended move meeting
+- 11:58 AM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 4:17 PM
+- [Read about VmInstantiation costs](https://github.com/stellar/rs-soroban-env/pull/825)
+- 4:50 PM
+- Clock out (Stellar)
+
 # 2023-06-01
 
 - Clock in (Stellar)
