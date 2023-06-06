@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-06-05
+
+- Clock in (wasm-opt)
+- 3:31 PM
+- [Merged binaryen 113 upgrade](https://github.com/brson/wasm-opt-rs/pull/145)
+- Debugged mac test failures
+- 4:05 PM
+- Clock out (wasm-opt)
+- Clock in (Stellar)
+- 4:20 PM
+- Hacked on guest-side fuzzer
+- 8:13 PM
+- Clock out (Stellar)
+
 # 2023-06-04
 
 - Clock in (Stellar)
