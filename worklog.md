@@ -8,6 +8,18 @@ _This contains much of my open source activity since 2015._
 # 2023-06-06
 
 - Clock in (Solana)
+- 2:56 PM
+- [Commented on license headers](https://github.com/solana-labs/move/issues/188#issuecomment-1581555463)
+- 3:50 PM
+- [Filed issue about struct type descriptors](https://github.com/solana-labs/move/issues/190)
+- 3:58 PM
+- [Commented on move bytecode_instruction](https://github.com/solana-labs/move/issues/187#issuecomment-1581579949)
+- 4:15 PM
+- Clock out (Solana)
+
+# 2023-06-06
+
+- Clock in (Solana)
 - 5:23 PM
 - [Investigated the bytecode_instruction attribute](https://github.com/solana-labs/move/issues/187)
 - 6:43 PM
