@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-06-06
+
+- Clock in (Solana)
+- 5:23 PM
+- [Investigated the bytecode_instruction attribute](https://github.com/solana-labs/move/issues/187)
+- 6:43 PM
+- Clock out (Solana)
+
 # 2023-06-05
 
 - Clock in (wasm-opt)
