@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-06-08
+
+- Clock in (Stellar)
+- 9:46 AM
+- [Commented on fuzzing patch](https://github.com/stellar/rs-soroban-sdk/pull/957#issuecomment-1584832373)
+- 10:15 AM
+- [Fixed oom in log_from_linear_memory](https://github.com/stellar/rs-soroban-env/pull/845)
+- 1:01 PM
+- Clock out (Stellar)
+
 # 2023-06-07
 
 - Clock in (Solana)
@@ -16,6 +26,12 @@ _This contains much of my open source activity since 2015._
 - [Commented on move bytecode_instruction](https://github.com/solana-labs/move/issues/187#issuecomment-1581579949)
 - 4:15 PM
 - Clock out (Solana)
+- [Posted dada lockfile update](https://github.com/dada-lang/dada/pull/229)
+- 5:43 PM
+- [Merged a dada pr](https://github.com/dada-lang/dada/pull/228)
+- 5:44 PM
+- [Merged a dada pr](https://github.com/dada-lang/dada/pull/225)
+- 5:48 PM
 
 # 2023-06-06
 
