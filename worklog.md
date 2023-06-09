@@ -8,11 +8,21 @@ _This contains much of my open source activity since 2015._
 # 2023-06-08
 
 - Clock in (Stellar)
+- 7:46 AM
+- Rebased guest-fuzz patches
 - 9:46 AM
 - [Commented on fuzzing patch](https://github.com/stellar/rs-soroban-sdk/pull/957#issuecomment-1584832373)
 - 10:15 AM
 - [Fixed oom in log_from_linear_memory](https://github.com/stellar/rs-soroban-env/pull/845)
 - 1:01 PM
+- [Read secp256k1 / keccak pr](https://github.com/stellar/rs-soroban-env/pull/839)
+- 1:57 PM
+- [Commented on secp256k1 signature malleability](https://github.com/stellar/rs-soroban-env/pull/839#issuecomment-1585084432)
+- 2:47 PM
+- [Commented on log_from_linear_memory](https://github.com/stellar/rs-soroban-env/pull/845#issuecomment-1585103102)
+- 2:48 PM
+- Responded to email
+- 2:55 PM
 - Clock out (Stellar)
 
 # 2023-06-07
