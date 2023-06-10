@@ -5,7 +5,21 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
-# 2023-06-08
+# 2023-06-10
+
+- Clock in (Stellar)
+- 11:51 AM
+- Hacked on fuzzing howto
+- [Posted Error conversion patch](https://github.com/stellar/rs-soroban-env/pull/846)
+- 12:50 PM
+- [Rebased fuzzing patches](https://github.com/stellar/rs-soroban-sdk/pull/957#issuecomment-1585771335)
+- 12:58 PM
+- Reviewed and commented on issues
+- Hacked on fuzzing examples and howto
+- 1:53 PM
+- Clock out (Stellar)
+
+# 2023-06-09
 
 - Clock in (Stellar)
 - 7:46 AM
