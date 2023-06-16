@@ -5,6 +5,28 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-06-16
+
+- Clock in (Stellar)
+- 9:50 AM
+- Hacked on guest fuzzer
+- 10:50 AM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 10:50 AM
+- Attended move mtg
+- 11:34 AM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 12:15 PM
+- Hacked on guest fuzzer
+- 12:40 PM
+- [Filed issue about ScVec stack overflow](https://github.com/stellar/rs-soroban-env/issues/861)
+- 1:16 PM
+- [Commentod about stack overflow via guest](https://github.com/stellar/rs-soroban-env/issues/861#issuecomment-1595213869)
+- 1:58 PM
+- Clock out (Stellar)
+
 # 2023-06-12
 
 - Clock in (Stellar)
