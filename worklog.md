@@ -14,6 +14,13 @@ _This contains much of my open source activity since 2015._
 - [Rebased arbitrary pr](https://github.com/stellar/rs-soroban-sdk/pull/957#issuecomment-1597571056)
 - 12:13 PM
 - Clock out (Stellar)
+- Clock in (Stellar)
+- 12:45 PM
+- Hacked on fuzzing howto
+- 1:07 PM
+- Began reading the blend whitepaper
+- 1:20 PM
+- Clock out (Stellar)
 
 # 2023-06-16
 
