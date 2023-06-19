@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-06-19
+
+- Clock in (Stellar)
+- 11:14 AM
+- [Commented on ecdsa malleability](https://github.com/stellar/rs-soroban-env/pull/839#issuecomment-1597521771)
+- 11:25 AM
+- [Rebased arbitrary pr](https://github.com/stellar/rs-soroban-sdk/pull/957#issuecomment-1597571056)
+- 12:13 PM
+- Clock out (Stellar)
+
 # 2023-06-16
 
 - Clock in (Stellar)
