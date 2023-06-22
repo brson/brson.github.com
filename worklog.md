@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-06-22
+
+- Clock in (Stellar)
+- 2:35 PM
+- Followed up on prs and issues
+- 2:54 PM
+- Rebased fuzzing examples
+- Rebased fuzzing howto
+- 3:26 PM
+- Hacked on fuzzing example
+- 5:43 PM
+- Clock out (Stellar)
+
 # 2023-06-19
 
 - Clock in (Stellar)
