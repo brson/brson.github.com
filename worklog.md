@@ -5,6 +5,24 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-06-24
+
+- Clock in (Stellar)
+- 12:24 PM
+- Hacked on fuzzing examples
+- [Posted pr to derive more traits for generated SorobanArbitrary types
+- Hacked on fuzzing howto
+- 1:41 PM
+- Clock out (Stellar)
+
+# 2023-06-23
+
+- Clock in (Stellar)
+- 12:28 PM
+- Hacked on fuzzing example
+- 1:33 PM
+- Clock out (Stellar)
+
 # 2023-06-22
 
 - Clock in (Stellar)
