@@ -18,17 +18,19 @@ _This contains much of my open source activity since 2015._
 - 3:59 PM
 - Debugged guest-fuzzer
 - 4:41 PM
+- Sent status update
+- 4:51 PM
 - Clock out (Stellar)
 
 # 2023-06-24
 
 - Clock in (Stellar)
-- 11::24 PM
+- 11:24 AM
 - Rebased guest-fuzzer
 - Wrote guest-side map fuzzer
 - 12:24 PM
 - Hacked on fuzzing examples
-- [Posted pr to derive more traits for generated SorobanArbitrary types
+- Posted pr to derive more traits for generated SorobanArbitrary types
 - Hacked on fuzzing howto
 - 1:41 PM
 - Clock out (Stellar)
