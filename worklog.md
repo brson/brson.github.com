@@ -12,10 +12,20 @@ _This contains much of my open source activity since 2015._
 - Hacked on fuzzing example and docs
 - 1:25 PM
 - Clock out (Stellar)
+- Clock in (Stellar)
+- 2:55 PM
+- Hacked on fuzzing example and docs
+- 3:59 PM
+- Debugged guest-fuzzer
+- 4:41 PM
+- Clock out (Stellar)
 
 # 2023-06-24
 
 - Clock in (Stellar)
+- 11::24 PM
+- Rebased guest-fuzzer
+- Wrote guest-side map fuzzer
 - 12:24 PM
 - Hacked on fuzzing examples
 - [Posted pr to derive more traits for generated SorobanArbitrary types
