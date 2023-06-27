@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-06-27
+
+- Clock in (Stellar)
+- 5:05 PM
+- Updated fuzzing example for soroban-sdk 0.9
+- 5:39 PM
+- Clock out (Stellar)
+
 # 2023-06-26
 
 - Clock in (Stellar)
@@ -20,6 +28,8 @@ _This contains much of my open source activity since 2015._
 - 4:41 PM
 - Sent status update
 - 4:51 PM
+- [Investigated stack overflows](https://github.com/stellar/rs-soroban-env/issues/861#issuecomment-1608481776)
+- 5:53 PM
 - Clock out (Stellar)
 
 # 2023-06-24
