@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-06-28
+
+- Clock in (Solana)
+- 12:24 PM
+- [Submitted build fix for bcs fork](https://github.com/Entropy-Foundation/bcs/pull/1)
+- 1:05 PM
+- [Hacked on bcs support for move-native](https://github.com/solana-labs/move/issues/128#issuecomment-1611948108)
+- 1:28 PM
+- Clock out (Solana)
+
 # 2023-06-27
 
 - Clock in (Stellar)
