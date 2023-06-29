@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-06-29
+
+- Clock in (Solana)
+- 3:14 PM
+- Hacked on serialization
+- 4:23 PM
+- Clock out (Solana)
+
 # 2023-06-28
 
 - Clock in (Solana)
@@ -13,6 +21,11 @@ _This contains much of my open source activity since 2015._
 - 1:05 PM
 - [Hacked on bcs support for move-native](https://github.com/solana-labs/move/issues/128#issuecomment-1611948108)
 - 1:28 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 5:33 PM
+- Hacked on move serialization
+- 6:22 PM
 - Clock out (Solana)
 
 # 2023-06-27
