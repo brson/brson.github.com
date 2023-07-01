@@ -5,6 +5,26 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-06-30
+
+- Clock in (Stellar)
+- 2:13 PM
+- Read about flux
+- 2:20 PM
+- Clock out (Stellar)
+- Clock in (wasm-opt)
+- 9:41 PM
+- [Commented on gcc 13 build failure report](https://github.com/brson/wasm-opt-rs/issues/147#issuecomment-1615444454)
+- 9:53 PM
+- Published wasm-opt-rs 0.113.0
+- 10:52 PM
+- [Posted pr to upgrade cargo-contract to wasm-opt 113](https://github.com/paritytech/cargo-contract/pull/1188)
+- [Posted pr to upgrade substrate to wasm-opt 113](https://github.com/paritytech/substrate/pull/14485)
+- 10:31 PM
+- Clock out (wasm-opt)
+- [Posted pr to upgrade soroban-tools to wasm-opt 113](https://github.com/stellar/soroban-tools/pull/736)
+- 11:32 PM
+
 # 2023-06-29
 
 - Clock in (Solana)
