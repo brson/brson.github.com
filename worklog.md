@@ -5,6 +5,61 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-07-05
+
+- Clock in (Stellar)
+- 11:04 AM
+- Sent invoice
+- 11:22 AM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 11:25 AM
+- Sent invoice
+- 11:28 AM
+- Clock out (Solana)
+- Clock in (wasm-opt)
+- 11:28 AM
+- Sent invoice
+- [Sent status report](https://github.com/w3f/Grant-Milestone-Delivery/pull/909)
+- 11:43 AM
+- Clock out (wasm-opt)
+- Clock in (Solana)
+- 6:20 PM
+- [Commented on serialization](https://github.com/solana-labs/move/issues/128#issuecomment-1622739943)
+- 6:36 PM
+- Clock out (Solana)
+
+# 2023-07-03
+
+- Clock in (Stellar)
+- 12:15 PM
+- Applied for stellar meridian
+- 12:59 PM
+- [Commented on soroban-examples pr](https://github.com/stellar/soroban-examples/pull/265#discussion_r1251202588)
+- 1:04 PM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 3:26 PM
+- [Commented on soroban-examples pr](https://github.com/stellar/soroban-examples/pull/265#discussion_r1251295635)
+- 3:44 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 3:44 PM
+- [Hacked on move serialization](https://github.com/solana-labs/move/issues/128#issuecomment-1619233916)
+- 4:56 PM
+- Clock out (Solana)
+
+# 2023-07-01
+
+- Clock in (Stellar)
+- 3:27 PM
+- [Posted soroban fuzzing example](https://github.com/stellar/soroban-examples/pull/265)
+- [Posted soroban fuzzing docs](https://github.com/stellar/soroban-docs/pull/486)
+- 4:00 PM
+- Tweaked fuzzing examples and doc prs
+- 4:13 PM
+- Clock out (Stellar)
+
 # 2023-06-30
 
 - Clock in (Stellar)
