@@ -5,6 +5,21 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-07-06
+
+- Clock in (Stellar)
+- 3:18 PM
+- Brainstormed new ideas
+- 3:56 PM
+- Chatted with tomer
+- 4:08 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 4:08 PM
+- [Posted move serialization pr](https://github.com/solana-labs/move/pull/219)
+- 6:43 PM
+- Clock out (Solana)
+
 # 2023-07-05
 
 - Clock in (Stellar)
@@ -28,6 +43,11 @@ _This contains much of my open source activity since 2015._
 - [Commented on serialization](https://github.com/solana-labs/move/issues/128#issuecomment-1622739943)
 - 6:36 PM
 - Clock out (Solana)
+- Clock in (Stellar)
+- 6:59 PM
+- [Read the stack overflow patch](https://github.com/stellar/rs-soroban-env/pull/904)
+- 7:06 PM
+- Clock out (Stellar)
 
 # 2023-07-03
 
