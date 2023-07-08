@@ -12,7 +12,7 @@ _This contains much of my open source activity since 2015._
 - [Filed issue to reorganize move-native](https://github.com/solana-labs/move/issues/223)
 - 1:01 PM
 - [Posted pr to serialize vectors of structs](https://github.com/solana-labs/move/pull/224)
-- 2:19 PM
+- 2:31 PM
 - Clock out (Solana)
 
 # 2023-07-07
