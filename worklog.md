@@ -5,6 +5,28 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-07-08
+
+- Clock in (Solana)
+- 12:32 PM
+- [Filed issue to reorganize move-native](https://github.com/solana-labs/move/issues/223)
+- 1:01 PM
+- [Posted pr to serialize vectors of structs](https://github.com/solana-labs/move/pull/224)
+- 2:19 PM
+- Clock out (Solana)
+
+# 2023-07-07
+
+- Clock in (Solana)
+- 11:31 AM
+- [Merged serialization patch](https://github.com/solana-labs/move/pull/219)
+- [Filed bug about vector comparison](https://github.com/solana-labs/move/issues/220)
+- [Filed bug about serialization format](https://github.com/solana-labs/move/issues/221)
+- 12:47 PM
+- [Filed a bug about serialization allocation](https://github.com/solana-labs/move/issues/222)
+- 1:01 PM
+- Clock out (Solana)
+
 # 2023-07-06
 
 - Clock in (Stellar)
