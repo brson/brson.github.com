@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-07-10
+
+- Clock in (Stellar)
+- 3:46 PM
+- [Posted pr for duration and timepoint arbitrary impls](https://github.com/stellar/rs-soroban-sdk/pull/1032)
+- 5:14 PM
+- Sent status update
+- 5:21 PM
+- Clock out (Stellar)
+
 # 2023-07-08
 
 - Clock in (Solana)
