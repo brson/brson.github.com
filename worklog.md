@@ -13,6 +13,8 @@ _This contains much of my open source activity since 2015._
 - 12:28 PM
 - [Commented on runtime refactoring](https://github.com/solana-labs/move/issues/223#issuecomment-1631323531)
 - 12:41 PM
+- [Posted pr to remove allocations for move-native serialization](https://github.com/solana-labs/move/pull/231)
+- 1:07 PM
 - Clock out (Solana)
 
 # 2023-07-10
