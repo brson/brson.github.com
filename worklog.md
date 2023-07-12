@@ -17,6 +17,8 @@ _This contains much of my open source activity since 2015._
 - 3:49 PM
 - [Posted another move-native cleanup pr](https://github.com/solana-labs/move/pull/236)
 - 4:03 PM
+- [Filed bug about move-native formatting](https://github.com/solana-labs/move/issues/237)
+- 4:05 PM
 - Clock out (Solana)
 
 # 2023-07-11
