@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-07-12
+
+- Clock in (Solana)
+- 2:34 PM
+- [Merged allocation pr](https://github.com/solana-labs/move/pull/231)
+- 2:38 PM
+- [Posted pr to split move-native modules](https://github.com/solana-labs/move/pull/234)
+- 2:46 PM
+- [Filed bug about extern C decls](https://github.com/solana-labs/move/issues/235)
+- 3:49 PM
+- [Posted another move-native cleanup pr](https://github.com/solana-labs/move/pull/236)
+- 4:03 PM
+- Clock out (Solana)
+
 # 2023-07-11
 
 - Clock in (Solana)
@@ -15,6 +29,11 @@ _This contains much of my open source activity since 2015._
 - 12:41 PM
 - [Posted pr to remove allocations for move-native serialization](https://github.com/solana-labs/move/pull/231)
 - 1:07 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 2:50 PM
+- Hacked on runtime cleanup
+- 3:08 PM
 - Clock out (Solana)
 
 # 2023-07-10
