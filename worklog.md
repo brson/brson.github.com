@@ -5,6 +5,24 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-07-13
+
+- Clock in (Stellar)
+- 12:33 PM
+- Pinged mootz about fuzzing blend contracts.
+- 12:54 PM
+- Chatted w/ graydon
+- Chatted w/ mootz
+- 1:30 PM
+- [Closed log_from_linear_memory pr](https://github.com/stellar/rs-soroban-env/pull/845#issuecomment-1634802498)
+- 1:36 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 4:41 PM
+- Hacked on move-native
+- 5:53 PM
+- Clock out (Solana)
+
 # 2023-07-12
 
 - Clock in (Solana)
