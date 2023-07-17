@@ -5,6 +5,21 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-07-17
+
+- Clock in (Stellar)
+- 11:52 AM
+- Experimented with blend fuzzing
+- 1:13 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 3:04 PM
+- [Reviewed move rttydesc cleanup](https://github.com/solana-labs/move/pull/239#pullrequestreview-1533701103)
+- 3:07 PM
+- [Posted another runtime cleanup patch](https://github.com/solana-labs/move/pull/241)
+- 3:57 PM
+- Clock out (Solana)
+
 # 2023-07-14
 
 - Clock in (Solana)
