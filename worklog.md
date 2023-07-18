@@ -5,6 +5,21 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-07-18
+
+- Clock in (Stellar)
+- 1:00 PM
+- Chatted with mootz
+- 1:21 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 2:26 PM
+- [Merged runtime cleanup pr](https://github.com/solana-labs/move/pull/241)
+- 2:27 PM
+- [Posted pr to put move-native in workspace](https://github.com/solana-labs/move/pull/244)
+- 3:21 PM
+- Clock out (Solana)
+
 # 2023-07-17
 
 - Clock in (Stellar)
