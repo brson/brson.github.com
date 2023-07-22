@@ -5,6 +5,39 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-07-21
+
+- Clock in (Stellar)
+- 10:00 AM
+- Hacked on budget-wall-clock soroban experiment
+- 2:00 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 2:22 PM
+- [Reworked move-native cleanup pr](https://github.com/solana-labs/move/pull/244)
+- 2:35 PM
+- [Merged move-native cleanup pr](https://github.com/solana-labs/move/pull/244)
+- 2:58 PM
+- [Reviewed refactoring pr](https://github.com/solana-labs/move/pull/248#pullrequestreview-1541853971)
+- 3:10 PM
+- [Reviewed doc pr](https://github.com/solana-labs/move/pull/240#pullrequestreview-1541856180)
+- 3:13 PM
+- [Filed issue about move-native unsafety](https://github.com/solana-labs/move/issues/249)
+- 4:34 PM
+- Hacked on vector refactoring
+- 6:13 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 7:04 PM
+- Hacked on vector refactoring
+- 7:33 PM
+- Clock out (Solana)
+- Clock in (Solana)
+- 8:43 PM
+- Hacked on vector refactoring
+- 10:19 PM
+- Clock out (Solana)
+
 # 2023-07-19
 
 - Clock in (Stellar)
@@ -14,6 +47,8 @@ _This contains much of my open source activity since 2015._
 - Hacked on blend fuzzing
 - 4:19 PM
 - Clock out (Stellar)
+- [Posted stellar-xdr doc cleanup pr](https://github.com/stellar/stellar-xdr/pull/126)
+- 11:23 PM
 
 # 2023-07-18
 
