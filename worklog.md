@@ -5,6 +5,37 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-07-25
+
+- Clock in (Stellar)
+- 1:00 PM
+- Booked meridian accomodations
+- 2:12 PM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 3:30 PM
+- Looked at results of cpu budget timing experiment
+- 3:47 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 3:47 PM
+- Hacked on vector refactoring
+- 4:42 PM
+- Clock out (Solana)
+
+
+# 2023-07-24
+
+- Clock in (Stellar)
+- 3:08 PM
+- Applied for meridian ticket
+- Chatted with tomer
+- Chatted with mootz
+- 3:16 PM
+- Worked on meridian bookings
+- 4:21 PM
+- Clock out (Stellar)
+
 # 2023-07-22
 
 - Clock in (Solana)
