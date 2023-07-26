@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-07-26
+
+- Clock in (wasm-opt)
+- 2:13 PM
+- [Commented on build caching](https://github.com/brson/wasm-opt-rs/issues/148#issuecomment-1652467717)
+- 2:44 PM
+- [Debugged binaryen unicode patch](https://github.com/WebAssembly/binaryen/pull/5671#issuecomment-1652558434)
+- 4:03 PM
+- Clock out (wasm-opt)
+
 # 2023-07-25
 
 - Clock in (Stellar)
@@ -22,7 +32,6 @@ _This contains much of my open source activity since 2015._
 - Hacked on vector refactoring
 - 4:42 PM
 - Clock out (Solana)
-
 
 # 2023-07-24
 
