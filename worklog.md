@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-07-27
+
+- Clock in (Solana)
+- 2:06 PM
+- Attempted to rebase onto upstream/aptos-main
+- 4:36 PM
+- Clock out (Solana)
+
 # 2023-07-26
 
 - Clock in (wasm-opt)
@@ -14,6 +22,8 @@ _This contains much of my open source activity since 2015._
 - [Debugged binaryen unicode patch](https://github.com/WebAssembly/binaryen/pull/5671#issuecomment-1652558434)
 - 4:03 PM
 - Clock out (wasm-opt)
+- Hacked on soral
+- 10:42 PM
 
 # 2023-07-25
 
