@@ -5,6 +5,26 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-07-31
+
+- Clock in (wasm-opt)
+- 2:03 PM
+- [Upgraded binaryen to 114](https://github.com/brson/wasm-opt-rs/pull/149)
+- Published wasm-opt-rs 0.114.0
+- 3:51 PM
+- Hacked on wasm-opt upgrades to substrate and cargo-contract
+- 5:46 PM
+- Clock out (wasm-opt)
+- [Updated wasm-opt in soroban-tools](https://github.com/stellar/soroban-tools/pull/825)
+- Clock in (wasm-opt)
+- 6:48 PM
+- [Closed old substrate wasm-opt 113 pr](https://github.com/paritytech/substrate/pull/14485)
+- [Updated substrate to wasm-opt 114](https://github.com/paritytech/substrate/pull/14695)
+- 7:22 PM
+- [Updated cargo-contract to wasm-opt 114](https://github.com/paritytech/cargo-contract/pull/1252)
+- 7:40 PM
+- Clock out (wasm-opt)
+
 # 2023-07-29
 
 - Clock in (Solana)
