@@ -18,6 +18,8 @@ _This contains much of my open source activity since 2015._
 - 1:29 PM
 - Hacked on blend fuzzing
 - 3:17 PM
+- Hacked on budget-wallclock testing
+- 3:48 PM
 - Clock out (Stellar)
 
 # 2023-07-31
