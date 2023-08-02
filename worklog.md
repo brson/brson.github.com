@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-08-02
+
+- Clock in (Stellar)
+- 11:51 AM
+- [Rebased budget fix](https://github.com/stellar/rs-soroban-sdk/pull/1033#issuecomment-1662713004)
+- 12:08 PM
+- [Rebased arbitrary duration/timepoint patch](https://github.com/stellar/rs-soroban-sdk/pull/1032#issuecomment-1662718650)
+- 12:12 PM
+- Clock out (Stellar)
+
 # 2023-07-31
 
 - Clock in (wasm-opt)
