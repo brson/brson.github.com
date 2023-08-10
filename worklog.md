@@ -5,12 +5,52 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-08-10
+
+- Clock in (Stellar)
+- 1:07 PM
+- Chatted with mootz
+- 1:14 PM
+- Clock out (Stellar)
+- Clock in (wasm-opt)
+- 1:14 PM
+- [Responded to wasm-opt feature question](https://github.com/paritytech/cargo-contract/issues/1239#issuecomment-1673789370)
+- 1:29 PM
+- Clock out (wasm-opt)
+- Clock in (Stellar)
+- 1:29 PM
+- Chatted with mootz
+- Looked for new fuzzing tasks
+- 1:59 PM
+- Clock out (Stellar)
+- Clock in (wasm-opt)
+- 2:00 PM
+- [Commented on cargo-contract sign extension](https://github.com/paritytech/cargo-contract/issues/1239#issuecomment-1673837119)
+- 2:09 PM
+- Clock out (wasm-opt)
+- Clock in (Stellar)
+- 2:09 PM
+- [Filed issue about adversarial arbitrary values](https://github.com/stellar/rs-soroban-sdk/issues/1052)
+- 2:43 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 4:11 PM
+- [Merged vector refactoring pr](https://github.com/solana-labs/move/pull/261)
+- 4:30 PM
+- [Hacked on testing stdlib](https://github.com/solana-labs/move/issues/196)
+- 5:03 PM
+- Clock out (Solana)
+
 # 2023-08-07
 
 - Clock in (Stellar)
 - 2:31 PM
 - Hacked on fuzzing slides
 - 2:47 PM
+- Hacked on cpu budget timing tests
+- 5:05 PM
+- Sent status update
+- 5:26 PM
 - Clock out (Stellar)
 
 # 2023-08-05
