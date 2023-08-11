@@ -18,6 +18,8 @@ _This contains much of my open source activity since 2015._
 - 4:41 PM
 - [Reviewed wasm-opt dwarf patch](https://github.com/brson/wasm-opt-rs/pull/151#issuecomment-1675496661)
 - 5:04 PM
+- Thought about how to cache cc build results
+- 5:52 PM
 - Clock out (wasm-opt)
 
 # 2023-08-10
