@@ -5,6 +5,21 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-08-11
+
+- Clock in (Solana)
+- 10:58 AM
+- Attended move mtg
+- 11:30 AM
+- Clock out (Solana)
+- Clock in (wasm-opt)
+- 4:19 PM
+- [Merged wasm-opt pr](https://github.com/brson/wasm-opt-rs/pull/152#issuecomment-1675481468)
+- 4:41 PM
+- [Reviewed wasm-opt dwarf patch](https://github.com/brson/wasm-opt-rs/pull/151#issuecomment-1675496661)
+- 5:04 PM
+- Clock out (wasm-opt)
+
 # 2023-08-10
 
 - Clock in (Stellar)
