@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-08-12
+
+- Clock in (Stellar)
+- 2:27 PM
+- Hacked on slides
+- 3:51 PM
+- Clock out (Stellar)
+
 # 2023-08-11
 
 - Clock in (Solana)
