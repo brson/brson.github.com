@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-08-14
+
+- Clock in (Stellar)
+- 3:52 PM
+- Hacked on Blend fuzzing
+- Experimented with soroban error handling
+- Hacked on slides
+- 5:37 PM
+- Chatted with mootz
+- 5:48 PM
+- Sent status update
+- 5:59 PM
+- Clock out (Stellar)
+
 # 2023-08-13
 
 - Clock in (wasm-opt)
