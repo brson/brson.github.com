@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-08-13
+
+- Clock in (wasm-opt)
+- 3:39 PM
+- [Merged dwarf fixes](https://github.com/brson/wasm-opt-rs/pull/151#issuecomment-1676476545)
+- [Filed conformance test issue](https://github.com/brson/wasm-opt-rs/issues/153)
+- 4:16 PM
+- Published wasm-opt 0.114.1
+- 6:25 PM
+- Clock out (wasm-opt)
+
 # 2023-08-12
 
 - Clock in (Stellar)
