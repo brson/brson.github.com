@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-08-18
+
+- Clock in (Stellar)
+- 5:00 PM
+- [Responded to fuzzer macos linking error](https://github.com/stellar/rs-soroban-sdk/issues/1056#issuecomment-1684526562)
+- 5:39 PM
+- Clock out (Stellar)
+
 # 2023-08-17
 
 - Clock in (Stellar)
