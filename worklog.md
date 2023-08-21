@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-08-21
+
+- Clock in (Solana)
+- 12:39 PM
+- Hacked on testing move stdlib
+- [Posted pr to test move stdlib](https://github.com/solana-labs/move/pull/289)
+- 4:59 PM
+- Clock out (Solana)
+
 # 2023-08-18
 
 - Clock in (Stellar)
