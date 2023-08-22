@@ -13,6 +13,12 @@ _This contains much of my open source activity since 2015._
 - [Posted pr to test move stdlib](https://github.com/solana-labs/move/pull/289)
 - 5:12 PM
 - Clock out (Solana)
+- Clock in (Stellar)
+- 5:13 PM
+- [Fixed bug in Tag::is_object](https://github.com/stellar/rs-soroban-env/pull/1012)
+- Sent status update
+- 6:33 PM
+- Clock out (Stellar)
 
 # 2023-08-18
 
