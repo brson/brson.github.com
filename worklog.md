@@ -5,6 +5,23 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-08-24
+
+- Clock in (Solana)
+- 2:09 PM
+- [Commented on aptos patch](https://github.com/solana-labs/move/pull/274#issuecomment-1692356283)
+- 2:23 PM
+- [Deleted unused code](https://github.com/solana-labs/move/pull/302)
+- 2:41 PM
+- [Filed bug about symbol name disambiguation](https://github.com/solana-labs/move/issues/303)
+- 3:51 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 3:51 PM
+- [Filed pr to fix error handling in event externalization](https://github.com/stellar/rs-soroban-sdk/pull/1068)
+- 5:11 PM
+- Clock out (Stellar)
+
 # 2023-08-22
 
 - Clock in (Stellar)
