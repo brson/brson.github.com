@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-08-26
+
+- Clock in (Stellar)
+- 1:45 PM
+- [Commented on integration testing issue](https://github.com/stellar/soroban-docs/issues/553#issuecomment-1694489773)
+- 1:47 PM
+- Sent invoice for Meridien expenses
+- 2:13 PM
+- Clock out (Stellar)
+
 # 2023-08-25
 
 - Clock in (Solana)
