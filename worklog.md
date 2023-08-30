@@ -12,6 +12,13 @@ _This contains much of my open source activity since 2015._
 - Hacked on fuzzing slides
 - 1:45 PM
 - Clock out (Stellar)
+- Clock in (Stellar)
+- 5:11 PM
+- [Posted cleanup pr to blend](https://github.com/blend-capital/blend-contracts/pull/124)
+- 5:44 PM
+- Hacked on blend fuzzing
+- 6:12 PM
+- Clock out (Stellar)
 
 # 2023-08-28
 
