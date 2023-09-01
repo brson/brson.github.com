@@ -5,6 +5,28 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-08-31
+
+- Clock in (wasm-opt)
+- 12:09 PM
+- [Commented on build caching in wasm-opt-rs](https://github.com/brson/wasm-opt-rs/issues/148#issuecomment-1701536008)
+- 12:12 PM
+- [Closed old unicode binaryen patch](https://github.com/WebAssembly/binaryen/pull/5514#issuecomment-1701581808)
+- 12:47 PM
+- [Posted another fix for binaryen unicode patch](https://github.com/WebAssembly/binaryen/pull/5671#issuecomment-1701621675)
+- 1:22 PM
+- Clock out (wasm-opt)
+- Clock in (Stellar)
+- 1:59 PM
+- Hacked on adversarial arbitrary implementations
+- Investigated event extenalization and bad objects
+- [Closed event/logs issue](https://github.com/stellar/rs-soroban-sdk/pull/1068#issuecomment-1701861773)
+- 4:26 PM
+- [Posted pr to avoid iloop externalizing diagnostics](https://github.com/stellar/rs-soroban-env/pull/1028)
+- [Filed issue about more checks in check_val_integrity](https://github.com/stellar/rs-soroban-env/issues/1029)
+- 7:45 PM
+- Clock out (Stellar)
+
 # 2023-08-30
 
 - Clock in (Solana)
