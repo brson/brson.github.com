@@ -5,6 +5,28 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-09-02
+
+- Clock in (Stellar)
+- 1:14 PM
+- [Reworked broken object iloop patch](https://github.com/stellar/rs-soroban-env/pull/1028#discussion_r1313963461)
+- 1:36 PM
+- [Updated adversarial fuzzing issue](https://github.com/stellar/rs-soroban-sdk/issues/1052#issuecomment-1703925398)
+- 1:59 PM
+- [Closed stale blend pr](https://github.com/blend-capital/blend-contracts/pull/124)
+- 2:26 PM
+- Updated blend fuzzer
+- 2:28 PM
+- [Updated doc issue with fuzzing practices](https://github.com/stellar/soroban-examples/issues/199#issuecomment-1703942786)
+- 3:22 PM
+- Hacked on blend fuzzing
+- Updated fuzzing blog
+- Updated fuzzing slide
+- 3:32 PM
+- Updated mootz on blend fuzzing
+- 3:35 PM
+- Clock out (Stellar)
+
 # 2023-08-31
 
 - Clock in (wasm-opt)
