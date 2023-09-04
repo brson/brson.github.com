@@ -5,6 +5,35 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-09-04
+
+- Clock in (Stellar)
+- 12:33 PM
+- Practiced fuzz talk
+- 1:30 PM
+- Responded to email
+- 1:44 PM
+- Sent invoice
+- 1:55 PM
+- Sent update
+- 2:06 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 2:06 PM
+- [Responded to mutex issue](https://github.com/solana-labs/move/issues/320#issuecomment-1705672535)
+- 2:18 PM
+- [Revied generic struct fixes](https://github.com/solana-labs/move/pull/316#pullrequestreview-1609938097)
+- 2:32 PM
+- Submitted invoice
+- 2:41 PM
+- Clock out (Solana)
+- Clock in (wasm-opt)
+- 2:41 PM
+- Submitted invoice
+- [Posted delivery PR](https://github.com/w3f/Grant-Milestone-Delivery/pull/995)
+- 3:14 PM
+- Clock out (wasm-opt)
+
 # 2023-09-02
 
 - Clock in (Stellar)
@@ -24,7 +53,7 @@ _This contains much of my open source activity since 2015._
 - Updated fuzzing slide
 - 3:32 PM
 - Updated mootz on blend fuzzing
-- 3:35 PM
+- 3:40 PM
 - Clock out (Stellar)
 
 # 2023-08-31
