@@ -33,6 +33,13 @@ _This contains much of my open source activity since 2015._
 - [Posted delivery PR](https://github.com/w3f/Grant-Milestone-Delivery/pull/995)
 - 3:14 PM
 - Clock out (wasm-opt)
+- Hacked on soral
+- 5:21 PM
+- Clock in (Stellar)
+- 8:31 PM
+- Investigated stellar asset contract integration with stellar-core
+- 9:35 PM
+- Clock out (Stellar)
 
 # 2023-09-02
 
