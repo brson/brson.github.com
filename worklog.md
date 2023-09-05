@@ -42,6 +42,9 @@ _This contains much of my open source activity since 2015._
 - Chatted with Graydon
 - 9:47 PM
 - Clock out (Stellar)
+- Hacked on soral
+- Hacked on rustx
+- 10:49 PM
 
 # 2023-09-02
 
