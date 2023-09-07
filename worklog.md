@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-09-06
+
+- Clock in (Stellar)
+- 6:09 PM
+- Chatted w/ graydon
+- Experimented with mirai
+- 6:38 PM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 7:51 PM
+- Experimented with mirai
+- 7:54 PM
+- Clock out (Stellar)
+
 # 2023-09-04
 
 - Clock in (Stellar)
