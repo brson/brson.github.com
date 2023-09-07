@@ -5,6 +5,22 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-09-07
+
+- Clock in (Solana)
+- 12:13 PM
+- [Filed issue about broken rbpf-tests](https://github.com/solana-labs/move/issues/343)
+- 12:48 PM
+- [Posted pr to fix rbpf-tests' regex](https://github.com/solana-labs/move/pull/344/files)
+- 1:40 PM
+- [Investigated symbol naming problems](https://github.com/solana-labs/move/issues/303#issuecomment-1710751718)
+- 2:47 PM
+- [Filed issue about stripping symbol names](https://github.com/solana-labs/move/issues/345)
+- 3:11 PM
+- Investigating large symbol names
+- 4:04 PM
+- Clock out (Solana)
+
 # 2023-09-06
 
 - Clock in (Stellar)
