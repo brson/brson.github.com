@@ -13,6 +13,10 @@ _This contains much of my open source activity since 2015._
 - 2:46 PM
 - Worked on slides
 - 3:18 PM
+- Chatted w/ mootz
+- 3:32 PM
+- [Posted fuzzing patches for blend](https://github.com/blend-capital/blend-contracts/pull/127)
+- 4:28 PM
 - Clock out (Stellar)
 
 # 2023-09-08
