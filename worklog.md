@@ -5,6 +5,32 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-09-14
+
+- Clock in (Solana)
+- 9:30 AM
+- Attended mv mtg
+- 10:37 AM
+- Clock out (Solana)
+- Clock in (wasm-opt)
+- 12:19 PM
+- [Tested windows unicode binaryen patch](https://github.com/WebAssembly/binaryen/pull/5671#issuecomment-1720071079)
+- 2:08 PM
+- [Investigated wasm-opt/llvm linkage issue](https://github.com/brson/wasm-opt-rs/issues/154#issuecomment-1720135560)
+- 2:59 PM
+- [Considered cc caching in wasm-opt](https://github.com/brson/wasm-opt-rs/issues/148#issuecomment-1720242399)
+- 5:02 PM
+- Clock out (wasm-opt)
+
+# 2023-09-12
+
+- Clock in (Stellar)
+- 5:05 PM
+- Updated slides
+- Sent slides to Leigh
+- 5:13 PM
+- Clock out (Stellar)
+
 # 2023-09-11
 
 - Clock in (Stellar)
