@@ -16,6 +16,13 @@ _This contains much of my open source activity since 2015._
 - [Hacked on vector dtor](https://github.com/solana-labs/move/issues/333)
 - 3:40 PM
 - Clock out (Solana)
+- Clock in (Solana)
+- 4:22 PM
+- [Filed issue about recursion limits](https://github.com/solana-labs/move/issues/367)
+- 4:55 PM
+- [Posted fix for vector dtors](https://github.com/solana-labs/move/pull/368)
+- 5:34 PM
+- Clock out (Solana)
 
 # 2023-09-14
 
