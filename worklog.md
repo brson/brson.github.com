@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-09-15
+
+- Clock in (Solana)
+- 12:37 PM
+- [Responded to issue about overlong move symbols](https://github.com/solana-labs/move/issues/303#issuecomment-1721699815)
+- 12:47 PM
+- [Reviewed storage example pr](https://github.com/solana-labs/move/pull/366/files#r1327666666)
+- 12:51 PM
+- [Hacked on vector dtor](https://github.com/solana-labs/move/issues/333)
+- 3:40 PM
+- Clock out (Solana)
+
 # 2023-09-14
 
 - Clock in (Solana)
