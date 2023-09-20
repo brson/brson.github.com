@@ -5,6 +5,40 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-09-20
+
+- Clock in (Stellar)
+- 12:49 PM
+- [Fixed a typo](https://github.com/stellar/rs-soroban-sdk/pull/1094)
+- 1:16 PM
+- Chatted w/ graydon
+- Chatted w/ mootz
+- 1:25 PM
+- Triaged emails
+- 1:40 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 1:49 PM
+- [Filed issue about truncating symbol names](https://github.com/solana-labs/move/issues/378)
+- 2:19 PM
+- [Reviewed entrypoint pr](https://github.com/solana-labs/move/pull/374#pullrequestreview-1636548298)
+- 3:37 PM
+- Clock out (Solana)
+
+# 2023-09-18
+
+- Clock in (Solana)
+- 8:58 AM
+- [Merged cleanup pr](https://github.com/solana-labs/move/pull/373)
+- 9:07 AM
+- [Reviewed cleaonup pr](https://github.com/solana-labs/move/pull/372#pullrequestreview-1631301566)
+- 9:08 AM
+- [Merged vector pr](https://github.com/solana-labs/move/pull/368)
+- 9:11 AM
+- Attended move mtg
+- 9:36 AM
+- Clock out (Solana)
+
 # 2023-09-15
 
 - Clock in (Solana)
