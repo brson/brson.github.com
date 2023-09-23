@@ -5,6 +5,24 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-09-22
+
+- Clock in (Stellar)
+- 4:36 PM
+- [Filed issue about only generating contract addresses](https://github.com/stellar/rs-soroban-sdk/issues/1096)
+- 5:38 PM
+- Hacked on native token fuzzing
+- 9:58 PM
+- Clock out (Stellar)
+
+# 2023-09-21
+
+- Clock in (Stellar)
+- 5:39 PM
+- Practiced talk
+- 6:18 PM
+- Clock out (Stellar)
+
 # 2023-09-20
 
 - Clock in (Stellar)
@@ -24,6 +42,11 @@ _This contains much of my open source activity since 2015._
 - [Reviewed entrypoint pr](https://github.com/solana-labs/move/pull/374#pullrequestreview-1636548298)
 - 3:37 PM
 - Clock out (Solana)
+- Clock in (Stellar)
+- 5:09 PM
+- Reviewed conference slides
+- 5:30 PM
+- Clock out (Stellar)
 
 # 2023-09-18
 
