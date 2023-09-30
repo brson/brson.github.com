@@ -5,6 +5,38 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-09-30
+
+- Clock in (Stellar)
+- 9:00 AM
+- Travel from Meridian (x ~0.5)
+- 3:00 PM
+- Clock out (Stellar)
+
+# 2023-09-28
+
+- Clock in (Stellar)
+- 9:00 AM
+- Meridian
+- 1:00 PM
+- Clock out (Stellar)
+
+# 2023-09-26
+
+- Clock in (Stellar)
+- 2:00 PM
+- Presented at Meridian
+- 6:00 PM
+- Clock out (Stellar)
+
+# 2023-09-24
+
+- Clock in (Stellar)
+- 9:00 AM
+- Travel to Meridian (x ~0.5)
+- 3:00 PM
+- Clock out (Stellar)
+
 # 2023-09-23
 
 - Clock in (Stellar)
