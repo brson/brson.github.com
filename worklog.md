@@ -5,11 +5,30 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-10-03
+
+- Clock in (Stellar)
+- 2:25 PM
+- Sent invoice
+- 2:40 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 2:40 PM
+- Sent invoice
+- 2:46 PM
+- Clock out (Solana)
+- Clock in (wasm-opt)
+- 2:47 PM
+- Sent invoice
+- [Posted milestone delivery](https://github.com/w3f/Grant-Milestone-Delivery/pull/1023)
+- 3:10 PM
+- Clock out (wasm-opt)
+
 # 2023-09-30
 
 - Clock in (Stellar)
 - 9:00 AM
-- Travel from Meridian (x ~0.5)
+- Travel from Meridian (x ~0.3)
 - 3:00 PM
 - Clock out (Stellar)
 
@@ -33,7 +52,7 @@ _This contains much of my open source activity since 2015._
 
 - Clock in (Stellar)
 - 9:00 AM
-- Travel to Meridian (x ~0.5)
+- Travel to Meridian (x ~0.3)
 - 3:00 PM
 - Clock out (Stellar)
 
