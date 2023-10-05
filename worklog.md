@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-10-05
+
+- Clock in (Solana)
+- 12:13 PM
+- [Posted fix for move symbol naming](https://github.com/solana-labs/move/pull/382)
+- 3:29 PM
+- Clock out (Solana)
+
 # 2023-10-03
 
 - Clock in (Stellar)
@@ -34,6 +42,8 @@ _This contains much of my open source activity since 2015._
 - [Filed a bug about proptest-arbitrary-interop quality](https://github.com/stellar/rs-soroban-sdk/issues/1105)
 - 6:02 PM
 - Clock out (Stellar)
+- [Commented on chamber](https://github.com/brson/rust-chamber/issues/1#issuecomment-1745966762)
+- 6:58 PM
 
 # 2023-09-30
 
