@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-10-11
+
+- Clock in (Stellar)
+- 12:02 PM
+- Hacked on token fuzzing
+- 1:35 PM
+- Clock out (Stellar)
+
 # 2023-10-06
 
 - Clock in (Solana)
@@ -58,14 +66,6 @@ _This contains much of my open source activity since 2015._
 - [Commented on chamber](https://github.com/brson/rust-chamber/issues/1#issuecomment-1745966762)
 - 6:58 PM
 
-# 2023-09-30
-
-- Clock in (Stellar)
-- 9:00 AM
-- Travel from Meridian (x ~0.3)
-- 3:00 PM
-- Clock out (Stellar)
-
 # 2023-09-28
 
 - Clock in (Stellar)
@@ -80,14 +80,6 @@ _This contains much of my open source activity since 2015._
 - 2:00 PM
 - Presented at Meridian
 - 6:00 PM
-- Clock out (Stellar)
-
-# 2023-09-24
-
-- Clock in (Stellar)
-- 9:00 AM
-- Travel to Meridian (x ~0.3)
-- 3:00 PM
 - Clock out (Stellar)
 
 # 2023-09-23
