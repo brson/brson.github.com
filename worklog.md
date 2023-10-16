@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-10-1
+
+- Clock in (wasm-opt)
+- 2:00 PM
+- Debugged macos build failure
+- 2:24 PM
+- [Commented on dwarf regression](https://github.com/brson/wasm-opt-rs/issues/154#issuecomment-1765229562)
+- [Planned fix for dwarf regression](https://gist.github.com/brson/6639532cbc15cf117dbb545cfdafbe92)
+- 2:45 PM
+- Clock out (wasm-opt)
+
 # 2023-10-15
 
 - Clock in (Stellar)
