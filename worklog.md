@@ -5,7 +5,7 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
-# 2023-10-1
+# 2023-10-16
 
 - Clock in (wasm-opt)
 - 2:00 PM
@@ -15,6 +15,11 @@ _This contains much of my open source activity since 2015._
 - [Planned fix for dwarf regression](https://gist.github.com/brson/6639532cbc15cf117dbb545cfdafbe92)
 - 2:46 PM
 - Clock out (wasm-opt)
+- Clock in (Stellar)
+- 6:03 PM
+- Practiced talk
+- 6:54 PM
+- Clock out (Stellar)
 
 # 2023-10-15
 
