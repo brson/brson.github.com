@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-10-17
+
+- Clock in (Stellar)
+- 11:48 AM
+- Presented fuzz testing on discord
+- 1:04 PM
+- Clock out (Stellar)
+
 # 2023-10-16
 
 - Clock in (wasm-opt)
