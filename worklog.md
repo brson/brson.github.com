@@ -5,6 +5,27 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-10-18
+
+- Clock in (wasm-opt)
+- 12:17 PM
+- [Updated wasm-opt ci](https://github.com/brson/wasm-opt-rs/pull/157)
+- 1:42 PM
+- [Merged pr to add dwarf feature to wasm-opt](https://github.com/brson/wasm-opt-rs/pull/156)
+- 3:45 PM
+- [Bumped wasm-opt to 0.114.2](https://github.com/brson/wasm-opt-rs/pull/158)
+- 3:58 PM
+- Published wasm-opt 0.114.2
+- 4:57 PM
+- [Merged 116 update](https://github.com/brson/wasm-opt-rs/pull/155)
+- 6:44 PM
+- [Filed issue about testing LLVM symbol names](https://github.com/brson/wasm-opt-rs/issues/159)
+- 6:47 PM
+- Published wasm-opt 0.116.0
+- [Updated LLVM linkage issue](https://github.com/brson/wasm-opt-rs/issues/154#issuecomment-1769743989)
+- 7:26 PM
+- Clock out (wasm-opt)
+
 # 2023-10-17
 
 - Clock in (Stellar)
