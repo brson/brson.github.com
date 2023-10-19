@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-10-19
+
+- Clock in (Solana)
+- 1:30 PM
+- [Reworked symbol name PR](https://github.com/solana-labs/move/pull/382#issuecomment-1771814388)
+- 4:58 PM
+- Clock out (Solana)
+
 # 2023-10-18
 
 - Clock in (wasm-opt)
