@@ -5,6 +5,21 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-10-20
+
+- Clock in (Solana)
+- 10:58 AM
+- [Merged symbol naming pr](https://github.com/solana-labs/move/pull/382)
+- 10:59 AM
+- Attended move mtg
+- 11:23 AM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 5:22 PM
+- Brainstormed native token fuzzing plan
+- 6:08 PM
+- Clock out (Stellar)
+
 # 2023-10-19
 
 - Clock in (Solana)
