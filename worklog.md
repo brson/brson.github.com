@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-10-23
+
+- Clock in (wasm-opt)
+- 2:31 PM
+- [Tested unicode on windows](https://github.com/brson/wasm-opt-rs/pull/160)
+- [Updated unicode issue](https://github.com/brson/wasm-opt-rs/issues/40#issuecomment-1776043915)
+- 3:24 PM
+- [Updated wasm-opt in substrate](https://github.com/paritytech/polkadot-sdk/pull/1995)
+- 3:57 PM
+- Clock out (wasm-opt)
+
 # 2023-10-20
 
 - Clock in (Solana)
