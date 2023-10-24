@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-10-24
+
+- Clock in (Stellar)
+- 12:39 PM
+- [Made arbitrary tests deterministic](https://github.com/stellar/rs-soroban-sdk/pull/1120)
+- 1:33 PM
+- [Fixed generation of addressses](https://github.com/stellar/rs-soroban-sdk/pull/1122)
+- 2:25 PM
+- Sent status update
+- 2:36 PM
+- Clock out (Stellar)
+
 # 2023-10-23
 
 - Clock in (wasm-opt)
