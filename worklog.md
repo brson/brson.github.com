@@ -5,6 +5,27 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-10-26
+
+- Clock in (Stellar)
+- 11:13 AM
+- [Hacked on adversarial arbitrary values](https://github.com/stellar/rs-soroban-sdk/issues/1052)
+- 12:03 PM
+- Attended soroban dev mtg
+- [Posted pr to generate heterogeneous containers](https://github.com/stellar/rs-soroban-sdk/pull/1123)
+- 12:28 PM
+- Attended soroban dev mtg
+- 1:03 PM
+- Clock out (Stellar)
+
+# 2023-10-25
+
+- Clock in (Stellar)
+- 1:52 PM
+- [Hacked on adversarial arbitrary values](https://github.com/stellar/rs-soroban-sdk/issues/1052)
+- 3:02 PM
+- Clock out (Stellar)
+
 # 2023-10-24
 
 - Clock in (Stellar)
