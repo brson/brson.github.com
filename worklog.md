@@ -5,6 +5,21 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-10-27
+
+- Clock in (Stellar)
+- 11:44 AM
+- Hacked on impl arbitrary for tuples
+- 12:42 PM
+- Clock out (Stellar)
+- Clock in (Stellar)
+- 1:26 PM
+- [Posted pr for impl SorobanArbitrary for tuples](https://github.com/stellar/rs-soroban-sdk/pull/1125)
+- [Filed bug about contracttype and tuples](https://github.com/stellar/rs-soroban-sdk/issues/1124)
+- [Updated SorobanArbitrary tuple bug](https://github.com/stellar/rs-soroban-sdk/issues/1053#issuecomment-1783446755)
+- 2:22 PM
+- Clock out (Stellar)
+
 # 2023-10-26
 
 - Clock in (Stellar)
