@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-10-28
+
+- Clock in (Stellar)
+- 2:41 PM
+- [Added conversions from reference tuples to ScVal](https://github.com/stellar/rs-stellar-xdr/pull/318)
+- 3:52 PM
+- Clock out (Stellar)
+
 # 2023-10-27
 
 - Clock in (Stellar)
