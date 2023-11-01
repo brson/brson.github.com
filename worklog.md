@@ -5,6 +5,28 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-10-31
+
+- Clock in (Stellar)
+- 1:35 PM
+- [Closed adversarial arbitrary values issue](https://github.com/stellar/rs-soroban-sdk/issues/1052)
+- 3:56 PM
+- [Filed issue about fuzzing example env setup](https://github.com/stellar/soroban-examples/issues/286)
+- 4:50 PM
+- [Filed issue about Env::from_snapshot improvements](https://github.com/stellar/rs-soroban-sdk/issues/1127)
+- 5:26 PM
+- Hacked on token fuzzing
+- 6:30 PM
+- Clock out (Stellar)
+
+# 2023-10-30
+
+- Clock in (Solana)
+- 4:26 PM
+- Re-read about move storage and solana PDAs
+- 5:02 PM
+- Clock out (Solana)
+
 # 2023-10-28
 
 - Clock in (Stellar)
