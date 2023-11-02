@@ -22,6 +22,12 @@ _This contains much of my open source activity since 2015._
 - [Submitted milestone delivery](https://github.com/w3f/Grant-Milestone-Delivery/pull/1046)
 - 1:38 PM
 - Clock out (wasm-opt)
+- Clock in (Solana)
+- 2:36 PM
+- Hacked on storage rtcall prototyping
+- [Posted ABI fixes for move-native](https://github.com/solana-labs/move/pull/393)
+- 3:58 PM
+- Clock out (Solana)
 
 # 2023-10-31
 
