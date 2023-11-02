@@ -5,6 +5,24 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-11-02
+
+- Clock in (Stellar)
+- 12:41 PM
+- Sent invoice
+- 12:54 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 12:55 PM
+- Sent invoice
+- 1:07 PM
+- Clock out (Solana)
+- Clock in (wasm-opt)
+- 1:08 PM
+- [Submitted milestone delivery](https://github.com/w3f/Grant-Milestone-Delivery/pull/1046)
+- 1:38 PM
+- Clock out (wasm-opt)
+
 # 2023-10-31
 
 - Clock in (Stellar)
