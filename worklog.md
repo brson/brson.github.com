@@ -5,6 +5,31 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-11-06
+
+- Clock in (Stellar)
+- 1:25 PM
+- [Fixed issue with Env::from_snapshot](https://github.com/stellar/rs-soroban-sdk/pull/1133)
+- 2:51 PM
+- Attempted to upgrade stellar_xdr
+- 2:56 PM
+- Clock out (Stellar)
+
+# 2023-11-03
+
+- Clock in (Solana)
+- 10:56 AM
+- Attended move mtg
+- 11:35 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 5:23 PM
+- Followed up on emails and messages
+- 5:35 PM
+- [Hacked on fix for Env::from_snapshot](https://github.com/stellar/rs-soroban-sdk/issues/1101)
+- 6:18 PM
+- Clock out (Stellar)
+
 # 2023-11-02
 
 - Clock in (Stellar)
