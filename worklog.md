@@ -14,6 +14,13 @@ _This contains much of my open source activity since 2015._
 - Attempted to upgrade stellar_xdr
 - 2:56 PM
 - Clock out (Stellar)
+- Clock in (Stellar)
+- 4:10 PM
+- [Commented on moving the arbitrary module to testutils](https://github.com/stellar/rs-soroban-sdk/issues/1131#issuecomment-1797014596)
+- 4:21 PM
+- [Moved arbitrary module to testutils](https://github.com/stellar/rs-soroban-sdk/pull/1134)
+- 5:03 PM
+- Clock out (Stellar)
 
 # 2023-11-03
 
