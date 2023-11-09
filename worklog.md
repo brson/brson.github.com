@@ -5,6 +5,29 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-11-08
+
+- Clock in (Solana)
+- 11:12 AM
+- Hacked on storage prototype
+- 12:26 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 6:52 PM
+- [Responded to sdk update pr](https://github.com/stellar/rs-soroban-sdk/pull/1140#issuecomment-1803042521)
+- 7:14 PM
+- Clock out (Stellar)
+
+# 2023-11-07
+
+- Clock in (Solana)
+- 4:51 PM
+- [Merged my abi fix pr](https://github.com/solana-labs/move/pull/393)
+- 5:01 PM
+- Hacked on storage prototype
+- 5:59 PM
+- Clock out (Solana)
+
 # 2023-11-06
 
 - Clock in (Stellar)
