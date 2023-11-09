@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-11-09
+
+- Clock in (Solana)
+- 9:59 AM
+- Attended aptos mtg
+- 10:49 AM
+- Clock out (Solana)
+
 # 2023-11-08
 
 - Clock in (Solana)
