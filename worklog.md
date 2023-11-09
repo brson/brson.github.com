@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Attended aptos mtg
 - 10:49 AM
 - Clock out (Solana)
+- Clock in (Stellar)
+- 11:35 AM
+- [Commented on arbitrary for Error](https://github.com/stellar/rs-soroban-sdk/pull/1140#issuecomment-1804356665)
+- 11:43 AM
+- Clock out (Stellar)
 
 # 2023-11-08
 
