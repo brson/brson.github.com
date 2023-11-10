@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-11-10
+
+- Clock in (Stellar)
+- 12:12 PM
+- [Posted tests for UDTs with tuple fields](https://github.com/stellar/rs-soroban-sdk/pull/1144)
+- 12:23 PM
+- [Closed pr for testing UDTs with tuple fields](https://github.com/stellar/rs-soroban-sdk/pull/1144#issuecomment-1806321751)
+- 12:28 PM
+- [Hacked on broken proptests](https://github.com/stellar/rs-soroban-sdk/issues/1141)
+- 1:08 PM
+- Clock out (Stellar)
+
 # 2023-11-09
 
 - Clock in (Solana)
