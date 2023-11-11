@@ -16,6 +16,13 @@ _This contains much of my open source activity since 2015._
 - Hacked on proptest-arbitrary-interop
 - 1:56 PM
 - Clock out (Stellar)
+- Clock in (Stellar)
+- 4:00 PM
+- Debugged weird interaction between native token contract and storage
+- 4:35 PM
+- Followed up on issues and prs
+- 4:43 PM
+- Clock out (Stellar)
 
 # 2023-11-10
 
