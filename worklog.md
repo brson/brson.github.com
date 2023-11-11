@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-11-11
+
+- Clock in (Stellar)
+- 11:30 AM
+- [Posted fix for proptest-arbitrary-interop](https://github.com/graydon/proptest-arbitrary-interop/pull/1)
+- 12:43 PM
+- [Filed an issue about implementing size_hint](https://github.com/stellar/rs-soroban-sdk/issues/1147)
+- 1:16 PM
+- Hacked on proptest-arbitrary-interop
+- 1:56 PM
+- Clock out (Stellar)
+
 # 2023-11-10
 
 - Clock in (Stellar)
