@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-11-13
+
+- Clock in (Stellar)
+- 11:55 AM
+- Hacked on proptest-arbitrary-interop
+- 1:25 PM
+- Clock out (Stellar)
+
 # 2023-11-11
 
 - Clock in (Stellar)
