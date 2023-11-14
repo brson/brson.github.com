@@ -12,6 +12,15 @@ _This contains much of my open source activity since 2015._
 - Hacked on proptest-arbitrary-interop
 - 1:25 PM
 - Clock out (Stellar)
+- Clock in (Stellar)
+- 3:22 PM
+- Hacked on storage fix
+- 5:22 PM
+- Sent update
+- 5:38 PM
+- [Reviewed `Option<T>` patch](https://github.com/stellar/rs-soroban-sdk/pull/1145#discussion_r1391855136)
+- 5:52 PM
+- Clock out (Stellar)
 
 # 2023-11-11
 
