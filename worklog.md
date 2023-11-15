@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-11-14
+
+- Clock in (Stellar)
+- 4:31 PM
+- [Posted pr to fix live_until ledger](https://github.com/stellar/rs-soroban-env/pull/1211)
+- 5:41 PM
+- [Posted pr to fix test snapshots under fuzzing](https://github.com/stellar/rs-soroban-sdk/pull/1155)
+- 6:02 PM
+- [Filed issue about test snapshots assuming 1 Env per test](https://github.com/stellar/rs-soroban-sdk/issues/1156)
+- 6:06 PM
+- [Commented on proptest-arbitrary-interop](https://github.com/graydon/proptest-arbitrary-interop/pull/1#issuecomment-1811641479)
+- 6:11 PM
+- Clock out (Stellar)
+
 # 2023-11-13
 
 - Clock in (Stellar)
