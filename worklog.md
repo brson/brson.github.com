@@ -5,11 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-11-17
+
+- Clock in (Solana)
+- 10:58 AM
+- Attended move mtg
+- 11:32 AM
+- Clock out (Solana)
+
 # 2023-11-15
 
 - Clock in (Solana)
 - 10:56 PM
-- Attended move mtg
+- Attended move mtg w/ sui
 - 11:46 PM
 - Clock out (Solana)
 - Clock in (Stellar)
