@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-11-19
+
+- Clock in (Solana)
+- 1:15 PM
+- Hacked on move-solana storage prototype
+- 3:45 PM
+- Clock out (Solana)
+
 # 2023-11-17
 
 - Clock in (Solana)
