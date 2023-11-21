@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-11-20
+
+- Clock in (Stellar)
+- 3:59 PM
+- [Commented on arbitrary option pr](https://github.com/stellar/rs-soroban-sdk/pull/1163/files/b3bbefb7b279fff5dd7674899c60ef64be91b1e9#r1399849118)
+- 4:03 PM
+- [Filed issue about Arbitrary for Symbol](https://github.com/stellar/rs-soroban-env/issues/1238)
+- 4:26 PM
+- [Added size_hint to arbitrary impls](https://github.com/stellar/rs-soroban-env/pull/1239)
+- 4:59 PM
+- Sent status update
+- 5:06 PM
+- Clock out (Stellar)
+
 # 2023-11-19
 
 - Clock in (Solana)
