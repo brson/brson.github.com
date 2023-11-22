@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-11-22
+
+- Clock in (Stellar)
+- 12:41 PM
+- [Closed Arbitrary for Symbol issue](https://github.com/stellar/rs-soroban-env/issues/1238#issuecomment-1823415882)
+- 12:43 PM
+- [Closed live_until pr](https://github.com/stellar/rs-soroban-env/pull/1211#issuecomment-1823418292)
+- 12:45 PM
+- Hacked on native token fuzzer
+- 4:18 PM
+- Clock out (Stellar)
+
 # 2023-11-20
 
 - Clock in (Stellar)
