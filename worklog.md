@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-11-29
+
+- Clock in (Stellar)
+- 5:57 PM
+- [Filed an issue about useless backtraces](https://github.com/stellar/rs-soroban-env/issues/1266)
+- 6:50 PM
+- Clock out (Stellar)
+
 # 2023-11-28
 
 - Clock in (wasm-opt)
