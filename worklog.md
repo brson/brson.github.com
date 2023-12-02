@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Hacked on storage prototype
 - 2:26 PM
 - Clock out (Solana)
+- Clock in (Stellar)
+- 4:20 PM
+- Hacked on auth fuzzing for token contracts
+- 4:56 PM
+- Clock out (Stellar)
 
 # 2023-12-01
 
