@@ -5,6 +5,28 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-12-04
+
+- Clock in (Stellar)
+- 2:31 PM
+- Sent fuzzing update
+- 2:32 PM
+- Sent invoice
+- 2:40 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 2:40 PM
+- Sent invoice
+- 2:50 PM
+- Clock out (Solana)
+- Clock in (wasm-opt)
+- 2:50 PM
+- Sent invoice
+- [Posted delivery](https://github.com/w3f/Grant-Milestone-Delivery/pull/1073)
+- [Commented on strum upgrade](https://github.com/brson/wasm-opt-rs/pull/162#issuecomment-1839566544)
+- 3:08 PM
+- Clock out (wasm-opt)
+
 # 2023-12-03
 
 - Clock in (Stellar)
@@ -257,7 +279,7 @@ _This contains much of my open source activity since 2015._
 - Clock in (Solana)
 - 10:56 AM
 - Attended move mtg
-- 11:35 PM
+- 11:35 AM
 - Clock out (Solana)
 - Clock in (Stellar)
 - 5:23 PM
