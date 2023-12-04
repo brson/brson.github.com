@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-12-03
+
+- Clock in (Stellar)
+- 1:02 PM
+- Hacked on auth and address support for token fuzzer
+- Added contract token support to token fuzzer
+- Hacked on token fuzzer
+- 5:27 PM
+- [Debugged backtrace issue](https://github.com/stellar/rs-soroban-env/issues/1266#issuecomment-1837678390)
+- 6:08 PM
+- Clock out (Stellar)
+
 # 2023-12-02
 
 - Clock in (Solana)
