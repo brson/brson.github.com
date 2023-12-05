@@ -26,6 +26,13 @@ _This contains much of my open source activity since 2015._
 - [Commented on strum upgrade](https://github.com/brson/wasm-opt-rs/pull/162#issuecomment-1839566544)
 - 3:08 PM
 - Clock out (wasm-opt)
+- Clock in (Stellar)
+- 3:36 PM
+- [Debugged backtrace propagation](https://github.com/stellar/rs-soroban-env/issues/1266#issuecomment-1839741658)
+- 4:50 PM
+- [Reenabled proptest_val_cmp](https://github.com/stellar/rs-soroban-sdk/pull/1185)
+- 5:09 PM
+- Clock out (Stellar)
 
 # 2023-12-03
 
