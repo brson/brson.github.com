@@ -5,7 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
-# 2023-12-0
+# 2023-12-07
+
+- Clock in (Stellar)
+- 4:09 PM
+- Parameterized token fuzzer over arbitrary tokens
+- 5:47 PM
+- Clock out (Stellar)
+
+# 2023-12-06
 
 - Clock in (Stellar)
 - 2:03 PM
