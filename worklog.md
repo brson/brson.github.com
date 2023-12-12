@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-12-11
+
+- Clock in (Solana)
+- 3:27 PM
+- [Commented on sui move rebase](https://github.com/solana-labs/move/issues/396#issuecomment-1851025195)
+- 3:57 PM
+- Hacked on sui rebase
+- 5:29 PM
+- Clock out (Solana)
+
 # 2023-12-09
 
 - Clock in (Stellar)
