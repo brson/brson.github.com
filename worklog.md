@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-12-14
+
+- Clock in (Solana)
+- 10:40 AM
+- [Filed issue about stdlib specific failures](https://github.com/solana-labs/move/issues/398)
+- 11:10 AM
+- [Filed issue about large vecs](https://github.com/solana-labs/move/issues/399)
+- 12:01 PM
+- [Filed issue about nursery tests](https://github.com/solana-labs/move/issues/400)
+- 12:14 PM
+- [Posted update on sui rebase](https://github.com/solana-labs/move/issues/396#issuecomment-1856441748)
+- 12:19 PM
+- Clock out (Solana)
+
 # 2023-12-13
 
 - Clock in (Stellar)
