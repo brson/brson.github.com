@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-12-15
+
+- Clock in (Solana)
+- 10:52 AM
+- Reviewed comments on sui rebase
+- Attended move mtg
+- 11:11 AM
+- Clock out (Solana)
+
 # 2023-12-14
 
 - Clock in (Solana)
