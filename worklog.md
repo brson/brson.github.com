@@ -13,6 +13,15 @@ _This contains much of my open source activity since 2015._
 - Attended move mtg
 - 11:11 AM
 - Clock out (Solana)
+- Clock in (Stellar)
+- 11:21 AM
+- [Filed issue about zero allowances](https://github.com/brson/soroban-token-fuzzer/issues/1)
+- [Filed issue about porting token unit tests to fuzzer](https://github.com/brson/soroban-token-fuzzer/issues/2)
+- [Posted about soroban-token-fuzzer on discord](https://discord.com/channels/897514728459468821/1185291056712007710)
+- 11:45 AM
+- Debugged fuzzing with account addresses
+- 12:50 PM
+- Clock out (Stellar)
 
 # 2023-12-14
 
