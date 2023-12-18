@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-12-18
+
+- Clock in (Stellar)
+- 2:24 PM
+- Debugged problems fuzzing with native account addresses
+- Responded to pings
+- 1:22 PM
+- Clock out (Stellar)
+
 # 2023-12-15
 
 - Clock in (Solana)
