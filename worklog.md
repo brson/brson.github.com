@@ -5,6 +5,31 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-12-21
+
+- Clock in (TigerBeetle)
+- 8:00 AM
+- Attended sync mtg
+- 9:01 AM
+- Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 12:17 PM
+- Debugged native account address setup in token fuzzer
+- 1:51 PM
+- Responded to token fuzzing discord thread
+- 1:52 PM
+- Debugged native account address setup in token fuzzer
+- 1:52 PM
+- Clock out (Stellar)
+
+# 2023-12-20
+
+- Clock in (TigerBeetle)
+- 8:00 AM
+- Attended walk-and-talk mtg
+- 9:00 AM
+- Clock out (TigerBeetle)
+
 # 2023-12-19
 
 - Clock in (TigerBeetle)
