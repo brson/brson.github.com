@@ -21,6 +21,12 @@ _This contains much of my open source activity since 2015._
 - Debugged native account address setup in token fuzzer
 - 1:58 PM
 - Clock out (Stellar)
+- Clock in (TigerBeetle)
+- 7:17 PM
+- Played with the benchmark
+- [Reviewed benchmarking pr](https://github.com/tigerbeetle/tigerbeetle/pull/1388#pullrequestreview-1793920182)
+- 8:39 PM
+- Clock out (TigerBeetle)
 
 # 2023-12-20
 
