@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-12-27
+
+- Clock in (Stellar)
+- 11:23 AM
+- Cleaned up soroban-token-fuzzer
+- 12:58 PM
+- Clock out (Stellar)
+
 # 2023-12-21
 
 - Clock in (TigerBeetle)
