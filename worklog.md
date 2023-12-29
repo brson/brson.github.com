@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-12-29
+
+- Clock in (TigerBeetle)
+- 11:43 AM
+- [Removed exit on help from repl](https://github.com/tigerbeetle/tigerbeetle/pull/1397)
+- 12:43 PM
+- Clock out (TigerBeetle)
+
 # 2023-12-27
 
 - Clock in (Stellar)
