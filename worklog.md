@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2023-12-31
+
+- Clock in (Stellar)
+- 1:35 PM
+- Hacked on auth fuzzing for token fuzzer
+- Read soroban auth docs
+- 2:09 PM
+- Clock out (Stellar)
+
 # 2023-12-29
 
 - Clock in (TigerBeetle)
