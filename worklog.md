@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-02
+
+- Clock in (TigerBeetle)
+- 11:12 AM
+- Read LSM code and docs
+- 12:53 PM
+- Clock out (TigerBeetle)
+
 # 2023-12-31
 
 - Clock in (Stellar)
