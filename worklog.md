@@ -5,6 +5,28 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-04
+
+- Clock in (TigerBeetle)
+- 12:04 PM
+- Investigated zig's use of msync in stack traces
+- Experimented with modifications to build.zig
+- 1:09 PM
+- Read vsr formatting code
+- 1:31 PM
+- Clock out (TigerBeetle)
+
+# 2024-01-03
+
+- Clock in (TigerBeetle)
+- 11:06 AM
+- Investigated repl parser bug.
+- Ran server and repl under valgrind.
+- 11:57 AM
+- Investigated simulator valgrind failures.
+- 12:54 PM
+- Clock out (TigerBeetle)
+
 # 2024-01-02
 
 - Clock in (TigerBeetle)
