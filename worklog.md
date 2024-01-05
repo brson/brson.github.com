@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-05
+
+- Clock in (TigerBeetle)
+- 11:06 AM
+- [Hacked on renaming data file during format](https://github.com/tigerbeetle/tigerbeetle/issues/1171)
+- 12:29 PM
+- Clock out (TigerBeetle)
+
 # 2024-01-04
 
 - Clock in (TigerBeetle)
