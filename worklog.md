@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - [Hacked on renaming data file during format](https://github.com/tigerbeetle/tigerbeetle/issues/1171)
 - 12:29 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 3:31 PM
+- [Hacked on renaming data file during format](https://github.com/tigerbeetle/tigerbeetle/issues/1171)
+- 5:12 PM
+- Clock out (TigerBeetle)
 
 # 2024-01-04
 
