@@ -5,6 +5,26 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-08
+
+- Clock in (Stellar)
+- 10:46 AM
+- [Posted update on token fuzzer to discord](https://discord.com/channels/897514728459468821/1185291056712007710/1193990440853176400)
+- 10:54 AM
+- Sent invoice
+- 11:06 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 11:06 PM
+- Sent invoice
+- 11:10 PM
+- Clock out (Solana)
+- Clock in (TigerBeetle)
+- 11:10 AM
+- Sent invoice
+- 11:24 AM
+- Clock out (TigerBeetle)
+
 # 2024-01-05
 
 - Clock in (TigerBeetle)
