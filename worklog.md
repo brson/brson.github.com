@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-09
+
+- Clock in (Solana)
+- 10:48 AM
+- Attempted to transplant move patches to sui repo
+- 12:39 PM
+- Clock out (Solana)
+
 # 2024-01-08
 
 - Clock in (Stellar)
