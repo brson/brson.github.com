@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-11
+
+- Clock in (Stellar)
+- 8:38 AM
+- Hacked on auth fuzzing for token fuzzer
+- 1:18 PM
+- Hacked on auth fuzzing for token fuzzer
+- 2:29 PM
+- Clock out (Stellar)
+
 # 2024-01-09
 
 - Clock in (Solana)
