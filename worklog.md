@@ -14,6 +14,11 @@ _This contains much of my open source activity since 2015._
 - Hacked on auth fuzzing for token fuzzer
 - 2:29 PM
 - Clock out (Stellar)
+- Clock in (Solana)
+- 7:19 PM
+- Comented on discord about move compiler
+- 7:33 PM
+- Clock out (Solana)
 
 # 2024-01-09
 
