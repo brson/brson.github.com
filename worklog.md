@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-13
+
+- Clock in (Stellar)
+- 1:41 PM
+- [Filed bug about v20.0.2 tag](https://github.com/stellar/rs-soroban-env/issues/1325)
+- 2:47 PM
+- Fixed auth fuzzing for token fuzzer
+- 4:00 PM
+- Clock out (Stellar)
+
 # 2024-01-11
 
 - Clock in (Stellar)
