@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-15
+
+- Clock in (Stellar)
+- 11:28 PM
+- Fixed storage expiry bug in soroban-token-fuzzer
+- [Posted update to storage expiry issue](https://github.com/stellar/rs-soroban-sdk/issues/1162#issuecomment-1892686135)
+- 12:38 PM
+- [Closed issue about transfer_from/burn_from success rates](https://github.com/brson/soroban-token-fuzzer/issues/6)
+- 12:49 PM
+- [Closed auth fuzzing issue](https://github.com/brson/soroban-token-fuzzer/issues/4)
+- 12:57 PM
+- Clock out (Stellar)
+
 # 2024-01-14
 
 - Clock in (TigerBeetle)
