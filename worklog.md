@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-16
+
+- Clock in (TigerBeetle)
+- 12:22 PM
+- Responded to messages
+- 12:34 PM
+- [Updated DEEP_DIVE.md](https://github.com/tigerbeetle/tigerbeetle/pull/1431)
+- 2:46 PM
+- [Filed issue about DEEP_DIVE.md](https://github.com/tigerbeetle/tigerbeetle/issues/1432)
+- 3:28 PM
+- Clock out (TigerBeetle)
+
 # 2024-01-15
 
 - Clock in (Stellar)
