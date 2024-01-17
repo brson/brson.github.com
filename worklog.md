@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-17
+
+- Clock in (TigerBeetle)
+- 7:56 AM
+- Attended walk and talk mtg
+- 9:02 AM
+- Clock out (TigerBeetle)
+- 10:26 AM
+- Clock in (Stellar)
+- Talked with tomer about soroban and fuzzing
+- Made notes about soroban todos
+- 11:29 AM
+- Clock out (Stellar)
+
 # 2024-01-16
 
 - Clock in (TigerBeetle)
