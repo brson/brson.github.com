@@ -26,6 +26,22 @@ _This contains much of my open source activity since 2015._
 - [Collected list of tokens to fuzz](https://github.com/brson/soroban-token-fuzzer/issues/8)
 - 5:03 PM
 - Clock out (Stellar)
+- Clock in (Solana)
+- 5:03 PM
+- Responded to messages
+- 5:08 PM
+- Clock out (Solana)
+- Clock in (TigerBeetle)
+- 5:09 PM
+- [Rebased deep dive pr](https://github.com/tigerbeetle/tigerbeetle/pull/1431#issuecomment-1897540148)
+- 5:17 PM
+- Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 5:30 PM
+- [Commented on arbitrary-proptest quality](https://github.com/stellar/rs-soroban-sdk/issues/1105#issuecomment-1897590846)
+- [Filed issue about using size_hint in arbitrary-proptest-interop](https://github.com/graydon/proptest-arbitrary-interop/issues/2)
+- 6:44 PM
+- Clock out (Stellar)
 
 # 2024-01-16
 
