@@ -18,6 +18,14 @@ _This contains much of my open source activity since 2015._
 - Made notes about soroban todos
 - 11:29 AM
 - Clock out (Stellar)
+- Clock in (Stellar)
+- 3:45 PM
+- Chatted w graydon about fuzzing
+- 4:03 PM
+- Chatted w tomer
+- [Collected list of tokens to fuzz](https://github.com/brson/soroban-token-fuzzer/issues/8)
+- 5:03 PM
+- Clock out (Stellar)
 
 # 2024-01-16
 
