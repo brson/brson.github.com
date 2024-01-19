@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Attended status mtg
 - 9:01 AM
 - Clock out (TigerBeetle)
+- Clock in (Solana)
+- 4:56 PM
+- Chatted with aditya about move roadmap
+- 5:34 PM
+- Clock out (Solana)
 
 # 2024-01-17
 
