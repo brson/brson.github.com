@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-22
+
+- Clock in (TigerBeetle)
+- 10:46 AM
+- Hacked on node pool size cli argument
+- 12:38 PM
+- Clock out (TigerBeetle)
+
 # 2024-01-18
 
 - Clock in (TigerBeetle)
