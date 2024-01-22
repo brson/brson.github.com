@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Hacked on node pool size cli argument
 - 12:38 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 1:16 PM
+- [Posted PR to add cli argument for node pool size](https://github.com/tigerbeetle/tigerbeetle/pull/1447)
+- 2:26 PM
+- Clock out (TigerBeetle)
 
 # 2024-01-18
 
