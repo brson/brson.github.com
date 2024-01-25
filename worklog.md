@@ -14,6 +14,22 @@ _This contains much of my open source activity since 2015._
 - Attended 1:1 mtg
 - 9:44 AM
 - Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 4:13 PM
+- Joined soroban security slack and introduced myself
+- 4:41 PM
+- Clock out (Stellar)
+- Clock in (TigerBeetle)
+- 4:51 PM
+- [Filed issue about command line error handling](https://github.com/tigerbeetle/tigerbeetle/issues/1464)
+- 5:04 PM
+- [Filed issue about error massages and units](https://github.com/tigerbeetle/tigerbeetle/issues/1465)
+- 5:12 PM
+- [Filed issue about CLI help message defaults](https://github.com/tigerbeetle/tigerbeetle/issues/1466)
+- 5:47 PM
+- [Reworked lsm memory PR](https://github.com/tigerbeetle/tigerbeetle/pull/1447#issuecomment-1909162350)
+- 5:56 PM
+- Clock out (TigerBeetle)
 
 # 2024-01-23
 
