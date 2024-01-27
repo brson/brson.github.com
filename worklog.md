@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-27
+
+- Clock in (Solana)
+- 10:55 AM
+- Hacked on move tests under sui
+- 12:33 PM
+- Clock out (Solana)
+
 # 2024-01-26
 
 - Clock in (Solana)
