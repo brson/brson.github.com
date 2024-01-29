@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-29
+
+- Clock in (Solana)
+- 10:26 AM
+- Attended movement meeting
+- 10:57 AM
+- Clock out (Solana)
+
 # 2024-01-27
 
 - Clock in (Solana)
