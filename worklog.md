@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-30
+
+- Clock in (TigerBeetle)
+- 10:52 AM
+- Set up meeting with fed
+- [Merged CLI pr](https://github.com/tigerbeetle/tigerbeetle/pull/1447#issuecomment-1917600296)
+- 11:02 AM
+- Chatted with fed about table coalescing
+- 12:17 PM
+- Clock out (TigerBeetle)
+
 # 2024-01-29
 
 - Clock in (Solana)
