@@ -5,6 +5,33 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-01
+
+- Clock in (TigerBeetle)
+- 8:00 AM
+- Attended sync mtg
+- 9:00 AM
+- Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 10:12 AM
+
+- Clock in (Solana)
+- 2:58 PM
+- [Commented on unsafety in move-native](https://github.com/anza-xyz/move/issues/249#issuecomment-1921903434)
+- [Filed issue about sui natives](https://github.com/anza-xyz/move/issues/411)
+- 3:06 PM
+- Replied to emails
+- 3:10 PM
+- Clock out (Solana)
+
+# 2024-01-31
+
+- Clock in (Stellar)
+- 10:00 AM
+- Added more tokens to token fuzzer
+- 11:22 AM
+- Clock out (Stellar)
+
 # 2024-01-30
 
 - Clock in (TigerBeetle)
