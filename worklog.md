@@ -12,17 +12,28 @@ _This contains much of my open source activity since 2015._
 - Attended sync mtg
 - 9:00 AM
 - Clock out (TigerBeetle)
-- Clock in (Stellar)
-- 10:12 AM
-
 - Clock in (Solana)
-- 2:58 PM
+- 9:28 AM
 - [Commented on unsafety in move-native](https://github.com/anza-xyz/move/issues/249#issuecomment-1921903434)
 - [Filed issue about sui natives](https://github.com/anza-xyz/move/issues/411)
-- 3:06 PM
+- 10:06 AM
 - Replied to emails
-- 3:10 PM
+- 10:10 AM
 - Clock out (Solana)
+- Clock in (Stellar)
+- 10:12 AM
+- Respoded to messages
+- 11:00 AM
+- [Updated token allowance storage issue](https://github.com/brson/soroban-token-fuzzer/issues/1#issuecomment-1921957258)
+- 11:28 AM
+- [Filed issue about documenting individual token fuzzers](https://github.com/brson/soroban-token-fuzzer/issues/10)
+- 11:31 AM
+- [Hacked on zero allowance bloat check for token fuzzer](https://github.com/brson/soroban-token-fuzzer/issues/1)
+- [Added issue about 'smart i128' amounts for token fuzzer](https://github.com/brson/soroban-token-fuzzer/issues/11)
+- 1:42 PM
+- [Closed zero allowance issue](https://github.com/brson/soroban-token-fuzzer/issues/1)
+- 1:53 PM
+- Clock out (Stellar)
 
 # 2024-01-31
 
