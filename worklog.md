@@ -5,6 +5,11 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-02
+
+- Clock in (Stellar)
+- 11:25 AM
+
 # 2024-02-01
 
 - Clock in (TigerBeetle)
@@ -50,7 +55,7 @@ _This contains much of my open source activity since 2015._
 - Clock in (Stellar)
 - 10:00 AM
 - Added more tokens to token fuzzer
-- 11:22 AM
+- 12:22 PM
 - Clock out (Stellar)
 
 # 2024-01-30
@@ -169,6 +174,7 @@ _This contains much of my open source activity since 2015._
 - Clock out (TigerBeetle)
 - 10:26 AM
 - Clock in (Stellar)
+- 10:30 AM
 - Talked with tomer about soroban and fuzzing
 - Made notes about soroban todos
 - 11:29 AM
