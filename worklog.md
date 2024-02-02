@@ -34,6 +34,11 @@ _This contains much of my open source activity since 2015._
 - [Closed zero allowance issue](https://github.com/brson/soroban-token-fuzzer/issues/1)
 - 1:53 PM
 - Clock out (Stellar)
+- Clock in (Stellar)
+- 5:27 PM
+- [Filed issue about expiration ledger](https://github.com/brson/soroban-token-fuzzer/issues/13)
+- 6:11 PM
+- Clock out (Stellar)
 
 # 2024-01-31
 
