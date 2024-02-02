@@ -22,6 +22,20 @@ _This contains much of my open source activity since 2015._
 - Sent invoice
 - 12:08 PM
 - Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 12:10 PM
+- [Filed issue about alternative fuzzing engines](https://github.com/stellar/rs-soroban-sdk/issues/1219)
+- 12:15 PM
+- Sent fitzgen an email about wasmi/libfuzzer integration
+- 12:39 PM
+- [Filed issue about proptest support](https://github.com/stellar/rs-soroban-sdk/issues/1220)
+- 1:06 PM
+- Worked on list of soroban fuzzing/testing issues
+- 1:11 PM
+- [Filed issue about removing native address generation from Arbitrary](https://github.com/stellar/rs-soroban-sdk/issues/1221)
+- 1:39 PM
+- Clock out (Stellar)
+
 
 # 2024-02-01
 
