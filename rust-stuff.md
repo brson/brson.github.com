@@ -48,7 +48,8 @@ interests as time passes.
   relief.
 
 * I designed and implemented Rust's attributes, including the oft-questioned
-  notion of "inner" and "outer" attributes and doc-comments.
+  notion of "inner" and "outer" attributes and doc-comments. Inner doc comments
+  appeared in limited form in Zig as "top-level" doc comments.
 
 * I wrote the first version of rustdoc and created the original
   conventions for using Markdown in Rust doc comments. Rustdoc was
