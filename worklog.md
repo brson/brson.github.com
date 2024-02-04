@@ -5,6 +5,11 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-04
+
+- Clock in (TigerBeetle)
+- 2:28 PM
+
 # 2024-02-02
 
 - Clock in (Stellar)
@@ -35,7 +40,6 @@ _This contains much of my open source activity since 2015._
 - [Filed issue about removing native address generation from Arbitrary](https://github.com/stellar/rs-soroban-sdk/issues/1221)
 - 1:39 PM
 - Clock out (Stellar)
-
 
 # 2024-02-01
 
