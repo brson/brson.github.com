@@ -5,6 +5,25 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-05
+
+- Clock in (TigerBeetle)
+- 11:41 AM
+- Responded to messages
+- 11:43 AM
+- Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 11:44 AM
+- Chatted about token fuzzer
+- 12:10 PM
+- [Updated wasmi fuzzing issue](https://github.com/stellar/rs-soroban-sdk/issues/1103#issuecomment-1927876116)
+- 12:23 PM
+- Chatted with tomer
+- 12:27 PM
+- Read about the sancov apis
+- 12:42 PM
+- Clock out (Stellar)
+
 # 2024-02-04
 
 - Clock in (TigerBeetle)
