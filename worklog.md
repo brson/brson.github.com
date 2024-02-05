@@ -9,6 +9,10 @@ _This contains much of my open source activity since 2015._
 
 - Clock in (TigerBeetle)
 - 2:28 PM
+- Hacked on table coalescing
+- Hacked on windowed iterator adaptors
+- 5:40 PM
+- Clock out (TigerBeetle)
 
 # 2024-02-02
 
