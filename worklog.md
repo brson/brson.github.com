@@ -23,6 +23,11 @@ _This contains much of my open source activity since 2015._
 - Read about the sancov apis
 - 12:42 PM
 - Clock out (Stellar)
+- Clock in (TigerBeetle)
+- 4:57 PM
+- Hacked on windowed iterator adapter
+- 6:02 PM
+- Clock out (TigerBeetle)
 
 # 2024-02-04
 
