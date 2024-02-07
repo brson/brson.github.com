@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-07
+
+- Clock in (TigerBeetle)
+- 7:56 AM
+- Attended walk and talk
+- Updated roadmap issue for nodepool size
+- Chatted with Joran
+- 9:33 AM
+- Clock out (TigerBeetle)
+
 # 2024-02-06
 
 - Clock in (Stellar)
