@@ -13,6 +13,13 @@ _This contains much of my open source activity since 2015._
 - Updated roadmap issue for nodepool size
 - Chatted with Joran
 - 9:33 AM
+- Asked for a new community slack invite link
+- 9:37 AM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 5:27 PM
+- [Updated slack invite in readme](https://github.com/tigerbeetle/tigerbeetle/pull/1525)
+- 5:31 PM
 - Clock out (TigerBeetle)
 
 # 2024-02-06
