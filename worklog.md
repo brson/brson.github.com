@@ -21,6 +21,16 @@ _This contains much of my open source activity since 2015._
 - [Updated slack invite in readme](https://github.com/tigerbeetle/tigerbeetle/pull/1525)
 - 5:31 PM
 - Clock out (TigerBeetle)
+- Clock in (rib)
+- 7:00 PM
+- [Responded to awesome-blockchain-rust issue](https://github.com/rust-in-blockchain/awesome-blockchain-rust/pull/42#issuecomment-1933262109)
+- 7:20 PM
+- Clock out (rib)
+- Clock in (TigerBeetle)
+- 9:02 PM
+- Hacked on table coalescing
+- 9:48 PM
+- Clock out (TigerBeetle)
 
 # 2024-02-06
 
