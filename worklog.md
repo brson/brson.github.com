@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Attended stand up meeting
 - 8:43 AM
 - Clock out (TigerBeetle)
+- Clock in (Solana)
+- 8:21 PM
+- Fixed test cases in sui port
+- 9:49 PM
+- Clock out (Solana)
 
 # 2024-02-07
 
