@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-11
+
+- Clock in (Stellar)
+- 5:22 PM
+- [Hacked on backtrace propagation in errors](https://github.com/stellar/rs-soroban-env/issues/1266#issuecomment-1937974351)
+- 6:49 PM
+- Clock out (Stellar)
+
 # 2024-02-09
 
 - Clock in (Solana)
