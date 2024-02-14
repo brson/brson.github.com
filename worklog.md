@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-14
+
+- Clock in (TigerBeetle)
+- 8:00 AM
+- Attended walk and talk mtg
+- 8:42 AM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 3:42 PM
+- [Calculated default values in CLI help message](https://github.com/tigerbeetle/tigerbeetle/pull/1557)
+- 4:28 PM
+- Clock out (TigerBeetle)
+
 # 2024-02-13
 
 - Clock in (TigerBeetle)
