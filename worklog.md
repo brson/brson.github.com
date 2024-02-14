@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-13
+
+- Clock in (TigerBeetle)
+- 3:52 PM
+- Joined community slack
+- 3:55 PM
+- Hacked on table coalescing
+- 7:15 PM
+- Clock out (TigerBeetle)
+
 # 2024-02-12
 
 - Clock in (Stellar)
