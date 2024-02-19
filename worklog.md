@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-18
+
+- Clock in (TigerBeetle)
+- 4:53 PM
+- [Updated cli PR](https://github.com/tigerbeetle/tigerbeetle/pull/1557)
+- 5:07 PM
+- [Made more cli improvements](https://github.com/tigerbeetle/tigerbeetle/pull/1565)
+- 6:27 PM
+- Clock out (TigerBeetle)
+
 # 2024-02-16
 
 - Clock in (Stellar)
@@ -12,6 +22,8 @@ _This contains much of my open source activity since 2015._
 - [Posted pr to improve backtraces](https://github.com/stellar/rs-soroban-env/pull/1349)
 - 3:25 PM
 - Clock out (Stellar)
+- [Fixed a dada build error](https://github.com/dada-lang/dada/pull/231)
+- 7:34 PM
 
 # 2024-02-15
 
