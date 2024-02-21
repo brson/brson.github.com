@@ -5,6 +5,21 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-20
+
+- Clock in (TigerBeetle)
+- 11:30 AM
+- Chatted with Fed
+- 11:39 AM
+- Tested table coalesce window selection
+- 12:12 PM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 4:56 PM
+- Hacked on coalesce window selection
+- 6:15 PM
+- Clock out (TigerBeetle)
+
 # 2024-02-19
 
 - Clock in (Solana)
