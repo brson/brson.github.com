@@ -13,6 +13,11 @@ _This contains much of my open source activity since 2015._
 - Attended 1:1
 - 9:50 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 4:38 PM
+- [Updated cli pr](https://github.com/tigerbeetle/tigerbeetle/pull/1565#discussion_r1498502509)
+- 6:28 PM
+- Clock out (TigerBeetle)
 
 # 2024-02-20
 
