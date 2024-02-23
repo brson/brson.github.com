@@ -12,6 +12,10 @@ _This contains much of my open source activity since 2015._
 - Hacked on test signers on sui branch
 - Hacked on move-cli in sui branch
 - 10:49 AM
+- [Posted update to sui rebase issue](https://github.com/anza-xyz/move/issues/396#issuecomment-1961760868)
+- 10:58 AM
+- Attended meeting
+- 11:28 AM
 - Clock out (Solana)
 
 # 2024-02-22
