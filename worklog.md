@@ -5,6 +5,23 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-23
+
+- Clock in (Solana)
+- 9:05 AM
+- Hacked on test signers on sui branch
+- Hacked on move-cli in sui branch
+- 10:49 AM
+- Clock out (Solana)
+
+# 2024-02-22
+
+- Clock in (TigerBeetle)
+- 7:53 AM
+- Attended standup meeting
+- 8:53 AM
+- Clock out (TigerBeetle)
+
 # 2024-02-21
 
 - Clock in (TigerBeetle)
