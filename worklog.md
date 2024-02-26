@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-26
+
+- Clock in (Stellar)
+- 11:42 AM
+- [Updated backtrace PR](https://github.com/stellar/rs-soroban-env/pull/1349#discussion_r1503147979)
+- 11:59 AM
+- Clock out (Stellar)
+
 # 2024-02-23
 
 - Clock in (Solana)
