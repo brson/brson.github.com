@@ -19,6 +19,13 @@ _This contains much of my open source activity since 2015._
 - Chatted with Fed
 - 12:47 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 5:14 PM
+- Benchmarked coalesce window search
+- 6:14 PM
+- Made more tweaks to coalesce code
+- 6:33 PM
+- Clock out (TigerBeetle)
 
 # 2024-02-23
 
