@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-27
+
+- Clock in (TigerBeetle)
+- 12:14 PM
+- [Filed issue about benchmark batch size](https://github.com/tigerbeetle/tigerbeetle/issues/1612)
+- 12:25 PM
+- Experimented with coalesce windows benchmarks
+- Chatted with Fed
+- 2:31 PM
+- Clock out (TigerBeetle)
+
+
 # 2024-02-26
 
 - Clock in (Stellar)
