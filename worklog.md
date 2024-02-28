@@ -16,7 +16,6 @@ _This contains much of my open source activity since 2015._
 - 2:31 PM
 - Clock out (TigerBeetle)
 
-
 # 2024-02-26
 
 - Clock in (Stellar)
