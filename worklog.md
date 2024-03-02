@@ -5,6 +5,23 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-02
+
+- Clock in (TigerBeetle)
+- 1:17 PM
+- Hacked on rewriting coalesce window search
+- 4:19 PM
+- Clock out (TigerBeetle)
+
+# 2024-02-29
+
+- Clock in (TigerBeetle)
+- 7:54 AM
+- Responded to messages
+- Attended status meeting
+- 8:54 AM
+- Clock out (TigerBeetle)
+
 # 2024-02-28
 
 - Clock in (TigerBeetle)
