@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-04
+
+- Clock in (Stellar)
+- 12:40 PM
+- [Hacked on reverting arbitrary address changes](https://github.com/stellar/rs-soroban-sdk/issues/1221)
+- 12:57 PM
+- [Posted PR to revert arbitrary native addresses](https://github.com/stellar/rs-soroban-sdk/pull/1240)
+- 1:16 PM
+- Clock out (Stellar)
+
 # 2024-03-02
 
 - Clock in (TigerBeetle)
@@ -26,6 +36,13 @@ _This contains much of my open source activity since 2015._
 - Attended status meeting
 - 8:54 AM
 - Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 11:16 AM
+- Hacked on adding comet lp token to soroban-token-fuzzer
+- 1:16 PM
+- Hacked on adding comet lp token to soroban-token-fuzzer
+- 4:34 PM
+- Clock out (Stellar)
 
 # 2024-02-28
 
