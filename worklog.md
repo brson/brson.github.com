@@ -5,6 +5,26 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-05
+
+- Clock in (TigerBeetle)
+- 3:30 PM
+- Sent invoice
+- 3:42 PM
+- Clock out (TigerBeetle)
+- Clock in (Solana)
+- 3:42 PM
+- Responded to chats
+- 3:49 PM
+- Sent invoice
+- 3:52 PM
+- Clock out (Solana)
+- Clock in (Stellar)
+- 3:52 PM
+- Sent invoice
+- 3:58 PM
+- Clock out (Stellar)
+
 # 2024-03-04
 
 - Clock in (Stellar)
