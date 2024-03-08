@@ -12,6 +12,12 @@ _This contains much of my open source activity since 2015._
 - Attended status meeting
 - 8:54 AM
 - Clock out (TigerBeetle)
+- Clock in (Solana)
+- 5:46 PM
+- Read prs related to sui move-stdlib
+- Chatted with aditya
+- 6:06 PM
+- Clock out (Solana)
 
 # 2024-03-06
 
