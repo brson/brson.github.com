@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-0
+
+- Clock in (Solana)
+- 9:52 AM
+- Hacked on the move-cli
+- 11:00 AM
+- Attended move mtg
+- Chatted with pankaj
+- 11:35 AM
+- Clock out (Solana)
+
 # 2024-03-07
 
 - Clock in (TigerBeetle)
