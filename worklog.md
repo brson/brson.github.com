@@ -18,6 +18,11 @@ _This contains much of my open source activity since 2015._
 - Chatted with aditya
 - 6:06 PM
 - Clock out (Solana)
+- Clock in (Solana)
+- 8:27 PM
+- Hacked on fixing test cases for sui port
+- 11:00 PM
+- Clock out (Solana)
 
 # 2024-03-06
 
