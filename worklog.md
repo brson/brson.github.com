@@ -5,7 +5,23 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
-# 2024-03-0
+# 2024-03-10
+
+- Clock in (TigerBeetle)
+- 11:47 AM
+- [Filed issue about MiB](https://github.com/tigerbeetle/tigerbeetle/issues/1672)
+- 12:21 PM
+- [Filed issue about parsing MB, etc](https://github.com/tigerbeetle/tigerbeetle/issues/1673)
+- [Updated error handling cli pr](https://github.com/tigerbeetle/tigerbeetle/pull/1565#issuecomment-1987193748)
+- 12:44 PM
+- Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 12:44 PM
+- [Chatted about MissingValue debugging](https://discord.com/channels/897514728459468821/1202349664196632677/1216351460741091390)
+- 1:00 PM
+- Clock out (Stellar)
+
+# 2024-03-08
 
 - Clock in (Solana)
 - 9:52 AM
