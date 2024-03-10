@@ -20,6 +20,12 @@ _This contains much of my open source activity since 2015._
 - [Chatted about MissingValue debugging](https://discord.com/channels/897514728459468821/1202349664196632677/1216351460741091390)
 - 1:00 PM
 - Clock out (Stellar)
+- Clock in (Stellar)
+- 6:58 PM
+- Debugged fuzzing for comet lp token
+- 7:30 PM
+- Clock out (Stellar)
+
 
 # 2024-03-08
 
