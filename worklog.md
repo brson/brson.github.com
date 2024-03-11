@@ -18,6 +18,8 @@ _This contains much of my open source activity since 2015._
 - 10:04 PM
 - Debugged env prng seed duplication
 - 11:43 PM
+- [Commented about problems with duplicated nonces](https://discord.com/channels/897514728459468821/1202349664196632677/1216880949124534293)
+- 11:56 PM
 - Clock out (Stellar)
 
 # 2024-03-10
