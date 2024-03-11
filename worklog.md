@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-11
+
+- Clock in (TigerBeetle)
+- 3:43 PM
+- Commented on various issues
+- 3:49 PM
+- Debugged coalescing code
+- 6:29 PM
+- Clock out (TigerBeetle)
+
 # 2024-03-10
 
 - Clock in (TigerBeetle)
