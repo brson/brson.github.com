@@ -5,6 +5,12 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-12
+
+- [Merged a dada PR](https://github.com/dada-lang/dada/pull/232)
+- [Merged a dada PR](https://github.com/dada-lang/dada/pull/233)
+- 1:04 AM
+
 # 2024-03-11
 
 - Clock in (TigerBeetle)
