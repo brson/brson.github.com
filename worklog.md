@@ -10,6 +10,15 @@ _This contains much of my open source activity since 2015._
 - [Merged a dada PR](https://github.com/dada-lang/dada/pull/232)
 - [Merged a dada PR](https://github.com/dada-lang/dada/pull/233)
 - 1:04 AM
+- Clock in (TigerBeetle)
+- 8:11 PM
+- Debugging test_min compaction issue
+- [Closed cli units issue](https://github.com/tigerbeetle/tigerbeetle/issues/1672)
+- [Closed cli units issue](https://github.com/tigerbeetle/tigerbeetle/issues/1673)
+- 9:38 PM
+- Hacked on table coalescing
+- 10:00 PM
+- Clock out (TigerBeetle)
 
 # 2024-03-11
 
