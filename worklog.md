@@ -5,6 +5,13 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-13
+
+- Clock in (TigerBeetle)
+- 11:24 AM
+- Debugged unit test failures
+- 12:31 PM
+
 # 2024-03-12
 
 - [Merged a dada PR](https://github.com/dada-lang/dada/pull/232)
