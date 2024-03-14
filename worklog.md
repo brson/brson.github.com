@@ -18,6 +18,11 @@ _This contains much of my open source activity since 2015._
 - Updated status in discord
 - 3:51 PM
 - Clock out (Solana)
+- Clock in (TigerBeetle)
+- 3:52 PM
+- Chatted w/ jihyun about travel
+- 4:09 PM
+- Clock out (TigerBeetle)
 
 # 2024-03-13
 
