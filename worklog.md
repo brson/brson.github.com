@@ -23,6 +23,13 @@ _This contains much of my open source activity since 2015._
 - Chatted w/ jihyun about travel
 - 4:09 PM
 - Clock out (TigerBeetle)
+- Clock in (Solana)
+- 4:09 PM
+- Rebased solana/move branch
+- 4:56 PM
+- Clock out (Solana)
+- Clock in (TigerBeetle)
+- 4:56 PM
 
 # 2024-03-13
 
