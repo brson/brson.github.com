@@ -15,6 +15,8 @@ _This contains much of my open source activity since 2015._
 - 3:20 PM
 - Pulled in recent solana/move changes to solana/sui
 - 3:29 PM
+- Updated status in discord
+- 3:51 PM
 - Clock out (Solana)
 
 # 2024-03-13
