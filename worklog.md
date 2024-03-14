@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-14
+
+- Clock in (Solana)
+- 2:44 PM
+- Cleaned up move/sui history
+- 3:01 PM
+- [Merged move pr](https://github.com/anza-xyz/move/pull/436)
+- 3:20 PM
+- Pulled in recent solana/move changes to solana/sui
+- 3:29 PM
+- Clock out (Solana)
+
 # 2024-03-13
 
 - Clock in (TigerBeetle)
