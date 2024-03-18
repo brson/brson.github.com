@@ -11,6 +11,9 @@ _This contains much of my open source activity since 2015._
 - 12:39 PM
 - Continued hacking on sui port
 - 3:34 PM
+- [Posted PR for sui port](https://github.com/anza-xyz/sui/pull/3)
+- 7:12 PM
+- Clock out (Solana)
 
 # 2024-03-15
 
