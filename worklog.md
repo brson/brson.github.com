@@ -5,6 +5,13 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-18
+
+- Clock in (Solana)
+- 12:39 PM
+- Continued hacking on sui port
+- 3:34 PM
+
 # 2024-03-15
 
 - Clock in (Solana)
