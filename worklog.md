@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-19
+
+- Clock in (Stellar)
+- 1:13 PM
+- Finished getting comet dex under test with the token fuzzer
+- 3:13 PM
+- Chatted various
+- Reviewed changes to token fuzzer
+- 3:53 PM
+- Clock out (Stellar)
+
 # 2024-03-18
 
 - Clock in (Solana)
