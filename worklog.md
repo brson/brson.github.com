@@ -13,6 +13,15 @@ _This contains much of my open source activity since 2015._
 - Updated comments and docs for soroban-token-fuzzer
 - 2:36 PM
 - Clock out (Stellar)
+- Clock in (TigerBeetle)
+- 2:36 PM
+- Rebased coalesce patches onto new compaction code
+- 3:10 PM
+- [Rebased cli pr](https://github.com/tigerbeetle/tigerbeetle/pull/1565#issuecomment-2012468316)
+- 3:36 PM
+- Hacked on wiring coalesce selection into new compaction code
+- 3:51 PM
+- Clock out (TigereBeetle)
 
 # 2024-03-19
 
