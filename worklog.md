@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-22
+
+- Clock in (Solana)
+- 5:57 PM
+- Attended move mtg
+- 6:49 PM
+- Sent email to pankaj
+- 6:56 PM
+- Clock out (Solana)
+
 # 2024-03-21
 
 - Clock in (Stellar)
