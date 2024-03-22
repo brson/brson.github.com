@@ -11,7 +11,7 @@ _This contains much of my open source activity since 2015._
 - 5:57 PM
 - Attended move mtg
 - 6:49 PM
-- Sent email to pankaj
+- Replied to pankaj
 - 6:56 PM
 - Clock out (Solana)
 
