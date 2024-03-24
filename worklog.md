@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-24
+
+- Clock in (TigerBeetle)
+- 2:42 PM
+- Investigated big tables in compaction code
+- 4:01 PM
+- [Considered cli pr review feedback](https://github.com/tigerbeetle/tigerbeetle/pull/1565#discussion_r1534070012)
+- 4:22 PM
+- Clock out (TigerBeetle)
+
 # 2024-03-22
 
 - Clock in (Solana)
