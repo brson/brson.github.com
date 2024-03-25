@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-25
+
+- Clock in (Stellar)
+- 12:57 PM
+- Investigated integration of libfuzzer into wasmi
+- 3:03 PM
+- Clock out (Stellar)
+
 # 2024-03-24
 
 - Clock in (TigerBeetle)
