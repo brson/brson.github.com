@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-28
+
+- [Reviewed a wasm-opt-rs pr](https://github.com/brson/wasm-opt-rs/pull/165#issuecomment-2024894764)
+- Clock in (Stellar)
+- 11:47 AM
+- [Prototyped more wasm fuzzing](https://github.com/stellar/rs-soroban-sdk/issues/1103#issuecomment-2025139757)
+- 2:06 PM
+- [Chatted about wasm fuzzing](https://discord.com/channels/897514728459468821/1222895915384442943/1222895915384442943)
+- 2:35 PM
+- Clock out (Stellar)
+
 # 2024-03-25
 
 - Clock in (Stellar)
