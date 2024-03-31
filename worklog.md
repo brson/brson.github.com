@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-31
+
+- [Published wasm-opt 0.116.1](https://github.com/brson/wasm-opt-rs/pull/165#issuecomment-2028674647)
+- Clock in (TigerBeetle)
+- 11:54 AM
+- [Reworked CLI PR](https://github.com/tigerbeetle/tigerbeetle/pull/1565#discussion_r1545601884)
+- 12:37 PM
+- Continued attempting to attache coalesce search to new compaction code
+- 2:15 PM
+- Clock out (TigerBeetle)
+
 # 2024-03-28
 
 - [Reviewed a wasm-opt-rs pr](https://github.com/brson/wasm-opt-rs/pull/165#issuecomment-2024894764)
