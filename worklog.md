@@ -16,6 +16,8 @@ _This contains much of my open source activity since 2015._
 - Sent status updates
 - 2:32 PM
 - Clock out (Stellar)
+- Clock in (TigerBeetle)
+- 2:44 PM
 
 # 2024-03-31
 
@@ -104,7 +106,7 @@ _This contains much of my open source activity since 2015._
 - 3:36 PM
 - Hacked on wiring coalesce selection into new compaction code
 - 3:51 PM
-- Clock out (TigereBeetle)
+- Clock out (TigerBeetle)
 
 # 2024-03-19
 
