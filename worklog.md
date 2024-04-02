@@ -5,6 +5,32 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-04-02
+
+- Clock in (Stellar)
+- 12:06 PM
+- Continued outlining wasmi fuzzer integration
+- 12:24 PM
+- Resonded to emails
+- 12:51 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 12:51 PM
+- Responded to emails
+- 1:08 PM
+- Clock out (Solana)
+- Clock in (TigerBeetle)
+- 1:08 PM
+- [Reworked CLI PR](https://github.com/tigerbeetle/tigerbeetle/pull/1565#issuecomment-2031813687)
+- 2:00 PM
+- Hacked on compaction code
+- 2:33 PM
+- [Reworked CLI PR](https://github.com/tigerbeetle/tigerbeetle/pull/1565)
+- 2:43 PM
+- Hacked on compaction code
+- 3:34 PM
+- Clock out (TigerBeetle)
+
 # 2024-04-01
 
 - Clock in (Stellar)
