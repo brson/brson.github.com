@@ -29,6 +29,8 @@ _This contains much of my open source activity since 2015._
 - 2:43 PM
 - Hacked on compaction code
 - 3:34 PM
+- Chatted with Fed
+- 3:50 PM
 - Clock out (TigerBeetle)
 
 # 2024-04-01
