@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-04-03
+
+- Clock in (TigerBeetle)
+- 11:53 AM
+- Hacked on coalesce/compaction
+- [Merged CLI PR](https://github.com/tigerbeetle/tigerbeetle/pull/1565)
+- 12:32 PM
+- Hacked on coalesce/compaction
+- Talked with Fed about integrating coalesce into compaction
+- 1:45 PM
+- Hacked on coalesce/compaction
+- 3:26 PM
+- Clock out (TigerBeetle)
+
 # 2024-04-02
 
 - Clock in (Stellar)
