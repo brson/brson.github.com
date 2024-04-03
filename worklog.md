@@ -22,6 +22,10 @@ _This contains much of my open source activity since 2015._
 - 3:59 PM
 - Attended walk-and-talk
 - 5:00 PM
+- Hacked on coalesce/compaction
+- 5:58 PM
+- Attended 1:1
+- 6:38 PM
 - Clock out (TigerBeetle)
 
 # 2024-04-02
