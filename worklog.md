@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-04-04
+
+- Clock in (Stellar)
+- 11:48 AM
+- Followed up on emails
+- 11:50 AM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 11:51 AM
+- Hacked on solana-move-demo
+- 3:39 AM
+- Clock out (Solana)
+
 # 2024-04-03
 
 - Clock in (TigerBeetle)
