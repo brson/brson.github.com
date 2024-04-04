@@ -22,6 +22,11 @@ _This contains much of my open source activity since 2015._
 - Attended status meeting
 - 4:55 PM
 - Clock out (TigerBeetle)
+- Clock in (Solana)
+- 9:13 PM
+- [Posted updates about solana-move-demo](https://discord.com/channels/428295358100013066/1022546078811291708/1225528016164098088)
+- 9:32 PM
+- Clock out (Solana)
 
 # 2024-04-03
 
