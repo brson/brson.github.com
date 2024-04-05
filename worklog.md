@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-04-05
+
+- Clock in (Stellar)
+- 6:30 PM
+- Worked on move demo
+- 6:58 PM
+- Attended mtg
+- 7:34 PM
+- Clock out (Stellar)
+
 # 2024-04-04
 
 - Clock in (Stellar)
