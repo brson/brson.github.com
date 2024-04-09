@@ -12,6 +12,13 @@ _This contains much of my open source activity since 2015._
 - Hacked on fio testing
 - 12:55 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 10:30 AM
+- Read io_uring docs
+- 11:27 AM
+- Hacked on io_uring perf
+- 4:50 PM
+- Clock out (TigerBeetle)
 
 # 2024-04-08
 
