@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-04-15
+
+- Clock in (Stellar)
+- 1:39 PM
+- [Commented on reproducible builds](https://discord.com/channels/897514728459468821/1218934322745315389/1229525213620994178)
+- 2:24 PM
+- Commented on checked math in security forum
+- 2:47 PM
+- Planned some reproducibility work
+- 3:01 PM
+- Added `--locked` to `soroban contract build`
+- 3:38 PM
+- Clock out (Stellar)
+
 # 2024-04-11
 
 - Clock in (TigerBeetle)
