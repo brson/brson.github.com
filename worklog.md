@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-04-16
+
+- Clock in (Stellar)
+- 11:56 AM
+- Chatted with leigh about reproduction
+- Designed an initial build reproduction tool
+- 12:47 PM
+- Clock out (Stellar)
+
 # 2024-04-15
 
 - Clock in (Stellar)
