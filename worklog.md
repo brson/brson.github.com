@@ -12,6 +12,12 @@ _This contains much of my open source activity since 2015._
 - Attended status mtg
 - 9:00 AM
 - Clock out (TigerBeetle)
+- Clock in (Solana)
+- 4:11 PM
+- [Hacked on solana-move-demo](https://github.com/brson/solana-move-demo)
+- [Sent status update](https://discord.com/channels/428295358100013066/1022546078811291708/1230666905690574920)
+- 6:05 PM
+- Clock out (Solana)
 
 # 2024-04-17
 
