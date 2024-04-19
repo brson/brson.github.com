@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-04-19
+
+- Clock in (Solana)
+- 10:58 AM
+- [Reviewed test harness fixes](https://github.com/anza-xyz/sui/pull/22#pullrequestreview-2011981282)
+- 11:22 AM
+- Attended mtg
+- 11:26 AM
+- Clock out (Solana)
+
 # 2024-04-18
 
 - Clock in (TigerBeetle)
