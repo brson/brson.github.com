@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-04-20
+
+- Clock in (TigerBeetle)
+- 4:14 PM
+- [Posted table coalesce patch](https://github.com/tigerbeetle/tigerbeetle/pull/1859)
+- 6:27 PM
+- Chatted with jiyhun
+- 6:28 PM
+- Clock out (TigerBeetle)
+
 # 2024-04-19
 
 - Clock in (Solana)
