@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-04-23
+
+- Clock in (Stellar)
+- 2:41 PM
+- Hacked on wasm metadata reading/writing for reproducible builds
+- 5:11 PM
+- [Responded to reproducible builds thread](https://discord.com/channels/897514728459468821/1230143202506313738/1232472404375244820)
+- 5:28 PM
+- Clock out (Stellar)
+
 # 2024-04-20
 
 - Clock in (TigerBeetle)
