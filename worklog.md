@@ -14,6 +14,11 @@ _This contains much of my open source activity since 2015._
 - [Responded to reproducible builds thread](https://discord.com/channels/897514728459468821/1230143202506313738/1232472404375244820)
 - 5:28 PM
 - Clock out (Stellar)
+- Clock in (TigerBeetle)
+- 5:38 PM
+- [Followed up on coalesce pr](https://github.com/tigerbeetle/tigerbeetle/pull/1859)
+- 6:04 PM
+- Clock out (TigerBeetle)
 
 # 2024-04-20
 
