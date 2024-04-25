@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-04-24
+
+- Clock in (TigerBeetle)
+- 5:38 PM
+- [Reworked coalesce pr](https://github.com/tigerbeetle/tigerbeetle/pull/1859)
+- 6:37 PM
+- Clock out (TigerBeetle)
+
 # 2024-04-23
 
 - Clock in (Stellar)
