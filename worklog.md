@@ -5,6 +5,24 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-04-25
+
+- Clock in (TigerBeetle)
+- 7:55 AM
+- Attended status update
+- 8:59 AM
+- Clock out (TigerBeetle)
+- Clock in (Solana)
+- 9:00 AM
+- Attended move/solang mtg
+- 9:59 AM
+- Clock out (Solana)
+- Clock in (TigerBeetle)
+- 10:00 AM
+- Chatted with joran
+- 10:11 AM
+- Clock out (TigerBeetle)
+
 # 2024-04-24
 
 - Clock in (TigerBeetle)
