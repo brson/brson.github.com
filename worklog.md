@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-04-30
+
+- Clock in (Solana)
+- 4:22 PM
+- Studied the move entrypoint code
+- Began writing code to create solana messages
+- 6:05 PM
+- Clock out (Solana)
+
 # 2024-04-25
 
 - Clock in (TigerBeetle)
