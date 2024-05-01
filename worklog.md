@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-05-01
+
+- Clock in (TigerBeetle)
+- 11:34 AM
+- Hacked on unit tests for coalesce table search
+- 12:00 PM
+- Chatted with Fed
+- 1:00 PM
+- Clock out (TigerBeetle)
+
 # 2024-04-30
 
 - Clock in (Solana)
