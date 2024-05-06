@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-05-05
+
+- Clock in (Stellar)
+- 4:17 PM
+- Hacked on reproducible builds
+- 6:10 PM
+- Clock out (Stellar)
+
 # 2024-05-03
 
 - Clock in (Solana)
@@ -45,6 +53,14 @@ _This contains much of my open source activity since 2015._
 - [Added Vara to rust-in-blockchain](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/196#issuecomment-2087950786)
 - 10:16 PM
 - Clock out (rib)
+
+# 2024-04-29
+
+- Clock in (Stellar)
+- 1:00 PM
+- Hacked on reproducible builds
+- 4:00 PM
+- Clock out (Stellar)
 
 # 2024-04-25
 
