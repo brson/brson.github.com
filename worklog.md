@@ -5,14 +5,6 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
-# 2024-05-05
-
-- Clock in (Stellar)
-- 4:17 PM
-- Hacked on reproducible builds
-- 6:10 PM
-- Clock out (Stellar)
-
 # 2024-05-03
 
 - Clock in (Solana)
@@ -57,9 +49,11 @@ _This contains much of my open source activity since 2015._
 # 2024-04-29
 
 - Clock in (Stellar)
-- 1:00 PM
+- 1:17 PM
 - Hacked on reproducible builds
-- 4:00 PM
+- 4:17 PM
+- Hacked on reproducible builds
+- 6:10 PM
 - Clock out (Stellar)
 
 # 2024-04-25
