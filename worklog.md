@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-05-08
+
+- Clock in (TigerBeetle)
+- 7:56 AM
+- [Closed stale coalesce pr](https://github.com/tigerbeetle/tigerbeetle/pull/1859#issuecomment-2100690497)
+- 8:16 AM
+- Attended walk and talk
+- 8:38 PM
+- Clock out (TigerBeetle)
+
 # 2024-05-07
 
 - Clock in (TigerBeetle)
