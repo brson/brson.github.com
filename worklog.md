@@ -14,6 +14,13 @@ _This contains much of my open source activity since 2015._
 - Attended walk and talk
 - 8:38 PM
 - Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 2:37 PM
+- Sent invoice
+- 2:49 PM
+- Clock out (Stellar)
+- Clock in (Solana)
+- 2:50 PM
 
 # 2024-05-07
 
@@ -294,7 +301,7 @@ _This contains much of my open source activity since 2015._
 - Clock in (Solana)
 - 11:51 AM
 - Hacked on solana-move-demo
-- 3:39 AM
+- 3:39 PM
 - Clock out (Solana)
 - Clock in (TigerBeetle)
 - 3:59 PM
