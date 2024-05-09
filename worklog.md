@@ -24,6 +24,12 @@ _This contains much of my open source activity since 2015._
 - Sent invoice
 - 2:56 PM
 - Clock out (Solana)
+- Clock in (TigerBeetle)
+- 4:38 PM
+- Read LSM papers
+- Read tigerbeetle lsm code
+- 6:19 PM
+- Clock out (TigerBeetle)
 
 # 2024-05-07
 
