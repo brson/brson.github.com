@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-05-14
+
+- Clock in (TigerBeetle)
+- 4:21 PM
+- Read more LSM papers
+- Read more tigerbeetle compaction code
+- 5:04 PM
+- Clock out (TigerBeetle)
+
 # 2024-05-10
 
 - Clock in (TigerBeetle)
