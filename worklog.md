@@ -11,6 +11,8 @@ _This contains much of my open source activity since 2015._
 - 3:34 PM
 - Hacked on entrypoint calling
 - 5:16 PM
+- Hacked on solana-move-cli
+- 6:25 PM
 - Clock out (Solana)
 
 # 2024-05-16
