@@ -7,6 +7,14 @@ _This contains much of my open source activity since 2015._
 
 # 2024-05-17
 
+- Clock in (TigerBeetle)
+- 2:47 PM
+- Hacked on collecting metrics about compaction
+- 4:36 PM
+- Clock out (TigerBeetle)
+
+# 2024-05-17
+
 - Clock in (Solana)
 - 3:34 PM
 - Hacked on entrypoint calling
