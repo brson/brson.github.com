@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-05-24
+
+- Clock in (TigerBeetle)
+- 6:04 AM
+- Hacked on compaction metrics
+- Hacked on compaction table selection
+- 7:02 AM
+- Hacked on constCast fixes
+- 7:13 AM
+- Clock out (TigerBeetle)
+
 # 2024-05-23
 
 - Clock in (TigerBeetle)
