@@ -13,6 +13,12 @@ _This contains much of my open source activity since 2015._
 - Attended status meeting
 - 9:04 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 11:05 AM
+- Updated newsletter with ironbeetle info
+- Hacked on compaction strategies
+- 12:41 PM
+- Clock out (TigerBeetle)
 
 # 2024-05-29
 
