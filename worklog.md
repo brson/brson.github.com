@@ -5,12 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-06-03
+
+- Clock in (Stellar)
+- 5:22 PM
+- Posted status update on reproducible builds to discord
+- 5:26 PM
+- Clock out (Stellar)
+
 # 2024-05-31
 
 - Clock in (Stellar)
-- 4:51 PM
+- 3:21 PM
 - Hacked on reproducible builds
-- 6:55 PM
+- 5:20 PM
 - Clock out (Stellar)
 
 # 2024-05-30
@@ -27,6 +35,11 @@ _This contains much of my open source activity since 2015._
 - Hacked on compaction strategies
 - 12:41 PM
 - Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 4:51 PM
+- Hacked on reproducible builds
+- 6:55 PM
+- Clock out (Stellar)
 
 # 2024-05-29
 
@@ -39,6 +52,14 @@ _This contains much of my open source activity since 2015._
 - Attended 1:1
 - 9:45 AM
 - Clock out (TigerBeetle)
+
+# 2024-05-26
+
+- Clock in (Stellar)
+- 12:00 PM
+- Hacked on reproducible builds in soroban-cli
+- 4:00 PM
+- Clock out (Stellar)
 
 # 2024-05-24
 
@@ -71,6 +92,14 @@ _This contains much of my open source activity since 2015._
 - Hacked on collecting metrics about compaction
 - 4:36 PM
 - Clock out (TigerBeetle)
+
+# 2024-05-19
+
+- Clock in (Stellar)
+- 12:00 PM
+- Hacked on reproducible builds in soroban-cli
+- 4:00 PM
+- Clock out (Stellar)
 
 # 2024-05-17
 
