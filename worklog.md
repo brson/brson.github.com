@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-05-31
+
+- Clock in (Stellar)
+- 4:51 PM
+- Hacked on reproducible builds
+- 6:55 PM
+- Clock out (Stellar)
+
 # 2024-05-30
 
 - Clock in (TigerBeetle)
