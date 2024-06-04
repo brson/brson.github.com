@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-06-04
+
+- Clock in (TigerBeetle)
+- 3:39 PM
+- [Posted constCast pr](https://github.com/tigerbeetle/tigerbeetle/pull/1986)
+- 4:12 PM
+- Hacked on compaction strats
+- 4:52 PM
+- Clock out (TigerBeetle)
+
 # 2024-06-03
 
 - Clock in (Stellar)
