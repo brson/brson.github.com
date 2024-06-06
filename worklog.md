@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Attended walk-and-talk
 - 8:29 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 4:17 PM
+- Hacked on scatter plots for compaction strategies
+- 6:12 PM
+- Clock out (TigerBeetle)
 
 # 2024-06-04
 
