@@ -9,6 +9,9 @@ _This contains much of my open source activity since 2015._
 
 - Clock in (TigerBeetle)
 - 2:35 PM
+- Hacked on compaction strategies
+- 5:29 PM
+- Clock out (TigerBeetle)
 
 # 2024-06-06
 
