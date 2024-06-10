@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-06-08
+
+- Clock in (TigerBeetle)
+- 3:53 PM
+- Posted updated compaction scatter plots
+- Submitted invoice
+- 4:30 PM
+- Clock out (TigerBeetle)
+
 # 2024-06-07
 
 - Clock in (TigerBeetle)
