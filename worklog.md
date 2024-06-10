@@ -5,7 +5,7 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
-# 2024-06-08
+# 2024-06-10
 
 - Clock in (TigerBeetle)
 - 3:53 PM
@@ -13,6 +13,13 @@ _This contains much of my open source activity since 2015._
 - Submitted invoice
 - 4:30 PM
 - Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 5:01 PM
+- Commented on reproducible builds thread
+- 5:11 PM
+- Sent invoice
+- 5:22 PM
+- Clock out (Stellar)
 
 # 2024-06-07
 
