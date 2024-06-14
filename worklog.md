@@ -19,8 +19,10 @@ _This contains much of my open source activity since 2015._
 - Clock out (TigerBeetle)
 - Clock in (TigerBeetle)
 - 1:52 PM
-- Hacked on compaction
+- Added lookaround table selection strategies to compaction
 - 4:40 PM
+- Hacked on compaction
+- 7:47 PM
 - Clock out (TigerBeetle)
 
 # 2024-06-12
