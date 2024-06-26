@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-06-26
+
+- Clock in (TigerBeetle)
+- 1:01 PM
+- [Merged test_min pr](https://github.com/tigerbeetle/tigerbeetle/pull/2036)
+- 1:07 PM
+- [Filed custom formatter issue](https://github.com/tigerbeetle/tigerbeetle/issues/2050)
+- 1:07 PM
+- [Filed issue about test_min ci](https://github.com/tigerbeetle/tigerbeetle/issues/2051)
+- 1:10 PM
+- Clock out (TigerBeetle)
+
 # 2024-06-24
 
 - Clock in (TigerBeetle)
