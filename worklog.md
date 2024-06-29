@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 202-06-29
+
+- Clock in (Stellar)
+- 3:12 PM
+- Hacked on soroban-example reproductions
+- [Sent status update to discord](https://discord.com/channels/897514728459468821/1230143202506313738/1256704387745710161)
+- 4:23 PM
+- Clock out (Stellar)
+
 # 2024-06-26
 
 - Clock in (TigerBeetle)
@@ -53,6 +62,14 @@ _This contains much of my open source activity since 2015._
 - Attended walk and talk
 - 8:56 AM
 - Clock out (TigerBeetle)
+
+# 2024-06-18
+
+- Clock in (Stellar)
+- 1:22 PM
+- Hacked on soroban-example reproductions
+- 4:30 PM
+- Clock out (Stellar)
 
 # 2024-06-14
 
