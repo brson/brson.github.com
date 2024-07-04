@@ -12,6 +12,17 @@ _This contains much of my open source activity since 2015._
 - Attended status meeting
 - 9:00 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 10:17 AM
+- [Submitted lsm tidy pr](https://github.com/tigerbeetle/tigerbeetle/pull/2073)
+- 11:43 AM
+- Watched ironbeetle
+- 11:52 AM
+- [Posted issue to fix timing test](https://github.com/tigerbeetle/tigerbeetle/pull/2074)
+- 12:29 PM
+- Debugged test runner issues
+- 12:52 PM
+- Clock out (TigerBeetle)
 
 # 2024-07-03
 
