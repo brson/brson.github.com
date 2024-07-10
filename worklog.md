@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-07-09
+
+- Clock in (TigerBeetle)
+- 3:55 PM
+- [Posted another tidy pr](https://github.com/tigerbeetle/tigerbeetle/pull/2089)
+- 5:01 PM
+- Hacked on compaction strategies
+- 7:20 PM
+- Debugged release mode bugs
+- 8:40 PM
+- Ran new compaction strategy tests
+- 8:48 PM
+- Clock out (TigerBeetle)
+
 # 2024-07-04
 
 - Clock in (TigerBeetle)
