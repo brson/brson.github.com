@@ -21,6 +21,14 @@ _This contains much of my open source activity since 2015._
 - Watched ironbeetle
 - 12:07 PM
 - Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 4:07 PM
+- Debugged absolute paths in wasms
+- [Filed issue about removing absolute paths in wasms](https://github.com/stellar/stellar-cli/issues/1445)
+- 5:34 PM
+- [Posted update on reproducible builds](https://discord.com/channels/897514728459468821/1230143202506313738/1261102757209702420)
+- 5:34 PM
+- Clock out (Stellar)
 
 # 2024-07-10
 
