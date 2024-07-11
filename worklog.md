@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-07-11
+
+- Clock in (TigerBeetle)
+- 7:59 AM
+- Attended walk-and-talk
+- 9:00 AM
+- Attended 1:1
+- 9:48 AM
+- Clock out (TigerBeetle)
+
 # 2024-07-10
 
 - Clock in (TigerBeetle)
@@ -12,6 +22,16 @@ _This contains much of my open source activity since 2015._
 - Attended walk and talk
 - 8:58 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 10:07 AM
+- [Commented on oom](https://github.com/tigerbeetle/tigerbeetle/issues/2055#issuecomment-2220963328)
+- 10:25 AM
+- Posted updates on compaction experiments
+- 11:00 AM
+- Hacked on compaction strategies
+- 12:03 PM
+- Clock out (TigerBeetle)
+
 
 # 2024-07-09
 
