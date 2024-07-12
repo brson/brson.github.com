@@ -5,6 +5,11 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-07-12
+
+- Clock in (TigerBeetle)
+- 2:27 PM
+
 # 2024-07-11
 
 - Clock in (TigerBeetle)
@@ -22,6 +27,8 @@ _This contains much of my open source activity since 2015._
 - 12:07 PM
 - Clock out (TigerBeetle)
 - Clock in (Stellar)
+- 1:12 PM
+- Debugged cross-platform reproducability
 - 4:07 PM
 - Debugged absolute paths in wasms
 - [Filed issue about removing absolute paths in wasms](https://github.com/stellar/stellar-cli/issues/1445)
