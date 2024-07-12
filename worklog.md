@@ -9,6 +9,11 @@ _This contains much of my open source activity since 2015._
 
 - Clock in (TigerBeetle)
 - 2:27 PM
+- Added multi-table lookaround compaction strategies
+- 3:39 PM
+- Ran more compaction experiments
+- 4:12 PM
+- Clock out (TigerBeetle)
 
 # 2024-07-11
 
