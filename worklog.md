@@ -13,6 +13,11 @@ _This contains much of my open source activity since 2015._
 - Reran experiments
 - 2:00 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 4:26 PM
+- Improved compaction experiment scripts
+- 4:55 PM
+- Clock out (TigerBeetle)
 
 # 2024-07-12
 
