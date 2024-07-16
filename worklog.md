@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-07-16
+
+- Clock in (Stellar)
+- 3:35 PM
+- Set up stellar development vm
+- Debugged irrepreducable build failures
+- 5:13 PM
+- Clock out (Stellar)
+
 # 2024-07-13
 
 - Clock in (TigerBeetle)
