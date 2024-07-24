@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-07-24
+
+- Clock in (TigerBeetle)
+- 2:09 PM
+- Cleaned up test and tidy in compaction branch
+- Rebased compaction branch
+- Ran new experiments
+- 4:13 PM
+
 # 2024-07-23
 
 - Clock in (Stellar)
