@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-07-23
+
+- Clock in (Stellar)
+- 6:24 PM
+- Debugged cross-platform reproducibility re symbol naming
+- 7:33 PM
+- Clock out (Stellar)
+
 # 2024-07-18
 
 - Clock in (TigerBeetle)
