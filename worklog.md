@@ -5,6 +5,25 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-07-25
+
+- Clock in (TigerBeetle)
+- 11:00 AM
+- Watched ironbeetle
+- 12:01 PM
+- Debugged failing benchmark
+- [Filed issue about table exceeding limits](https://github.com/tigerbeetle/tigerbeetle/issues/2144)
+- 1:45 PM
+- Added workarounds for failing benchmarks
+- 2:41 PM
+- Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 2:42 PM
+- Debugged cross-platform wasm reproducibility
+- [Commented on wasm reproducibility](https://github.com/rust-lang/rust/issues/97919#issuecomment-2251339818)
+- 3:32 PM
+- Clock out (Stellar)
+
 # 2024-07-24
 
 - Clock in (TigerBeetle)
