@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-07-26
+
+- Clock in (Stellar)
+- 8:37 PM
+- [Commented on reproducible builds](https://discord.com/channels/897514728459468821/1230143202506313738/1266404585971388468)
+- 8:46 PM
+- Clock out (Stellar)
+
 # 2024-07-25
 
 - Clock in (TigerBeetle)
