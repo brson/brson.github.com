@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-07-29
+
+- Clock in (TigerBeetle)
+- 2:27 PM
+- Started new compaction experiment run
+- Read vlsm paper
+- 3:57 PM
+- Clock out (TigerBeetle)
+
 # 2024-07-28
 
 - Clock in (TigerBeetle)
