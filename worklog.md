@@ -15,6 +15,13 @@ _This contains much of my open source activity since 2015._
 - Hacked on per-level compaction strategies
 - 3:30 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 5:32 PM
+- Hacked on per-level compaction strategies
+- 5:58 PM
+- Ran new experiment
+- 6:03 PM
+- Clock out (TigerBeetle)
 
 # 2024-07-29
 
