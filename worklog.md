@@ -5,6 +5,25 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-08-01
+
+- Clock in (TigerBeetle)
+- 8:00 AM
+- Attended status mtg
+- 9:00 AM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 9:40 AM
+- Debugged out-of-tables
+- Debugged broken backtraces
+- 11:00 AM
+- Watched ironbeetle
+- Debugged broken backtraces
+- 11:53 AM
+- Started new experiments
+- 12:41 PM
+- Clock out (TigerBeetle)
+
 # 2024-07-31
 
 - Clock in (TigerBeetle)
