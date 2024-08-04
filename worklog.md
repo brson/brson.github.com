@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-08-04
+
+- Clock in (TigerBeetle)
+- 3:51 PM
+- [Fixed some install script issues](https://github.com/tigerbeetle/tigerbeetle/pull/2178)
+- 5:15 PM
+- [Reviewed repl raw input patch](https://github.com/tigerbeetle/tigerbeetle/pull/2155#issuecomment-2267939587)
+- 5:39 PM
+- Clock out (TigerBeetle)
+
 # 2024-08-01
 
 - Clock in (TigerBeetle)
