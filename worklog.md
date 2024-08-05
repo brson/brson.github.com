@@ -10,6 +10,7 @@ _This contains much of my open source activity since 2015._
 - Clock in (Stellar)
 - 2:50 PM
 - Debugged cross-platform reproducibility in cargo
+- Posted updates to discord
 - 3:50 PM
 - Clock out (Stellar)
 - Clock in (TigerBeetle)
