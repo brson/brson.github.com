@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-08-13
+
+- Clock in (TigerBeetle)
+- 3:53 PM
+- [Merged install script pr](https://github.com/tigerbeetle/tigerbeetle/pull/2178)
+- 3:54 PM
+- Added tracking of level sparsity
+- Rebased compaction branch
+- 4:49 PM
+- Clock out (TigerBeetle)
+
 # 2024-08-12
 
 - Clock in (Stellar)
