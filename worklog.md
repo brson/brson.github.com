@@ -18,6 +18,12 @@ _This contains much of my open source activity since 2015._
 - Adapted YCSB workloads to benchmark
 - 5:22 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 6:47 PM
+- Started another experiment run
+- Studied the ycsb zipfian generator
+- 7:39 PM
+- Clock out (TigerBeetle)
 
 # 2024-08-13
 
