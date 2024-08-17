@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-08-16
+
+- Clock in (Stellar)
+- 4:30 PM
+- Hacked on reproducibility
+- 5:30 PM
+- Talked to graydon about rust china
+- 6:08 PM
+- Clock out (Stellar)
+
 # 2024-08-15
 
 - Clock in (TigerBeetle)
@@ -12,6 +22,9 @@ _This contains much of my open source activity since 2015._
 - Attended status update
 - 9:04 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 11:03 AM
+- Watched ironbeetle
 
 # 2024-08-14
 
