@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-08-20
+
+- Clock in (Stellar)
+- 2:30 PM
+- Read about recommended cargo-zigbuild
+- 2:41 PM
+- [Commented on reproducible builds](https://discord.com/channels/897514728459468821/1230143202506313738/1275561235252908158)
+- 3:06 PM
+- Sent status report on reproducible builds
+- 3:25 PM
+- Clock out (Stellar)
+
 # 2024-08-19
 
 - Clock in (TigerBeetle)
