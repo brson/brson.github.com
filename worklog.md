@@ -21,6 +21,12 @@ _This contains much of my open source activity since 2015._
 - Sent invoices
 - 3:52 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 8:03 PM
+- Implemented a new zipfian distribution
+- Thought about how to most correctly use the zipfian distribution
+- 9:13 PM
+- Clock out (TigerBeetle)
 
 # 2024-08-19
 
