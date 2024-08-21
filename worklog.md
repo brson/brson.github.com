@@ -14,6 +14,11 @@ _This contains much of my open source activity since 2015._
 - Attended 1:1
 - 9:50 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 1:16 PM
+- Hacked on zipfian distribution
+- 5:43 PM
+- Clock out (TigerBeetle)
 
 # 2024-08-20
 
