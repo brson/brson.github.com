@@ -5,6 +5,27 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-08-23
+
+- Clock in (TigerBeetle)
+- 9:36 AM
+- Advised fabian and alex about mics and audio
+- 10:44 AM
+- Clock out (TigerBeetle)
+
+# 2024-08-22
+
+- Clock in (TigerBeetle)
+- 7:59 AM
+- Attended status meeting
+- 8:39 AM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 10:56 AM
+- Watched ironbeetle
+- 12:05 PM
+- Clock out (TigerBeetle)
+
 # 2024-08-21
 
 - Clock in (TigerBeetle)
