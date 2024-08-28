@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-08-27
+
+- Clock in (TigerBeetle)
+- 5:20 PM
+- k-s tested zipfian number generator
+- 6:32 PM
+- Clock out (TigerBeetle)
+
 # 2024-08-26
 
 - Clock in (TigerBeetle)
