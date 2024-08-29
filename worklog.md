@@ -14,6 +14,11 @@ _This contains much of my open source activity since 2015._
 - Submitted expense receipts
 - 2:34 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 4:52 PM
+- Hacked on writing k-s unit test for zipfians
+- 5:36 PM
+- Clock out (TigerBeetle)
 
 # 2024-08-27
 
