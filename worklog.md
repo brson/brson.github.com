@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-09-03
+
+- Clock in (TigerBeetle)
+- 1:11 PM
+- [Submitted PR for zipfians](https://github.com/tigerbeetle/tigerbeetle/pull/2274)
+- 5:42 PM
+- Clock out (TigerBeetle)
+
 # 2024-08-29
 
 - Clock in (TigerBeetle)
