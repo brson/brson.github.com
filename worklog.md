@@ -5,6 +5,24 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-09-11
+
+- Clock in (TigerBeetle)
+- 8:00 AM
+- Attended walk and talk
+- 8:50 AM
+- Clock out (TigerBeetle)
+
+# 2024-09-10
+
+- Clock in (Stellar)
+- 12:34 PM
+- Posted update on reproducible builds
+- 1:56 PM
+- [Submitted pr for absolute paths in stellar-cli](https://github.com/stellar/stellar-cli/pull/1594)
+- 4:43 PM
+- Clock out (Stellar)
+
 # 2024-09-05
 
 - Clock in (TigerBeetle)
