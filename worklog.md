@@ -12,6 +12,12 @@ _This contains much of my open source activity since 2015._
 - Attended status meeting
 - 9:07 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 10:59 AM
+- Researched calculating the skew of zipf from the CDF
+- Watched ironbeetle
+- 12:05 PM
+- Clock out (TigerBeetle)
 
 # 2024-09-11
 
