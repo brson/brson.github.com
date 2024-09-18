@@ -12,6 +12,13 @@ _This contains much of my open source activity since 2015._
 - Attended walkandtalk
 - 9:00 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 11:14 AM
+- [Updated zipfian pr](https://github.com/tigerbeetle/tigerbeetle/pull/2274#issuecomment-2359228813)
+- 1:35 PM
+- Worked on probability-targeted zipfians
+- 2:24 PM
+- Clock out (TigerBeetle)
 
 # 2024-09-16
 
