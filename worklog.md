@@ -12,6 +12,12 @@ _This contains much of my open source activity since 2015._
 - Hacked on benchmark restructuring
 - 2:33 PM
 - Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 5:40 PM
+- Hacked on qemu-based repro isolation
+- Reworked stellar-cli absolute path pr
+- 7:21 PM
+- Clock out (Stellar)
 
 # 2024-09-24
 
