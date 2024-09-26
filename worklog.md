@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-09-26
+
+- Clock in (TigerBeetle)
+- 9:48 AM
+- Hacked on benchmarks
+- Watched ironbeetle
+- 11:56 AM
+- Hacked on benchmarks
+- 1:14 PM
+- Clock out (TigerBeetle)
+
 # 2024-09-25
 
 - Clock in (TigerBeetle)
