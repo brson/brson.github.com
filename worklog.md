@@ -5,6 +5,31 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-10-01
+
+- Clock in (TigerBeetle)
+- 3:15 PM
+- [Reworked zipfian pr](https://github.com/tigerbeetle/tigerbeetle/pull/2274#issuecomment-2387191117)
+- 4:24 PM
+- Rebased benchmark branch
+- 4:27 PM
+- [Submitted draft benchmark pr](https://github.com/tigerbeetle/tigerbeetle/pull/2366)
+- 6:02 PM
+- Clock out (TigerBeetle)
+
+# 2024-09-30
+
+- Clock in (TigerBeetle)
+- 11:38 AM
+- Sent invoice
+- 11:54 AM
+- Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 11:54 AM
+- Sent invoice
+- 12:00 PM
+- Clock out (Stellar)
+
 # 2024-09-28
 
 - Clock in (TigerBeetle)
@@ -276,6 +301,8 @@ _This contains much of my open source activity since 2015._
 - 3:06 PM
 - Sent status report on reproducible builds
 - 3:25 PM
+- Hacked on sandboxing for reproducibility tool
+- 7:35 PM
 - Clock out (Stellar)
 - Clock in (TigerBeetle)
 - 3:26 PM
@@ -292,7 +319,7 @@ _This contains much of my open source activity since 2015._
 # 2024-08-19
 
 - Clock in (TigerBeetle)
-- 3:07
+- 3:07 PM
 - Hacked on zipfian distribution
 - 5:20 PM
 - Clock out (TigerBeetle)
@@ -308,7 +335,7 @@ _This contains much of my open source activity since 2015._
 # 2024-08-16
 
 - Clock in (Stellar)
-- 4:30 PM
+- 2:30 PM
 - Hacked on reproducibility
 - 5:30 PM
 - Talked to graydon about rust china
@@ -325,6 +352,8 @@ _This contains much of my open source activity since 2015._
 - Clock in (TigerBeetle)
 - 11:03 AM
 - Watched ironbeetle
+- 11:59 AM
+- Clock out (TigerBeetle)
 
 # 2024-08-14
 
