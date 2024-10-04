@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-10-04
+
+- Clock in (TigerBeetle)
+- 5:16 PM
+- Read Knuth's material on zipf's law and similar distributions
+- 5:45 PM
+- Clock out (TigerBeetle)
+
 # 2024-10-03
 
 - Clock in (TigerBeetle)
