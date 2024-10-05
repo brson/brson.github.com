@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-10-05
+
+- Clock in (Stellar)
+- 2:29 PM
+- [Reworked stellar-cli path remapping patch](https://github.com/stellar/stellar-cli/pull/1594#issuecomment-2395211397)
+- 4:14 PM
+- Clock out (Stellar)
+
 # 2024-10-04
 
 - Clock in (TigerBeetle)
