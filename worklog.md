@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-10-08
+
+- Clock in (Stellar)
+- 4:41 PM
+- Cleaned up stellar-cli repro branch
+- 6:15 PM
+- Clock out (Stellar)
+
 # 2024-10-05
 
 - Clock in (Stellar)
