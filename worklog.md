@@ -5,6 +5,25 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-10-10
+
+- Clock in (TigerBeetle)
+- 11:00 AM
+- Watched IronBeetle
+- 12:50 PM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 8:54 PM
+- Rebased compaction-stats branch
+- 9:12 PM
+- [Merged zipf pr](https://github.com/tigerbeetle/tigerbeetle/pull/2274)
+- 9:28 PM
+- Rebased benchmark-workload branch
+- 9:31 PM
+- Hacked on compaction experiments
+- 10:40 PM
+- Clock out (TigerBeetle)
+
 # 2024-10-09
 
 - Clock in (TigerBeetle)
