@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-10-20
+
+- Clock in (TigerBeetle)
+- 8:05 PM
+- [Reviewed benchmark fix](https://github.com/tigerbeetle/tigerbeetle/pull/2405#pullrequestreview-2380789755)
+- 8:37 PM
+- [Posted PR to reduce tidy merge conflicts](https://github.com/tigerbeetle/tigerbeetle/pull/2419)
+- 8:40 PM
+- Hacked on benchmarks
+- 9:34 PM
+- Clock out (TigerBeetle)
+
 # 2024-10-17
 
 - Clock in (TigerBeetle)
