@@ -12,6 +12,13 @@ _This contains much of my open source activity since 2015._
 - Attended team meeting
 - 9:05 AM
 - Clock in (TigerBeetle)
+- Clock in (TigerBeetle)
+- 8:42 PM
+- Revewed compaction low tvr experiment results
+- 8:57 PM
+- [Reviewed repl pr](https://github.com/tigerbeetle/tigerbeetle/pull/2155#pullrequestreview-2383903165)
+- 11:11 PM
+- Clock out (TigerBeetle)
 
 # 2024-10-20
 
