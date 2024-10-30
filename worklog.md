@@ -5,6 +5,25 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-10-30
+
+- Clock in (TigerBeetle)
+- 7:41 AM
+- Rebased wpaulino's repl pr
+- Responded to 2nd repl pr
+- Sent messages to repl contributors
+- Raised the subject of python bindings in chat
+- 8:30 AM
+- Attended walk and talk
+- 9:00 AM
+- Chatted about rust client
+- 9:30 AM
+- Attended 1-1
+- 10:00 AM
+- Chatted re python bindings, rust bindings
+- 10:05 AM
+- Clock out (TigerBeetle)
+
 # 2024-10-26
 
 - Clock in (wildwood)
