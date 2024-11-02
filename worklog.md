@@ -9,6 +9,16 @@ _This contains much of my open source activity since 2015._
 
 - Clock in (Stellar)
 - 3:30 PM
+- Rebased and retested repro branch
+- [Commented on absolute path pr](https://github.com/stellar/stellar-cli/pull/1594#issuecomment-2453216579)
+- 4:48 PM
+- Rebased remap-path branch of stellar-cli
+- 5:04 PM
+- Refreshed myself on cargo reproducible builds issue
+- 5:14 PM
+- Hacked on cargo reproducible builds
+- 5:39 PM
+- Clock out (Stellar)
 
 # 2024-11-01
 
@@ -24,6 +34,14 @@ _This contains much of my open source activity since 2015._
 - 11:00 AM
 - Watched ironbeetle
 - 12:20 PM
+- Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 12:21 PM
+- Rebased stellar-cli repro branch
+- Fixed todos in repro branch
+- 4:20 PM
+- Clock out (Stellar)
+- Clock in (TigerBeetle)
 - 5:40 PM
 - Hacked on repl allocation
 - 6:36 PM
