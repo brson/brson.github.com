@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-11-03
+
+- Clock in (TigerBeetle)
+- 1:01 PM
+- Hacked on repl static allocation
+- 7:03 PM
+- Clock out (TigerBeetle)
+
 # 2024-11-02
 
 - Clock in (Stellar)
