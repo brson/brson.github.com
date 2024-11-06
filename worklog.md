@@ -5,6 +5,22 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-11-05
+
+- Clock in (Stellar)
+- 3:55 PM
+- [Filed issue about testing debug paths](https://github.com/stellar/stellar-cli/issues/1704)
+- [Commented on spaces in paths](https://github.com/stellar/stellar-cli/pull/1594)
+- 4:18 PM
+- Hacked on test case for spaces in paths
+- 4:35 PM
+- Clock out (Stellar)
+- Clock in (TigerBeetle)
+- 4:36 PM
+- Hacked on repl static allocation
+- 5:40 PM
+- Clock out (TigerBeetle)
+
 # 2024-11-04
 
 - Clock in (TigerBeetle)
