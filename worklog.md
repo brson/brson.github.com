@@ -16,6 +16,11 @@ _This contains much of my open source activity since 2015._
 - Tested repl on macos
 - 5:49 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 9:44 PM
+- Hacked on rust client
+- 10:43 PM
+- Clock out (TigerBeetle)
 
 # 2024-11-09
 
