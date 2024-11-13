@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-11-12
+
+- Clock in (TigerBeetle)
+- 3:47 PM
+- [Addressed review of repl pr](https://github.com/tigerbeetle/tigerbeetle/pull/2464)
+- 5:09 PM
+- Retested repl changes on windows
+- 5:23 PM
+- Tested repl on macos
+- 5:49 PM
+- Clock out (TigerBeetle)
+
 # 2024-11-09
 
 - Clock in (TigerBeetle)
