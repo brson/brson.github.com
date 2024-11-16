@@ -12,6 +12,17 @@ _This contains much of my open source activity since 2015._
 - [Updated repl pr](https://github.com/tigerbeetle/tigerbeetle/pull/2464#issuecomment-2479717723)
 - 11:55 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 4:41 PM
+- [Merged repl pr](https://github.com/tigerbeetle/tigerbeetle/pull/2464)
+- 4:56 PM
+- [Commented on old repl pr](https://github.com/tigerbeetle/tigerbeetle/pull/2155#issuecomment-2480161218)
+- 4:57 PM
+- [Commented on new repl pr](https://github.com/tigerbeetle/tigerbeetle/pull/2423#issuecomment-2480163480)
+- 4:58 PM
+- Commented about repl on slacks
+- 5:06 PM
+- Clock out (TigerBeetle)
 
 # 2024-11-14
 
