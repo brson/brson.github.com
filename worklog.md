@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Attended walkandtalk
 - 8:21 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 8:51 PM
+- Streamed rust client hacking
+- 10:17 PM
+- Clock out (TigerBeetle)
 
 # 2024-11-19
 
