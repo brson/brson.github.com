@@ -5,6 +5,22 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-11-26
+
+- Clock in (TigerBeetle)
+- 11:58 AM
+- [Closed old benchmarks pr](https://github.com/tigerbeetle/tigerbeetle/pull/2366)
+- 11:59 AM
+- Rebased benchmark-workload branch
+- 12:05 PM
+- [Filed bug about linux arm installation](https://github.com/tigerbeetle/tigerbeetle/issues/2512)
+- 12:46 PM
+- [Reviewed repl completion pr](https://github.com/tigerbeetle/tigerbeetle/pull/2423)
+- 2:05 PM
+- [Filed issue about dynamic allocation in the repl](https://github.com/tigerbeetle/tigerbeetle/issues/2515)
+- 2:19 PM
+- Clock out (TigerBeetle)
+
 # 2024-11-20
 
 - Clock in (TigerBeetle)
