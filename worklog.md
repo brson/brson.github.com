@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-11-29
+
+- Clock in (TigerBeetle)
+- 10:30 AM
+- Researched tb_client behavior
+- [Filed issue about repl deinit](https://github.com/tigerbeetle/tigerbeetle/issues/2528)
+- 11:14 AM
+- Clock out (TigerBeetle)
+
 # 2024-11-28
 
 - Clock in (TigerBeetle)
