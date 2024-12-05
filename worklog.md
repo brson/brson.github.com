@@ -16,6 +16,10 @@ _This contains much of my open source activity since 2015._
 - 10:00 AM
 - Watched IronBeetle
 - 11:05 AM
+- Worked on building zig
+- 11:20 AM
+- [Reviewed repl PR](https://github.com/tigerbeetle/tigerbeetle/pull/2423#pullrequestreview-2462644071)
+- 12:18 PM
 - Clock out (TigerBeetle)
 
 # 2024-12-04
