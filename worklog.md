@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-12-08
+
+- Clock in (Stellar)
+- 4:29 PM
+- Hacked on absolute paths tests
+- [Commented on test fixes](https://github.com/stellar/stellar-cli/pull/1736#issuecomment-2526512485)
+- 5:10 PM
+- Clock out (Stellar)
+
 # 2024-12-05
 
 - Clock in (TigerBeetle)
@@ -117,6 +126,11 @@ _This contains much of my open source activity since 2015._
 - Streamed rust client hacking
 - 6:24 PM
 - Clock out (TigerBeetle)
+- Clock in (Stellar)
+- 6:25 PM
+- [Hacked on test cases for absolute paths](https://github.com/stellar/stellar-cli/issues/1704)
+- 7:25 PM
+- Clock out (Stellar)
 
 # 2024-11-18
 
@@ -129,6 +143,8 @@ _This contains much of my open source activity since 2015._
 - 4:15 PM
 - Sent invoices
 - 4:31 PM
+- [Hacked on test cases for absolute paths](https://github.com/stellar/stellar-cli/issues/1704)
+- 6:55 PM
 - Clock out (Stellar)
 
 # 2024-11-15
