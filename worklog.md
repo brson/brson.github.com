@@ -12,6 +12,8 @@ _This contains much of my open source activity since 2015._
 - Streamed code review
 - [Reviewed repl allocation pr](https://github.com/tigerbeetle/tigerbeetle/pull/2542#pullrequestreview-2490582093)
 - 6:45 PM
+- [Announced release 0.16.17](https://tigerbeetle.slack.com/archives/C0431SPEB61/p1733796995415799)
+- 7:18 PM
 - Clock out (TigerBeetle)
 
 # 2024-12-08
