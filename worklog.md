@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-12-10
+
+- Clock in (Stellar)
+- 4:29 PM
+- [Submitted test for remapping paths](https://github.com/stellar/stellar-cli/pull/1786)
+- 5:55 PM
+- Clock out (Stellar)
+
 # 2024-12-09
 
 - Clock in (TigerBeetle)
