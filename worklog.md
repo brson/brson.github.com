@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Reviewed rust async fns and lifetime elision rules
 - 5:27 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 7:46 PM
+- Streamed rust client hacking
+- 10:08 PM
+- Clock out (TigerBeetle)
 
 # 2024-12-12
 
