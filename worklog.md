@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-12-15
+
+- Clock in (wildwood)
+- 12:58 PM
+- Synced on errors and data types and module organization
+- 4:39 PM
+- Clock out (wildwood)
+
 # 2024-12-13
 
 - Clock in (TigerBeetle)
