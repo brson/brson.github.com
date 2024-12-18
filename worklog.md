@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-12-18
+
+- Clock in (TigerBeetle)
+- 1:44 PM
+- [Reviewed benchmark fix](https://github.com/tigerbeetle/tigerbeetle/pull/2566#pullrequestreview-2512830303)
+- 1:47 PM
+- [Commented on linux quickstart issue](https://github.com/tigerbeetle/tigerbeetle/issues/2512#issuecomment-2552264942)
+- 2:05 PM
+- [Moved repl files to subdir](https://github.com/tigerbeetle/tigerbeetle/pull/2581)
+- 3:09 PM
+- Clock out (TigerBeetle)
+
 # 2024-12-15
 
 - Clock in (wildwood)
