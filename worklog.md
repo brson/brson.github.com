@@ -16,6 +16,11 @@ _This contains much of my open source activity since 2015._
 - [Moved repl files to subdir](https://github.com/tigerbeetle/tigerbeetle/pull/2581)
 - 3:09 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 8:22 PM
+- Streamed rust client hacking
+- 10:12 PM
+- Clock out (TigerBeetle)
 
 # 2024-12-15
 
