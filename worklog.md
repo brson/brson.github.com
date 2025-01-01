@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-01-01
+
+- Clock in (TigerBeetle)
+- 1:50 PM
+- Submitted invoices
+- 2:09 PM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 3:09 PM
+- Edited videos for youtube
+- 3:51 PM
+- Clock out (TigerBeetle)
+
 # 2024-12-31
 
 - Clock in (TigerBeetle)
@@ -394,7 +407,7 @@ _This contains much of my open source activity since 2015._
 - 10:00 AM
 - Watched ironbeetle
 - 11:00 AM
-- Clock out (TigerBetle)
+- Clock out (TigerBeetle)
 - Clock in (TigerBeetle)
 - 5:16 PM
 - Streamed repl hacking
