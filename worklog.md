@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-01-02
+
+- Clock in (TigerBeetle)
+- 9:58 AM
+- Watched ironbeetle
+- Hacked on stdx
+- 11:06 AM
+- [Posted PR for ringbuffer to stdx](https://github.com/tigerbeetle/tigerbeetle/pull/2634)
+- 11:48 AM
+- Clock out (TigerBeetle)
+
 # 2025-01-01
 
 - Clock in (TigerBeetle)
