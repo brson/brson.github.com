@@ -11,6 +11,8 @@ _This contains much of my open source activity since 2015._
 - 12:40 PM
 - Read build script and go bindings etc
 - 12:59 PM
+- Streamed hacking on the rust client
+- 4:11 PM
 - Clock out (TigerBeetle)
 
 # 2024-01-05
