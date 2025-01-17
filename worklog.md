@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-01-17
+
+- Clock in (TigerBeetle)
+- 12:35 PM
+- Cut more streaming episodes for youtube
+- 12:57 PM
+- Chatted w/ Chaitanya
+- 1:01 PM
+- Posted zig fork to chat
+- 1:20 PM
+- [Assigned myself an issue](https://github.com/tigerbeetle/tigerbeetle/issues/2529)
+- 1:43 PM
+- Clock out (TigerBeetle)
+
 # 2024-01-16
 
 - Clock in (TigerBeetle)
