@@ -8,6 +8,14 @@ _This contains much of my open source activity since 2015._
 # 2024-01-17
 
 - Clock in (TigerBeetle)
+- 2:00 PM
+- Streamed rust client hacking
+- 6:40 PM
+- Clock out (TigerBeetle)
+
+# 2024-01-17
+
+- Clock in (TigerBeetle)
 - 12:35 PM
 - Cut more streaming episodes for youtube
 - 12:57 PM
