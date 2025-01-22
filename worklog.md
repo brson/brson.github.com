@@ -14,6 +14,9 @@ _This contains much of my open source activity since 2015._
 - Clock out (TigerBeetle)
 - Clock in (TigerBeetle)
 - 3:21 PM
+- Streamed rust client hacking
+- 5:27 PM
+- Clock out (TigerBeetle)
 
 # 2024-01-20
 
