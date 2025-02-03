@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-03
+
+- Clock in (TigerBeetle)
+- 12:41 PM
+- Chatted about youtube and tigertracks
+- 1:58 PM
+- [Commented on repl static allocation](https://github.com/tigerbeetle/tigerbeetle/issues/2515#issuecomment-2632073831)
+- 2:05 PM
+- [Posted IO assert fix](https://github.com/tigerbeetle/tigerbeetle/pull/2700)
+- 4:49 PM
+- Clock out (TigerBeetle)
+
 # 2024-01-28
 
 - Clock in (TigerBeetle)
