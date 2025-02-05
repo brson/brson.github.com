@@ -14,6 +14,13 @@ _This contains much of my open source activity since 2015._
 - [Posted repl newline investigation](https://github.com/tigerbeetle/tigerbeetle/issues/2529#issuecomment-2635254294)
 - 3:05 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 3:28 PM
+- [Reviewed repl static allocator pr](https://github.com/tigerbeetle/tigerbeetle/pull/2702#issuecomment-2635304768)
+- 3:40 PM
+- Investigated cli parser behavior
+- 4:03 PM
+- Clock out (TigerBeetle)
 
 # 2024-02-03
 
