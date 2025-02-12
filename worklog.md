@@ -5,6 +5,20 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-02-11
+
+- Clock in (TigerBeetle)
+- 1:40 PM
+- [Approved repl static allocator](https://github.com/tigerbeetle/tigerbeetle/pull/2702)
+- 1:56 PM
+- [Updated repl docs](https://github.com/tigerbeetle/tigerbeetle/pull/2722)
+- 2:47 PM
+- [Clarified slow request warning](https://github.com/tigerbeetle/tigerbeetle/pull/2723)
+- 3:05 PM
+- [Submitted repl fixes](https://github.com/tigerbeetle/tigerbeetle/pull/2725)
+- 6:17 PM
+- Clock out (TigerBeetle)
+
 # 2024-02-06
 
 - Clock in (TigerBeetle)
