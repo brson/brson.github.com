@@ -9,6 +9,13 @@ _This contains much of my open source activity since 2015._
 
 - Clock in (TigerBeetle)
 - 3:14 PM
+- [Updated repl docs pr](https://github.com/tigerbeetle/tigerbeetle/pull/2722#issuecomment-2664156310)
+- 3:17 PM
+- [Reviewed repl pr](https://github.com/tigerbeetle/tigerbeetle/pull/2727#pullrequestreview-2622033926)
+- 3:26 PM
+- Chatted
+- 3:35 PM
+- Clock out (TigerBeetle)
 
 # 2024-02-16
 
