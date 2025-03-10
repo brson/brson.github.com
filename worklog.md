@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2024-03-10
+
+- Clock in (TigerBeetle)
+- 1:13 PM
+- [Posted pr about slow requests](https://github.com/tigerbeetle/tigerbeetle/pull/2810)
+- 1:38 PM
+- Hacked on table/level fullness calculations
+- 2:43 PM
+- Clock out (TigerBeetle)
+
 # 2024-03-01
 
 - Clock in (TigerBeetle)
