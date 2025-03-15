@@ -14,6 +14,11 @@ _This contains much of my open source activity since 2015._
 - Hacked on compaction levels
 - 12:51 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 5:47 PM
+- Hacked on rust client
+- 7:53 PM
+- Clock out (TigerBeetle)
 
 # 2025-03-13
 
