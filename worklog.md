@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-04-03
+
+- Clock in (TigerBeetle)
+- 10:56 AM
+- [Reviewed vopr fix](https://github.com/tigerbeetle/tigerbeetle/pull/2883)
+- 11:36 AM
+- [Reviewed fuzzy repl search](https://github.com/tigerbeetle/tigerbeetle/pull/2870)
+- 12:07 PM
+- Clock out (TigerBeetle)
+
 # 2025-04-01
 
 - Clock in (TigerBeetle)
