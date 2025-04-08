@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Missed meeting with marina
 - 9:56 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 9:44 PM
+- Hacked on lsm compaction
+- 11:27 PM
+- Clock out (TigerBeetle)
 
 # 2025-04-04
 
