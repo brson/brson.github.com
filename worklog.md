@@ -11,6 +11,11 @@ _This contains much of my open source activity since 2015._
 - 7:51 AM
 - Attended walk and talk
 - 8:46 AM
+- Hacked on lsm compaction
+- Chatted w/ marina
+- 10:23 AM
+- Investigated inspect crash
+- 10:45 AM
 - Clock out (TigerBeetle)
 
 # 2025-04-07
