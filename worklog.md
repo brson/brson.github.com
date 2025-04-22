@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-04-22
+
+- Clock in (Stellar)
+- 10:59 AM
+- Chatted with leigh
+- Refreshed myself on soroban issues
+- [Read issues re unintentional symbol exports](https://github.com/stellar/rs-soroban-sdk/issues/1439)
+- 11:55 AM
+- Looked at cargo cross-os reproducibility
+- Clock out (Stellar)
+
 # 2025-04-21
 
 - Clock in (TigerBeetle)
