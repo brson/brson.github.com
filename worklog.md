@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-04-24
+
+- Clock in (TigerBeetle)
+- 10:53 AM
+- [Fixed merge conflict in client_readmes pr](https://github.com/tigerbeetle/tigerbeetle/pull/2908#issuecomment-2828499266)
+- 12:17 PM
+- [Filed pr about inspect grid fix](https://github.com/tigerbeetle/tigerbeetle/pull/2921/files)
+- 1:01 PM
+- Clock out (TigerBeetle)
+
 # 2025-04-22
 
 - Clock in (Stellar)
