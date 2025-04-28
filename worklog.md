@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-04-28
+
+- Clock in (Stellar)
+- 1:03 PM
+- [Submitted trivial changes to cargo unit hashing](https://github.com/rust-lang/cargo/pull/15461)
+- 4:03 PM
+- Hacked on cargo host-independent reproducability
+- 4:37 PM
+- Clock out (Stellar)
+
 # 2025-04-24
 
 - Clock in (TigerBeetle)
