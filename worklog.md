@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-04-30
+
+- Clock in (TigerBeetle)
+- 7:54 AM
+- [Updated rust pr](https://github.com/tigerbeetle/tigerbeetle/pull/2679)
+- 8:19 AM
+- Hacked on benchmarks for lsm move-table optimization
+- Attended meetings
+- Debugged rust CI
+- 10:24 AM
+- Clock out (TigerBeetle)
+
 # 2025-04-29
 
 - Clock in (Stellar)
