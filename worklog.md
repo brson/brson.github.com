@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-05-01
+
+- Clock in (Stellar)
+- 12:26 PM
+- [Filed cargo pr to improve reproducibility](https://github.com/rust-lang/cargo/pull/15477)
+- 2:50 PM
+- Clock out (Stellar)
+
 # 2025-04-30
 
 - Clock in (TigerBeetle)
