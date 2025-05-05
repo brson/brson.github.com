@@ -13,6 +13,14 @@ _This contains much of my open source activity since 2015._
 - 10:03 AM
 - Clock out (TigerBeetle)
 
+# 2025-05-04
+
+- Clock in (TigerBeetle)
+- 9:05 PM
+- Hacked on lsm testing
+- 11:00 PM
+- Clock out (TigerBeetle)
+
 # 2025-05-01
 
 - Clock in (Stellar)
