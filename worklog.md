@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-05-13
+
+- Clock in (Stellar)
+- 3:35 PM
+- [Commented on soroban contract symbol exports](https://github.com/stellar/rs-soroban-sdk/issues/1439#issuecomment-2878104823)
+- Tested new cargo patch for reproducible builds
+- [Commented on cargo pr](https://github.com/rust-lang/cargo/pull/15477#issuecomment-2878158790)
+- 5:15 PM
+- Hacked on tests for cargo patch
+- 6:01 PM
+- Clock out (Stellar)
+
 # 2025-05-08
 
 - Clock in (TigerBeetle)
