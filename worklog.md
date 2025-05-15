@@ -12,6 +12,12 @@ _This contains much of my open source activity since 2015._
 - Attended walk and talk
 - 8:59 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 8:44 PM
+- Started running new large experiment on move-table optimization
+- [Began reviewing ruby client pr](https://github.com/tigerbeetle/tigerbeetle/pull/2930#issuecomment-2882225727)
+- 10:37 PM
+- Clock out (TigerBeetle)
 
 # 2025-05-13
 
