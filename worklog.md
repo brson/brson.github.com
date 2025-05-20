@@ -5,6 +5,24 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-05-20
+
+- Clock in (TigerBeetle)
+- 11:00 AM
+- Chatted about ruby client
+- Attempted rebase of benchmark branch
+- Ran vortex
+- 11:53 AM
+- Clock out (TigerBeetle)
+
+# 2025-05-15
+
+- Clock in (TigerBeetle)
+- 7:54 AM
+- Attended status meeting
+- 9:00 AM
+- Clock out (TigerBeetle)
+
 # 2025-05-14
 
 - Clock in (TigerBeetle)
