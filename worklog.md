@@ -12,6 +12,12 @@ _This contains much of my open source activity since 2015._
 - Attended walk and talk
 - 8:48 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 4:40 PM
+- Set up VM for vortex
+- Chatted with ruby client author
+- 5:30 PM
+- Clock out (TigerBeetle)
 
 # 2025-05-20
 
