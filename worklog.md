@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-05-25
+
+- Clock in (TigerBeetle)
+- 2:35 PM
+- Hacked on run-vortex.py script
+- 5:59 PM
+- Clock out (TigerBeetle)
+
 # 2025-05-22
 
 - Clock in (TigerBeetle)
