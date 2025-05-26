@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Hacked on run-vortex.py script
 - 5:59 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 9:36 PM
+- Hacked on vortex rust client
+- 11:09 PM
+- Clock out (TigerBeetle)
 
 # 2025-05-22
 
