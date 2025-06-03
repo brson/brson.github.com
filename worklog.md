@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-06-03
+
+- Clock in (TigerBeetle)
+- 4:18 PM
+- [Submitted rust impl of id](https://github.com/tigerbeetle/tigerbeetle/pull/2993)
+- 5:13 PM
+- Clock out (TigerBeetle)
+
 # 2025-06-02
 
 - Clock in (TigerBeetle)
