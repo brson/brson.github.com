@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - [Submitted rust impl of id](https://github.com/tigerbeetle/tigerbeetle/pull/2993)
 - 5:52 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 7:56 PM
+- Hacked on vortex ci for java driver
+- 9:14 PM
+- Clock out (TigerBeetle)
 
 # 2025-06-02
 
