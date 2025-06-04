@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Attended walk and talk
 - 8:58 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 12:33 PM
+- Hacked on vortex ci for java driver
+- 12:59 PM
+- Clock out (TigerBeetle)
 
 # 2025-06-03
 
