@@ -17,6 +17,12 @@ _This contains much of my open source activity since 2015._
 - Hacked on vortex ci for java driver
 - 12:59 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 4:20 PM
+- Hacked on tigerbeetle ruby client
+- 4:53 PM
+- Clock out (TigerBeetle)
+
 
 # 2025-06-03
 
