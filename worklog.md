@@ -28,6 +28,11 @@ _This contains much of my open source activity since 2015._
 - [Reviewed ruby client pr](https://github.com/tigerbeetle/tigerbeetle/pull/2995)
 - 9:33 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 10:57 PM
+- Hacked on java vortex ci
+- 11:35 PM
+- Clock out (TigerBeetle)
 
 # 2025-06-03
 
