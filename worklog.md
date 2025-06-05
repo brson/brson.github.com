@@ -22,7 +22,12 @@ _This contains much of my open source activity since 2015._
 - Hacked on tigerbeetle ruby client
 - 4:53 PM
 - Clock out (TigerBeetle)
-
+- Clock in (TigerBeetle)
+- 8:04 PM
+- Hacked on tigerbeetle ruby client
+- [Reviewed ruby client pr](https://github.com/tigerbeetle/tigerbeetle/pull/2995)
+- 9:33 PM
+- Clock out (TigerBeetle)
 
 # 2025-06-03
 
