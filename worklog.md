@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Hacked on vortex ci
 - 4:48 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 6:10 PM
+- [Posted vortex work](https://github.com/tigerbeetle/tigerbeetle/pull/3017)
+- 8:12 PM
+- Clock out (TigerBeetle)
 
 # 2025-06-06
 
