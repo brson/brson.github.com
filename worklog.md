@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-06-15
+
+- Clock in (TigerBeetle)
+- 12:00 PM
+- [Reworked rust client tests pr](https://github.com/tigerbeetle/tigerbeetle/pull/2993#issuecomment-2973664655)
+- 1:09 PM
+- [Posted pr to compile tb_client in release mode](https://github.com/tigerbeetle/tigerbeetle/pull/3030)
+- 1:43 PM
+- Hacked on rust client docs
+- 3:48 PM
+- Clock out (TigerBeetle)
+
 # 2025-06-12
 
 - Clock in (TigerBeetle)
