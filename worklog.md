@@ -9,6 +9,15 @@ _This contains much of my open source activity since 2015._
 
 - Clock in (TigerBeetle)
 - 12:31 PM
+- [Merged rust pr](https://github.com/tigerbeetle/tigerbeetle/pull/3032)
+- 12:53 PM
+- [Triaged slow request issue](https://github.com/tigerbeetle/tigerbeetle/issues/3035)
+- 1:19 PM
+- [Filed issue about doc mangling](https://github.com/tigerbeetle/tigerbeetle/issues/3046)
+- 3:04 PM
+- Caught up on ruby bindings progress and discussion
+- 4:01 PM
+- Clock out (TigerBeetle)
 
 # 2025-06-18
 
