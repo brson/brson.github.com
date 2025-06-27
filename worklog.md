@@ -11,8 +11,14 @@ _This contains much of my open source activity since 2015._
 - 12:48 PM
 - Responded to questions
 - Checked in on ruby client dev
-- Hacked on rust client
+- Hacked on rust client docs
 - 3:30 PM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 5:09 PM
+- Hacked on rust client docs
+- Hacked on rust client status code tests
+- 6:39 PM
 - Clock out (TigerBeetle)
 
 # 2025-06-26
