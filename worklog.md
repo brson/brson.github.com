@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-06-28
+
+- Clock in (TigerBeetle)
+- 12:06 PM
+- Hacked on range query paging
+- 1:40 PM
+- Clock out (TigerBeetle)
+
 # 2025-06-27
 
 - Clock in (TigerBeetle)
