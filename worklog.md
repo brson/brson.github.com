@@ -14,6 +14,13 @@ _This contains much of my open source activity since 2015._
 - Read suspicious synchronization code in tb_client
 - 11:00 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 2:34 PM
+- Added tests and docs about client close behavior
+- 2:56 PM
+- Investigated locks in tb_client
+- 4:41 PM
+- Clock out (TigerBeetle)
 
 # 2025-07-01
 
