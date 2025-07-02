@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-07-02
+
+- Clock in (TigerBeetle)
+- 9:55 AM
+- Attended walk and talk
+- Considered rust client behavior on drop
+- Read suspicious synchronization code in tb_client
+- 11:00 AM
+- Clock out (TigerBeetle)
+
 # 2025-07-01
 
 - Clock in (TigerBeetle)
