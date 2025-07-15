@@ -5,6 +5,24 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-07-15
+
+- Clock in (TigerBeetle)
+- 10:54 AM
+- Hacked on vortex python driver
+- 3:08 PM
+- Clock out (TigerBeetle)
+
+# 2025-07-14
+
+- Clock in (TigerBeetle)
+- 12:45 PM
+- Updated rustclient-tests pr for new rust and zig toolchains
+- 1:41 PM
+- Fixed new rust lints in vortex pr
+- 2:32 PM
+- Clock out (TigerBeetle)
+
 # 2025-07-10
 
 - Clock in (TigerBeetle)
