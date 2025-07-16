@@ -14,6 +14,10 @@ _This contains much of my open source activity since 2015._
 - Hacked on vortex node driver
 - 10:13 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 3:22 PM
+- [Posted fix for node v24](https://github.com/tigerbeetle/tigerbeetle/pull/3089)
+- 5:32 PM
 
 # 2025-07-15
 
