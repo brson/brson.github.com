@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-07-23
+
+- Clock in (TigerBeetle)
+- 7:52 AM
+- Attended walkandtalk
+- 8:55 AM
+- Clock out (TigerBeetle)
+
 # 2025-07-16
 
 - Clock in (TigerBeetle)
