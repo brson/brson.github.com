@@ -12,6 +12,13 @@ _This contains much of my open source activity since 2015._
 - Attended walkandtalk
 - 8:55 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 11:38 AM
+- [Updated node pr](https://github.com/tigerbeetle/tigerbeetle/pull/3089#discussion_r2226283514)
+- 12:00 PM
+- [Updated zipfian pr](https://github.com/tigerbeetle/tigerbeetle/pull/3070#issuecomment-3109694228)
+- 1:07 PM
+- Clock out (TigerBeetle)
 
 # 2025-07-16
 
