@@ -5,6 +5,11 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-07-24
+
+- Clock in (TigerBeetle)
+- 7:56 AM
+
 # 2025-07-23
 
 - Clock in (TigerBeetle)
@@ -18,6 +23,14 @@ _This contains much of my open source activity since 2015._
 - 12:00 PM
 - [Updated zipfian pr](https://github.com/tigerbeetle/tigerbeetle/pull/3070#issuecomment-3109694228)
 - 1:07 PM
+- Clock out (TigerBeetle)
+
+# 2025-07-17
+
+- Clock in (TigerBeetle)
+- 7:57 AM
+- Attended status mtg
+- 9:00 AM
 - Clock out (TigerBeetle)
 
 # 2025-07-16
