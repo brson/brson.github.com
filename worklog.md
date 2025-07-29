@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-07-29
+
+- Clock in (TigerBeetle)
+- 11:17 AM
+- Hacked on rust client rework
+- 1:35 PM
+- Clock out (TigerBeetle)
+
 # 2025-07-28
 
 - Clock in (TigerBeetle)
