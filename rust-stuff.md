@@ -177,4 +177,4 @@ interests as time passes.
 [Rust Forge]: https://forge.rust-lang.org/
 [rustupbook]: https://rust-lang.github.io/rustup/
 [stddocs]: https://doc.rust-lang.org/std/index.html
-[`weird-exprs`]: https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs
+[`weird-exprs`]: https://github.com/rust-lang/rust/blob/master/tests/ui/weird-exprs.rs
