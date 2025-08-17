@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-08-17
+
+- Clock in (TigerBeetle)
+- 3:39 PM
+- Hacked on vortex drivers and build
+- 5:46 PM
+- Clock out (TigerBeetle)
+
 # 2025-08-15
 
 - Clock in (TigerBeetle)
