@@ -5,6 +5,25 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-08-20
+
+- Clock in (TigerBeetle)
+- 7:59 AM
+- Attended walk and talk
+- 9:00 AM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 11:54 AM
+- Updated vortex ci pr
+- 12:46 PM
+- Hacked on rust client docs and samples
+- 3:04 PM
+- [Reduced vortex ci time](https://github.com/tigerbeetle/tigerbeetle/pull/3192)
+- 4:00 PM
+- Hacked on unshare for CFO
+- 4:17 PM
+- Clock out (TigerBeetle)
+
 # 2025-08-19
 
 - Clock in (TigerBeetle)
