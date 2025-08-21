@@ -12,6 +12,13 @@ _This contains much of my open source activity since 2015._
 - Attended walk and talk
 - 9:02 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 12:48 PM
+- [Reviewed rust client pr](https://github.com/tigerbeetle/tigerbeetle/pull/3189#pullrequestreview-3141945558)
+- 1:05 PM
+- [Posted pr to use unshare in cfo](https://github.com/tigerbeetle/tigerbeetle/pull/3196)
+- 4:45 PM
+- Clock out (TigerBeetle)
 
 # 2025-08-20
 
