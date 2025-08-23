@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Hacked on unshare rework
 - 4:48 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 6:43 PM
+- Hacked on unshare rework
+- 8:00 PM
+- Clock out (TigerBeetle)
 
 # 2025-08-21
 
