@@ -9,8 +9,12 @@ _This contains much of my open source activity since 2015._
 
 - Clock in (TigerBeetle)
 - 2:46 PM
-- Hacked on unshare
+- Hacked on unshare binary
 - 4:28 PM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 8:49 PM
+- Hacked on unshare binary
 - Clock out (TigerBeetle)
 
 # 2025-08-29
