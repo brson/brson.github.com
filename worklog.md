@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-09-03
+
+- Clock in (TigerBeetle)
+- 11:05 AM
+- [Submitted cfo unshare revert](https://github.com/tigerbeetle/tigerbeetle/pull/3241)
+- 11:38 AM
+- Hacked on rust client release prep
+- 3:37 PM
+- Clock out (TigerBeetle)
+
 # 2025-09-02
 
 - Clock in (TigerBeetle)
