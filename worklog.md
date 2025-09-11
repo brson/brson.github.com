@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - [Posted rust client pr](https://github.com/tigerbeetle/tigerbeetle/pull/3254)
 - 7:48 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 9:13 PM
+- Hacked on rust client
+- 11:48 PM
+- Clock out (TigerBeetle)
 
 # 2025-09-03
 
