@@ -13,6 +13,12 @@ _This contains much of my open source activity since 2015._
 - Hacked on rust version support
 - 12:44 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 3:39 PM
+- Hacked on windows linking
+- Hacked on rust version support
+- 5:46 PM
+- Clock out (TigerBeetle)
 
 # 2025-09-11
 
