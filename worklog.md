@@ -13,6 +13,13 @@ _This contains much of my open source activity since 2015._
 - Hacked on stdx
 - 11:34 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 1:50 PM
+- Hacked on vortex workload
+- Hacked on stdx
+- Hacked on rustclient rework
+- 4:53 PM
+- Clock out (TigerBeetle)
 
 # 2025-09-24
 
