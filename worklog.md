@@ -11,6 +11,7 @@ _This contains much of my open source activity since 2015._
 - 11:17 AM
 - Hacked on vortex windows support
 - Hacked on vortex workload
+- Hacked on stdx
 - 4:08 PM
 - Clock out (TigerBeetle)
 
