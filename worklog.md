@@ -5,7 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
-# 2025-09-24
+# 2025-10-01
+
+- Clock in (TigerBeetle)
+- 8:01 AM
+- [Posted stdx pr](https://github.com/tigerbeetle/tigerbeetle/pull/3290)
+- 9:17 AM
+- Experimented with tsan on tb_client
+- 10:59 AM
+- Clock out (TigerBeetle)
+
+# 2025-09-25
 
 - Clock in (TigerBeetle)
 - 11:11 AM
