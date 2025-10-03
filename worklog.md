@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-10-03
+
+- Clock in (TigerBeetle)
+- 9:30 AM
+- Responded to stdx reviews
+- 10:31 AM
+- Debugged windows crashes
+- 11:23 AM
+- Clock out (TigerBeetle)
+
 # 2025-10-01
 
 - Clock in (TigerBeetle)
