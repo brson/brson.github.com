@@ -69,7 +69,8 @@ to
 async fn do_something_important() -> Result<(), Box<dyn Error>>
 ```
 
-Now we're just silently dropping a future.
+Now we're just silently dropping a future
+and it looks intentional.
 Yeah this happens to me with some regularity.
 
 Anyway, enjoy some powerletters.
