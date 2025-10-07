@@ -73,4 +73,10 @@ Now we're just silently dropping a future
 and it looks intentional.
 It's happened to me!
 
+How about this:
+
+```rust
+do_something_important().I();
+```
+
 Anyway, enjoy some powerletters.
