@@ -9,7 +9,7 @@ that do a small, common thing, with too much visual noise.
 Think `unwrap` and `to_owned`. Etcetera.
 
 For quite a few months now I've been using some convenience functions
-to make some common Rust operations less visually cluttered,
+to make a few common Rust operations less visually cluttered,
 and I'm finding I like it - every time I see an `unwrap`
 I wish I had my ... POWERLETTERS!
 
