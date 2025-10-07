@@ -15,7 +15,7 @@ I wish I had my ... POWERLETTERS!
 
 Haha.
 
-Anyway it's super simple, as described in
+It's super simple, as described in
 [the crate docs](https://docs.rs/powerletters).
 
 The powerletters are single all-caps functions and methods:
@@ -79,4 +79,4 @@ How about this:
 do_something_important().I();
 ```
 
-Anyway, enjoy some powerletters.
+Anyway enjoy some powerletters.
