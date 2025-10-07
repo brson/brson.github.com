@@ -1,0 +1,75 @@
+---
+layout: post
+title: Powerletters for Rust
+tags: [rust]
+---
+
+There are a bunch of methods we call in Rust all the time
+that do a small, common thing, with too much visual noise.
+Think `.unwrap` and `to_owned`. Etcetera.
+
+For quite a few months now I've been using some convenience functions
+to make some common Rust operations less visually cluttered,
+and I'm finding I like it - every time I see an `.unwrap`
+I wish I had my ... POWERLETTERS!
+
+Haha.
+
+Anyway it's super simple, as described in
+[the crate docs](https://docs.rs/powerletters).
+
+The powerletters are single all-caps functions and methods:
+
+- `C` - `Clone`
+- `O` - `ToOwned`
+- `S` - `ToString`
+- `I` - Ignore `Result`
+- `X` - `expect` for `Result` and `Option`
+
+In action:
+
+```rust
+use powerletters::*;
+
+// Create some owned strings
+let bagostuff = vec![S("a"), S("b"), S("c")];
+// Clone a vector
+let newbag = bagostuff.C();
+// Unwrap an option we know is Some ("expect")
+let maybe_bag = Some(newbag);
+let stuff = maybe_bag.X();
+```
+
+Pretty obvious stuff.
+The only non-obvious thing here is `I`.
+It doesn't correspond to a trait or method.
+It instead makes the `let _ = some_result` pattern typesafe.
+And less ugly.
+
+Consider the example:
+
+```rust
+let _ = do_something_important();
+```
+
+What is actually going on here?
+Probably ignoring a `Result`?
+What is the return type of `do_something_important`?
+It doesn't matter; we're ignoring it.
+
+What if we changed `do_something_important` from
+
+```rust
+fn do_something_important() -> Result<(), Box<dyn Error>>
+```
+
+to
+
+```rust
+async fn do_something_important() -> Result<(), Box<dyn Error>>
+```
+
+Now we're just silently dropping a future.
+Yeah this happens to me with some regularity.
+
+Anyway, enjoy some powerletters.
