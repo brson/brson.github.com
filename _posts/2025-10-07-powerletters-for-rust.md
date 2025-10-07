@@ -40,7 +40,7 @@ let stuff = maybe_bag.X();
 ```
 
 Pretty obvious stuff.
-The only non-obvious thing here is `I`.
+The only non-obvious powerletter is `I`.
 It doesn't correspond to a trait or method.
 It instead makes the `let _ = some_result` pattern typesafe.
 And less of a syntactic odball.
