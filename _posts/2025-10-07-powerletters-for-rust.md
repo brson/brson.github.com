@@ -35,7 +35,7 @@ use powerletters::*;
 let bagostuff = vec![S("a"), S("b"), S("c")];
 // Clone a vector
 let newbag = bagostuff.C();
-// Unwrap an option we know is Some ("expect")
+// Unwrap an option we know is Some
 let maybe_bag = Some(newbag);
 let stuff = maybe_bag.X();
 ```
