@@ -17,7 +17,6 @@ Haha.
 
 It's super simple, as described in
 [the crate docs](https://docs.rs/powerletters).
-
 The powerletters are single all-caps functions and methods:
 
 - `C` - `Clone`
