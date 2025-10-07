@@ -44,7 +44,7 @@ Pretty obvious stuff.
 The only non-obvious thing here is `I`.
 It doesn't correspond to a trait or method.
 It instead makes the `let _ = some_result` pattern typesafe.
-And less ugly.
+And less of a syntactic odball.
 
 Consider the example:
 
