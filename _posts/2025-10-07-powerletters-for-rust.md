@@ -6,7 +6,7 @@ tags: [rust]
 
 There are a bunch of methods we call in Rust all the time
 that do a small, common thing, with too much visual noise.
-Think `unwrap` and `to_owned`. Etcetera.
+Think `clone` and `to_owned`. Etcetera.
 
 For quite a few months now I've been using some convenience functions
 to make a few common Rust operations less visually cluttered,
