@@ -79,4 +79,18 @@ How about this:
 do_something_important().I();
 ```
 
-Anyway enjoy some powerletters.
+Anyway enjoy some powerletters in action:
+
+```rust
+  let mut parents: Vec<_> = path.ancestors().skip(1).map(|path| {
+      if path == Path::new("") {
+          let parent_path = pathgen.from_path(path).X();
+          let parent_label = S("<root>");
+          (parent_path, parent_label)
+      } else {
+          let parent_path = pathgen.from_path(path).X();
+          let parent_label = path.iter().last().X().to_string_lossy().S();
+          (parent_path, parent_label)
+      }
+  }).collect();
+```
