@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-10-08
+
+- Clock in (TigerBeetle)
+- 12:44 PM
+- Hacked on windows debugging
+- Hacked on everything is an account simulation
+- Hacked on blog post about toolchain horizons
+- 4:37 PM
+- Clock out (TigerBeetle)
+
 # 2025-10-03
 
 - Clock in (TigerBeetle)
