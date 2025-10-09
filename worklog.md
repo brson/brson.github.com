@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-10-09
+
+- Clock in (TigerBeetle)
+- 7:49 AM
+- Added lots of asserts to tb_client
+- Hacked on dependency experiment
+- Set up wine environment for windows debugging
+- 4:48 PM
+- Clock out (TigerBeetle)
+
 # 2025-10-08
 
 - Clock in (TigerBeetle)
