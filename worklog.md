@@ -12,6 +12,15 @@ _This contains much of my open source activity since 2015._
 - Attended walkand talk
 - 9:00 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 12:54 PM
+- [Requested merge of rust client pr](https://github.com/tigerbeetle/tigerbeetle/pull/3254#issuecomment-3433847790)
+- 1:13 PM
+- [Commented on rust client build patch](https://github.com/tigerbeetle/tigerbeetle/pull/3305#issuecomment-3433889525)
+- 1:21 PM
+- Hacked on rust client build and release process
+- 6:24 PM
+- Clock out (TigerBeetle)
 
 # 2025-10-21
 
