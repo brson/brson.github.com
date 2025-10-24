@@ -5,6 +5,28 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-10-24
+
+- Clock in (TigerBeetle)
+- 12:20 PM
+- [Merged rust client pr](https://github.com/tigerbeetle/tigerbeetle/pull/3254)
+- 1:13 PM
+- Refreshed wine container
+- 1:38 PM
+- Refreshed vortex branch
+- Hacked on rust client release version integration
+- 2:50 PM
+- Clock out (TigerBeetle)
+
+# 2025-10-23
+
+- Clock in (TigerBeetle)
+- 8:00 AM
+- Attended status mtg
+- 9:15 AM
+- Clock out (TigerBeetle)
+
+
 # 2025-10-22
 
 - Clock in (TigerBeetle)
@@ -19,7 +41,7 @@ _This contains much of my open source activity since 2015._
 - [Commented on rust client build patch](https://github.com/tigerbeetle/tigerbeetle/pull/3305#issuecomment-3433889525)
 - 1:21 PM
 - Hacked on rust client build and release process
-- 6:24 PM
+- 5:24 PM
 - Clock out (TigerBeetle)
 
 # 2025-10-21
