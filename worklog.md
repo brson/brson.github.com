@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-10-30
+
+- Clock in (TigerBeetle)
+- 11:48 AM
+- Hunted windows crash bug
+- [Reworked rust client pr](https://github.com/tigerbeetle/tigerbeetle/pull/3343#issuecomment-3469581080)
+- 12:50 PM
+- Rebased vortex branch
+- 3:22 PM
+- Clock out (TigerBeetle)
+
 # 2025-10-29
 
 - Clock in (TigerBeetle)
