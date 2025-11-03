@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-11-03
+
+- Clock in (TigerBeetle)
+- 10:00 AM
+- Debugged windows crashes
+- Hacked on vortex upstreaming
+- Hacked on rust client deps
+- Hacked on toolchain horizon tests
+- 12:35 PM
+- Clock out (TigerBeetle)
+
 # 2025-10-30
 
 - Clock in (TigerBeetle)
