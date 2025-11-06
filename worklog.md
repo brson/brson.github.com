@@ -12,6 +12,7 @@ _This contains much of my open source activity since 2015._
 - Attended status mtg
 - 7:52 AM
 - Debugged windows crash
+- Debugged client eviction bugs
 - 11:04 AM
 - Clock out (TigerBeetle)
 
