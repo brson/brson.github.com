@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Debugged tb_client crashes
 - 9:34 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 12:45 AM
+- Debugged tb_client crashes
+- 1:37 AM
+- Clock out (TigerBeetle)
 
 # 2025-11-06
 
