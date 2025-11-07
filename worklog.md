@@ -15,6 +15,11 @@ _This contains much of my open source activity since 2015._
 - Debugged client eviction bugs
 - 11:04 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 2:00 PM
+- Debugged tb_client crashes
+- 6:15 PM
+- Clock out (TigerBeetle)
 
 # 2025-11-05
 
