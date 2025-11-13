@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Attended status mtg
 - 8:31 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 3:29 AM
+- [Reviewed vortex pr](https://github.com/tigerbeetle/tigerbeetle/pull/3376#pullrequestreview-3462142088)
+- 3:30 AM
+- Clock out (TigerBeetle)
 
 # 2025-11-12
 
