@@ -9,6 +9,11 @@ _This contains much of my open source activity since 2015._
 
 - Clock in (TigerBeetle)
 - 12:12 PM
+- Hacked on presentation slides
+- Hacked on rust client rework
+- Hacked on rust client dep removal
+- 5:07 PM
+- Clock out (TigerBeetle)
 
 # 2025-11-20
 
