@@ -404,4 +404,4 @@ You have your weight recorded back to 2008. Need to port it.
 <script type="text/javascript" src="lib/jquery-2.1.3.min.js"></script>
 <script type="text/javascript" src="lib/flot/jquery.flot.js"></script>
 <script type="text/javascript" src="lib/flot/jquery.flot.time.js"></script>
-<script type="text/javascript" src="progress.js"></script>
+<script type="text/javascript" src="/js/progress.js"></script>
