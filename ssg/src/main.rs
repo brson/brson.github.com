@@ -129,6 +129,7 @@ impl SiteBuilder {
         self.render_pages()?;
         self.copy_static_assets()?;
         self.generate_feed()?;
+        self.generate_sitemap()?;
 
         Ok(())
     }
@@ -522,6 +523,91 @@ impl SiteBuilder {
 
         let feed_path = self.output_dir.join("feed.xml");
         write_file(&feed_path, &feed)?;
+        Ok(())
+    }
+
+    fn generate_sitemap(&self) -> Result<()> {
+        let mut html = String::from(r#"<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Sitemap</title>
+  <style>
+    body { font-family: sans-serif; max-width: 80ch; margin: 2em auto; padding: 0 1em; }
+    h1 { border-bottom: 1px solid #ccc; padding-bottom: 0.5em; }
+    h2 { margin-top: 2em; }
+    ul { list-style: none; padding-left: 0; }
+    li { margin: 0.3em 0; }
+    a { color: #a040e0; }
+    .date { color: #888; font-size: 0.9em; margin-right: 1em; }
+  </style>
+</head>
+<body>
+<h1>Sitemap</h1>
+"#);
+
+        // Pages section.
+        html.push_str("<h2>Pages</h2>\n<ul>\n");
+        for page in &self.pages {
+            html.push_str(&format!(
+                "  <li><a href=\"{}\">{}</a></li>\n",
+                page.url,
+                if page.title.is_empty() { &page.url } else { &page.title }
+            ));
+        }
+        html.push_str("</ul>\n");
+
+        // Blog posts section.
+        let blog_posts: Vec<&Post> = self.posts
+            .iter()
+            .filter(|p| p.categories.is_empty())
+            .collect();
+
+        html.push_str("<h2>Blog Posts</h2>\n<ul>\n");
+        for post in &blog_posts {
+            html.push_str(&format!(
+                "  <li><span class=\"date\">{}</span><a href=\"{}\">{}</a></li>\n",
+                post.date, post.url, post.title
+            ));
+        }
+        html.push_str("</ul>\n");
+
+        // Beer reviews section.
+        let beer_posts: Vec<&Post> = self.posts
+            .iter()
+            .filter(|p| p.categories.contains(&"beer".to_string()))
+            .collect();
+
+        html.push_str("<h2>Beer Reviews</h2>\n<ul>\n");
+        for post in &beer_posts {
+            html.push_str(&format!(
+                "  <li><span class=\"date\">{}</span><a href=\"{}\">{}</a></li>\n",
+                post.date, post.url, post.title
+            ));
+        }
+        html.push_str("</ul>\n");
+
+        // Status reports section.
+        let status_posts: Vec<&Post> = self.posts
+            .iter()
+            .filter(|p| p.categories.contains(&"status-reports".to_string()))
+            .collect();
+
+        if !status_posts.is_empty() {
+            html.push_str("<h2>Status Reports</h2>\n<ul>\n");
+            for post in &status_posts {
+                html.push_str(&format!(
+                    "  <li><span class=\"date\">{}</span><a href=\"{}\">{}</a></li>\n",
+                    post.date, post.url, post.title
+                ));
+            }
+            html.push_str("</ul>\n");
+        }
+
+        html.push_str("</body>\n</html>\n");
+
+        let sitemap_path = self.output_dir.join("sitemap.html");
+        write_file(&sitemap_path, &html)?;
         Ok(())
     }
 }
