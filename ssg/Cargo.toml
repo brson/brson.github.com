@@ -1,0 +1,15 @@
+[package]
+name = "ssg"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1"
+chrono = { version = "0.4", features = ["serde"] }
+liquid = "0.26"
+liquid-core = "0.26"
+liquid-lib = { version = "0.26", features = ["stdlib"] }
+pulldown-cmark = { version = "0.10", features = ["html"] }
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
+walkdir = "2"
