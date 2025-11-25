@@ -253,7 +253,6 @@ impl SiteBuilder {
             "rust-stuff.md",
             "writing.md",
             "worklog.md",
-            "progress.md",
             "rust1.md",
             "styletest.md",
         ];
