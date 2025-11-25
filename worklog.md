@@ -12,8 +12,16 @@ _This contains much of my open source activity since 2015._
 - Hacked on rust client rework
 - Hacked on rust client dep removal
 - Hacked on client eviction tests
+- Hacked on presentation slides
 - [Pushed rust client rework branch](https://github.com/tigerbeetle/tigerbeetle/pull/3392)
 - 6:13 PM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 10:41 PM
+- Hacked on client eviction tests
+- Hacked on presentation slides
+- 11:59 PM
+- Clock out (TigerBeetle)
 
 # 2025-11-23
 
