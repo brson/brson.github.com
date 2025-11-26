@@ -1,7 +1,9 @@
 build:
+    cd ssg && cargo build
     ./ssg/target/debug/ssg build
 
 clean:
+    cd ssg && cargo build
     ./ssg/target/debug/ssg clean
 
 serve: build
