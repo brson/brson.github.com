@@ -5,6 +5,30 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2025-11-25
+
+- Clock in (TigerBeetle)
+- 10:23 AM
+- Practiced talk
+- 11:19 PM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 1:49 PM
+- Hacked on client eviction tests
+- Hacked on presentation slides
+- Hacked on windows client crash
+- 5:10 PM
+- Clock out (TigerBeetle)
+
+# 2025-11-25
+
+- Clock in (TigerBeetle)
+- 10:29 AM
+- Hacked on client eviction tests
+- Hacked on presentation slides
+- 1:12 PM
+- Clock out (TigerBeetle)
+
 # 2025-11-24
 
 - Clock in (TigerBeetle)
