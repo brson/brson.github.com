@@ -12,6 +12,12 @@ _This contains much of my open source activity since 2015._
 - Hacked on slides
 - 2:25 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 4:00 PM
+- Practiced talk
+- Hacked on slides
+- 5:42 PM
+- Clock out (TigerBeetle)
 
 # 2025-11-28
 
