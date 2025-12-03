@@ -13,6 +13,13 @@ _This contains much of my open source activity since 2015._
 - Submitted invoices
 - 12:10
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 3:05 PM
+- [Hacked on tb_client eviction rework](https://github.com/tigerbeetle/tigerbeetle/pull/3373#issuecomment-3604507003)
+- 4:36 PM
+- Did corporate training stuff
+- 7:00 PM
+- Clock out (TigerBeetle)
 
 # 2025-11-30
 
