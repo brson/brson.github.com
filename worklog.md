@@ -5,6 +5,28 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-01-07
+
+- Clock in (TigerBeetle)
+- 11:13 AM
+- [Reviewed minor rust client pr](https://github.com/tigerbeetle/tigerbeetle/pull/3446)
+- 12:12 PM
+- Responded to rust questions
+- [Submitted minor rust pr](https://github.com/tigerbeetle/tigerbeetle/pull/3454)
+- 12:54 PM
+- Hacked on client eviction crash
+- Hacked on client windows crash
+- Rebased wip ruby client
+- 1:39 PM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 3:43 PM
+- [Updated tb_client eviction PR](https://github.com/tigerbeetle/tigerbeetle/pull/3373)
+- 3:53 PM
+- Hacked on ruby bindings
+- 5:18 PM
+- Clock out (TigerBeetle)
+
 # 2025-12-19
 
 - Clock in (TigerBeetle)
