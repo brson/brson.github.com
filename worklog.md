@@ -5,6 +5,35 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-01-12
+
+- Clock in (TigerBeetle)
+- 12:26 AM
+- Debugged eviction deadlocks
+- Debugged windows I/O crash
+- 4:52 PM
+- Clock out (TigerBeetle)
+
+# 2026-01-09
+
+- Clock in (TigerBeetle)
+- 11:36 AM
+- Hacked on ruby client
+- Debugged eviction deadlocks
+- 1:55 PM
+- Clock out (TigerBeetle)
+
+# 2026-01-08
+
+- Clock in (TigerBeetle)
+- 1:24 PM
+- [Posted pr to reduce rust testing memory usage](https://github.com/tigerbeetle/tigerbeetle/pull/3457)
+- 2:17 PM
+- Hacked on ruby client
+- Hacked on client eviction tests
+- 3:43 PM
+- Clockout (TigerBeetle)
+
 # 2026-01-07
 
 - Clock in (TigerBeetle)
