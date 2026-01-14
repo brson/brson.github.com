@@ -12,6 +12,11 @@ _This contains much of my open source activity since 2015._
 - Attended walk and talk
 - 9:12 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 11:51 AM
+- Debugging tb_client eviction deadlocks
+- 2:09 PM
+- Clock out (TigerBeetle)
 
 # 2026-01-13
 
