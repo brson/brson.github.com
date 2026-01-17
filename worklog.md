@@ -5,6 +5,13 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-01-17
+
+- Clock in (TigerBeetle)
+- 10:35 AM
+- Debugged tb_client on wine
+- 11:32 AM
+
 # 2026-01-15
 
 - Clock in (TigerBeetle)
