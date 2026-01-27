@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-01-26
+
+- Clock in (TigerBeetle)
+- 10:40 AM
+- Hacked on tb_client eviction cleanup
+- Debugged java client test hangs
+- 5:35 PM
+- Clock out (TigerBeetle)
+
 # 2026-01-22
 
 - Clock in (TigerBeetle)
