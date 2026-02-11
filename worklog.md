@@ -5,6 +5,17 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-02-10
+
+- Clock in (TigerBeetle)
+- 12:12 PM
+- [Posted rust ci fix](https://github.com/tigerbeetle/tigerbeetle/pull/3515)
+- Debugged windows client crashes
+- Hacked on client deadlocks
+- Wrote client stress tests
+- 5:32 PM
+- Clock out (TigerBeetle)
+
 # 2026-02-05
 
 - Clock in (TigerBeetle)
