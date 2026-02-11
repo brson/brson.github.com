@@ -5,6 +5,18 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-02-1
+
+- Clock in (TigerBeetle)
+- 10:00 AM
+- Debugged WSACleanup crashes
+- Cleaned up client stress tests
+- [Approved rust cleanup pr](https://github.com/tigerbeetle/tigerbeetle/pull/3516#pullrequestreview-3786532245)
+- 11:27 AM
+- Hacked on wsacleanup crashes
+- 12:30 PM
+- Clock out (TigerBeetle)
+
 # 2026-02-10
 
 - Clock in (TigerBeetle)
