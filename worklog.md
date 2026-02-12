@@ -5,7 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
-# 2026-02-1
+# 2026-02-12
+
+- Clock in (TigerBeetle)
+- 10:50 AM
+- [Merged rust test case pr](https://github.com/tigerbeetle/tigerbeetle/pull/3508)
+- 12:44 PM
+- Clock out (TigerBeetle)
+
+# 2026-02-11
 
 - Clock in (TigerBeetle)
 - 10:00 AM
