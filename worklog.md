@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-02-17
+
+- Clock in (TigerBeetle)
+- 12:12 PM
+- [Commented on tb_client restructuring](https://github.com/tigerbeetle/tigerbeetle/pull/3509#issuecomment-3916889005)
+- 2:04 PM
+- [Commented on tb_client patch](https://github.com/tigerbeetle/tigerbeetle/pull/3485#pullrequestreview-3816243109)
+- 2:05 PM
+- Hacked on blog posts
+- Debugged windows client
+- 3:36 PM
+- Clock out (TigerBeetle)
+
 # 2026-02-12
 
 - Clock in (TigerBeetle)
