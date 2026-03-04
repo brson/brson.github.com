@@ -5,6 +5,19 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-03-04
+
+- Clock in (TigerBeetle)
+- 7:59 AM
+- Attended walk and talk
+- 9:00 AM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 11:13 AM
+- Hacked on rust client dep removal
+- 12:58 PM
+- Clock out (TigerBeetle)
+
 # 2026-02-26
 
 - Clock in (TigerBeetle)
