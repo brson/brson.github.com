@@ -5,6 +5,21 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-03-11
+
+- Clock in (TigerBeetle)
+- 7:59 AM
+- Attended walk and talk
+- 9:00 AM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 1:58 PM
+- [Approved tbclient pr](https://github.com/tigerbeetle/tigerbeetle/pull/3485)
+- 2:18 PM
+- [Merged rust client pr](https://github.com/tigerbeetle/tigerbeetle/pull/3572)
+- 2:19 PM
+- Clock out (TigerBeetle)
+
 # 2026-03-10
 
 - Clock in (TigerBeetle)
