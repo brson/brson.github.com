@@ -5,6 +5,22 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-03-18
+
+- Clock in (TigerBeetle)
+- 2:00 PM
+- Hacked on client eviction
+- 6:10 PM
+- Clock out (TigerBeetle)
+
+# 2026-03-12
+
+- Clock in (TigerBeetle)
+- 7:59 AM
+- Attended status mtg
+- 9:00 AM
+- Clock out (TigerBeetle)
+
 # 2026-03-11
 
 - Clock in (TigerBeetle)
@@ -234,7 +250,7 @@ _This contains much of my open source activity since 2015._
 # 2026-01-12
 
 - Clock in (TigerBeetle)
-- 12:26 AM
+- 12:26 PM
 - Debugged eviction deadlocks
 - Debugged windows I/O crash
 - 4:52 PM
@@ -258,7 +274,7 @@ _This contains much of my open source activity since 2015._
 - Hacked on ruby client
 - Hacked on client eviction tests
 - 3:43 PM
-- Clockout (TigerBeetle)
+- Clock out (TigerBeetle)
 
 # 2026-01-07
 
@@ -329,7 +345,7 @@ _This contains much of my open source activity since 2015._
 - 11:00 AM
 - Practiced talk
 - Submitted invoices
-- 12:10
+- 12:10 PM
 - Clock out (TigerBeetle)
 - Clock in (TigerBeetle)
 - 3:05 PM
