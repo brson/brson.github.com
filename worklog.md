@@ -5,11 +5,21 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-03-29
+
+- Clock in (TigerBeetle)
+- 12:26 PM
+- Hacked on tb_client abstraction
+- 3:01 PM
+- Clock out (TigerBeetle)
+
 # 2026-03-28
 
 - Clock in (TigerBeetle)
 - 12:23 PM
 - Hacked on tb_client abstraction
+- 4:00 PM
+- Clock out (TigerBeetle)
 
 # 2026-03-27
 
