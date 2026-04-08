@@ -12,6 +12,15 @@ _This contains much of my open source activity since 2015._
 - Attended meeting
 - 9:00 AM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 11:52 AM
+- Hacked on tb_client rework
+- Added art to blog post
+- Reran blog post experiments
+- Updated blog post with new data
+- Revised blog post
+- 1:51 PM
+- Clock out (TigerBeetle)
 
 # 2026-04-01
 
