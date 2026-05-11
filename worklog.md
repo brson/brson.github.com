@@ -5,6 +5,16 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-05-11
+
+- Clock in (TigerBeetle)
+- 12:08 PM
+- Updated blog post
+- Extracted tbclient fixes
+- 1:09 PM
+- Clock out (TigerBeetle)
+
+
 # 2026-05-10
 
 - Clock in (TigerBeetle)
