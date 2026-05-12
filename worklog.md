@@ -13,6 +13,11 @@ _This contains much of my open source activity since 2015._
 - Extracted tbclient fixes
 - 1:09 PM
 - Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 7:22 PM
+- [Posted blog 2 pr](https://github.com/tigerbeetle/blog/pull/76)
+- 7:37 PM
+- Clock out (TigerBeetle)
 
 
 # 2026-05-10
