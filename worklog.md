@@ -5,6 +5,29 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-05-13
+
+- Clock in (TigerBeetle)
+- 6:05 AM
+- Reworked blog post
+- Tested client fixes against CI
+- Posted status report
+- 7:37 AM
+- Clock out (TigereBeetle)
+
+# 2026-05-12
+
+- Clock in (TigerBeetle)
+- 10:58 AM
+- Tested client fixes against CI
+- 12:46 PM
+- Clock out (TigerBeetle)
+- Clock in (TigerBeetle)
+- 8:06 PM
+- Tested client fixes against CI
+- 9:00 PM
+- Clock out (TigerBeetle)
+
 # 2026-05-11
 
 - Clock in (TigerBeetle)
