@@ -5,6 +5,14 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-05-26
+
+- Clock in (TigerBeetle)
+- 10:18 AM
+- Hacked on iothread shutdown
+- 11:58 AM
+- Clock out (TigerBeetle)
+
 # 2026-05-20
 
 - Clock in (TigerBeetle)
