@@ -5,6 +5,15 @@ title: brson's worklog
 
 _This contains much of my open source activity since 2015._
 
+# 2026-05-31
+
+- Clock in (TigerBeetle)
+- 10:19 AM
+- Reviewed pr comments and next steps
+- Decided not to pursue eviction changes
+- 11:10 AM
+- Clock out (TigerBeetle)
+
 # 2026-05-27
 
 - Clock in (TigerBeetle)
